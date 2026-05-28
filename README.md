@@ -16,14 +16,14 @@
 在 PowerShell 里进入项目目录：
 
 ```powershell
-cd "C:\Users\28760\Documents\自习室预约 project\global-news-tracker"
+cd "D:\codex项目\global-news-tracker"
 python news_fetcher.py
 ```
 
 生成后打开：
 
 ```text
-C:\Users\28760\Documents\自习室预约 project\global-news-tracker\dist\index.html
+D:\codex项目\global-news-tracker
 ```
 
 ## 测试
