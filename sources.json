@@ -1,0 +1,52 @@
+{
+  "sources": [
+    {
+      "name": "BBC World",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "World",
+      "weight": 72
+    },
+    {
+      "name": "The Guardian World",
+      "url": "https://www.theguardian.com/world/rss",
+      "region": "World",
+      "weight": 66
+    },
+    {
+      "name": "NPR World",
+      "url": "https://feeds.npr.org/1004/rss.xml",
+      "region": "World",
+      "weight": 60
+    },
+    {
+      "name": "NYTimes World",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "region": "World",
+      "weight": 63
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Middle East",
+      "weight": 64
+    },
+    {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/rss",
+      "region": "Europe",
+      "weight": 58
+    },
+    {
+      "name": "DW News",
+      "url": "https://rss.dw.com/rdf/rss-en-all",
+      "region": "Europe",
+      "weight": 56
+    },
+    {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "region": "Technology",
+      "weight": 52
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+:root {
+  color-scheme: light;
+  --bg: #f5f7fb;
+  --panel: #ffffff;
+  --ink: #172033;
+  --muted: #657186;
+  --line: #dde3ef;
+  --accent: #df2b35;
+  --accent-ink: #ffffff;
+  --cyan: #057f96;
+  --green: #16865a;
+  --amber: #a86200;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: Inter, "Segoe UI", "Microsoft YaHei", Arial, sans-serif;
+}
+
+a {
+  color: inherit;
+}
+
+.shell {
+  width: min(1180px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 28px 0 40px;
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 18px 0 24px;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.brand-mark {
+  width: 58px;
+  height: 58px;
+  flex: 0 0 auto;
+}
+
+h1 {
+  margin: 0;
+  font-size: 32px;
+  line-height: 1.15;
+}
+
+.brand p,
+.updated span,
+.toolbar span,
+.metrics span,
+.news-card p,
+.card-meta,
+.errors {
+  color: var(--muted);
+}
+
+.brand p {
+  margin: 8px 0 0;
+  font-size: 15px;
+}
+
+.updated {
+  min-width: 210px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  padding: 12px 14px;
+}
+
+.updated span {
+  display: block;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.updated strong {
+  display: block;
+  margin-top: 4px;
+  font-size: 14px;
+}
+
+.metrics {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin: 0 0 14px;
+}
+
+.metrics article,
+.toolbar,
+.news-card,
+.errors {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+}
+
+.metrics article {
+  padding: 18px;
+}
+
+.metrics span {
+  display: block;
+  font-size: 13px;
+}
+
+.metrics strong {
+  display: block;
+  margin-top: 6px;
+  font-size: 28px;
+}
+
+.toolbar {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr 1fr;
+  gap: 12px;
+  padding: 14px;
+  margin-bottom: 14px;
+}
+
+.toolbar label {
+  display: grid;
+  gap: 6px;
+}
+
+.toolbar span {
+  font-size: 13px;
+}
+
+input,
+select {
+  width: 100%;
+  min-height: 42px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 0 12px;
+  background: #fff;
+  color: var(--ink);
+  font: inherit;
+}
+
+.news-list {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.news-card {
+  display: flex;
+  min-height: 280px;
+  flex-direction: column;
+  padding: 18px;
+}
+
+.card-head,
+.card-meta,
+.keywords {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.source,
+.region,
+.keywords span {
+  border-radius: 999px;
+  padding: 4px 8px;
+  font-size: 12px;
+  line-height: 1;
+}
+
+.source {
+  background: #ffe8ea;
+  color: #9f151d;
+}
+
+.region {
+  background: #e4f6f8;
+  color: var(--cyan);
+}
+
+.news-card h2 {
+  margin: 14px 0 10px;
+  font-size: 20px;
+  line-height: 1.28;
+}
+
+.news-card h2 a {
+  text-decoration: none;
+}
+
+.news-card h2 a:hover {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.news-card p {
+  margin: 0 0 16px;
+  line-height: 1.55;
+}
+
+.card-meta {
+  margin-top: auto;
+  justify-content: space-between;
+  font-size: 13px;
+}
+
+.score {
+  color: var(--green);
+  font-weight: 700;
+}
+
+.scorebar {
+  height: 8px;
+  overflow: hidden;
+  border-radius: 999px;
+  background: #edf0f6;
+  margin: 12px 0;
+}
+
+.scorebar i {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, var(--accent), var(--amber), var(--green));
+}
+
+.keywords span {
+  background: #f1f4f9;
+  color: #465268;
+}
+
+.errors {
+  margin-top: 18px;
+  padding: 16px 18px;
+}
+
+.errors h2 {
+  margin: 0 0 8px;
+  font-size: 18px;
+}
+
+.errors ul {
+  margin: 0;
+  padding-left: 18px;
+}
+
+.empty {
+  grid-column: 1 / -1;
+  border: 1px dashed var(--line);
+  border-radius: 8px;
+  padding: 28px;
+  text-align: center;
+  color: var(--muted);
+}
+
+[hidden] {
+  display: none !important;
+}
+
+@media (max-width: 900px) {
+  .topbar {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .updated {
+    width: 100%;
+  }
+
+  .metrics,
+  .toolbar,
+  .news-list {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 520px) {
+  .shell {
+    width: min(100% - 20px, 1180px);
+    padding-top: 14px;
+  }
+
+  .brand {
+    align-items: flex-start;
+  }
+
+  h1 {
+    font-size: 25px;
+  }
+
+  .brand p {
+    font-size: 14px;
+  }
+}

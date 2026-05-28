@@ -1,0 +1,521 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>全球热点新闻雷达</title>
+    <link rel="stylesheet" href="../assets/styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div class="brand">
+          <img src="../assets/news-mark.svg" alt="" class="brand-mark" />
+          <div>
+            <h1>全球热点新闻雷达</h1>
+            <p>自动抓取公开 RSS 新闻源，按时效、来源权重和热点关键词排序。</p>
+          </div>
+        </div>
+        <div class="updated">
+          <span>Updated</span>
+          <strong>2026-05-28 12:49:59</strong>
+        </div>
+      </header>
+
+      <section class="metrics" aria-label="新闻统计">
+        <article>
+          <span>新闻数量</span>
+          <strong>30</strong>
+        </article>
+        <article>
+          <span>新闻源</span>
+          <strong>8</strong>
+        </article>
+        <article>
+          <span>最高热度</span>
+          <strong>100</strong>
+        </article>
+      </section>
+
+      <section class="toolbar" aria-label="筛选新闻">
+        <label>
+          <span>搜索</span>
+          <input id="searchBox" type="search" placeholder="输入关键词" />
+        </label>
+        <label>
+          <span>地区</span>
+          <select id="regionFilter">
+            <option value="">全部地区</option>
+            <option value="Europe">Europe</option>
+<option value="Middle East">Middle East</option>
+<option value="Technology">Technology</option>
+<option value="World">World</option>
+          </select>
+        </label>
+        <label>
+          <span>来源</span>
+          <select id="sourceFilter">
+            <option value="">全部来源</option>
+            <option value="Al Jazeera">Al Jazeera</option>
+<option value="BBC World">BBC World</option>
+<option value="DW News">DW News</option>
+<option value="France 24">France 24</option>
+<option value="NPR World">NPR World</option>
+<option value="NYTimes World">NYTimes World</option>
+<option value="TechCrunch AI">TechCrunch AI</option>
+<option value="The Guardian World">The Guardian World</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="news-list" id="newsList" aria-live="polite">
+        <article class="news-card" data-region="World" data-source="BBC World">
+  <div class="card-head">
+    <span class="source">BBC World</span>
+    <span class="region">World</span>
+  </div>
+  <h2><a href="https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noreferrer">Israel issues evacuation order for swathes of southern Lebanon</a></h2>
+  <p>The military says areas south of the Zahrani River are now &quot;combat zones&quot; as it threatens Hezbollah with fresh strikes.</p>
+  <div class="card-meta">
+    <time>2026-05-28 12:44</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>latest</span></div>
+</article>
+<article class="news-card" data-region="World" data-source="NYTimes World">
+  <div class="card-head">
+    <span class="source">NYTimes World</span>
+    <span class="region">World</span>
+  </div>
+  <h2><a href="https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal" target="_blank" rel="noreferrer">U.S. Conducts New Strikes on Southern Iran</a></h2>
+  <p>A U.S. official said on Wednesday the new attacks had been in self-defense and targeted attack drones and a drone ground-control station. They were the latest attacks to threaten a fragile cease-fire.</p>
+  <div class="card-meta">
+    <time>2026-05-28 12:32</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>ceasefire</span> <span>us</span></div>
+</article>
+<article class="news-card" data-region="World" data-source="The Guardian World">
+  <div class="card-head">
+    <span class="source">The Guardian World</span>
+    <span class="region">World</span>
+  </div>
+  <h2><a href="https://www.theguardian.com/australia-news/live/2026/may/28/australia-politics-live-rishworth-jobseeker-capital-gains-tax-jim-chalmers-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb" target="_blank" rel="noreferrer">Australia politics live: three MPs kicked out during rowdy question time as Taylor targets Labor on taxes</a></h2>
+  <p>Attorney general says government seeking $2bn in damages to recover costs relating to firefighting foam at 28 defence bases. Follow updates live Get our breaking news email , free app or daily news podcast Scams come in...</p>
+  <div class="card-meta">
+    <time>2026-05-28 12:32</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>latest</span></div>
+</article>
+<article class="news-card" data-region="World" data-source="BBC World">
+  <div class="card-head">
+    <span class="source">BBC World</span>
+    <span class="region">World</span>
+  </div>
+  <h2><a href="https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noreferrer">Oil prices jump after US launches new attacks on Iran</a></h2>
+  <p>The strikes come despite a ceasefire between Tehran and Washington as the two countries hold peace talks.</p>
+  <div class="card-meta">
+    <time>2026-05-28 12:30</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>ceasefire</span> <span>us</span></div>
+</article>
+<article class="news-card" data-region="World" data-source="The Guardian World">
+  <div class="card-head">
+    <span class="source">The Guardian World</span>
+    <span class="region">World</span>
+  </div>
+  <h2><a href="https://www.theguardian.com/australia-news/2026/may/28/australia-sues-3m-record-breaking-sum-pfas-forever-chemicals-in-firefighting-foam" target="_blank" rel="noreferrer">Australia sues 3M for record-breaking sum over Pfas ‘forever chemicals’ in firefighting foam</a></h2>
+  <p>Federal government seeks more than $2bn in damages from multinational manufacturer in its largest legal claim ever Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily n...</p>
+  <div class="card-meta">
+    <time>2026-05-28 12:17</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>latest</span></div>
+</article>
+<article class="news-card" data-region="World" data-source="The Guardian World">
+  <div class="card-head">
+    <span class="source">The Guardian World</span>
+    <span class="region">World</span>
+  </div>
+  <h2><a href="https://www.theguardian.com/australia-news/2026/may/28/santos-mining-narrabri-gas-project-bettaloo-basin-australia" target="_blank" rel="noreferrer">Santos says it won’t ‘exert any effort’ on Narrabri gas project while it focuses on Beetaloo Basin</a></h2>
+  <p>After CEO’s comments to investors, opponents urge miner to ‘stop stringing everybody along and spike the project finally’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or...</p>
+  <div class="card-meta">
+    <time>2026-05-28 12:16</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>latest</span></div>
+</article>
+<article class="news-card" data-region="World" data-source="BBC World">
+  <div class="card-head">
+    <span class="source">BBC World</span>
+    <span class="region">World</span>
+  </div>
+  <h2><a href="https://www.bbc.com/news/videos/cvgzqz9zvyxo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noreferrer">In court as Matthew Perry&#x27;s assistant sentenced</a></h2>
+  <p>The live-in personal assistant to the actor has been sentenced to 41 months in prison, capping a multi-year legal saga surrounding the actor&#x27;s death. ​​</p>
+  <div class="card-meta">
+    <time>2026-05-28 12:13</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>latest</span></div>
+</article>
+<article class="news-card" data-region="World" data-source="BBC World">
+  <div class="card-head">
+    <span class="source">BBC World</span>
+    <span class="region">World</span>
+  </div>
+  <h2><a href="https://www.bbc.com/news/articles/c87q2w0w0jvo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noreferrer">Australia charges woman who returned from Syria with joining Islamic State</a></h2>
+  <p>Several groups of women and children who spent years in a Syrian camp have returned in recent months.</p>
+  <div class="card-meta">
+    <time>2026-05-28 12:01</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>latest</span></div>
+</article>
+<article class="news-card" data-region="World" data-source="NYTimes World">
+  <div class="card-head">
+    <span class="source">NYTimes World</span>
+    <span class="region">World</span>
+  </div>
+  <h2><a href="https://www.nytimes.com/2026/05/28/world/asia/pakistan-afghanistan-conflict.html" target="_blank" rel="noreferrer">Why Pakistan and Afghanistan Are Still Fighting</a></h2>
+  <p>Months after Pakistan declared “open war” on Afghanistan, neither side appears ready to back down, despite China’s efforts to mediate.</p>
+  <div class="card-meta">
+    <time>2026-05-28 12:01</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>china</span> <span>war</span></div>
+</article>
+<article class="news-card" data-region="World" data-source="The Guardian World">
+  <div class="card-head">
+    <span class="source">The Guardian World</span>
+    <span class="region">World</span>
+  </div>
+  <h2><a href="https://www.theguardian.com/uk-news/2026/may/28/rechalking-cerne-giant-dorset-national-trust-climate-emergency" target="_blank" rel="noreferrer">Rechalking beloved Cerne Giant is a sticky process – and climate crisis is making it worse</a></h2>
+  <p>Volunteers head to Dorset countryside to restore the figure, but increasing heat means techniques have had to be adapted For centuries, the custodians of the Cerne Giant have clambered up the dizzyingly steep hill every...</p>
+  <div class="card-meta">
+    <time>2026-05-28 12:00</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>climate</span></div>
+</article>
+<article class="news-card" data-region="World" data-source="The Guardian World">
+  <div class="card-head">
+    <span class="source">The Guardian World</span>
+    <span class="region">World</span>
+  </div>
+  <h2><a href="https://www.theguardian.com/music/2026/may/28/loss-of-manual-jobs-could-be-driving-toxic-masculinity-says-sting" target="_blank" rel="noreferrer">Loss of manual jobs could be driving toxic masculinity, says Sting</a></h2>
+  <p>Musician says ‘we’ve lost that direction for our energy’ as his play The Last Ship returns to West End The fact many men no longer use their hands and physicality on a daily basis may be driving some of the toxic traits...</p>
+  <div class="card-meta">
+    <time>2026-05-28 12:00</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>energy</span></div>
+</article>
+<article class="news-card" data-region="World" data-source="The Guardian World">
+  <div class="card-head">
+    <span class="source">The Guardian World</span>
+    <span class="region">World</span>
+  </div>
+  <h2><a href="https://www.theguardian.com/world/2026/may/28/iran-internet-blackout-return-partial-connectivity" target="_blank" rel="noreferrer">‘This isn’t freedom’: anger, anxiety and tears as Iran’s internet flickers back</a></h2>
+  <p>After 88 days of near-total blackout, first reactions to the return of partial connectivity were not celebratory After 88 days of near-total internet blackout in Iran, long-delayed messages, images and poems flooded pho...</p>
+  <div class="card-meta">
+    <time>2026-05-28 12:00</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>latest</span></div>
+</article>
+<article class="news-card" data-region="World" data-source="The Guardian World">
+  <div class="card-head">
+    <span class="source">The Guardian World</span>
+    <span class="region">World</span>
+  </div>
+  <h2><a href="https://www.theguardian.com/media/2026/may/28/simon-robinson-expected-abc-news-director" target="_blank" rel="noreferrer">Reuters executive Simon Robinson expected to replace Justin Stevens as ABC news director</a></h2>
+  <p>Hugh Marks refuses to confirm or deny to Senate estimates that he threatened to terminate Stevens if he didn’t resign Follow our Australia news live blog for latest updates Sign up for Guardian Australia’s free weekly m...</p>
+  <div class="card-meta">
+    <time>2026-05-28 11:43</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>latest</span></div>
+</article>
+<article class="news-card" data-region="Europe" data-source="France 24">
+  <div class="card-head">
+    <span class="source">France 24</span>
+    <span class="region">Europe</span>
+  </div>
+  <h2><a href="https://www.france24.com/en/middle-east/20260528-middle-east-war-live-us-carries-out-strikes-in-iran-targeting-military-site" target="_blank" rel="noreferrer">US carries out strikes in Iran as Revolutionary Guards target US airbase</a></h2>
+  <p>暂无摘要</p>
+  <div class="card-meta">
+    <time>2026-05-28 11:34</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>us</span></div>
+</article>
+<article class="news-card" data-region="World" data-source="The Guardian World">
+  <div class="card-head">
+    <span class="source">The Guardian World</span>
+    <span class="region">World</span>
+  </div>
+  <h2><a href="https://www.theguardian.com/us-news/2026/may/28/us-military-strike-alleged-drug-boat-pacific-death-toll-nears-200" target="_blank" rel="noreferrer">Two killed in US strike on another alleged drug boat in Pacific as campaign’s death toll nears 200</a></h2>
+  <p>Military claims boat targeted in second deadly attack this week was travelling along a known smuggling route The US military attacked what it called a drug trafficking boat on Wednesday in the eastern Pacific, killing t...</p>
+  <div class="card-meta">
+    <time>2026-05-28 11:18</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>us</span></div>
+</article>
+<article class="news-card" data-region="World" data-source="BBC World">
+  <div class="card-head">
+    <span class="source">BBC World</span>
+    <span class="region">World</span>
+  </div>
+  <h2><a href="https://www.bbc.com/news/articles/c363xd6p1gxo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noreferrer">Duterte ICC trial to start on 30 November: What you need to know</a></h2>
+  <p>Duterte is facing charges relating to a long and bloody war on drugs in which thousands were killed.</p>
+  <div class="card-meta">
+    <time>2026-05-28 11:14</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>war</span></div>
+</article>
+<article class="news-card" data-region="World" data-source="The Guardian World">
+  <div class="card-head">
+    <span class="source">The Guardian World</span>
+    <span class="region">World</span>
+  </div>
+  <h2><a href="https://www.theguardian.com/australia-news/2026/may/28/australia-weather-rain-flooding-expected-queensland-nsw-tasmania-bom-severe-weather-warning" target="_blank" rel="noreferrer">Flooding rains expected across three Australian states as parched interior receives drenching</a></h2>
+  <p>Wet weather to batter parts of Queensland, NSW and Tasmania through Thursday, with warnings of flash flooding Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news p...</p>
+  <div class="card-meta">
+    <time>2026-05-28 11:03</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>latest</span></div>
+</article>
+<article class="news-card" data-region="World" data-source="BBC World">
+  <div class="card-head">
+    <span class="source">BBC World</span>
+    <span class="region">World</span>
+  </div>
+  <h2><a href="https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noreferrer">US strikes Iran targets for second time in three days</a></h2>
+  <p>The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.</p>
+  <div class="card-meta">
+    <time>2026-05-28 10:58</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>ceasefire</span> <span>us</span> <span>war</span></div>
+</article>
+<article class="news-card" data-region="Europe" data-source="France 24">
+  <div class="card-head">
+    <span class="source">France 24</span>
+    <span class="region">Europe</span>
+  </div>
+  <h2><a href="https://www.france24.com/en/middle-east/20260528-israel-declares-new-combat-zone-in-southern-lebanon-and-orders-evacuations" target="_blank" rel="noreferrer">Israel declares new &#x27;combat zone&#x27; in southern Lebanon and orders evacuations</a></h2>
+  <p>Israel has expanded its military campaign in southern Lebanon on Wednesday, ordering residents to evacuate areas south of the Zahrani River as strikes intensify despite an April ceasefire. The escalation comes as Israel...</p>
+  <div class="card-meta">
+    <time>2026-05-28 10:52</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>ceasefire</span></div>
+</article>
+<article class="news-card" data-region="World" data-source="NYTimes World">
+  <div class="card-head">
+    <span class="source">NYTimes World</span>
+    <span class="region">World</span>
+  </div>
+  <h2><a href="https://www.nytimes.com/2026/05/27/world/middleeast/lebanon-israel-hezbollah-military-campaign.html" target="_blank" rel="noreferrer">Residents Watch as Israeli War Planes Circle Over Southern Lebanon</a></h2>
+  <p>Israel has intensified its deadly military campaign against Hezbollah, the Iran-backed militant group, in recent days, striking targets across Lebanon.</p>
+  <div class="card-meta">
+    <time>2026-05-28 10:49</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>war</span></div>
+</article>
+<article class="news-card" data-region="World" data-source="BBC World">
+  <div class="card-head">
+    <span class="source">BBC World</span>
+    <span class="region">World</span>
+  </div>
+  <h2><a href="https://www.bbc.com/news/articles/c3w2yl3p97qo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noreferrer">Australia sues US giant 3M over &#x27;forever chemicals&#x27; in firefighting foam</a></h2>
+  <p>The A$2bn case, which centres on contamination at defence sites, is the largest ever brought by the government.</p>
+  <div class="card-meta">
+    <time>2026-05-28 10:47</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>us</span></div>
+</article>
+<article class="news-card" data-region="World" data-source="The Guardian World">
+  <div class="card-head">
+    <span class="source">The Guardian World</span>
+    <span class="region">World</span>
+  </div>
+  <h2><a href="https://www.theguardian.com/culture/2026/may/28/patagonia-sues-drag-queen-pattie-gonia-trademark-infringement-ntwnfb" target="_blank" rel="noreferrer">Patagonia sues drag queen Pattie Gonia for trademark infringement</a></h2>
+  <p>Outdoor clothing company is suing US environmentalist drag performer for $1 plus legal fees, claiming ‘we wish we didn’t have to do this’ Patagonia has launched a trademark lawsuit against an environmentalist drag queen...</p>
+  <div class="card-meta">
+    <time>2026-05-28 10:34</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>us</span></div>
+</article>
+<article class="news-card" data-region="Middle East" data-source="Al Jazeera">
+  <div class="card-head">
+    <span class="source">Al Jazeera</span>
+    <span class="region">Middle East</span>
+  </div>
+  <h2><a href="https://www.aljazeera.com/news/2026/5/28/google-employee-charged-with-insider-trading-over-polymarket-bets?traffic_source=rss" target="_blank" rel="noreferrer">Google employee charged with insider trading over Polymarket bets</a></h2>
+  <p>Michele Spagnuolo allegedly used insider information to profit from bets on people on Google&#x27;s most-searched list.</p>
+  <div class="card-meta">
+    <time>2026-05-28 10:25</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>latest</span></div>
+</article>
+<article class="news-card" data-region="Middle East" data-source="Al Jazeera">
+  <div class="card-head">
+    <span class="source">Al Jazeera</span>
+    <span class="region">Middle East</span>
+  </div>
+  <h2><a href="https://www.aljazeera.com/news/2026/5/28/aid-cuts-and-climate-change-drive-deadly-malaria-surge-in-zimbabwe?traffic_source=rss" target="_blank" rel="noreferrer">Aid cuts and climate change drive deadly malaria surge in Zimbabwe</a></h2>
+  <p>A surge in malaria cases in Zimbabwe is exposing fragile health systems and growing treatment shortages in rural areas.</p>
+  <div class="card-meta">
+    <time>2026-05-28 10:18</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>climate</span></div>
+</article>
+<article class="news-card" data-region="World" data-source="BBC World">
+  <div class="card-head">
+    <span class="source">BBC World</span>
+    <span class="region">World</span>
+  </div>
+  <h2><a href="https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noreferrer">Google worker charged with using internal data to make $1.2m on bets</a></h2>
+  <p>The longtime Google employee was charged in New York for allegedly breaking insider trading laws.</p>
+  <div class="card-meta">
+    <time>2026-05-28 10:14</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>latest</span></div>
+</article>
+<article class="news-card" data-region="World" data-source="NYTimes World">
+  <div class="card-head">
+    <span class="source">NYTimes World</span>
+    <span class="region">World</span>
+  </div>
+  <h2><a href="https://www.nytimes.com/2026/05/27/world/middleeast/military-strikes-southern-iran.html" target="_blank" rel="noreferrer">U.S. Strikes Military Sites in Iran for Second Time in 3 Days</a></h2>
+  <p>As a potential cease-fire hangs in the balance, an official said the strikes were in self-defense, with targets including four one-way attack drones launched by Iran.</p>
+  <div class="card-meta">
+    <time>2026-05-28 10:07</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>ceasefire</span> <span>us</span></div>
+</article>
+<article class="news-card" data-region="World" data-source="The Guardian World">
+  <div class="card-head">
+    <span class="source">The Guardian World</span>
+    <span class="region">World</span>
+  </div>
+  <h2><a href="https://www.theguardian.com/news/audio/2026/may/28/human-rights-lawyer-francesca-albanese-on-life-under-us-sanctions-podcast" target="_blank" rel="noreferrer">Human rights lawyer Francesca Albanese on life under US sanctions - podcast</a></h2>
+  <p>The UN’s special rapporteur for Palestine, Francesca Albanese, on the war in Gaza, living under US sanctions and accusations of antisemitism For a brief period this month, the human rights lawyer Francesca Albanese seem...</p>
+  <div class="card-meta">
+    <time>2026-05-28 10:00</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>us</span> <span>war</span></div>
+</article>
+<article class="news-card" data-region="World" data-source="The Guardian World">
+  <div class="card-head">
+    <span class="source">The Guardian World</span>
+    <span class="region">World</span>
+  </div>
+  <h2><a href="https://www.theguardian.com/us-news/live/2026/may/27/donald-trump-republicans-texas-primary-midterms-iran-redistricting-latest-news-updates" target="_blank" rel="noreferrer">Trump’s justice department reportedly opens criminal investigation into E Jean Carroll – as it happened</a></h2>
+  <p>This live blog is now closed. US justice department reportedly opens criminal inquiry into Trump accuser E Jean Carroll Sign up to the Breaking News US email President Trump is set to hold the 12th cabinet meeting of hi...</p>
+  <div class="card-meta">
+    <time>2026-05-28 09:59</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>us</span></div>
+</article>
+<article class="news-card" data-region="Middle East" data-source="Al Jazeera">
+  <div class="card-head">
+    <span class="source">Al Jazeera</span>
+    <span class="region">Middle East</span>
+  </div>
+  <h2><a href="https://www.aljazeera.com/video/newsfeed/2026/5/28/parisians-defy-swimming-ban-to-cool-off-as-record-heat-hits-europe?traffic_source=rss" target="_blank" rel="noreferrer">Parisians defy swimming ban to cool off as record heat hits Europe</a></h2>
+  <p>Parisians cooled off in the city’s Saint-Martin canal as an unprecedented heatwave pushed temperatures across Europe.</p>
+  <div class="card-meta">
+    <time>2026-05-28 09:51</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>europe</span></div>
+</article>
+<article class="news-card" data-region="World" data-source="The Guardian World">
+  <div class="card-head">
+    <span class="source">The Guardian World</span>
+    <span class="region">World</span>
+  </div>
+  <h2><a href="https://www.theguardian.com/us-news/2026/may/27/trump-doj-investigation-e-jean-carroll" target="_blank" rel="noreferrer">US justice department reportedly opens criminal inquiry into Trump accuser E Jean Carroll</a></h2>
+  <p>Officials said to be examining whether Carroll committed perjury in 2022 deposition tied to lawsuits against president The Trump administration has opened a criminal investigation into E Jean Carroll, the writer who acc...</p>
+  <div class="card-meta">
+    <time>2026-05-28 09:45</time>
+    <span class="score">热度 100</span>
+  </div>
+  <div class="scorebar" aria-hidden="true"><i style="width: 100%"></i></div>
+  <div class="keywords"><span>us</span></div>
+</article>
+      </section>
+
+      
+    </main>
+    <script>
+      const searchBox = document.querySelector("#searchBox");
+      const regionFilter = document.querySelector("#regionFilter");
+      const sourceFilter = document.querySelector("#sourceFilter");
+      const cards = Array.from(document.querySelectorAll(".news-card"));
+
+      function applyFilters() {
+        const query = searchBox.value.trim().toLowerCase();
+        const region = regionFilter.value;
+        const source = sourceFilter.value;
+
+        for (const card of cards) {
+          const text = card.textContent.toLowerCase();
+          const matchesQuery = !query || text.includes(query);
+          const matchesRegion = !region || card.dataset.region === region;
+          const matchesSource = !source || card.dataset.source === source;
+          card.hidden = !(matchesQuery && matchesRegion && matchesSource);
+        }
+      }
+
+      searchBox.addEventListener("input", applyFilters);
+      regionFilter.addEventListener("change", applyFilters);
+      sourceFilter.addEventListener("change", applyFilters);
+    </script>
+  </body>
+</html>
