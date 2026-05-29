@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Fetch global news RSS feeds and render a local HTML dashboard."""
+"""Fetch public RSS feeds and build data for the public GitHub Pages app."""
 
 from __future__ import annotations
 
@@ -13,7 +13,7 @@ import sys
 import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
-from dataclasses import dataclass, asdict
+from dataclasses import asdict, dataclass
 from pathlib import Path
 from typing import Iterable
 
@@ -21,8 +21,9 @@ from typing import Iterable
 ROOT = Path(__file__).resolve().parent
 SOURCES_PATH = ROOT / "sources.json"
 DIST_DIR = ROOT / "dist"
-OUTPUT_PATH = DIST_DIR / "index.html"
-USER_AGENT = "GlobalNewsTracker/1.0 (+https://github.com/example/global-news-tracker)"
+JSON_PATH = DIST_DIR / "latest.json"
+LEGACY_HTML_PATH = DIST_DIR / "index.html"
+USER_AGENT = "GlobalNewsTracker/2.0 (+https://github.com/001zxt/global-news-tracker)"
 
 HOT_KEYWORDS = {
     "ai": r"(?<![a-z0-9])(?:ai|artificial intelligence)(?![a-z0-9])",
@@ -47,6 +48,34 @@ HOT_KEYWORDS = {
     "middle east": r"(?<![a-z0-9])middle east(?![a-z0-9])",
 }
 
+MOJIBAKE_REPLACEMENTS = {
+    "â€™": "’",
+    "â€˜": "‘",
+    "â€œ": "“",
+    "â€": "”",
+    "â€“": "–",
+    "â€”": "—",
+    "â€¦": "…",
+    "Â£": "£",
+    "Â©": "©",
+    "Â®": "®",
+    "Â": "",
+    "鈥檚": "’s",
+    "鈥檛": "’t",
+    "鈥檙": "’r",
+    "鈥檝": "’v",
+    "鈥檓": "’m",
+    "鈥檒": "’l",
+    "鈥榝": "‘f",
+    "鈥榚": "‘e",
+    "鈥榮": "‘s",
+    "鈥榯": "‘t",
+    "鈥榠": "‘i",
+    "鈥?": "’",
+    "鈥�": "’",
+    "鈥嬧€?": "",
+}
+
 
 @dataclass(frozen=True)
 class Source:
@@ -69,9 +98,17 @@ class Article:
     keywords: list[str]
 
 
+def repair_mojibake(value: str) -> str:
+    text = value
+    for bad, good in MOJIBAKE_REPLACEMENTS.items():
+        text = text.replace(bad, good)
+    return text
+
+
 def clean_text(value: str | None, *, limit: int | None = None) -> str:
     text = html.unescape(value or "")
     text = re.sub(r"<[^>]+>", " ", text)
+    text = repair_mojibake(text)
     text = re.sub(r"\s+", " ", text).strip()
     if limit and len(text) > limit:
         return text[: limit - 1].rstrip() + "..."
@@ -108,13 +145,10 @@ def parse_date(value: str | None) -> tuple[str, str, dt.datetime | None]:
 
 
 def find_text(node: ET.Element, names: Iterable[str]) -> str:
-    for name in names:
-        found = node.find(name)
-        if found is not None and found.text:
-            return found.text
-    for child in node:
+    wanted = {name.lower() for name in names}
+    for child in node.iter():
         local = child.tag.rsplit("}", 1)[-1].lower()
-        if local in names and child.text:
+        if local in wanted and child.text:
             return child.text
     return ""
 
@@ -126,6 +160,8 @@ def find_atom_link(node: ET.Element) -> str:
             href = child.attrib.get("href", "").strip()
             if href:
                 return href
+            if child.text:
+                return child.text.strip()
     return find_text(node, ["link"])
 
 
@@ -162,11 +198,8 @@ def parse_feed(xml_bytes: bytes, source: Source) -> list[Article]:
         if not title:
             continue
 
-        link = find_atom_link(item)
-        summary = clean_text(
-            find_text(item, ["description", "summary", "content"]),
-            limit=220,
-        )
+        link = clean_text(find_atom_link(item))
+        summary = clean_text(find_text(item, ["description", "summary", "content", "encoded"]), limit=260)
         published_raw = find_text(item, ["pubDate", "published", "updated", "date"])
         published, published_iso, published_at = parse_date(published_raw)
         score, keywords = score_article(source, title, summary, published_at)
@@ -204,7 +237,7 @@ def fetch_feed(source: Source, timeout: int) -> bytes:
         return response.read()
 
 
-def collect_news(sources: list[Source], *, timeout: int = 15, limit: int = 60) -> tuple[list[Article], list[str]]:
+def collect_news(sources: list[Source], *, timeout: int = 15, limit: int = 80) -> tuple[list[Article], list[str]]:
     articles: list[Article] = []
     errors: list[str] = []
 
@@ -223,173 +256,55 @@ def collect_news(sources: list[Source], *, timeout: int = 15, limit: int = 60) -
         if existing is None or article.score > existing.score:
             deduped[key] = article
 
-    ranked = sorted(
-        deduped.values(),
-        key=lambda item: (item.score, item.published_iso),
-        reverse=True,
-    )
+    ranked = sorted(deduped.values(), key=lambda item: (item.score, item.published_iso), reverse=True)
     return ranked[:limit], errors
 
 
-def render_html(articles: list[Article], sources: list[Source], errors: list[str]) -> str:
-    generated_at = dt.datetime.now().astimezone().strftime("%Y-%m-%d %H:%M:%S")
-    regions = sorted({source.region for source in sources})
-    source_names = sorted({source.name for source in sources})
-    top_score = articles[0].score if articles else 0
-
-    article_cards = "\n".join(render_article(article) for article in articles)
-    region_options = "\n".join(f'<option value="{html.escape(region)}">{html.escape(region)}</option>' for region in regions)
-    source_options = "\n".join(f'<option value="{html.escape(source)}">{html.escape(source)}</option>' for source in source_names)
-    errors_html = "".join(f"<li>{html.escape(error)}</li>" for error in errors)
-
-    return f"""<!doctype html>
+def write_outputs(articles: list[Article], sources: list[Source], errors: list[str]) -> None:
+    DIST_DIR.mkdir(parents=True, exist_ok=True)
+    generated_at = dt.datetime.now().astimezone().isoformat(timespec="seconds")
+    payload = {
+        "generated_at": generated_at,
+        "article_count": len(articles),
+        "source_count": len(sources),
+        "errors": errors,
+        "articles": [asdict(article) for article in articles],
+    }
+    JSON_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    LEGACY_HTML_PATH.write_text(
+        """<!doctype html>
 <html lang="zh-CN">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>全球热点新闻雷达</title>
-    <link rel="stylesheet" href="../assets/styles.css" />
+    <meta http-equiv="refresh" content="0; url=../" />
+    <title>全球热点新闻追踪器</title>
   </head>
   <body>
-    <main class="shell">
-      <header class="topbar">
-        <div class="brand">
-          <img src="../assets/news-mark.svg" alt="" class="brand-mark" />
-          <div>
-            <h1>全球热点新闻雷达</h1>
-            <p>自动抓取公开 RSS 新闻源，按时效、来源权重和热点关键词排序。</p>
-          </div>
-        </div>
-        <div class="updated">
-          <span>Updated</span>
-          <strong>{generated_at}</strong>
-        </div>
-      </header>
-
-      <section class="metrics" aria-label="新闻统计">
-        <article>
-          <span>新闻数量</span>
-          <strong>{len(articles)}</strong>
-        </article>
-        <article>
-          <span>新闻源</span>
-          <strong>{len(sources)}</strong>
-        </article>
-        <article>
-          <span>最高热度</span>
-          <strong>{top_score}</strong>
-        </article>
-      </section>
-
-      <section class="toolbar" aria-label="筛选新闻">
-        <label>
-          <span>搜索</span>
-          <input id="searchBox" type="search" placeholder="输入关键词" />
-        </label>
-        <label>
-          <span>地区</span>
-          <select id="regionFilter">
-            <option value="">全部地区</option>
-            {region_options}
-          </select>
-        </label>
-        <label>
-          <span>来源</span>
-          <select id="sourceFilter">
-            <option value="">全部来源</option>
-            {source_options}
-          </select>
-        </label>
-      </section>
-
-      <section class="news-list" id="newsList" aria-live="polite">
-        {article_cards or '<p class="empty">还没有抓到新闻。请检查网络或新闻源配置。</p>'}
-      </section>
-
-      {f'<section class="errors"><h2>抓取警告</h2><ul>{errors_html}</ul></section>' if errors else ''}
-    </main>
-    <script>
-      const searchBox = document.querySelector("#searchBox");
-      const regionFilter = document.querySelector("#regionFilter");
-      const sourceFilter = document.querySelector("#sourceFilter");
-      const cards = Array.from(document.querySelectorAll(".news-card"));
-
-      function applyFilters() {{
-        const query = searchBox.value.trim().toLowerCase();
-        const region = regionFilter.value;
-        const source = sourceFilter.value;
-
-        for (const card of cards) {{
-          const text = card.textContent.toLowerCase();
-          const matchesQuery = !query || text.includes(query);
-          const matchesRegion = !region || card.dataset.region === region;
-          const matchesSource = !source || card.dataset.source === source;
-          card.hidden = !(matchesQuery && matchesRegion && matchesSource);
-        }}
-      }}
-
-      searchBox.addEventListener("input", applyFilters);
-      regionFilter.addEventListener("change", applyFilters);
-      sourceFilter.addEventListener("change", applyFilters);
-    </script>
+    <a href="../">打开全球热点新闻追踪器</a>
   </body>
 </html>
-"""
-
-
-def render_article(article: Article) -> str:
-    title = html.escape(article.title)
-    link = html.escape(article.link or "#")
-    summary = html.escape(article.summary or "暂无摘要")
-    source = html.escape(article.source)
-    region = html.escape(article.region)
-    keywords = " ".join(f"<span>{html.escape(word)}</span>" for word in article.keywords)
-
-    return f"""<article class="news-card" data-region="{region}" data-source="{source}">
-  <div class="card-head">
-    <span class="source">{source}</span>
-    <span class="region">{region}</span>
-  </div>
-  <h2><a href="{link}" target="_blank" rel="noreferrer">{title}</a></h2>
-  <p>{summary}</p>
-  <div class="card-meta">
-    <time>{html.escape(article.published)}</time>
-    <span class="score">热度 {article.score}</span>
-  </div>
-  <div class="scorebar" aria-hidden="true"><i style="width: {article.score}%"></i></div>
-  <div class="keywords">{keywords or '<span>latest</span>'}</div>
-</article>"""
-
-
-def write_outputs(articles: list[Article], sources: list[Source], errors: list[str]) -> None:
-    DIST_DIR.mkdir(exist_ok=True)
-    OUTPUT_PATH.write_text(render_html(articles, sources, errors), encoding="utf-8")
-    (DIST_DIR / "latest.json").write_text(
-        json.dumps([asdict(article) for article in articles], ensure_ascii=False, indent=2),
+""",
         encoding="utf-8",
     )
 
 
 def main(argv: list[str] | None = None) -> int:
-    parser = argparse.ArgumentParser(description="Fetch global RSS news and build a local HTML dashboard.")
-    parser.add_argument("--limit", type=int, default=60, help="Maximum number of articles to render.")
-    parser.add_argument("--timeout", type=int, default=15, help="Network timeout per source, in seconds.")
-    parser.add_argument("--json", action="store_true", help="Print collected articles as JSON.")
+    parser = argparse.ArgumentParser(description="Fetch global RSS news and update GitHub Pages data.")
+    parser.add_argument("--limit", type=int, default=80, help="Maximum number of articles to keep.")
+    parser.add_argument("--timeout", type=int, default=15, help="Timeout per RSS source in seconds.")
     args = parser.parse_args(argv)
 
     sources = load_sources()
     articles, errors = collect_news(sources, timeout=args.timeout, limit=args.limit)
     write_outputs(articles, sources, errors)
 
-    if args.json:
-        print(json.dumps({"articles": [asdict(article) for article in articles], "errors": errors}, ensure_ascii=False, indent=2))
-    else:
-        print(f"Fetched {len(articles)} articles from {len(sources)} sources.")
-        print(f"Dashboard: {OUTPUT_PATH}")
-        if errors:
-            print(f"Warnings: {len(errors)} source(s) failed.", file=sys.stderr)
+    print(f"Wrote {len(articles)} articles to {JSON_PATH}")
+    if errors:
+        print("Some feeds failed:")
+        for error in errors:
+            print(f"- {error}")
     return 0 if articles else 1
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    raise SystemExit(main(sys.argv[1:]))

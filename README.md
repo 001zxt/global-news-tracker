@@ -1,29 +1,31 @@
-# 全球热点新闻抓取项目
+# 全球热点新闻追踪器
 
-这是一个适合练手和上传 GitHub 的小项目：用 Python 标准库抓取多个公开 RSS 新闻源，按热度排序，并生成一个本地 HTML 新闻仪表盘。
+这是一个任何人都可以打开的公开网页小程序：
+
+- 公开访问地址：<https://001zxt.github.io/global-news-tracker/>
+- GitHub 仓库：<https://github.com/001zxt/global-news-tracker>
+- GitHub Actions 每天自动抓取新闻并更新网站数据
 
 ## 功能
 
-- 抓取 BBC、Guardian、NPR、NYTimes、Al Jazeera、UN News、DW、TechCrunch AI 等 RSS 源
+- 抓取多个公开 RSS 新闻源
 - 自动去重、提取标题、摘要、来源、地区、发布时间
-- 根据发布时间、来源权重、热点关键词计算热度
-- 生成可直接打开的网页：`dist/index.html`
-- 生成机器可读数据：`dist/latest.json`
-- 不需要安装第三方 Python 包
+- 根据发布时间、来源权重和热点关键词计算热度
+- 生成 `dist/latest.json` 供公开网页读取
+- 网页支持搜索、地区筛选、热度排序、来源统计和热点词展示
+- 不需要第三方 Python 包
 
-## 运行
-
-在 PowerShell 里进入项目目录：
+## 本地运行
 
 ```powershell
 cd "D:\codex项目\global-news-tracker"
-python news_fetcher.py
+python news_fetcher.py --limit 80
 ```
 
-生成后打开：
+然后打开：
 
 ```text
-D:\codex项目\global-news-tracker
+D:\codex项目\global-news-tracker\index.html
 ```
 
 ## 测试
@@ -32,41 +34,19 @@ D:\codex项目\global-news-tracker
 python -m unittest discover -s tests -v
 ```
 
-## 修改新闻源
+## 自动更新
 
-编辑：
+`.github/workflows/update-news.yml` 会在每天北京时间 08:30 自动运行：
 
 ```text
-sources.json
+python news_fetcher.py --limit 80
 ```
 
-每个新闻源格式如下：
+它会提交新的 `dist/latest.json`，GitHub Pages 会自动显示最新新闻。
 
-```json
-{
-  "name": "BBC World",
-  "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "region": "World",
-  "weight": 72
-}
-```
+也可以手动运行：
 
-`weight` 越高，该来源的新闻初始热度越高。
-
-## 上传到 GitHub
-
-第一次上传可以这样做：
-
-```powershell
-git init
-git add .
-git commit -m "Create global news tracker"
-```
-
-如果你安装了 GitHub CLI，可以继续：
-
-```powershell
-gh repo create global-news-tracker --public --source=. --push
-```
-
-如果没有 GitHub CLI，就先在 GitHub 网页创建一个空仓库，然后运行 GitHub 给你的 `git remote add origin ...` 和 `git push ...` 命令。
+1. 打开 GitHub 仓库
+2. 点击 `Actions`
+3. 选择 `Update News`
+4. 点击 `Run workflow`

@@ -1,1 +1,119 @@
-﻿<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=dist/index.html"><title>全球热点新闻追踪器</title><a href="dist/index.html">打开全球热点新闻追踪器</a>
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="全球热点新闻追踪器，每天自动抓取公开 RSS 新闻并更新 GitHub Pages 网站。" />
+    <title>全球热点新闻追踪器</title>
+    <link rel="stylesheet" href="assets/public-app.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav" aria-label="页面导航">
+        <a class="brand" href="./" aria-label="全球热点新闻追踪器首页">
+          <img src="assets/news-mark.svg" alt="" />
+          <span>全球热点新闻追踪器</span>
+        </a>
+        <div class="nav-links">
+          <a href="https://github.com/001zxt/global-news-tracker" target="_blank" rel="noreferrer">GitHub</a>
+          <a href="https://github.com/001zxt/global-news-tracker/actions" target="_blank" rel="noreferrer">自动更新</a>
+        </div>
+      </nav>
+
+      <section class="hero" aria-labelledby="page-title">
+        <div>
+          <p class="eyebrow">Daily GitHub Auto Update</p>
+          <h1 id="page-title">每天自动追踪全球热点新闻</h1>
+          <p class="lede">这个公开网页会读取 GitHub Actions 每天抓取的 RSS 新闻数据，按热度、来源、地区和发布时间整理成一个可搜索的新闻看板。</p>
+          <div class="hero-actions">
+            <a class="primary-link" href="#news">查看新闻</a>
+            <button id="reloadButton" type="button">刷新数据</button>
+          </div>
+        </div>
+
+        <div class="status-panel" aria-label="更新状态">
+          <div>
+            <span>更新状态</span>
+            <strong id="updateStatus">读取中</strong>
+          </div>
+          <div>
+            <span>最近更新</span>
+            <strong id="updatedAt">--</strong>
+          </div>
+          <div>
+            <span>新闻总数</span>
+            <strong id="totalCount">--</strong>
+          </div>
+        </div>
+      </section>
+    </header>
+
+    <main>
+      <section class="controls" aria-label="筛选新闻">
+        <label class="search-box">
+          <span>搜索</span>
+          <input id="searchInput" type="search" placeholder="输入关键词、来源或地区" autocomplete="off" />
+        </label>
+        <label>
+          <span>排序</span>
+          <select id="sortSelect">
+            <option value="score">热度优先</option>
+            <option value="time">最新优先</option>
+            <option value="source">来源排序</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="summary-grid" aria-label="统计">
+        <article>
+          <span>最高热度</span>
+          <strong id="topScore">--</strong>
+        </article>
+        <article>
+          <span>覆盖来源</span>
+          <strong id="sourceCount">--</strong>
+        </article>
+        <article>
+          <span>地区数量</span>
+          <strong id="regionCount">--</strong>
+        </article>
+      </section>
+
+      <section class="app-layout">
+        <aside class="sidebar" aria-label="新闻筛选">
+          <section>
+            <h2>地区</h2>
+            <div id="regionFilters" class="chip-list"></div>
+          </section>
+          <section>
+            <h2>热点词</h2>
+            <div id="keywordList" class="keyword-list"></div>
+          </section>
+          <section>
+            <h2>来源</h2>
+            <ul id="sourceList" class="source-list"></ul>
+          </section>
+        </aside>
+
+        <section class="news-section" aria-labelledby="news-title">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Public News Board</p>
+              <h2 id="news-title">新闻列表</h2>
+            </div>
+            <p id="resultCount">--</p>
+          </div>
+          <div id="notice" class="notice" hidden></div>
+          <div id="news" class="news-list" aria-live="polite"></div>
+        </section>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <span>数据来自公开 RSS 新闻源，网站由 GitHub Actions 自动更新。</span>
+      <a href="https://github.com/001zxt/global-news-tracker" target="_blank" rel="noreferrer">查看项目源码</a>
+    </footer>
+
+    <script src="assets/public-app.js" defer></script>
+  </body>
+</html>

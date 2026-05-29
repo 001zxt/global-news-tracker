@@ -4,12 +4,15 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
-from news_fetcher import Source, clean_text, normalize_key, parse_feed, score_article
+from news_fetcher import Source, clean_text, normalize_key, parse_feed, repair_mojibake, score_article
 
 
 class ParserTests(unittest.TestCase):
     def test_clean_text_removes_html(self):
         self.assertEqual(clean_text("<p>Hello&nbsp;world</p>"), "Hello world")
+
+    def test_repair_mojibake(self):
+        self.assertEqual(repair_mojibake("CEO鈥檚 plan won鈥檛 stop"), "CEO’s plan won’t stop")
 
     def test_normalize_key_removes_punctuation(self):
         self.assertEqual(normalize_key("AI: New rules!"), "ai new rules")

@@ -22,7 +22,7 @@ jobs:
           python-version: "3.x"
 
       - name: Fetch latest news
-        run: python news_fetcher.py --limit 60
+        run: python news_fetcher.py --limit 80
 
       - name: Commit updated news
         run: |

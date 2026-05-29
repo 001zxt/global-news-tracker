@@ -1,788 +1,1043 @@
-[
-  {
-    "title": "Australia news live: entertainment elite gather to farewell James Valentine; Angus Taylor challenged on ‘arrogant prick’ comment about PM",
-    "link": "https://www.theguardian.com/australia-news/live/2026/may/29/australia-news-live-senate-estimates-capital-gains-tax-anthony-albanese-angus-taylor-housing-weather-floods-ntwnfb",
-    "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Who’s leading the fight against Labor’s CGT reform – and what’s in it for them? People with direct personal financial stakes in Labor...",
-    "source": "The Guardian World",
-    "region": "World",
-    "published": "2026-05-29 04:31",
-    "published_iso": "2026-05-29T04:31:50+00:00",
-    "score": 100,
-    "keywords": []
-  },
-  {
-    "title": "Europe is Edging Closer to a Trade War With China. Here’s Why.",
-    "link": "https://www.nytimes.com/2026/05/29/world/europe/europe-china-trade-war-electric-cars.html",
-    "summary": "As cheap goods pour in, threatening the continent’s manufacturing sector, a search for solutions is becoming increasingly urgent.",
-    "source": "NYTimes World",
-    "region": "World",
-    "published": "2026-05-29 04:01",
-    "published_iso": "2026-05-29T04:01:07+00:00",
-    "score": 100,
-    "keywords": [
-      "china",
-      "europe",
-      "war"
-    ]
-  },
-  {
-    "title": "Trump: the boy who cried ‘peace’ in the Middle East – podcast",
-    "link": "https://www.theguardian.com/politics/audio/2026/may/29/trump-the-boy-who-cried-peace-in-the-middle-east-podcast",
-    "summary": "On Saturday, Donald Trump said talks with Tehran were going well and an agreement to end the war was ‘largely negotiated’. On Sunday, the US launched strikes on Southern Iran. By Thursday, Donald Trump had circulated a...",
-    "source": "The Guardian World",
-    "region": "World",
-    "published": "2026-05-29 04:00",
-    "published_iso": "2026-05-29T04:00:40+00:00",
-    "score": 100,
-    "keywords": [
-      "middle east",
-      "us",
-      "war"
-    ]
-  },
-  {
-    "title": "At least three dead after fire destroys Dallas apartment complex",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/at-least-three-dead-after-fire-destroys-dallas-apartment-complex?traffic_source=rss",
-    "summary": "A large fire destroyed an apartment complex in Dallas after crews responded to reports of a gas leak.",
-    "source": "Al Jazeera",
-    "region": "Middle East",
-    "published": "2026-05-29 03:53",
-    "published_iso": "2026-05-29T03:53:01+00:00",
-    "score": 100,
-    "keywords": []
-  },
-  {
-    "title": "Blue Origin’s New Glenn rocket explodes on launchpad",
-    "link": "https://www.aljazeera.com/news/2026/5/29/blue-origins-new-glenn-rocket-explodes-on-launch-pad?traffic_source=rss",
-    "summary": "The incident is the latest setback for Jeff Bezos’s space venture as it seeks to narrow the gap with Elon Musk’s SpaceX.",
-    "source": "Al Jazeera",
-    "region": "Middle East",
-    "published": "2026-05-29 03:52",
-    "published_iso": "2026-05-29T03:52:24+00:00",
-    "score": 100,
-    "keywords": []
-  },
-  {
-    "title": "Russian drone hits apartment building in Romania near Ukraine border",
-    "link": "https://www.france24.com/en/europe/20260529-russian-drone-hits-apartment-building-in-romania-near-ukraine-border",
-    "summary": "",
-    "source": "France 24",
-    "region": "Europe",
-    "published": "2026-05-29 03:38",
-    "published_iso": "2026-05-29T03:38:00+00:00",
-    "score": 100,
-    "keywords": [
-      "russia",
-      "ukraine"
-    ]
-  },
-  {
-    "title": "Blue Origin rocket explodes during launch pad test in Florida",
-    "link": "https://www.france24.com/en/technology/20260529-blue-origin-rocket-explodes-during-launch-pad-test-in-florida",
-    "summary": "Blue Origin’s New Glenn rocket exploded during a test on the launch pad at Cape Canaveral, Florida, on Thursday, marking another setback for Jeff Bezos’s space company. No injuries were reported after the dramatic fireb...",
-    "source": "France 24",
-    "region": "Europe",
-    "published": "2026-05-29 03:35",
-    "published_iso": "2026-05-29T03:35:24+00:00",
-    "score": 100,
-    "keywords": []
-  },
-  {
-    "title": "A.I.’s Big Next Step",
-    "link": "https://www.nytimes.com/2026/05/28/world/ai-ipo-anthropic-openai-spacex-iran.html",
-    "summary": "Three major companies are planning to go public with share sales in the coming months. They could be some of the biggest market debuts in history.",
-    "source": "NYTimes World",
-    "region": "World",
-    "published": "2026-05-29 03:25",
-    "published_iso": "2026-05-29T03:25:31+00:00",
-    "score": 100,
-    "keywords": [
-      "market"
-    ]
-  },
-  {
-    "title": "Lebanon Latest: Mass evacuations as Israel expands attacks",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/lebanon-latest-mass-evacuations-as-israel-expands-attacks?traffic_source=rss",
-    "summary": "Al Jazeera’s Obaida Hitto brings you the latest from southern Lebanon amidst increasing Israeli attacks.",
-    "source": "Al Jazeera",
-    "region": "Middle East",
-    "published": "2026-05-29 03:18",
-    "published_iso": "2026-05-29T03:18:49+00:00",
-    "score": 100,
-    "keywords": []
-  },
-  {
-    "title": "Anthropic soars to $965bn valuation, leapfrogging OpenAI",
-    "link": "https://www.aljazeera.com/economy/2026/5/29/anthropic-soars-to-965bn-valuation-leapfrogging-openai?traffic_source=rss",
-    "summary": "Claude maker raises $65bn from investors ahead of expected initial public offering.",
-    "source": "Al Jazeera",
-    "region": "Middle East",
-    "published": "2026-05-29 03:16",
-    "published_iso": "2026-05-29T03:16:25+00:00",
-    "score": 100,
-    "keywords": []
-  },
-  {
-    "title": "After New Push by the Bolsonaros, U.S. Labels Brazilian Gangs as Terrorist Groups",
-    "link": "https://www.nytimes.com/2026/05/28/world/americas/brazil-gangs-terrorist-bolsonaro-trump.html",
-    "summary": "Following through on threats, the Trump administration has designated Brazil’s two largest drug gangs as terrorist groups.",
-    "source": "NYTimes World",
-    "region": "World",
-    "published": "2026-05-29 03:08",
-    "published_iso": "2026-05-29T03:08:44+00:00",
-    "score": 100,
-    "keywords": [
-      "us"
-    ]
-  },
-  {
-    "title": "Moment Blue Origin rocket explodes during test in Florida",
-    "link": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss",
-    "summary": "A Blue Origin New Glenn rocket exploded on a launch pad at Cape Canaveral in Florida on Thursday night.",
-    "source": "BBC World",
-    "region": "World",
-    "published": "2026-05-29 03:02",
-    "published_iso": "2026-05-29T03:02:48+00:00",
-    "score": 100,
-    "keywords": []
-  },
-  {
-    "title": "KPMG Australia’s CEO Andrew Yates quits over whistleblower scandal",
-    "link": "https://www.theguardian.com/business/2026/may/29/kpmg-australia-ceo-andrew-yates-quits-whistleblower-scandal-ntwnfb",
-    "summary": "Yates says ‘we have let ourselves down’ when dealing with allegations of client information being misused Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podca...",
-    "source": "The Guardian World",
-    "region": "World",
-    "published": "2026-05-29 02:56",
-    "published_iso": "2026-05-29T02:56:47+00:00",
-    "score": 100,
-    "keywords": []
-  },
-  {
-    "title": "JD Vance says Trump ‘pushing forward’ with Golden Dome as he addresses Air Force Academy – as it happened",
-    "link": "https://www.theguardian.com/us-news/live/2026/may/28/donald-trump-wsj-epstein-us-politics-latest-news-updates",
-    "summary": "This live blog is now closed. Sign up to the Breaking News US email In one of the opinions shared by the Supreme Court Thursday morning, the Court has ruled in favor of a Black man who claims that there was racial bias...",
-    "source": "The Guardian World",
-    "region": "World",
-    "published": "2026-05-29 02:49",
-    "published_iso": "2026-05-29T02:49:00+00:00",
-    "score": 100,
-    "keywords": [
-      "us"
-    ]
-  },
-  {
-    "title": "US Treasury secretary confirms plans for banknote featuring Trump’s face",
-    "link": "https://www.aljazeera.com/news/2026/5/29/us-treasury-secretary-confirms-plans-for-banknote-featuring-trumps-face?traffic_source=rss",
-    "summary": "Proposed $250 bill would mark the first time a living person has appeared on US currency in more than a century.",
-    "source": "Al Jazeera",
-    "region": "Middle East",
-    "published": "2026-05-29 02:13",
-    "published_iso": "2026-05-29T02:13:18+00:00",
-    "score": 100,
-    "keywords": [
-      "us"
-    ]
-  },
-  {
-    "title": "WHO chief arrives in DRC promising Ebola outbreak ‘can be stopped’",
-    "link": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
-    "summary": "Tedros Adhanom Ghebreyesus heads for Ituri province where epidemic is centred and calls for halt to fighting that hampers medical relief efforts The deadly Ebola outbreak in the Democratic Republic of the Congo can be s...",
-    "source": "The Guardian World",
-    "region": "World",
-    "published": "2026-05-29 02:10",
-    "published_iso": "2026-05-29T02:10:11+00:00",
-    "score": 100,
-    "keywords": []
-  },
-  {
-    "title": "Iran War Updates: U.S. Officials Say They Are Closing In on Arrangement to Reopen Strait of Hormuz",
-    "link": "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal",
-    "summary": "President Trump has not signed off on the emerging framework, according to U.S. officials. But it could set the table for extending the cease-fire and more substantive negotiations.",
-    "source": "NYTimes World",
-    "region": "World",
-    "published": "2026-05-29 02:06",
-    "published_iso": "2026-05-29T02:06:17+00:00",
-    "score": 100,
-    "keywords": [
-      "ceasefire",
-      "us",
-      "war"
-    ]
-  },
-  {
-    "title": "Italy restores lucky testicles on bull mosaic worn down by tourists",
-    "link": "https://www.bbc.com/news/articles/c1m215npjp2o?at_medium=RSS&at_campaign=rss",
-    "summary": "The artwork is the centre of a tradition that involves visitors performing three spins on it for good fortune.",
-    "source": "BBC World",
-    "region": "World",
-    "published": "2026-05-29 02:01",
-    "published_iso": "2026-05-29T02:01:44+00:00",
-    "score": 100,
-    "keywords": []
-  },
-  {
-    "title": "A Draft U.S.-Iran Plan Is Said to Be on the Table. Here’s What to Know.",
-    "link": "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html",
-    "summary": "U.S. and Iranian officials say they are closing in on the terms of a preliminary agreement. Yet sticking points, particularly over the Strait of Hormuz, remain.",
-    "source": "NYTimes World",
-    "region": "World",
-    "published": "2026-05-29 01:47",
-    "published_iso": "2026-05-29T01:47:35+00:00",
-    "score": 100,
-    "keywords": [
-      "us"
-    ]
-  },
-  {
-    "title": "Three dead after gas explosion causes fire in Dallas apartment building",
-    "link": "https://www.theguardian.com/us-news/2026/may/28/dallas-texas-gas-explosion-apartment-fire",
-    "summary": "Officials say bodies of two adult women and one child found in rubble and four other people taken to hospital Sign up for the Breaking News US newsletter email Three people died after an apparent explosion led to a majo...",
-    "source": "The Guardian World",
-    "region": "World",
-    "published": "2026-05-29 01:44",
-    "published_iso": "2026-05-29T01:44:51+00:00",
-    "score": 100,
-    "keywords": [
-      "us"
-    ]
-  },
-  {
-    "title": "Middle East war live: Vance says US and Iran close to agreement as ceasefire deal reported",
-    "link": "https://www.france24.com/en/middle-east/20260529-middle-east-war-live-vance-says-us-and-iran-close-to-agreement-as-ceasefire-deal-reported",
-    "summary": "US Vice President JD Vance said Thursday that Washington was “not there yet” on an agreement with Iran but that the two sides were close, while also noting that the US retains the ability to significantly set back Tehra...",
-    "source": "France 24",
-    "region": "Europe",
-    "published": "2026-05-29 01:39",
-    "published_iso": "2026-05-29T01:39:31+00:00",
-    "score": 100,
-    "keywords": [
-      "ceasefire",
-      "middle east",
-      "us",
-      "war"
-    ]
-  },
-  {
-    "title": "JD Vance says US ‘not there yet’ on an Iran deal – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/may/28/middle-east-crisis-trump-us-iran-war-lebanon-israel-strikes-latest-news-live",
-    "summary": "This live blog is now closed, you can read our latest report from the Middle East here Donald Trump shares draft Iran peace agreement with Israel and other allies Hezbollah has claimed dozens of drone and rocket attacks...",
-    "source": "The Guardian World",
-    "region": "World",
-    "published": "2026-05-29 01:30",
-    "published_iso": "2026-05-29T01:30:35+00:00",
-    "score": 100,
-    "keywords": [
-      "middle east",
-      "us"
-    ]
-  },
-  {
-    "title": "Federal jury finds army veteran and two other ICE protesters guilty of conspiracy",
-    "link": "https://www.theguardian.com/us-news/2026/may/28/ice-protesters-conspiracy-charges",
-    "summary": "Case involving June 2025 protest is escalation in Trump officials’ attack on first amendment rights, say experts A federal jury has found three protesters, including a US military veteran of the war in Afghanistan, guil...",
-    "source": "The Guardian World",
-    "region": "World",
-    "published": "2026-05-29 00:58",
-    "published_iso": "2026-05-29T00:58:04+00:00",
-    "score": 100,
-    "keywords": [
-      "us",
-      "war"
-    ]
-  },
-  {
-    "title": "Italian Police Uncover Dead Mob Boss’s $230 Million Business Empire",
-    "link": "https://www.nytimes.com/2026/05/28/world/europe/messina-denaro-mafia-assets.html",
-    "summary": "When Matteo Messina Denaro died in 2023, many of his secrets died with him. That began to change with a tip about a wealthy Sicilian woman’s significant assets in a tiny European principality.",
-    "source": "NYTimes World",
-    "region": "World",
-    "published": "2026-05-29 00:23",
-    "published_iso": "2026-05-29T00:23:56+00:00",
-    "score": 100,
-    "keywords": [
-      "europe"
-    ]
-  },
-  {
-    "title": "US to designate two Brazilian gangs as ‘terrorist’ organisations",
-    "link": "https://www.aljazeera.com/news/2026/5/29/us-to-designate-two-brazilian-gangs-as-terrorist-organisations?traffic_source=rss",
-    "summary": "Trump administration has used crime and drug trafficking to push for greater US military influence across Latin America.",
-    "source": "Al Jazeera",
-    "region": "Middle East",
-    "published": "2026-05-29 00:12",
-    "published_iso": "2026-05-29T00:12:42+00:00",
-    "score": 100,
-    "keywords": [
-      "us"
-    ]
-  },
-  {
-    "title": "Donald Trump shares draft Iran peace agreement with Israel and other allies",
-    "link": "https://www.theguardian.com/world/2026/may/28/donald-trump-shares-draft-iran-peace-agreement-with-israel-and-other-allies",
-    "summary": "US president’s move comes as both sides try to prevent fresh ceasefire breaches scuppering a potential deal Middle East crisis – live updates Donald Trump has circulated a draft peace agreement for the war with Iran amo...",
-    "source": "The Guardian World",
-    "region": "World",
-    "published": "2026-05-29 00:09",
-    "published_iso": "2026-05-29T00:09:01+00:00",
-    "score": 100,
-    "keywords": [
-      "ceasefire",
-      "middle east",
-      "us",
-      "war"
-    ]
-  },
-  {
-    "title": "U.S. and Iran Move Toward Agreement to Reopen the Strait of Hormuz",
-    "link": "https://www.nytimes.com/2026/05/28/world/middleeast/us-iran-war-strait.html",
-    "summary": "President Trump has yet to sign off on an extension of the cease-fire that would allow the two sides to negotiate nuclear and other issues.",
-    "source": "NYTimes World",
-    "region": "World",
-    "published": "2026-05-29 00:07",
-    "published_iso": "2026-05-29T00:07:10+00:00",
-    "score": 100,
-    "keywords": [
-      "ceasefire",
-      "us"
-    ]
-  },
-  {
-    "title": "Iran war live: Tehran, Trump yet to comment on 60-day truce extension plan",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/29/iran-war-live-tehran-trump-yet-to-comment-on-60-day-truce-extension-plan?traffic_source=rss",
-    "summary": "Lebanese PM Nawaf Salam says 'nothing can justify' Israel's military onslaught against 'peaceful people' in Lebanon.",
-    "source": "Al Jazeera",
-    "region": "Middle East",
-    "published": "2026-05-29 00:00",
-    "published_iso": "2026-05-29T00:00:00+00:00",
-    "score": 100,
-    "keywords": [
-      "war"
-    ]
-  },
-  {
-    "title": "Portugal breaks hottest May day record as Europe swelters in heatwave",
-    "link": "https://www.bbc.com/news/articles/c3v2yv5207xo?at_medium=RSS&at_campaign=rss",
-    "summary": "French students are taking their exams in baking schools, while red alerts are issued in Italy.",
-    "source": "BBC World",
-    "region": "World",
-    "published": "2026-05-28 23:36",
-    "published_iso": "2026-05-28T23:36:01+00:00",
-    "score": 100,
-    "keywords": [
-      "europe"
-    ]
-  },
-  {
-    "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
-    "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
-    "summary": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership.",
-    "source": "BBC World",
-    "region": "World",
-    "published": "2026-05-28 23:32",
-    "published_iso": "2026-05-28T23:32:19+00:00",
-    "score": 100,
-    "keywords": [
-      "ceasefire",
-      "us"
-    ]
-  },
-  {
-    "title": "Iran ambassador hits out at ‘country to the north’ in US World Cup visa row",
-    "link": "https://www.aljazeera.com/sports/2026/5/28/iran-ambassador-hits-out-at-country-to-the-north-in-us-world-cup-visa-row?traffic_source=rss",
-    "summary": "Iran's football team still lacks US visas and is not competing on 'equal terms', Tehran's envoy to Mexico says.",
-    "source": "Al Jazeera",
-    "region": "Middle East",
-    "published": "2026-05-28 23:18",
-    "published_iso": "2026-05-28T23:18:19+00:00",
-    "score": 100,
-    "keywords": [
-      "us"
-    ]
-  },
-  {
-    "title": "Tense protests erupt outside Delaney Hall immigrant detention centre in US",
-    "link": "https://www.aljazeera.com/gallery/2026/5/28/tense-protests-erupt-outside-delaney-hall-immigrant-detention-centre-in-us?traffic_source=rss",
-    "summary": "A hunger strike at the New Jersey facility has raised questions about conditions in US immigration detention centres.",
-    "source": "Al Jazeera",
-    "region": "Middle East",
-    "published": "2026-05-28 23:10",
-    "published_iso": "2026-05-28T23:10:29+00:00",
-    "score": 100,
-    "keywords": [
-      "us"
-    ]
-  },
-  {
-    "title": "Global heating is making hajj ever more dangerous, report finds",
-    "link": "https://www.theguardian.com/environment/2026/may/29/global-heating-hajj-muslim-pilgrimage-saudi-arabia-dangerous",
-    "summary": "Rising heat in Saudi Arabia threatens millions of Muslim pilgrims – but cutting fossil fuels would keep it safer Global heating has “fundamentally altered” the climate of Mecca and is exposing millions of hajj pilgrims...",
-    "source": "The Guardian World",
-    "region": "World",
-    "published": "2026-05-28 23:01",
-    "published_iso": "2026-05-28T23:01:34+00:00",
-    "score": 100,
-    "keywords": [
-      "climate"
-    ]
-  },
-  {
-    "title": "How did this novel about food win a Booker Prize this year?",
-    "link": "https://www.bbc.com/news/videos/cx21k1dkygno?at_medium=RSS&at_campaign=rss",
-    "summary": "Taiwan Travelogue is the first novel translated from Mandarin Chinese to win the prestigious award.",
-    "source": "BBC World",
-    "region": "World",
-    "published": "2026-05-28 22:48",
-    "published_iso": "2026-05-28T22:48:45+00:00",
-    "score": 100,
-    "keywords": []
-  },
-  {
-    "title": "Carney Says That Canada’s Distancing is Good for U.S. in New York Speech",
-    "link": "https://www.nytimes.com/2026/05/28/world/canada/carney-united-states-canada-trump.html",
-    "summary": "Speaking in New York, the Canadian prime minister called for a new relationship between Canada and United States.",
-    "source": "NYTimes World",
-    "region": "World",
-    "published": "2026-05-28 22:24",
-    "published_iso": "2026-05-28T22:24:33+00:00",
-    "score": 100,
-    "keywords": [
-      "us"
-    ]
-  },
-  {
-    "title": "Netanyahu Says Israel Will Control 70 Percent of Gaza, Squeezing Hamas",
-    "link": "https://www.nytimes.com/2026/05/28/world/middleeast/israel-gaza-hamas-70-percent.html",
-    "summary": "Israel’s military continues to conduct strikes and seize territory despite a cease-fire with Hamas. Many of Prime Minister Benjamin Netanyahu’s supporters see the war as unfinished business.",
-    "source": "NYTimes World",
-    "region": "World",
-    "published": "2026-05-28 21:53",
-    "published_iso": "2026-05-28T21:53:57+00:00",
-    "score": 100,
-    "keywords": [
-      "ceasefire",
-      "war"
-    ]
-  },
-  {
-    "title": "Guatemala denies agreeing to US strikes against drug traffickers",
-    "link": "https://www.aljazeera.com/news/2026/5/28/guatemala-denies-agreeing-to-us-strikes-against-drug-traffickers?traffic_source=rss",
-    "summary": "President Bernardo Arevalo's government says it requested security cooperation but did not approve US attacks.",
-    "source": "Al Jazeera",
-    "region": "Middle East",
-    "published": "2026-05-28 21:42",
-    "published_iso": "2026-05-28T21:42:39+00:00",
-    "score": 100,
-    "keywords": [
-      "security",
-      "us"
-    ]
-  },
-  {
-    "title": "US judge rejects immediate block on Trump’s mail-in voting executive order",
-    "link": "https://www.aljazeera.com/news/2026/5/28/us-judge-rejects-immediate-block-on-trumps-mail-in-voting-executive-order?traffic_source=rss",
-    "summary": "Judge Carl Nichols says Democrats’ legal challenge is premature as the administration moves to implement the measure.",
-    "source": "Al Jazeera",
-    "region": "Middle East",
-    "published": "2026-05-28 21:24",
-    "published_iso": "2026-05-28T21:24:26+00:00",
-    "score": 100,
-    "keywords": [
-      "us"
-    ]
-  },
-  {
-    "title": "In Strait of Hormuz Standoff, U.S. and Iran Deploy Economic Warfare",
-    "link": "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-blockade-strait-hormuz.html",
-    "summary": "The American blockade and Iran’s control of the Strait of Hormuz have created a stalemate that is neither peace nor raging conflict, with both sides attempting economic strangulation on the water.",
-    "source": "NYTimes World",
-    "region": "World",
-    "published": "2026-05-28 21:12",
-    "published_iso": "2026-05-28T21:12:22+00:00",
-    "score": 100,
-    "keywords": [
-      "us"
-    ]
-  },
-  {
-    "title": "Man jailed for 15 years over plot to attack Taylor Swift concert in Vienna",
-    "link": "https://www.bbc.com/news/articles/cgrp7y05l9do?at_medium=RSS&at_campaign=rss",
-    "summary": "A 21-year-old Austrian man is found guilty of planning the attack and other terrorism-related offences.",
-    "source": "BBC World",
-    "region": "World",
-    "published": "2026-05-28 21:07",
-    "published_iso": "2026-05-28T21:07:46+00:00",
-    "score": 100,
-    "keywords": []
-  },
-  {
-    "title": "Europe hit by record-breaking heatwave",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/europe-hit-by-record-breaking-heatwave?traffic_source=rss",
-    "summary": "European countries are issuing heat warnings as an unseasonal heatwave drives record temperatures across the continent.",
-    "source": "Al Jazeera",
-    "region": "Middle East",
-    "published": "2026-05-28 20:57",
-    "published_iso": "2026-05-28T20:57:10+00:00",
-    "score": 100,
-    "keywords": [
-      "europe"
-    ]
-  },
-  {
-    "title": "Demands grow for closure of US detention centre over inhumane conditions",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/demands-grow-for-closure-of-us-detention-centre-over-inhumane-conditions?traffic_source=rss",
-    "summary": "A group of US lawmakers are joining protesters in demanding a controversial immigration detention centre be shut down.",
-    "source": "Al Jazeera",
-    "region": "Middle East",
-    "published": "2026-05-28 20:49",
-    "published_iso": "2026-05-28T20:49:52+00:00",
-    "score": 100,
-    "keywords": [
-      "us"
-    ]
-  },
-  {
-    "title": "U.S. and Iran trade strikes. How will this affect deal to end war?",
-    "link": "https://www.npr.org/2026/05/28/nx-s1-5835313/u-s-and-iran-trade-strikes-how-will-this-affect-deal-to-end-war",
-    "summary": "Do new strikes affect a potential deal to end the war with Iran? NPR's Scott Detrow breaks it down with NPR International Correspondent Aya Batrawy and NPR Pentagon Correspondent Tom Bowman.",
-    "source": "NPR World",
-    "region": "World",
-    "published": "2026-05-28 20:43",
-    "published_iso": "2026-05-28T20:43:42+00:00",
-    "score": 100,
-    "keywords": [
-      "us",
-      "war"
-    ]
-  },
-  {
-    "title": "Guatemala requests US military cooperation against drug trafficking",
-    "link": "https://www.theguardian.com/world/2026/may/28/guatemala-us-military-drug-trafficking",
-    "summary": "Central American country says its president spoke with Pete Hegseth to confirm terms of cooperation Sign up for the Breaking News US newsletter email Guatemala has requested US military cooperation spanning access to eq...",
-    "source": "The Guardian World",
-    "region": "World",
-    "published": "2026-05-28 20:35",
-    "published_iso": "2026-05-28T20:35:10+00:00",
-    "score": 100,
-    "keywords": [
-      "us"
-    ]
-  },
-  {
-    "title": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
-    "link": "https://www.aljazeera.com/news/2026/5/28/eu-imposes-sanctions-on-extremist-israeli-settlers-in-occupied-west-bank?traffic_source=rss",
-    "summary": "European Union says sanctioned individuals and groups have violated the rights of Palestinians.",
-    "source": "Al Jazeera",
-    "region": "Middle East",
-    "published": "2026-05-28 20:31",
-    "published_iso": "2026-05-28T20:31:05+00:00",
-    "score": 100,
-    "keywords": [
-      "europe"
-    ]
-  },
-  {
-    "title": "The U.S. re-sanctioned a U.N. legal expert critical of Israel.",
-    "link": "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal/the-us-re-sanctioned-a-un-legal-expert-critical-of-israel",
-    "summary": "Just a few days ago, a U.S. court ordered the Treasury Department to suspend its penalties on Francesca Albanese, whose work on Israel has drawn accusations of antisemitism.",
-    "source": "NYTimes World",
-    "region": "World",
-    "published": "2026-05-28 20:21",
-    "published_iso": "2026-05-28T20:21:46+00:00",
-    "score": 100,
-    "keywords": [
-      "us"
-    ]
-  },
-  {
-    "title": "Guatemala Agrees to Joint Drug Gang Strikes With U.S., Expanding Trump’s Campaign",
-    "link": "https://www.nytimes.com/2026/05/28/world/americas/guatemala-us-joint-strikes.html",
-    "summary": "The deal is part of a broader effort by the Trump administration to press Latin American countries to agree to joint operations inside their borders.",
-    "source": "NYTimes World",
-    "region": "World",
-    "published": "2026-05-28 19:22",
-    "published_iso": "2026-05-28T19:22:02+00:00",
-    "score": 100,
-    "keywords": [
-      "us"
-    ]
-  },
-  {
-    "title": "Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip",
-    "link": "https://www.aljazeera.com/news/2026/5/28/israels-netanyahu-directs-army-to-seize-70-percent-of-gaza-strip?traffic_source=rss",
-    "summary": "Israeli army has already expanded its control of Gaza by 11 percent over the 'Yellow Line', beyond terms of 'ceasefire'.",
-    "source": "Al Jazeera",
-    "region": "Middle East",
-    "published": "2026-05-28 19:03",
-    "published_iso": "2026-05-28T19:03:50+00:00",
-    "score": 100,
-    "keywords": [
-      "ceasefire"
-    ]
-  },
-  {
-    "title": "Labour poised for fresh welfare changes after scale of youth jobs crisis revealed",
-    "link": "https://www.theguardian.com/business/2026/may/28/uk-risks-125bn-hit-youth-unemployment-landmark-report-alan-milburn-neets",
-    "summary": "Alan Milburn’s landmark report says unemployment among young costs UK £125bn a year and warns of ‘lost generation’ ‘A record of failure’: what’s in first part of Milburn report? Tell us: we would like to hear from young...",
-    "source": "The Guardian World",
-    "region": "World",
-    "published": "2026-05-28 18:45",
-    "published_iso": "2026-05-28T18:45:21+00:00",
-    "score": 100,
-    "keywords": [
-      "us"
-    ]
-  },
-  {
-    "title": "Rebuilding US weapons stockpile may ‘take years’ post-Iran war",
-    "link": "https://www.aljazeera.com/news/2026/5/28/us-weapon-stockpile-rebuilding-to-take-years-post-iran-war-says-report?traffic_source=rss",
-    "summary": "Restoring pre-war stockpiles of critical US munitions will take at least two years, according to CSIS report.",
-    "source": "Al Jazeera",
-    "region": "Middle East",
-    "published": "2026-05-28 18:36",
-    "published_iso": "2026-05-28T18:36:50+00:00",
-    "score": 100,
-    "keywords": [
-      "us",
-      "war"
-    ]
-  },
-  {
-    "title": "Netanyahu orders Israeli army to seize ‘70% of Gaza Strip’, violating ceasefire deal",
-    "link": "https://www.theguardian.com/world/2026/may/28/netanyahu-orders-israeli-army-seize-70-gaza-strip-violating-ceasefire-deal",
-    "summary": "Speaking in West Bank settlement, Israeli PM, who is fighting for political survival before elections, says ‘we are squeezing Hamas’ Middle East crisis – live updates Benjamin Netanyahu has said he has given orders to t...",
-    "source": "The Guardian World",
-    "region": "World",
-    "published": "2026-05-28 18:14",
-    "published_iso": "2026-05-28T18:14:28+00:00",
-    "score": 100,
-    "keywords": [
-      "ceasefire",
-      "election",
-      "middle east"
-    ]
-  },
-  {
-    "title": "Israel hits Lebanese capital in 'targeted strike'",
-    "link": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss",
-    "summary": "Beirut had until now largely been spared even as both Israel and Hezbollah accused each other of breaking last month's ceasefire.",
-    "source": "BBC World",
-    "region": "World",
-    "published": "2026-05-28 17:39",
-    "published_iso": "2026-05-28T17:39:16+00:00",
-    "score": 100,
-    "keywords": [
-      "ceasefire"
-    ]
-  },
-  {
-    "title": "Carney calls for new US-Canada partnership to ‘help make America great again’",
-    "link": "https://www.theguardian.com/world/2026/may/28/mark-carney-trade-partnership-canada-america",
-    "summary": "Canada prime minister urges greater economic cooperation between the two countries in speech delivered in New York Canada’s prime minister, Mark Carney has called for a new relationship with the United States to “help m...",
-    "source": "The Guardian World",
-    "region": "World",
-    "published": "2026-05-28 17:38",
-    "published_iso": "2026-05-28T17:38:11+00:00",
-    "score": 100,
-    "keywords": [
-      "us"
-    ]
-  },
-  {
-    "title": "Israel Strikes Beirut, Expanding Offensive in Lebanon",
-    "link": "https://www.nytimes.com/2026/05/28/world/middleeast/israel-strikes-beirut-lebanon.html",
-    "summary": "It was the first attack by Israel on the Lebanese capital in weeks and could complicate efforts by the United States and Iran to agree to a peace deal to end the war in Iran.",
-    "source": "NYTimes World",
-    "region": "World",
-    "published": "2026-05-28 17:15",
-    "published_iso": "2026-05-28T17:15:14+00:00",
-    "score": 100,
-    "keywords": [
-      "us",
-      "war"
-    ]
-  },
-  {
-    "title": "Are US and Iran close to peace or sliding back to war?",
-    "link": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
-    "summary": "Neither side seems interested in a return to all-out conflict, despite the latest exchange of strikes.",
-    "source": "BBC World",
-    "region": "World",
-    "published": "2026-05-28 16:56",
-    "published_iso": "2026-05-28T16:56:19+00:00",
-    "score": 100,
-    "keywords": [
-      "us",
-      "war"
-    ]
-  },
-  {
-    "title": "Learning from Ukraine war, Hezbollah is now using fibre-optic drones to hit Israel",
-    "link": "https://www.bbc.com/news/articles/c0r2ydlvk41o?at_medium=RSS&at_campaign=rss",
-    "summary": "Fibre-optic drones are now Hezbollah's primary weapon against Israel's soldiers and civilians.",
-    "source": "BBC World",
-    "region": "World",
-    "published": "2026-05-28 16:39",
-    "published_iso": "2026-05-28T16:39:30+00:00",
-    "score": 100,
-    "keywords": [
-      "ukraine",
-      "war"
-    ]
-  },
-  {
-    "title": "Russia on the back foot with dynamics of war shifting in Ukraine’s favour, EU says – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/may/28/europe-russia-ukraine-talks-heatwave-kaja-kallas-putin-latest-news-updates",
-    "summary": "This blog is now closed Meanwhile, Hungary’s Magyar hits a bit more upbeat tone in his latest post on Facebook, saying that while there are still some issues that need to be resolved, the two sides managed to agree a de...",
-    "source": "The Guardian World",
-    "region": "World",
-    "published": "2026-05-28 15:10",
-    "published_iso": "2026-05-28T15:10:32+00:00",
-    "score": 100,
-    "keywords": [
-      "russia",
-      "ukraine",
-      "war"
-    ]
-  },
-  {
-    "title": "EU fines Temu €200m for allowing sale of illegal products",
-    "link": "https://www.bbc.com/news/articles/c1k2ydn1rz8o?at_medium=RSS&at_campaign=rss",
-    "summary": "The European Commission says the Chinese-owned online retailer failed to take account of risks from baby toys and faulty chargers sold on its platform.",
-    "source": "BBC World",
-    "region": "World",
-    "published": "2026-05-28 14:54",
-    "published_iso": "2026-05-28T14:54:50+00:00",
-    "score": 100,
-    "keywords": [
-      "europe"
-    ]
-  },
-  {
-    "title": "Cuba Loses Its Chance at Fuel After Russian Tanker Changes Route",
-    "link": "https://www.nytimes.com/2026/05/28/world/americas/cuba-oil-russia-tanker.html",
-    "summary": "A Russian tanker seemingly en route to Cuba with a lifeline of fuel has changed direction, a painful development for the island suffering under a U.S. oil blockade.",
-    "source": "NYTimes World",
-    "region": "World",
-    "published": "2026-05-28 13:33",
-    "published_iso": "2026-05-28T13:33:41+00:00",
-    "score": 99,
-    "keywords": [
-      "russia",
-      "us"
-    ]
-  },
-  {
-    "title": "How Ukraine’s Street Style Is Shaped by the War",
-    "link": "https://www.nytimes.com/2026/05/28/world/europe/ukraine-war-street-style-fashion-military.html",
-    "summary": "In Kyiv, military-inspired fashion can be seen everywhere. Soldiers and civilians alike say it’s a show of solidarity, not a fad.",
-    "source": "NYTimes World",
-    "region": "World",
-    "published": "2026-05-28 13:30",
-    "published_iso": "2026-05-28T13:30:02+00:00",
-    "score": 99,
-    "keywords": [
-      "ukraine",
-      "war"
-    ]
-  }
-]
+{
+  "generated_at": "2026-05-29T20:13:42+08:00",
+  "article_count": 80,
+  "source_count": 8,
+  "errors": [],
+  "articles": [
+    {
+      "title": "Russian drone strike ‘most serious security incident’ since start of Ukraine war, says Romanian president – Europe live",
+      "link": "https://www.theguardian.com/world/live/2026/may/29/romania-ukraine-russia-galati-drone-strike-europe-live-breaking-news",
+      "summary": "Nicușor Dan leads international outrage as Zelenskyy says Ukraine is ‘ready to support Romania in whatever way is necessary’ after border town hit by drone The incident comes just days after the Czech president, Petr Pavel, has urged Nato to “show its teeth”...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-05-29 19:52",
+      "published_iso": "2026-05-29T11:52:25+00:00",
+      "score": 100,
+      "keywords": [
+        "europe",
+        "russia",
+        "security",
+        "ukraine",
+        "war"
+      ]
+    },
+    {
+      "title": "Russian Drone Hits Romanian Apartment Building, Officials Say",
+      "link": "https://www.nytimes.com/2026/05/29/world/europe/romania-drone-russia-ukraine.html",
+      "summary": "Romania is a NATO country, and the security alliance condemned “Russia’s recklessness” for an episode that sharply escalated tensions with Moscow.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-05-29 19:51",
+      "published_iso": "2026-05-29T11:51:53+00:00",
+      "score": 100,
+      "keywords": [
+        "russia",
+        "security"
+      ]
+    },
+    {
+      "title": "Willian Pacho: The kid from Quininde who rose to PSG defender hieghts",
+      "link": "https://www.france24.com/en/sport/20260529-willian-pacho-the-kid-from-quinind%C3%A9-who-rose-to-psg-defender-hieghts",
+      "summary": "He was virtually unknown when he arrived at PSG in 2024, a young man from the rough neighbourhoods of Quininde in northern Ecuador. Now Willian Pacho faces Arsenal on Saturday in a match that could make PSG only the second team to retain the Champions League...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-05-29 19:48",
+      "published_iso": "2026-05-29T11:48:19+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Trump’s former attorney general to face closed-door questioning from House committee over Epstein files – live",
+      "link": "https://www.theguardian.com/us-news/live/2026/may/29/donald-trump-pam-bondi-jeffrey-epstein-iran-redistricting-latest-news-updates",
+      "summary": "Lawmakers to have fresh chance to dig for information on Trump administration’s handling of Epstein case by grilling Pam Bondi Sign up for the Breaking News US email Vice-president JD Vance said Washington and Tehran are close to agreeing a deal to extend the...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-05-29 19:45",
+      "published_iso": "2026-05-29T11:45:13+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "NATO vows 'absolute solidarity' with Romania over Russian drone",
+      "link": "https://www.france24.com/en/video/20260529-nato-vows-absolute-solidarity-with-romania-over-russian-drone",
+      "summary": "NATO chief Mark Rutte pledged the alliance's \"absolute solidarity\" in a call with Romania's president Friday, slamming Russia for a drone crash that injured two people in the country bordering Ukraine. FRANCE 24's International Affairs Commentator Douglas Her...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-05-29 19:40",
+      "published_iso": "2026-05-29T11:40:48+00:00",
+      "score": 100,
+      "keywords": [
+        "russia",
+        "ukraine"
+      ]
+    },
+    {
+      "title": "Israel, Lebanon officials to meet. And, judge won't block Trump's mail-in voting order",
+      "link": "https://www.npr.org/2026/05/29/g-s1-124776/up-first-newsletter-israel-lebanon-iran-war-e-jean-carroll-trump-cbs-60-minutes-voting",
+      "summary": "Israel and Lebanon officials are set to meet today as U.S.-Iran peace talks continue. And, a federal judge declined to block Trump's executive order restricting mail-in voting.",
+      "source": "NPR World",
+      "region": "World",
+      "published": "2026-05-29 19:40",
+      "published_iso": "2026-05-29T11:40:46+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Kenyan girls' school fire kills 16 students, injures 79",
+      "link": "https://www.france24.com/en/video/20260529-kenyan-girls-school-fire-kills-16-students-injures-79",
+      "summary": "A fire tore through a dormitory at a girls' secondary school in a town in Kenya's Rift Valley overnight, killing 16 students, the ​government said on Thursday. The ‌fire broke out just after midnight at the Utumishi Girls' Academy Senior ⁠School in Gilgil in...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-05-29 19:39",
+      "published_iso": "2026-05-29T11:39:46+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Ten years on, Chadian ex-dictator Habre's trial inspires global justice",
+      "link": "https://www.france24.com/en/video/20260529-ten-years-on-chadian-ex-dictator-habre-s-trial-inspires-global-justice",
+      "summary": "In May 2016, the Chadian dictator Hissen Habre was put behind bars for human rights violations and crimes against humanity. It was the first time an African Court was set up, with African judges, for an African dictator and African survivors. Senegal is where...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-05-29 19:38",
+      "published_iso": "2026-05-29T11:38:32+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Minister insists Labour will not apply national living wage to all over-18s before election – UK politics live",
+      "link": "https://www.theguardian.com/politics/live/2026/may/29/labour-welfare-youth-unemployment-living-wage-milburn-starmer-burnham-blair-latest-news-updates",
+      "summary": "Torsten Bell says Labour manifesto ‘did not set out the timeline’ for changes to living wage after scale of youth unemployment crisis revealed in Milburn report Andy Burnham , the Greater Manchester mayor and Labour candidate in Makerfield, has also published...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-05-29 19:36",
+      "published_iso": "2026-05-29T11:36:27+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "Closer to war or to peace? US, Iran near deal on 60-day ceasefire",
+      "link": "https://www.france24.com/en/video/20260529-closer-to-war-or-to-peace-us-iran-near-deal-on-60-day-ceasefire",
+      "summary": "The ​United States threatened Thursday to target ally Oman if it helped impose a tolling system in the key Strait of Hormuz, warning of sanctions against all parties involved in such actions. The United States and Iran also accused each other of violating an...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-05-29 19:35",
+      "published_iso": "2026-05-29T11:35:49+00:00",
+      "score": 100,
+      "keywords": [
+        "ceasefire",
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "Cause of deaths of three sisters found in sea at Brighton still unclear, inquest hears",
+      "link": "https://www.theguardian.com/uk-news/2026/may/29/police-do-not-suspect-foul-play-deaths-three-sisters-brighton-beach",
+      "summary": "Medical investigations ongoing ‘to finalise the cause of death’ but police say they do not suspect foul play The cause of the deaths of three sisters found in the sea off Brighton beach is yet to be ascertained but police say they do not suspect foul play at...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-05-29 19:35",
+      "published_iso": "2026-05-29T11:35:36+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Were Romanian Casualties From a Russian Drone Strike Inevitable?",
+      "link": "https://www.nytimes.com/2026/05/29/world/europe/romania-drone-strike-what-to-know.html",
+      "summary": "The strike on Friday, near the Ukrainian border, was the first to injure civilians in Romania, officials say. But drones from the nearby war have been a growing threat.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-05-29 19:33",
+      "published_iso": "2026-05-29T11:33:38+00:00",
+      "score": 100,
+      "keywords": [
+        "russia",
+        "war"
+      ]
+    },
+    {
+      "title": "‘This is so pathetic’: Reform and Restore Britain lock horns in Makerfield byelection buildup",
+      "link": "https://www.theguardian.com/politics/2026/may/29/reform-uk-restore-britain-lock-horns-makerfield-byelection-buildup",
+      "summary": "Spurred on by Elon Musk, the two rightwing parties spent the week taking potshots at each other. We look back at who hurled which insult at whom UK politics live – latest updates It’s been a week of rudeness, rows and revelations in the Makerfield byelection....",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-05-29 19:24",
+      "published_iso": "2026-05-29T11:24:09+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Eight students arrested in Kenya after suspected deadly school arson attack",
+      "link": "https://www.bbc.com/news/articles/cx21r3138m9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sixteen pupils died in the fire that ripped through a dormitory while they were asleep.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-05-29 19:22",
+      "published_iso": "2026-05-29T11:22:10+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Gullah Geechee people offered chance to save family properties passed down through generations",
+      "link": "https://www.theguardian.com/news/2026/may/29/gullah-geechee-property-tax-relief-act",
+      "summary": "A new South Carolina act will exempt some heirs’ property owners from increased property taxes In a move that protects vulnerable people from forced property sales, South Carolina recently enacted an act that could help families keep land that has been passed...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-05-29 19:00",
+      "published_iso": "2026-05-29T11:00:49+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Pam Bondi to finally appear before House panel over Epstein files release",
+      "link": "https://www.theguardian.com/us-news/2026/may/29/pam-bondi-epstein-files-house-committee",
+      "summary": "Ex-attorney general was subpoenaed in March but had refused to show after her removal from justice department The former attorney general Pam Bondi will appear before the US House oversight and reform committee on Friday morning to answer questions about the...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-05-29 19:00",
+      "published_iso": "2026-05-29T11:00:49+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "‘Like a billionaire on acid’: Star Wars director Gareth Edwards comes out in favour of AI",
+      "link": "https://www.theguardian.com/film/2026/may/29/star-wars-rogue-one-director-gareth-edwards-praises-ai-film-making",
+      "summary": "Speaking at Amazon’s AI on the Lot event, the Rogue One film-maker Gareth Edwards said ‘it’ll do anything you ask’ and ‘it’s going to be better than CGI’ Jurassic World Rebirth and Rogue One director Gareth Edwards has enthusiastically endorsed the use of gen...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-05-29 18:55",
+      "published_iso": "2026-05-29T10:55:01+00:00",
+      "score": 100,
+      "keywords": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Asda strikes deal to use Ocado software for home deliveries from next year",
+      "link": "https://www.theguardian.com/business/2026/may/29/ocado-to-take-over-all-asda-home-deliveries-from-next-year",
+      "summary": "UK’s third biggest supermarket will use tech of online grocer, which already provides support for M&S and Morrisons Asda has agreed a deal to use Ocado’s technology to run its online grocery store and home deliveries from next year. Ocado software will be use...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-05-29 18:52",
+      "published_iso": "2026-05-29T10:52:52+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Iran War Live Updates: Uncertainty Hangs Over Talks as U.S. Says It Is Close to Agreement",
+      "link": "https://www.nytimes.com/live/2026/05/29/world/iran-war-us-trump-deal",
+      "summary": "An emerging “memorandum of understanding,” which could lead to the reopening of the Strait of Hormuz, still needs approval from President Trump, and Iran has not confirmed any commitments.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-05-29 18:42",
+      "published_iso": "2026-05-29T10:42:17+00:00",
+      "score": 100,
+      "keywords": [
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "U.S. and Iran Move Toward Agreement to Reopen the Strait of Hormuz",
+      "link": "https://www.nytimes.com/2026/05/28/world/middleeast/us-iran-war-strait.html",
+      "summary": "President Trump has yet to sign off on an extension of the cease-fire that would allow the two sides to negotiate nuclear and other issues.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-05-29 18:42",
+      "published_iso": "2026-05-29T10:42:15+00:00",
+      "score": 100,
+      "keywords": [
+        "ceasefire",
+        "us"
+      ]
+    },
+    {
+      "title": "Anger at decision not to extradite Canadian suicide kit supplier to face UK justice",
+      "link": "https://www.theguardian.com/technology/2026/may/29/anger-decision-not-extradite-canadian-suicide-kit-supplier-face-uk-justice",
+      "summary": "Kenneth Law expected to admit to sending products internationally in knowledge they would probably be used to end lives Bereaved families whose loved ones were the victims of an online supplier of suicide kits say they feel insulted by a decision not to prose...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-05-29 18:39",
+      "published_iso": "2026-05-29T10:39:02+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Exploding rocket casts doubts over Nasa's Moon plans",
+      "link": "https://www.bbc.com/news/articles/cwy2q0g07kgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Explosion of Blue Origin rocket is a setback for the company and for Nasa's Moon plans.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-05-29 18:38",
+      "published_iso": "2026-05-29T10:38:46+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Australian court sets August date for ‘mushroom murderer’ appeal hearing",
+      "link": "https://www.aljazeera.com/news/2026/5/29/australian-court-sets-august-date-for-mushroom-murderer-appeal-hearing?traffic_source=rss",
+      "summary": "Erin Patterson was found guilty of killing three family members as she served them a lunch laced with poisonous fungi.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-05-29 18:37",
+      "published_iso": "2026-05-29T10:37:19+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Colombians to vote in high-stakes test of President Gustavo Petro’s agenda",
+      "link": "https://www.france24.com/en/video/20260529-colombians-to-vote-in-high-stakes-test-of-president-gustavo-petro-s-agenda",
+      "summary": "Colombia will elect a new president and vice president in a vote Sunday that has been cast as a referendum on outgoing President Gustavo Petro’s policies. A former member of Colombia’s M-19 guerrilla group which fought for social justice in the 1970s and '80s...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-05-29 18:35",
+      "published_iso": "2026-05-29T10:35:33+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Workers need greater say over AI rollout, says TUC-backed report",
+      "link": "https://www.theguardian.com/technology/2026/may/29/give-staff-more-say-over-ai-to-ensure-they-share-benefits-uk-thinktank-urges",
+      "summary": "Exclusive: IPPR thinktank calls for new measures to boost employees’ influence at ‘pivotal moment’ in history Workers urgently need more bargaining power over the way AI is adopted in the workplace to ensure the benefits are fairly shared, according to a TUC-...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-05-29 18:35",
+      "published_iso": "2026-05-29T10:35:06+00:00",
+      "score": 100,
+      "keywords": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Russian drone hits Romania apartment block, drawing NATO, EU outrage",
+      "link": "https://www.france24.com/en/video/20260529-russian-drone-hits-romania-apartment-block-drawing-nato-eu-outrage",
+      "summary": "A Russian drone struck an apartment building in NATO-member Romania early Friday, wounding two people in the latest spillover from the war in Ukraine and prompting strong condemnation from the Atlantic alliance and the European Union. NATO-member states borde...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-05-29 18:33",
+      "published_iso": "2026-05-29T10:33:35+00:00",
+      "score": 100,
+      "keywords": [
+        "europe",
+        "russia",
+        "ukraine",
+        "war"
+      ]
+    },
+    {
+      "title": "'Tightening the grip': Israeli army to take control of 70 percent of Gaza Strip",
+      "link": "https://www.france24.com/en/video/20260529-tightening-the-grip-israeli-army-to-take-control-of-70-percent-of-gaza-strip",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu said Thursday he had ordered the country's military to take control of 70 percent of the Gaza Strip, in defiance of the terms of a fragile ceasefire that took effect in October. Under the terms of the ceasefire, Israe...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-05-29 18:32",
+      "published_iso": "2026-05-29T10:32:23+00:00",
+      "score": 100,
+      "keywords": [
+        "ceasefire"
+      ]
+    },
+    {
+      "title": "Russian drone launched against Ukraine crashes in Romania, injuring 2",
+      "link": "https://www.npr.org/2026/05/29/g-s1-124773/russian-drone-romania",
+      "summary": "A Russian drone that was part of an overnight attack on Ukraine crashed into an apartment building in eastern Romania, injuring two people, Romanian authorities said Friday.",
+      "source": "NPR World",
+      "region": "World",
+      "published": "2026-05-29 18:32",
+      "published_iso": "2026-05-29T10:32:10+00:00",
+      "score": 100,
+      "keywords": [
+        "russia",
+        "ukraine"
+      ]
+    },
+    {
+      "title": "Israel launches deadly strike near Beirut, widening Lebanon offensive",
+      "link": "https://www.france24.com/en/video/20260529-israel-launches-deadly-strike-near-beirut-widening-lebanon-offensive",
+      "summary": "Israel pounded south Lebanon with deadly strikes and widened its offensive with the first raid near Beirut in weeks where authorities said a woman and two children were killed despite a ceasefire. The attack near the capital came after heavy strikes on south...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-05-29 18:29",
+      "published_iso": "2026-05-29T10:29:27+00:00",
+      "score": 100,
+      "keywords": [
+        "ceasefire"
+      ]
+    },
+    {
+      "title": "‘Dangerous colonial occupation’: Israel’s digital West Bank land register",
+      "link": "https://www.aljazeera.com/news/2026/5/29/dangerous-colonial-occupation-israels-digital-west-bank-land-register?traffic_source=rss",
+      "summary": "A digital register of land ownership in the West Bank is seen as an escalation of Israel's occupation.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-05-29 18:28",
+      "published_iso": "2026-05-29T10:28:18+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "How far have the US and Iran got towards ending the Iran war?",
+      "link": "https://www.france24.com/en/video/20260529-how-far-have-the-us-and-iran-got-towards-ending-the-iran-war",
+      "summary": "The United States and Iran have reached ⁠an agreement to extend ​a ceasefire, allow shipping through the Strait of Hormuz and lift a US blockade and some sanctions on Iran, sources told Reuters, but the deal has not been finalised. An agreement would represen...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-05-29 18:28",
+      "published_iso": "2026-05-29T10:28:14+00:00",
+      "score": 100,
+      "keywords": [
+        "ceasefire",
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "First Thing: Nato ready to defend ‘every inch’ of territory as Russian drone hits Romania",
+      "link": "https://www.theguardian.com/us-news/2026/may/29/first-thing-nato-ready-to-defend-as-russian-drone-hits-romania",
+      "summary": "Mark Rutte says Moscow’s ‘reckless behaviour is a danger to us all’ after drone hit apartments during attack on Ukraine. Plus, Paul McCartney on how old bandmates – and Oasis – inspired his nostalgic new album Good morning. The Nato secretary general, Mark Ru...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-05-29 18:26",
+      "published_iso": "2026-05-29T10:26:32+00:00",
+      "score": 100,
+      "keywords": [
+        "russia",
+        "ukraine",
+        "us"
+      ]
+    },
+    {
+      "title": "WHO chief visits DRC amidst Ebola crisis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/who-chief-visits-drc-amidst-ebola-crisis?traffic_source=rss",
+      "summary": "WHO chief visits DRC amidst Ebola crisis and urges international community to increase support.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-05-29 18:24",
+      "published_iso": "2026-05-29T10:24:27+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "US-Iran 60-day proposal: What we know",
+      "link": "https://www.aljazeera.com/news/2026/5/29/us-iran-60-day-proposal-what-we-know?traffic_source=rss",
+      "summary": "US-Iran memorandum of understanding reportedly covers Strait of Hormuz, sanctions relief and enriched uranium limits.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-05-29 18:23",
+      "published_iso": "2026-05-29T10:23:16+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/05/29/world/iran-war-us-trump-deal/heres-the-latest",
+      "summary": "",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-05-29 18:19",
+      "published_iso": "2026-05-29T10:19:17+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Former RT France chief Xenia Fedorova fuels concerns over pro-Kremlin influence in French media",
+      "link": "https://www.france24.com/en/europe/20260529-former-rt-france-chief-xenia-fedorova-fuels-concerns-over-pro-kremlin-influence-in-french-media",
+      "summary": "French officials and analysts are raising the alarm after former RT France chief Xenia Fedorova began appearing regularly on major conservative media outlets in the country. They warn that Kremlin-aligned narratives are gaining visibility ahead of crucial ele...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-05-29 18:18",
+      "published_iso": "2026-05-29T10:18:55+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "WHO chief lands in Congo to address rare Ebola outbreak amid distrust and insecurity",
+      "link": "https://www.npr.org/2026/05/29/nx-s1-5838635/who-chief-visits-congo-ebola-outbreak",
+      "summary": "The head of the World Health Organization arrived in Congo's capital, Kinshasa, to witness efforts against an outbreak of a rare type of Ebola virus.",
+      "source": "NPR World",
+      "region": "World",
+      "published": "2026-05-29 18:16",
+      "published_iso": "2026-05-29T10:16:53+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Kenyan court suspends US Ebola quarantine facility plan",
+      "link": "https://www.aljazeera.com/news/2026/5/29/kenyan-court-suspends-us-ebola-quarantine-facility-plan?traffic_source=rss",
+      "summary": "The plan to send Ebola-exposed US nationals to Kenya, which has no known cases of the virus, has provoked a backlash.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-05-29 18:12",
+      "published_iso": "2026-05-29T10:12:26+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "How the end of the nuclear file could reshape Iran, and the region",
+      "link": "https://www.aljazeera.com/opinions/2026/5/29/how-the-end-of-the-nuclear-file-could-reshape-iran-and-the-region?traffic_source=rss",
+      "summary": "A generation of nuclear ambition shaped the Islamic republic. Its end could undo the damage.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-05-29 18:05",
+      "published_iso": "2026-05-29T10:05:14+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Netanyahu directs Israeli forces to expand Gaza control to 70 percent",
+      "link": "https://www.france24.com/en/video/20260529-netanyahu-directs-israeli-forces-to-expand-gaza-control-to-70-percent",
+      "summary": "Prime Minister Benjamin Netanyahu said on Thursday he had directed Israel's military to take more of Gaza, initially by seizing 70% of the Palestinian territory, where the population is already penned into a tiny strip of land along the coast. Israel effectiv...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-05-29 18:02",
+      "published_iso": "2026-05-29T10:02:04+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "'It's unfair you can't do everything here': Education comes with exile in Martinique",
+      "link": "https://www.france24.com/en/france/20260529-it-s-unfair-you-can-t-do-everything-here-education-comes-with-exile-in-martinique",
+      "summary": "Every year, 45 percent of university-bound students from France's overseas territories leave their island to pursue higher education. From Réunion to Guadeloupe, brain drain keeps growing, driven by a lack of opportunity. Nowhere is this more acute than in Ma...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-05-29 18:01",
+      "published_iso": "2026-05-29T10:01:33+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Possible Iran-US deal: Tehran denies final text has been agreed",
+      "link": "https://www.france24.com/en/video/20260529-possible-iran-us-deal-tehran-denies-final-text-has-been-agreed",
+      "summary": "The United States and Iran appear to have the draft text of an agreement to extend their ceasefire for 60 days and provide a framework to negotiate longer-term peace. But there have been conflicting reports from sources in Washington and Tehran about what mig...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-05-29 18:00",
+      "published_iso": "2026-05-29T10:00:53+00:00",
+      "score": 100,
+      "keywords": [
+        "ceasefire",
+        "us"
+      ]
+    },
+    {
+      "title": "WHO chief arrives in DRC promising Ebola outbreak ‘can be stopped’",
+      "link": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
+      "summary": "Tedros Adhanom Ghebreyesus calls for ceasefire, saying no conflict is worth condemning people to death from preventable disease The deadly Ebola outbreak in the Democratic Republic of the Congo can be stopped, the head of the World Health Organization has sai...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-05-29 17:48",
+      "published_iso": "2026-05-29T09:48:19+00:00",
+      "score": 100,
+      "keywords": [
+        "ceasefire"
+      ]
+    },
+    {
+      "title": "Weather tracker: deadly May heatwave shatters records across Europe",
+      "link": "https://www.theguardian.com/environment/2026/may/29/weather-tracker-deadly-may-heatwave-shatters-records-across-europe",
+      "summary": "Temperatures across parts of continent around 10-15C above average for this time of year, while thunderstorms strike eastern Australia Europe has experienced an exceptional heatwave this week, with temperature records broken across multiple countries under a...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-05-29 17:47",
+      "published_iso": "2026-05-29T09:47:11+00:00",
+      "score": 100,
+      "keywords": [
+        "europe"
+      ]
+    },
+    {
+      "title": "No, Not That Georgia. A.I. Compounds a Nation’s Identity Woes.",
+      "link": "https://www.nytimes.com/2026/05/29/world/europe/georgia-name-confusion.html",
+      "summary": "Online queries are more likely to turn up references to the U.S. state — a problem for the republic in the Caucasus and its people. But a move to drop the name “Georgia” has lost steam.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-05-29 17:34",
+      "published_iso": "2026-05-29T09:34:36+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Trump sexual abuse accuser ‘under criminal investigation by DOJ’",
+      "link": "https://www.france24.com/en/tv-shows/press-review/20260529-trump-sexual-abuse-accuser-under-criminal-investigation-by-doj",
+      "summary": "PRESS REVIEW - Friday, 29 May, 2026: First, in the United States, the Department of Justice is reportedly opening a criminal inquiry into E. Jean Carroll. In France, controversy has erupted over the way some media outlets have covered the latest heatwave. The...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-05-29 17:26",
+      "published_iso": "2026-05-29T09:26:56+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "A visual guide to Ethiopia’s ethnic groups and conflict areas",
+      "link": "https://www.aljazeera.com/news/2026/5/29/a-visual-guide-to-ethiopias-ethnic-groups-and-conflict-areas?traffic_source=rss",
+      "summary": "Ethiopia has faced near-continuous conflict since 2020, with fighting in Tigray, Oromia and Amhara.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-05-29 17:18",
+      "published_iso": "2026-05-29T09:18:30+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
+      "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
+      "summary": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-05-29 17:17",
+      "published_iso": "2026-05-29T09:17:35+00:00",
+      "score": 100,
+      "keywords": [
+        "ceasefire",
+        "us"
+      ]
+    },
+    {
+      "title": "Nato ready to defend ‘every inch’ of territory as Russian drone hits Romania",
+      "link": "https://www.theguardian.com/world/2026/may/29/russian-drone-romanian-apartments-wounding-two-people-and-starting-fire",
+      "summary": "Mark Rutte says Moscow’s ‘reckless behaviour is a danger to us all’ after drone hit apartments during attack on Ukraine Europe live – latest updates The Nato secretary general, Mark Rutte, has said the alliance is “ready to defend every inch” of its territory...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-05-29 17:11",
+      "published_iso": "2026-05-29T09:11:20+00:00",
+      "score": 100,
+      "keywords": [
+        "europe",
+        "russia",
+        "ukraine",
+        "us"
+      ]
+    },
+    {
+      "title": "Court in Kenya Suspends Plans for U.S. Ebola Quarantine Unit",
+      "link": "https://www.nytimes.com/2026/05/29/world/africa/us-kenya-quarantine-unit-ebola.html",
+      "summary": "The order came after U.S. officials said that a 50-bed facility was being established in the African country to house American citizens exposed to the virus.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-05-29 17:05",
+      "published_iso": "2026-05-29T09:05:39+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Trump’s Boat Strikes Have Failed to Curb Cocaine Flow to U.S., Experts Say",
+      "link": "https://www.nytimes.com/2026/05/29/world/americas/us-boat-strikes-cocaine-trump-south-america.html",
+      "summary": "Despite the rising body count off the South American coast, researchers say cocaine is as easy to get in many parts of the United States as it was before the strikes began.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-05-29 17:00",
+      "published_iso": "2026-05-29T09:00:43+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "How Fuel Price Shocks Rattled a Remote New Zealand Village",
+      "link": "https://www.nytimes.com/2026/05/29/world/australia/iran-war-fuel-price-new-zealand-village.html",
+      "summary": "The prices of diesel and gasoline soared after the Iran war started, piling more hardship on people in Ruatahuna, one of New Zealand’s most remote villages.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-05-29 17:00",
+      "published_iso": "2026-05-29T09:00:19+00:00",
+      "score": 100,
+      "keywords": [
+        "war"
+      ]
+    },
+    {
+      "title": "NATO states slam Russia after drone crashes in Romania",
+      "link": "https://www.aljazeera.com/news/2026/5/29/nato-states-slam-russia-after-drone-crashes-in-romania?traffic_source=rss",
+      "summary": "The incident adds to concern that Moscow's war on Ukraine risks spilling over to entangle neighbouring NATO states.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-05-29 15:50",
+      "published_iso": "2026-05-29T07:50:50+00:00",
+      "score": 100,
+      "keywords": [
+        "russia",
+        "ukraine",
+        "war"
+      ]
+    },
+    {
+      "title": "How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’",
+      "link": "https://www.aljazeera.com/news/2026/5/29/how-indian-pm-modis-efforts-to-isolate-pakistan-backfired?traffic_source=rss",
+      "summary": "Pakistan finds itself in a diplomatic sweet spot, wooed by Trump and China. Indian missteps are to blame, say analysts",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-05-29 15:22",
+      "published_iso": "2026-05-29T07:22:06+00:00",
+      "score": 100,
+      "keywords": [
+        "china"
+      ]
+    },
+    {
+      "title": "A Draft U.S.-Iran Plan Is Said to Be on the Table. Here’s What to Know.",
+      "link": "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html",
+      "summary": "U.S. and Iranian officials say they are closing in on the terms of a preliminary agreement. Yet sticking points, particularly over the Strait of Hormuz, remain.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-05-29 15:13",
+      "published_iso": "2026-05-29T07:13:34+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Carney Says That Canada’s Distancing is Good for U.S. in New York Speech",
+      "link": "https://www.nytimes.com/2026/05/28/world/canada/carney-united-states-canada-trump.html",
+      "summary": "Speaking in New York, the Canadian prime minister called for a new relationship between Canada and United States.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-05-29 15:06",
+      "published_iso": "2026-05-29T07:06:11+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "What’s happening on Iran war day 91 as US, Iran near 60-day deal",
+      "link": "https://www.aljazeera.com/news/2026/5/29/whats-happening-on-iran-war-day-91-as-us-iran-near-60-day-deal?traffic_source=rss",
+      "summary": "US and Iran near a 60-day MoU aimed at reopening the Hormuz strait with talks slated on nuclear and other differences.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-05-29 15:04",
+      "published_iso": "2026-05-29T07:04:00+00:00",
+      "score": 100,
+      "keywords": [
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "Mother-in-law of Indian bride whose death set off media frenzy arrested",
+      "link": "https://www.bbc.com/news/articles/c2e2lw0pv7zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Twisha Sharma's death on 12 May has sparked rival claims of murder and suicide and dominated headlines.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-05-29 14:47",
+      "published_iso": "2026-05-29T06:47:39+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "State of trauma: Israel wrestles with mental aftershocks of war",
+      "link": "https://www.aljazeera.com/news/2026/5/29/state-of-trauma-israel-wrestles-with-mental-aftershocks-of-war?traffic_source=rss",
+      "summary": "Studies and officials report rising PTSD, suicide and social strain in Israel amid sustained conflicts since 2023",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-05-29 14:39",
+      "published_iso": "2026-05-29T06:39:24+00:00",
+      "score": 100,
+      "keywords": [
+        "war"
+      ]
+    },
+    {
+      "title": "Watch: Moment 14-year-old wins US national spelling bee",
+      "link": "https://www.bbc.com/news/videos/c87qnjj8x7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "A teenager from California has won the 2026 Scripps National Spelling Bee, after days of fierce competition.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-05-29 14:38",
+      "published_iso": "2026-05-29T06:38:47+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Europe Is Edging Closer to a Trade War With China. Here’s Why.",
+      "link": "https://www.nytimes.com/2026/05/29/world/europe/europe-china-trade-war-electric-cars.html",
+      "summary": "As cheap goods pour in, threatening the continent’s manufacturing sector, a search for solutions is becoming increasingly urgent.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-05-29 14:14",
+      "published_iso": "2026-05-29T06:14:17+00:00",
+      "score": 100,
+      "keywords": [
+        "china",
+        "europe",
+        "war"
+      ]
+    },
+    {
+      "title": "Live: Ukraine ready to support Romania in 'whatever way necessary', Zelensky says",
+      "link": "https://www.france24.com/en/europe/20260529-live-nato-condemns-russia-s-recklessness-after-drone-hit-apartment-building-in-romania",
+      "summary": "Ukrainian president Volodymyr Zelensky on Friday said that his country will support Bucharest \"in whatever way necessary\" after a Russian drone hit an apartment building in Romania. At least two people were injured, and a fire was ignited after the crash, acc...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-05-29 13:42",
+      "published_iso": "2026-05-29T05:42:42+00:00",
+      "score": 100,
+      "keywords": [
+        "russia",
+        "ukraine"
+      ]
+    },
+    {
+      "title": "Mexico backs amendment to annul election results over foreign interference",
+      "link": "https://www.aljazeera.com/news/2026/5/29/mexico-backs-amendment-to-annul-election-results-over-foreign-interference?traffic_source=rss",
+      "summary": "Critics say measure risks undermining electoral process and creating new avenues for contesting results.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-05-29 13:24",
+      "published_iso": "2026-05-29T05:24:37+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "Trump: the boy who cried ‘peace’ in the Middle East – podcast",
+      "link": "https://www.theguardian.com/politics/audio/2026/may/29/trump-the-boy-who-cried-peace-in-the-middle-east-podcast",
+      "summary": "On Saturday, Donald Trump said talks with Tehran were going well and an agreement to end the war was ‘largely negotiated’. On Sunday, the US launched strikes on Southern Iran. By Thursday, Donald Trump had circulated a draft peace agreement for the war with I...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-05-29 12:00",
+      "published_iso": "2026-05-29T04:00:40+00:00",
+      "score": 100,
+      "keywords": [
+        "middle east",
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "Russian drone hits apartment building in Romania near Ukraine border",
+      "link": "https://www.france24.com/en/europe/20260529-russian-drone-hits-apartment-building-in-romania-near-ukraine-border",
+      "summary": "",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-05-29 11:38",
+      "published_iso": "2026-05-29T03:38:00+00:00",
+      "score": 100,
+      "keywords": [
+        "russia",
+        "ukraine"
+      ]
+    },
+    {
+      "title": "A.I.’s Big Next Step",
+      "link": "https://www.nytimes.com/2026/05/28/world/ai-ipo-anthropic-openai-spacex-iran.html",
+      "summary": "Three major companies are planning to go public with share sales in the coming months. They could be some of the biggest market debuts in history.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-05-29 11:25",
+      "published_iso": "2026-05-29T03:25:31+00:00",
+      "score": 100,
+      "keywords": [
+        "market"
+      ]
+    },
+    {
+      "title": "After New Push by the Bolsonaros, U.S. Labels Brazilian Gangs as Terrorist Groups",
+      "link": "https://www.nytimes.com/2026/05/28/world/americas/brazil-gangs-terrorist-bolsonaro-trump.html",
+      "summary": "Following through on threats, the Trump administration has designated Brazil’s two largest drug gangs as terrorist groups.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-05-29 11:08",
+      "published_iso": "2026-05-29T03:08:44+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Moment Blue Origin rocket explodes during test in Florida",
+      "link": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Blue Origin New Glenn rocket exploded on a launch pad at Cape Canaveral in Florida on Thursday night.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-05-29 11:02",
+      "published_iso": "2026-05-29T03:02:48+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Russian drone launched against Ukraine hits apartment building in Romania",
+      "link": "https://www.france24.com/en/europe/20260529-russian-drone-hits-apartment-building-in-romania-near-ukraine-border",
+      "summary": "A drone struck a residential building in Romania’s city of Galati near the Ukrainian border, injuring two people and triggering a fire after impact, authorities said on Friday. The incident, which prompted the evacuation of dozens of residents, comes amid con...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-05-29 10:45",
+      "published_iso": "2026-05-29T02:45:59+00:00",
+      "score": 100,
+      "keywords": [
+        "russia",
+        "ukraine"
+      ]
+    },
+    {
+      "title": "Netanyahu says he has directed IDF to increase control of Gaza to 70%",
+      "link": "https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The expansion in control by Israel would contradict the terms of the ceasefire Israel and Hamas agreed to in October 2025.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-05-29 10:24",
+      "published_iso": "2026-05-29T02:24:52+00:00",
+      "score": 100,
+      "keywords": [
+        "ceasefire"
+      ]
+    },
+    {
+      "title": "Italy restores lucky testicles on bull mosaic worn down by tourists",
+      "link": "https://www.bbc.com/news/articles/c1m215npjp2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The artwork is the centre of a tradition that involves visitors performing three spins on it for good fortune.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-05-29 10:01",
+      "published_iso": "2026-05-29T02:01:44+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Middle East war live: Israeli strikes put Lebanon's heritage sites in 'serious danger', Beirut says",
+      "link": "https://www.france24.com/en/middle-east/20260529-middle-east-war-live-vance-says-us-and-iran-close-to-agreement-as-ceasefire-deal-reported",
+      "summary": "Israeli strikes on southern Lebanon are putting heritage sites in “serious danger”, warned Beirut's Minister of Culture Ghassan Salamé. \"Bombings fell very close to the ruins of Tyre,\" he said, while adding that the Beaufort Castle was “directly hit”. Follow...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-05-29 09:39",
+      "published_iso": "2026-05-29T01:39:31+00:00",
+      "score": 100,
+      "keywords": [
+        "middle east",
+        "war"
+      ]
+    },
+    {
+      "title": "JD Vance says US ‘not there yet’ on an Iran deal – as it happened",
+      "link": "https://www.theguardian.com/world/live/2026/may/28/middle-east-crisis-trump-us-iran-war-lebanon-israel-strikes-latest-news-live",
+      "summary": "This live blog is now closed, you can read our latest report from the Middle East here Donald Trump shares draft Iran peace agreement with Israel and other allies Hezbollah has claimed dozens of drone and rocket attacks that it said targeted Israeli troops in...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-05-29 09:30",
+      "published_iso": "2026-05-29T01:30:35+00:00",
+      "score": 100,
+      "keywords": [
+        "middle east",
+        "us"
+      ]
+    },
+    {
+      "title": "Italian Police Uncover Dead Mob Boss’s $230 Million Business Empire",
+      "link": "https://www.nytimes.com/2026/05/28/world/europe/messina-denaro-mafia-assets.html",
+      "summary": "When Matteo Messina Denaro died in 2023, many of his secrets died with him. That began to change with a tip about a wealthy Sicilian woman’s significant assets in a tiny European principality.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-05-29 08:23",
+      "published_iso": "2026-05-29T00:23:56+00:00",
+      "score": 100,
+      "keywords": [
+        "europe"
+      ]
+    },
+    {
+      "title": "Donald Trump shares draft Iran peace agreement with Israel and other allies",
+      "link": "https://www.theguardian.com/world/2026/may/28/donald-trump-shares-draft-iran-peace-agreement-with-israel-and-other-allies",
+      "summary": "US president’s move comes as both sides try to prevent fresh ceasefire breaches scuppering a potential deal Middle East crisis – live updates Donald Trump has circulated a draft peace agreement for the war with Iran among allies including Israel as both sides...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-05-29 08:09",
+      "published_iso": "2026-05-29T00:09:01+00:00",
+      "score": 100,
+      "keywords": [
+        "ceasefire",
+        "middle east",
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "Portugal breaks hottest May day record as Europe swelters in heatwave",
+      "link": "https://www.bbc.com/news/articles/c3v2yv5207xo?at_medium=RSS&at_campaign=rss",
+      "summary": "French students are taking their exams in baking schools, while red alerts are issued in Italy.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-05-29 07:36",
+      "published_iso": "2026-05-28T23:36:01+00:00",
+      "score": 100,
+      "keywords": [
+        "europe"
+      ]
+    },
+    {
+      "title": "Netanyahu orders Israeli army to seize ‘70% of Gaza Strip’, violating ceasefire deal",
+      "link": "https://www.theguardian.com/world/2026/may/28/netanyahu-orders-israeli-army-seize-70-gaza-strip-violating-ceasefire-deal",
+      "summary": "Speaking in West Bank settlement, Israeli PM, who is fighting for political survival before elections, says ‘we are squeezing Hamas’ Middle East crisis – live updates Benjamin Netanyahu has said he has given orders to the Israeli army to seize control of 70%...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-05-29 02:14",
+      "published_iso": "2026-05-28T18:14:28+00:00",
+      "score": 100,
+      "keywords": [
+        "ceasefire",
+        "election",
+        "middle east"
+      ]
+    },
+    {
+      "title": "Israel hits Lebanese capital in 'targeted strike'",
+      "link": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Beirut had until now largely been spared even as both Israel and Hezbollah accused each other of breaking last month's ceasefire.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-05-29 01:39",
+      "published_iso": "2026-05-28T17:39:16+00:00",
+      "score": 100,
+      "keywords": [
+        "ceasefire"
+      ]
+    },
+    {
+      "title": "Learning from Ukraine war, Hezbollah is now using fibre-optic drones to hit Israel",
+      "link": "https://www.bbc.com/news/articles/c0r2ydlvk41o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fibre-optic drones are now Hezbollah's primary weapon against Israel's soldiers and civilians.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-05-29 00:39",
+      "published_iso": "2026-05-28T16:39:30+00:00",
+      "score": 100,
+      "keywords": [
+        "ukraine",
+        "war"
+      ]
+    },
+    {
+      "title": "EU to discuss potential restrictions on Chinese imports amid fears of overreliance",
+      "link": "https://www.theguardian.com/world/2026/may/28/eu-discuss-restrictions-chinese-imports-fears-overreliance",
+      "summary": "Concerns among commissioners in bloc that surge in imports could lead to decline similar to that of US rust belt towns EU commissioners will meet on Friday for crunch talks aimed at imposing new restrictions on imports from China amid growing concern that Bei...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-05-29 00:29",
+      "published_iso": "2026-05-28T16:29:59+00:00",
+      "score": 100,
+      "keywords": [
+        "china",
+        "us"
+      ]
+    }
+  ]
+}
