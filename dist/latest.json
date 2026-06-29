@@ -1,17 +1,63 @@
 {
-  "generated_at": "2026-06-28T05:04:09+00:00",
+  "generated_at": "2026-06-29T05:13:09+00:00",
   "article_count": 80,
   "source_count": 8,
   "errors": [],
   "articles": [
     {
-      "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
-      "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
-      "source": "BBC World",
+      "title": "Australia politics live: Taylor asks when Albanese will ‘clean up the treasurer’s mess’ as Labor targets Liberals over ‘rebrand’",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jun/29/australia-politics-live-vanuatu-nakamal-treaty-pacific-china-anthony-albanese-jotham-napat-one-nation-coalition-pauline-hanson-angus-taylor-royal-commission-antisemitism-ntwnfb",
+      "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Royal commission hearings resume today The next round of hearings for the antisemitism royal commission begins today. Regretfully, we’re here until Thursday night with Parli...",
+      "source": "The Guardian World",
       "region": "World",
-      "published": "2026-06-28 04:54",
-      "published_iso": "2026-06-28T04:54:50+00:00",
+      "published": "2026-06-29 05:04",
+      "published_iso": "2026-06-29T05:04:14+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Reversing UK employment tax rises ‘would do little to help young people find jobs’",
+      "link": "https://www.theguardian.com/business/2026/jun/29/reversing-uk-employment-tax-rises-would-do-little-to-help-young-people-find-jobs",
+      "summary": "Resolution Foundation calls for extra funding for apprenticeships and increase in number of youth support grants Ministers should reject calls to reverse employment tax increases as a way to boost jobs for young people in favour of extra funding for apprentic...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-06-29 05:00",
+      "published_iso": "2026-06-29T05:00:30+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Doubling leave to remain timeframe for UK care workers ‘cruel’, say campaigners",
+      "link": "https://www.theguardian.com/uk-news/2026/jun/29/leave-to-remain-care-workers-campaigners-mike-tapp-shabana-mahmood",
+      "summary": "Experts and activists back Mike Tapp’s proposal for care worker exclusion that led to row with Shabana Mahmood Doubling the leave to remain timeframe for care workers to 10 years is “cruel and unconscionable”, according to workers rights campaigners who back...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-06-29 05:00",
+      "published_iso": "2026-06-29T05:00:29+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Europe’s Heat Politics",
+      "link": "https://www.nytimes.com/2026/06/28/world/heat-wave-europe-iran-venezuela.html",
+      "summary": "As the continent swelters, some right-wing populists are talking up their support for air-conditioning.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-06-29 04:58",
+      "published_iso": "2026-06-29T04:58:53+00:00",
+      "score": 100,
+      "keywords": [
+        "europe"
+      ]
+    },
+    {
+      "title": "Mideast Live Updates: U.S. Indicates a Deal to Suspend Attacks in Strait but Iran Hasn’t Confirmed",
+      "link": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
+      "summary": "A U.S. official said the U.S. and Iran agreed to halt attacks in the Strait of Hormuz and allow vessels to move freely. Hostilities in recent days have threatened a two-week-old cease-fire.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-06-29 04:45",
+      "published_iso": "2026-06-29T04:45:15+00:00",
       "score": 100,
       "keywords": [
         "ceasefire",
@@ -19,250 +65,361 @@
       ]
     },
     {
-      "title": "Mideast Live Updates: U.S. and Iran Trade More Strikes, Testing Truce",
-      "link": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
-      "summary": "U.S. forces carried out more airstrikes on Iran, calling them a retaliation for an attack on an oil tanker. Iran’s military later said it had attacked American targets in Bahrain and Kuwait.",
-      "source": "NYTimes World",
+      "title": "Pakistan launches deadly strikes along Afghan border",
+      "link": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pakistan says its strikes were a response to \"recent terrorist attacks against innocent people\".",
+      "source": "BBC World",
       "region": "World",
-      "published": "2026-06-28 04:45",
-      "published_iso": "2026-06-28T04:45:18+00:00",
+      "published": "2026-06-29 04:39",
+      "published_iso": "2026-06-29T04:39:05+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
+      "link": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening?traffic_source=rss",
+      "summary": "Brent crude edges up as tit-for-tat strikes imperial return to normality in key waterway.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-06-29 03:55",
+      "published_iso": "2026-06-29T03:55:02+00:00",
       "score": 100,
       "keywords": [
         "us"
       ]
     },
     {
-      "title": "Venezuela Live Updates: Chaotic Rush to Help Victims Delays Some Rescues",
-      "link": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake",
-      "summary": "A surge of people rushed into the devastated earthquake zone to offer help in northern Venezuela, slowing the advance of emergency responders. The death toll linked to twin quakes earlier in the week surpassed 1,400.",
-      "source": "NYTimes World",
+      "title": "Anger directed at Venezuela's official response to earthquake recovery",
+      "link": "https://www.bbc.co.uk/news/videos/cj4glezz1jvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Residents in quake-affected areas have expressed anger over the state's efforts to locate survivors and help victims, the BBC's Orla Guerin reports.",
+      "source": "BBC World",
       "region": "World",
-      "published": "2026-06-28 04:43",
-      "published_iso": "2026-06-28T04:43:05+00:00",
+      "published": "2026-06-29 03:35",
+      "published_iso": "2026-06-29T03:35:09+00:00",
       "score": 100,
       "keywords": [
         "earthquake"
       ]
     },
     {
-      "title": "World Cup 2026: Algeria, Austria advance after draw as Iran crash out in group stage",
-      "link": "https://www.france24.com/en/sport/20260628-world-cup-2026-algeria-austria-advance-after-draw-as-iran-crash-out-in-group-stage",
-      "summary": "Austria fought back to salvage a dramatic 3-3 draw with Algeria in their final World Cup Group J match on Saturday, with two stoppage-time goals securing both teams a place in the Round of 32 and eliminating Iran. Argentina topped the group, while Austria fin...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-06-28 04:16",
-      "published_iso": "2026-06-28T04:16:53+00:00",
+      "title": "South Korea football coach quits as president calls for probe into World Cup loss",
+      "link": "https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss",
+      "summary": "South Korea was eliminated after missing out on a spot among the eight best third-placed teams.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-06-29 03:34",
+      "published_iso": "2026-06-29T03:34:21+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "A Mayor Is Taking Maternity Leave in Japan. Some Men Are Furious.",
-      "link": "https://www.nytimes.com/2026/06/28/world/asia/japan-mayor-maternity-leave.html",
-      "summary": "Shoko Kawata is the first mayor to take maternity leave in Japan’s history. Her decision has prompted debate about gender discrimination in the work force.",
-      "source": "NYTimes World",
+      "title": "Victorian premier blames ‘inflation not corruption’ for Big Build cost blowouts amid fresh allegations",
+      "link": "https://www.theguardian.com/australia-news/2026/jun/29/jacinta-allan-victoria-big-build-royal-commission-calls-corruption-allegations-ntwnfb",
+      "summary": "Jacinta Allan resists calls for royal commission into state’s infrastructure projects as pressure mounts following new reports Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Jacinta Allan ha...",
+      "source": "The Guardian World",
       "region": "World",
-      "published": "2026-06-28 04:01",
-      "published_iso": "2026-06-28T04:01:06+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Drones Used to Fight Mosquitoes as Dengue Fever Surges in Sri Lanka",
-      "link": "https://www.nytimes.com/2026/06/28/world/asia/sri-lanka-dengue-mosquito-drones-military.html",
-      "summary": "The military has joined the battle against the insects, as an outbreak strains hospitals in a country already reeling from energy shortages caused by the Iran War.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-06-28 04:00",
-      "published_iso": "2026-06-28T04:00:06+00:00",
+      "published": "2026-06-29 03:32",
+      "published_iso": "2026-06-29T03:32:04+00:00",
       "score": 100,
       "keywords": [
-        "energy",
+        "inflation"
+      ]
+    },
+    {
+      "title": "Australian man charged with murder after Thai girl’s body found in suitcase",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/australian-man-charged-with-murder-after-thai-girls-body-found-in-suitcase?traffic_source=rss",
+      "summary": "Simon Peter Carman has been charged with murder after the body of 17-year-old Tunchanok Donhomla was found in a suitcase",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-06-29 03:12",
+      "published_iso": "2026-06-29T03:12:32+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Venezuelans angry with government as time runs out to rescue survivors",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/venezuelans-angry-government-as-time-runs-out-to-dig-out-survivors?traffic_source=rss",
+      "summary": "Residents and volunteers say they feel abandoned by the government as they race to save lives from the rubble.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-06-29 03:12",
+      "published_iso": "2026-06-29T03:12:14+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Pakistan carries out deadly airstrikes along Afghanistan border",
+      "link": "https://www.theguardian.com/world/2026/jun/29/pakistan-deadly-airstrikes-afghanistan-border",
+      "summary": "The attacks on Monday were the latest flare-up of violence between the two countries, which fought a weeks-long war in February Pakistan has said at least 25 people were killed in airstrikes it launched targeting militants in eastern Afghanistan, as the Afgha...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-06-29 03:10",
+      "published_iso": "2026-06-29T03:10:53+00:00",
+      "score": 100,
+      "keywords": [
         "war"
       ]
     },
     {
-      "title": "US strikes Iran again as Tehran hits Bahrain and Kuwait",
-      "link": "https://www.france24.com/en/middle-east/20260628-us-strikes-more-targets-in-iran-as-fragile-ceasefire-comes-under-renewed-strain",
+      "title": "ABC and SBS to appear at antisemitism royal commission after complaints of ‘unbalanced’ Middle East coverage",
+      "link": "https://www.theguardian.com/australia-news/2026/jun/29/abc-sbs-to-appear-antisemitism-rc-royal-commission-bondi-attack-inquiry-ntwnfb",
+      "summary": "Bondi attack inquiry told broadcasters will be called as commission focuses on traditional and social media Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Representatives from the ABC and SB...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-06-29 03:04",
+      "published_iso": "2026-06-29T03:04:31+00:00",
+      "score": 100,
+      "keywords": [
+        "middle east"
+      ]
+    },
+    {
+      "title": "Putin says Ukraine proposed halt to deep strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/putin-says-ukraine-proposed-halt-to-deep-strikes?traffic_source=rss",
+      "summary": "Russian President Vladimir Putin says Ukraine has proposed a mutual halt to long-range strikes",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-06-29 03:03",
+      "published_iso": "2026-06-29T03:03:34+00:00",
+      "score": 100,
+      "keywords": [
+        "russia",
+        "ukraine"
+      ]
+    },
+    {
+      "title": "Shares in chipmakers underpinning AI boom rocket in first half of 2026",
+      "link": "https://www.theguardian.com/business/2026/jun/29/shares-in-chipmakers-underpinning-ai-boom-surge-in-first-half-of-2026",
+      "summary": "Value of some chip manufacturers have tripled, or more, driving Asia Pacific stock markets sharply higher Shares in chipmakers have surged in the first half of this year as investors piled into companies that make the hardware underpinning the AI boom, accord...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-06-29 03:00",
+      "published_iso": "2026-06-29T03:00:26+00:00",
+      "score": 100,
+      "keywords": [
+        "ai",
+        "market"
+      ]
+    },
+    {
+      "title": "Venezuela’s earthquakes pose first major test for President Delcy Rodriguez",
+      "link": "https://www.aljazeera.com/features/longform/2026/6/29/venezuelas-earthquakes-pose-first-major-test-for-president-delcy-rodriguez?traffic_source=rss",
+      "summary": "The seismic disaster has stirred public anger against government mismanagement under Venezuela's ruling socialist party.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-06-29 02:44",
+      "published_iso": "2026-06-29T02:44:17+00:00",
+      "score": 100,
+      "keywords": [
+        "earthquake"
+      ]
+    },
+    {
+      "title": "US says Iran talks to continue, with 'both sides' pausing strikes",
+      "link": "https://www.france24.com/en/middle-east/20260629-middle-east-live-lebanon-rejects-us%E2%80%93israel-framework-hezbollah-asserts-right-to-self-defence",
       "summary": "",
       "source": "France 24",
       "region": "Europe",
-      "published": "2026-06-28 03:49",
-      "published_iso": "2026-06-28T03:49:54+00:00",
+      "published": "2026-06-29 02:21",
+      "published_iso": "2026-06-29T02:21:07+00:00",
       "score": 100,
       "keywords": [
         "us"
       ]
     },
     {
-      "title": "Auction clearance rates continue to hover under 50% – as it happened",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jun/28/australia-news-live-sunday-nsw-shark-spotting-drones-politics-ntwnfb",
-      "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast Big tech not cooperating ‘as much as we’d like them to’: Watt Federal cabinet minister Murray Watt , says the government knows it’s needed to take more action to ensure socia...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-06-28 03:46",
-      "published_iso": "2026-06-28T03:46:39+00:00",
+      "title": "Pakistan says retaliatory airstrikes in Afghanistan killed 25 militants",
+      "link": "https://www.france24.com/en/middle-east/20260629-pakistan-says-retaliatory-airstrikes-in-afghanistan-killed-25-militants",
+      "summary": "Pakistan has said it carried out airstrikes and ground operations in eastern Afghanistan, killing 25 militants, in response to recent deadly attacks, including the killing of paramilitary troops in Karachi. Islamabad says the strikes targeted militant groups...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-06-29 02:14",
+      "published_iso": "2026-06-29T02:14:05+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "Gulf countries attacked after US launches second round of strikes on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/gulf-countries-attacked-after-us-launches-second-round-of-strikes-on-iran?traffic_source=rss",
-      "summary": "Gulf countries attacked after US launches second round of strikes on Iran.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-06-28 03:40",
-      "published_iso": "2026-06-28T03:40:58+00:00",
+      "title": "Australian man charged with murder after dead girl found in suitcase in Thailand",
+      "link": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
+      "summary": "The body of Tunchanok Donhomla, 17, was found discarded near a railway track on Saturday, police say.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-06-29 01:58",
+      "published_iso": "2026-06-29T01:58:29+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Middle East live: US says Iran talks to continue, with 'both sides' pausing strikes",
+      "link": "https://www.france24.com/en/middle-east/20260629-middle-east-live-lebanon-rejects-us%E2%80%93israel-framework-hezbollah-asserts-right-to-self-defence",
+      "summary": "The United States and Iran will continue their talks aimed at ending the Middle East war, a US official said on Sunday, adding that both sides will stand down after recent clashes. This comes hours after Lebanese Parliament Speaker Nabih Berri rejected a US–I...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-06-29 01:47",
+      "published_iso": "2026-06-29T01:47:38+00:00",
+      "score": 100,
+      "keywords": [
+        "middle east",
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend",
+      "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+      "summary": "With tens of thousands of people missing, relatives face another night waiting for news of loved ones as the crucial window for locating survivors closes.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-06-29 01:23",
+      "published_iso": "2026-06-29T01:23:32+00:00",
+      "score": 100,
+      "keywords": [
+        "earthquake"
+      ]
+    },
+    {
+      "title": "U.S.-Iran Deal’s Vague Language Comes Back to Haunt Peace Efforts",
+      "link": "https://www.nytimes.com/2026/06/27/world/middleeast/us-iran-deal-vague-language.html",
+      "summary": "The deal called for Iran to “make arrangements” for the passage of ships through the Strait of Hormuz. Iran has interpreted that to mean it can designate which routes ships take.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-06-29 01:10",
+      "published_iso": "2026-06-29T01:10:04+00:00",
       "score": 100,
       "keywords": [
         "us"
       ]
     },
     {
-      "title": "US and Iran trade strikes as both sides accuse the other of endangering ceasefire",
-      "link": "https://www.theguardian.com/us-news/2026/jun/27/us-iran-strikes",
-      "summary": "Flare-up in tensions comes as Washington and Tehran have been negotiating a memorandum of understanding to end an unpopular war The US military has launched further strikes on multiple targets in Iran , a day after it struck Iran in retaliation for a drone at...",
+      "title": "Venezuela earthquake: father and son found alive in rubble after four days as death toll nears 1,500",
+      "link": "https://www.theguardian.com/world/2026/jun/29/venezuela-earthquake-death-toll-father-son-alive",
+      "summary": "President says ‘we always hold onto hope’ as discovery of earthquake survivors spurs fresh search efforts despite dwindling chances of survival Mortuary in Caracas ‘overwhelmed’ as Venezuela struggles to respond after earthquakes A man and his teenage son wer...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-06-28 03:09",
-      "published_iso": "2026-06-28T03:09:57+00:00",
+      "published": "2026-06-29 01:09",
+      "published_iso": "2026-06-29T01:09:09+00:00",
+      "score": 100,
+      "keywords": [
+        "earthquake"
+      ]
+    },
+    {
+      "title": "Rescuers in ‘Critical Hours’ as Window to Find Survivors Closes",
+      "link": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake",
+      "summary": "More than three days after twin earthquakes devastated the Venezuelan coast, the rescue effort faced chaos and delays as the chances of finding survivors diminished.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-06-29 01:07",
+      "published_iso": "2026-06-29T01:07:57+00:00",
+      "score": 100,
+      "keywords": [
+        "earthquake"
+      ]
+    },
+    {
+      "title": "Pakistan says its security forces killed 29 fighters along Afghan border",
+      "link": "https://www.aljazeera.com/news/2026/6/29/pakistan-says-its-security-forces-killed-29-fighters-along-afghan-border?traffic_source=rss",
+      "summary": "Strikes come a day after fighters armed with guns and explosives killed three soldiers in Karachi.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-06-29 01:06",
+      "published_iso": "2026-06-29T01:06:44+00:00",
+      "score": 100,
+      "keywords": [
+        "security"
+      ]
+    },
+    {
+      "title": "Search teams rescued 33 people from the rubble on Saturday.",
+      "link": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake/search-teams-rescued-33-people-from-the-rubble-on-saturday",
+      "summary": "Survivors are still being rescued after more than three days since the earthquakes.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-06-29 01:04",
+      "published_iso": "2026-06-29T01:04:52+00:00",
+      "score": 100,
+      "keywords": [
+        "earthquake"
+      ]
+    },
+    {
+      "title": "Father and son pulled out alive four days after Venezuela earthquake",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/father-and-son-pulled-out-alive-four-days-after-venezuela-earthquake?traffic_source=rss",
+      "summary": "ootage shows search and rescue workers pulling out father and son from under the rubble of a collapsed building.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-06-29 00:41",
+      "published_iso": "2026-06-29T00:41:32+00:00",
+      "score": 100,
+      "keywords": [
+        "earthquake"
+      ]
+    },
+    {
+      "title": "Iran war live: Tehran insists on control of Hormuz amid reports of US talks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/29/iran-war-live-tehran-insists-on-control-of-hormuz-amid-reports-of-us-talks?traffic_source=rss",
+      "summary": "Washington and Tehran have agreed to stop attacks and renew talks in the Qatari capital, Doha, Axios reports.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-06-29 00:00",
+      "published_iso": "2026-06-29T00:00:00+00:00",
+      "score": 100,
+      "keywords": [
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "In Venezuela, a Community Comes Together to Search for Earthquake Survivors",
+      "link": "https://www.nytimes.com/2026/06/28/world/americas/caracas-venezuela-earthquake-rescue.html",
+      "summary": "Volunteers in a middle-class neighborhood in Caracas used drills, picks and hammers to break through concrete, trying to find anyone in need of rescue.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-06-28 22:33",
+      "published_iso": "2026-06-28T22:33:49+00:00",
+      "score": 100,
+      "keywords": [
+        "earthquake"
+      ]
+    },
+    {
+      "title": "Heightened emotions in Iran after Team Melli knocked out of World Cup",
+      "link": "https://www.aljazeera.com/sports/2026/6/28/heightened-emotions-in-iran-after-team-melli-knocked-out-of-world-cup?traffic_source=rss",
+      "summary": "This is the second World Cup that comes after deadly nationwide protests inside Iran, and the first one amid a war",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-06-28 21:55",
+      "published_iso": "2026-06-28T21:55:27+00:00",
+      "score": 100,
+      "keywords": [
+        "war"
+      ]
+    },
+    {
+      "title": "Putin admits Ukrainian strikes driving Russian fuel shortages",
+      "link": "https://www.theguardian.com/world/2026/jun/28/putin-admits-ukrainian-strikes-driving-russian-fuel-shortages",
+      "summary": "Russia’s president says Ukraine’s attacks on infrastructure are causing ‘obvious’ but not critical problems The Russian president, Vladimir Putin, acknowledged that the country was suffering from “a certain shortage” of fuel in an interview published by the K...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-06-28 21:52",
+      "published_iso": "2026-06-28T21:52:52+00:00",
+      "score": 100,
+      "keywords": [
+        "russia",
+        "ukraine"
+      ]
+    },
+    {
+      "title": "Iran Risks Peace Talks With U.S. to Maintain Leverage Over Strait",
+      "link": "https://www.nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html",
+      "summary": "Iran sees its control over the Strait of Hormuz as critical leverage in peace talks with the United States. It seems willing to risk the cease-fire to maintain that power.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-06-28 21:48",
+      "published_iso": "2026-06-28T21:48:32+00:00",
       "score": 100,
       "keywords": [
         "ceasefire",
-        "us",
-        "war"
-      ]
-    },
-    {
-      "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake/heres-the-latest",
-      "summary": "",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-06-28 02:32",
-      "published_iso": "2026-06-28T02:32:14+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "U.S. Officials Said to Be Frustrated With Machado’s Call for Help",
-      "link": "https://www.nytimes.com/2026/06/27/world/americas/us-officials-frustrated-with-exiled-venezuelan-leaders-call-for-help.html",
-      "summary": "María Corina Machado, the exiled leader of the Venezuelan opposition, hopes to go home. U.S. officials say her wishes to do so come at an inopportune time.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-06-28 02:30",
-      "published_iso": "2026-06-28T02:30:02+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "New Caledonia polls open in first local vote in the French territory since 2019",
-      "link": "https://www.theguardian.com/world/2026/jun/28/new-caledonia-polls-open-in-first-local-vote-in-the-french-territory-since-2019",
-      "summary": "Election will determine balance of power in New Caledonia before fresh negotiations with France on the territory’s status Polls opened in the French overseas territory of New Caledonia on Sunday for the archipelago’s first provincial elections since 2019, aft...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-06-28 02:26",
-      "published_iso": "2026-06-28T02:26:48+00:00",
-      "score": 100,
-      "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "Bad Bunny: Latin star lights up London with history-making stadium show",
-      "link": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Pride and a party as the Puerto Rican becomes the first Latin artist to headline a UK stadium.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-06-28 01:46",
-      "published_iso": "2026-06-28T01:46:24+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Chinese Dissident Who Fled by Sea to South Korea Lands in Canada",
-      "link": "https://www.nytimes.com/2026/06/27/world/americas/china-dissident-dong-guangping-canada.html",
-      "summary": "Dong Guangping, who reached Toronto on Friday after a decade of failed attempts to escape China, recounted how he traveled by sea to South Korea last month.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-06-28 01:02",
-      "published_iso": "2026-06-28T01:02:02+00:00",
-      "score": 100,
-      "keywords": [
-        "china"
-      ]
-    },
-    {
-      "title": "These women said no to having kids - here's why",
-      "link": "https://www.bbc.co.uk/news/articles/cz0jx2z2l41o?at_medium=RSS&at_campaign=rss",
-      "summary": "From financial constraints to worries about the environment, women tell the BBC why they do not want kids.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-06-28 00:39",
-      "published_iso": "2026-06-28T00:39:41+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Sort Your Life Out: The four most common cluttering mistakes and how to fix them",
-      "link": "https://www.bbc.co.uk/news/articles/cvgd54yvjz1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Tidying expert Dilly Carter shares her best tips on organising your kitchen, lounge and clothes.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-06-28 00:32",
-      "published_iso": "2026-06-28T00:32:07+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "I'm in therapy for my 14-hour-a-day phone addiction and I'm determined to beat it",
-      "link": "https://www.bbc.co.uk/news/articles/cvg7v7j3wqwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Addiction treatment centres say more clients are coming for help with \"out-of-control\" phone use.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-06-28 00:20",
-      "published_iso": "2026-06-28T00:20:42+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Anger grows in Venezuela as citizens blocked from aiding earthquake rescue",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/anger-grows-in-venezuela-as-citizens-blocked-from-aiding-earthquake-rescue?traffic_source=rss",
-      "summary": "Anger is mounting in Venezuela after the military barred citizens from entering zones devastated by the earthquakes.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-06-28 00:09",
-      "published_iso": "2026-06-28T00:09:46+00:00",
-      "score": 100,
-      "keywords": [
-        "earthquake"
-      ]
-    },
-    {
-      "title": "Iran war live: Tehran attacks Bahrain, Kuwait after US bombs Iranian coast",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
-      "summary": "Donald Trump threatens to 'militarily complete the job' as the US strikes Sirik and Qeshm Island over ship attacks.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-06-28 00:00",
-      "published_iso": "2026-06-28T00:00:00+00:00",
-      "score": 100,
-      "keywords": [
-        "us",
-        "war"
-      ]
-    },
-    {
-      "title": "What news reports from 1600s tell us about life in Mughal India",
-      "link": "https://www.bbc.co.uk/news/articles/c1dy5y3y2g3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of forgotten news reports are reshaping our understanding of Aurangzeb and the Mughal world.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-06-27 23:40",
-      "published_iso": "2026-06-27T23:40:43+00:00",
-      "score": 100,
-      "keywords": [
         "us"
       ]
     },
@@ -272,128 +429,124 @@
       "summary": "A medical team set out from the capital to rescue people in the hardest-hit part of the disaster zone, La Guaira. They found silence in the ruins instead.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-06-27 23:20",
-      "published_iso": "2026-06-27T23:20:02+00:00",
+      "published": "2026-06-28 21:19",
+      "published_iso": "2026-06-28T21:19:39+00:00",
       "score": 100,
       "keywords": [
         "earthquake"
       ]
     },
     {
-      "title": "A Rush of Volunteers in Venezuela Has Slowed Rescue Efforts",
-      "link": "https://www.nytimes.com/2026/06/27/world/americas/venezuela-earthquake-volunteers-traffic.html",
-      "summary": "The outpouring of volunteer aid after Venezuela’s earthquakes clogged the only road into the disaster zone, delaying rescue crews.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-06-27 23:14",
-      "published_iso": "2026-06-27T23:14:57+00:00",
-      "score": 100,
-      "keywords": [
-        "earthquake"
-      ]
-    },
-    {
-      "title": "Four people have died from flash floods in Kentucky, governor says",
-      "link": "https://www.theguardian.com/us-news/2026/jun/27/kentucky-flood-deaths-storms",
-      "summary": "Floods caused by thunderstorms that have dumped inches of rain on Kentucky and Indiana, with more possible Andy Beshear, the Kentucky governor, says four people have died as a result of flash floods from thunderstorms that have brought as much as 7in (18cm) o...",
+      "title": "Heatwave and high humidity to blast much of US: ‘impactful to anyone’",
+      "link": "https://www.theguardian.com/us-news/2026/jun/28/heatwave-humidity-fourth-of-july-weather",
+      "summary": "Forecasters expect days of high temperatures in central and eastern US before Fourth of July and World Cup festivities A long and dangerous heatwave will blast a large swath of the central and eastern United States for the upcoming week, the National Weather...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-06-27 23:14",
-      "published_iso": "2026-06-27T23:14:20+00:00",
-      "score": 100,
-      "keywords": [
-        "flood"
-      ]
-    },
-    {
-      "title": "Millie Bobby Brown and Louis Partridge on belly laughs, sibling vibes and Enola Holmes",
-      "link": "https://www.bbc.co.uk/news/articles/c77ydenvkv1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Brown talks to the BBC about having her \"hands and heart\" all over the detective adventure series.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-06-27 23:11",
-      "published_iso": "2026-06-27T23:11:14+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
-      "link": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss",
-      "summary": "Very few North Koreans know about her, as her origin could threaten the regime’s legitimacy.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-06-27 23:10",
-      "published_iso": "2026-06-27T23:10:39+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "US launches second night of strikes on Iran after ship hit by drone",
-      "link": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
-      "summary": "The attacks come after an alleged Iranian drone struck another commercial vessel in the Strait of Hormuz on Saturday.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-06-27 22:07",
-      "published_iso": "2026-06-27T22:07:03+00:00",
+      "published": "2026-06-28 20:53",
+      "published_iso": "2026-06-28T20:53:29+00:00",
       "score": 100,
       "keywords": [
         "us"
       ]
     },
     {
-      "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
-      "summary": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-06-27 21:35",
-      "published_iso": "2026-06-27T21:35:40+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Panic attacks and fractures - Venezuela hospital treats earthquake victims",
-      "link": "https://www.bbc.co.uk/news/videos/cm2d0rjg4l3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC travelled to a Caracas hospital that is treating people from the worst affected areas.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-06-27 21:33",
-      "published_iso": "2026-06-27T21:33:12+00:00",
+      "title": "Pope Leo prays for Venezuela’s recovery after deadly quakes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/pope-leo-prays-for-venezuelas-recovery-after-deadly-quakes?traffic_source=rss",
+      "summary": "Pope Leo expressed solidarity with Venezuelans after two deadly earthquakes claimed the lives of at least 1,400.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-06-28 20:21",
+      "published_iso": "2026-06-28T20:21:47+00:00",
       "score": 100,
       "keywords": [
         "earthquake"
       ]
     },
     {
-      "title": "Budapest's first Pride since Orban left power",
-      "link": "https://www.bbc.co.uk/news/videos/c23yezpg2ypo?at_medium=RSS&at_campaign=rss",
-      "summary": "Budapest held its first Pride march since the end of former prime minister Viktor Orban's 16-year government with thousands turning out to celebrate.",
+      "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+      "link": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
+      "summary": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-06-27 21:28",
-      "published_iso": "2026-06-27T21:28:04+00:00",
+      "published": "2026-06-28 19:37",
+      "published_iso": "2026-06-28T19:37:07+00:00",
+      "score": 100,
+      "keywords": [
+        "europe"
+      ]
+    },
+    {
+      "title": "Germany, Czechia, Poland and Hungary swelter through hottest days on record",
+      "link": "https://www.theguardian.com/environment/2026/jun/28/temperature-records-tumble-across-europe-as-heatwave-moves-east",
+      "summary": "Heat records of over 40C set as extreme weather spreads east, with more than 191m in Europe enduring 35C or above After decades of warnings, why is Europe so unprepared? Germany, Czechia, Poland and Hungary reached record temperatures of more than 40C on Sund...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-06-28 19:27",
+      "published_iso": "2026-06-28T19:27:08+00:00",
+      "score": 100,
+      "keywords": [
+        "europe"
+      ]
+    },
+    {
+      "title": "Can the ICJ help end the war in the eastern DRC?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/6/28/can-the-icj-help-end-the-war-in-the-eastern-drc?traffic_source=rss",
+      "summary": "The Democratic Republic of Congo takes Rwanda to the International Court of Justice.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-06-28 19:24",
+      "published_iso": "2026-06-28T19:24:05+00:00",
+      "score": 100,
+      "keywords": [
+        "war"
+      ]
+    },
+    {
+      "title": "US and Iran trade strikes days after peace agreement",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-and-iran-trade-strikes-days-after-peace-agreement?traffic_source=rss",
+      "summary": "Just days after signing a memorandum of understanding, the US and Iran have traded strikes.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-06-28 18:55",
+      "published_iso": "2026-06-28T18:55:53+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "US homeland security secretary tells migrants to seek permanent status or leave",
+      "link": "https://www.theguardian.com/us-news/2026/jun/28/markwayne-mullin-migrants-permanent-residence-tps-ruling",
+      "summary": "Markwayne Mullin’s remarks come after controversial supreme court ruling to strip TPS from over 350,000 people Migrants in the US on temporary protected status should seek permanent residence or leave, Markwayne Mullin, Homeland Security secretary, said in th...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-06-28 18:48",
+      "published_iso": "2026-06-28T18:48:40+00:00",
+      "score": 100,
+      "keywords": [
+        "security",
+        "us"
+      ]
+    },
+    {
+      "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
+      "link": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pilot and 10 passengers - including five first-time parachutists - died in the incident, local officials said.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-06-28 18:34",
+      "published_iso": "2026-06-28T18:34:07+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
-      "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-06-27 21:12",
-      "published_iso": "2026-06-27T21:12:51+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "New strikes test the Iran ceasefire",
-      "link": "https://www.npr.org/2026/06/27/nx-s1-5869562/new-strikes-test-the-iran-ceasefire",
-      "summary": "The ceasefire between the U.S. and Iran is being tested after new attacks in the Strait of Hormuz. Mideast expert Paul Salem explains what's happened and whether the deal can still hold.",
+      "title": "U.S. and Iran exchange strikes, underscoring the fragility of the ceasefire",
+      "link": "https://www.npr.org/2026/06/28/g-s1-130748/us-iran-israel-lebanon-hormuz-strikes-bahrain-kuwait",
+      "summary": "President Trump accused Iran of violating their framework agreement, and Tehran threatened to halt negotiations with the U.S. entirely. Meanwhile, violence continued between Israel and Hezbollah.",
       "source": "NPR World",
       "region": "World",
-      "published": "2026-06-27 21:05",
-      "published_iso": "2026-06-27T21:05:57+00:00",
+      "published": "2026-06-28 18:01",
+      "published_iso": "2026-06-28T18:01:07+00:00",
       "score": 100,
       "keywords": [
         "ceasefire",
@@ -401,600 +554,455 @@
       ]
     },
     {
-      "title": "Trump says he will nominate Lance Schroyer as next ICE director",
-      "link": "https://www.theguardian.com/us-news/2026/jun/27/trump-nomination-ice-director-lance-schroyer",
-      "summary": "Schroyer, whom Trump calls ‘a patriot’, led deportation campaign in Oklahoma under ICE-partnered program Donald ​Trump said on ⁠Saturday ⁠that ​he ‌will ‌nominate ‌Lance Schroyer as ‌the next director of US ​Immigration ⁠and ​Customs ​Enforcement ( ICE ), suc...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-06-27 21:01",
-      "published_iso": "2026-06-27T21:01:12+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
-      "link": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
-      "summary": "An estimated 150 million people are now experiencing temperatures of over 35C across Europe.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-06-27 20:48",
-      "published_iso": "2026-06-27T20:48:16+00:00",
-      "score": 100,
-      "keywords": [
-        "europe"
-      ]
-    },
-    {
-      "title": "In the Ruins of Venezuela’s Earthquake, Civilians Volunteers Fill the Gaps",
-      "link": "https://www.nytimes.com/2026/06/27/world/americas/venezuela-civilians-volunteers-earthquakes.html",
-      "summary": "Volunteers have rushed to help earthquake victims, loading vehicles with medical supplies, shovels and other tools to assist rescue and recovery efforts.",
+      "title": "Dozens of Dogs Join Search for Venezuela Earthquake Survivors",
+      "link": "https://www.nytimes.com/2026/06/28/world/americas/rescue-dogs-canine-units-earthquake-venezuela.html",
+      "summary": "Specially trained dogs can pick up the scent of survivors beneath mounds of collapsed debris, indicating where clearance teams should begin digging.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-06-27 20:30",
-      "published_iso": "2026-06-27T20:30:17+00:00",
+      "published": "2026-06-28 17:41",
+      "published_iso": "2026-06-28T17:41:33+00:00",
       "score": 100,
       "keywords": [
         "earthquake"
       ]
     },
     {
-      "title": "Trump's face is added to select US passports for America's 250th birthday",
-      "link": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The commemorative special edition passports will be available on 6 July, and can only be applied for in person",
+      "title": "Watch: Inside the Venezuela country club now a makeshift hospital",
+      "link": "https://www.bbc.co.uk/news/videos/clyx5r0068go?at_medium=RSS&at_campaign=rss",
+      "summary": "Survivors of Venezuela's devastating earthquakes are being cared for at a makeshift hospital formed on the site of a country club in Caraballeda.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-06-27 20:03",
-      "published_iso": "2026-06-27T20:03:26+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Venezuela earthquakes: death toll rises again to more than 1,400",
-      "link": "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez",
-      "summary": "Search for survivors continues with nearly 70,000 people reported unaccounted for by their family members The ⁠death toll ⁠in ⁠the twin ​earthquakes that struck ⁠ Venezuela earlier ⁠this ​week ‌has ‌risen to ‌1,430, according to one of the country’s top polit...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-06-27 19:52",
-      "published_iso": "2026-06-27T19:52:15+00:00",
+      "published": "2026-06-28 17:32",
+      "published_iso": "2026-06-28T17:32:30+00:00",
       "score": 100,
       "keywords": [
         "earthquake"
       ]
     },
     {
-      "title": "Another powerful magnitude 4.8 earthquake hits near Venezuela",
-      "link": "https://www.aljazeera.com/news/2026/6/27/another-powerful-4-8-magnitude-earthquake-hits-near-venezuela?traffic_source=rss",
-      "summary": "The latest quake comes as rescuers are still searching for survivors of the twin 7.2 and 7.5 earthquakes on Wednesday.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-06-27 19:38",
-      "published_iso": "2026-06-27T19:38:14+00:00",
-      "score": 100,
-      "keywords": [
-        "earthquake"
-      ]
-    },
-    {
-      "title": "DR Congo superfan denied US visa to support team at World Cup",
-      "link": "https://www.aljazeera.com/sports/2026/6/27/dr-congo-superfan-denied-us-visa-to-support-team-at-world-cup?traffic_source=rss",
-      "summary": "Michel Kuka Mboladinga is iconic for his motionless tribute at DRC games, but a US World Cup repeat has been denied.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-06-27 19:35",
-      "published_iso": "2026-06-27T19:35:22+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Why is Crimea critical to the Russia–Ukraine war?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/6/27/why-is-crimea-critical-to-the-russia-ukraine?traffic_source=rss",
-      "summary": "Ukraine is intensifying attacks on Russian-controlled Crimea as Kyiv tries to pressure Moscow into ending the war.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-06-27 19:22",
-      "published_iso": "2026-06-27T19:22:00+00:00",
-      "score": 100,
-      "keywords": [
-        "russia",
-        "ukraine",
-        "war"
-      ]
-    },
-    {
-      "title": "Utah’s Cottonwood fire spreads overnight to cover 92,000 acres",
-      "link": "https://www.theguardian.com/us-news/2026/jun/27/firefighters-wildfire-fishlake-national-forest-central-utah",
-      "summary": "Firefighters are battling the blaze in Fishlake national park that was stoked by strong winds and low humidity Hundreds of firefighters in Utah have struggled to suppress a wildfire that scorched an additional 20,000 acres (8,000 hectares) as of Saturday, as...",
+      "title": "Three firefighters killed and two injured while battling Utah-Colorado wildfires",
+      "link": "https://www.theguardian.com/us-news/2026/jun/28/firefighter-deaths-utah-colorado-wildfires",
+      "summary": "Firefighters were involved in joint response to Knowles and Gore blazes as wildfires ravage western US, fire agency says Three firefighters were killed and two others were hurt while responding to wildfires along the Colorado - Utah border, the US Wildland Fi...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-06-27 19:13",
-      "published_iso": "2026-06-27T19:13:34+00:00",
+      "published": "2026-06-28 16:43",
+      "published_iso": "2026-06-28T16:43:26+00:00",
+      "score": 100,
+      "keywords": [
+        "us",
+        "wildfire"
+      ]
+    },
+    {
+      "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
+      "link": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss",
+      "summary": "A number of blazes have been raging across Utah and Colorado, leading both governors to declare states of emergency.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-06-28 16:33",
+      "published_iso": "2026-06-28T16:33:50+00:00",
       "score": 100,
       "keywords": [
         "wildfire"
       ]
     },
     {
-      "title": "US Senate challenger, incumbent with same name to appear on Alaska ballot",
-      "link": "https://www.aljazeera.com/news/2026/6/27/us-senate-challenger-incumbent-with-same-name-to-appear-on-alaska-ballot?traffic_source=rss",
-      "summary": "Republican Senator Dan Sullivan has sought to have a namesake primary challenger removed, citing midterm confusion.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-06-27 19:05",
-      "published_iso": "2026-06-27T19:05:26+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Watch: A race against the clock for Venezuela earthquake rescuers",
-      "link": "https://www.bbc.co.uk/news/videos/cjdgrrvvvjgo?at_medium=RSS&at_campaign=rss",
-      "summary": "There is a sense that the next few hours will be critical for saving anyone who is still trapped, says the BBC's Dan Johnson reporting from the border of Venezuela and Columbia.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-06-27 18:41",
-      "published_iso": "2026-06-27T18:41:03+00:00",
-      "score": 100,
-      "keywords": [
-        "earthquake"
-      ]
-    },
-    {
-      "title": "Iran urge FIFA to stand up to ‘really terrible’ World Cup treatment by US",
-      "link": "https://www.aljazeera.com/sports/2026/6/27/iran-urge-fifa-to-stand-up-to-really-terrible-world-cup-treatment-by-us?traffic_source=rss",
-      "summary": "Iran, who played their three group-stage matches at World Cup 2026, now face a wait to know if they will reach last 32.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-06-27 18:30",
-      "published_iso": "2026-06-27T18:30:26+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "The Venezuela Earthquakes Hit a Health System Already in Crisis",
-      "link": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-earthquake-shortages-doctors.html",
-      "summary": "Firefighters are using cellphone lights because of a flashlight shortage, and an overwhelmed hospital in the disaster zone is operating without running water, one doctor said.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-06-27 18:27",
-      "published_iso": "2026-06-27T18:27:24+00:00",
-      "score": 100,
-      "keywords": [
-        "earthquake"
-      ]
-    },
-    {
-      "title": "White House unveils new images of US ‘patriot passports’ for America’s 250th",
-      "link": "https://www.theguardian.com/us-news/2026/jun/27/trump-america-250-passports-democrats",
-      "summary": "Democrats called plans for commemorative passport and gold coin with Trump portrait ‘more befitting a monarchy’ Donald Trump ’s efforts to brand the US government with his name and image advanced on Friday when the White House unveiled new images of a passpor...",
+      "title": "Fresh hostilities in Gulf suggest US-Iran memorandum was too broadly worded",
+      "link": "https://www.theguardian.com/world/2026/jun/28/fresh-hostilities-gulf-us-iran-memorandum-interpretations-lebanon-ceasefire-strait-of-hormuz",
+      "summary": "Document appears to have been subject to conflicting interpretations on key issues of Lebanon ceasefire and strait of Hormuz Middle East crisis live – latest updates The sudden eruption of fresh hostilities in the Gulf – just 10 days after Iran and the US sig...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-06-27 18:05",
-      "published_iso": "2026-06-27T18:05:05+00:00",
+      "published": "2026-06-28 15:02",
+      "published_iso": "2026-06-28T15:02:53+00:00",
       "score": 100,
       "keywords": [
+        "ceasefire",
+        "middle east",
         "us"
       ]
     },
     {
-      "title": "Venezuela’s Economy Was On the Rise. Then the Earthquakes Struck.",
-      "link": "https://www.nytimes.com/2026/06/27/world/americas/venezuelas-economy-earthquake.html",
-      "summary": "Expectations are now rising over the role the United States will play in helping Venezuela, which had already been laid low by decades of misrule.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-06-27 17:25",
-      "published_iso": "2026-06-27T17:25:27+00:00",
-      "score": 100,
-      "keywords": [
-        "earthquake",
-        "us"
-      ]
-    },
-    {
-      "title": "How is framework agreement with Lebanon viewed in Israel?",
-      "link": "https://www.aljazeera.com/news/2026/6/27/how-is-framework-agreement-with-lebanon-viewed-in-israel?traffic_source=rss",
-      "summary": "Israel, Lebanon and US have signed deal aimed at ending hostilities between Israel and Hezbollah, but group rejects it.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-06-27 17:21",
-      "published_iso": "2026-06-27T17:21:31+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "U.S.-Iran Deal’s Vague Language Comes Back to Haunt Peace Efforts",
-      "link": "https://www.nytimes.com/2026/06/27/world/middleeast/us-iran-deal-vague-language.html",
-      "summary": "The deal called for Iran to “make arrangements” for the passage of ships through the Strait of Hormuz. Iran has interpreted that to mean it can designate which routes ships take.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-06-27 17:07",
-      "published_iso": "2026-06-27T17:07:40+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Earthquake Tests Growing Ties Between U.S. and Venezuela",
-      "link": "https://www.nytimes.com/2026/06/26/us/politics/trump-venezuela-earthquake-aid.html",
-      "summary": "The Trump administration said it would commit aid, at a time when it has been expanding U.S. commercial interests in Venezuela beyond oil.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-06-27 17:06",
-      "published_iso": "2026-06-27T17:06:35+00:00",
-      "score": 100,
-      "keywords": [
-        "earthquake",
-        "us"
-      ]
-    },
-    {
-      "title": "Three security personnel killed in attack in Pakistan’s Karachi",
-      "link": "https://www.aljazeera.com/news/2026/6/27/explosion-and-gunfire-reported-in-pakistans-karachi?traffic_source=rss",
-      "summary": "Police say four attackers were also killed after gunmen stormed a Rangers facility in country's commercial capital.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-06-27 17:04",
-      "published_iso": "2026-06-27T17:04:34+00:00",
-      "score": 100,
-      "keywords": [
-        "security"
-      ]
-    },
-    {
-      "title": "Europe heatwave: drought fears in Italy as records tumble around Europe – as it happened",
-      "link": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
-      "summary": "Temperature records broken in Germany, Denmark and Slovakia as Europe remains gripped by heatwave After decades of climate warnings, why is Europe so unprepared for rising heat? Seawater is seeping into Italy’s longest river as the waterway starts to run dry...",
+      "title": "Donald Trump threatens to annihilate Iran after crossfire over Hormuz – as it happened",
+      "link": "https://www.theguardian.com/world/live/2026/jun/28/iran-strait-of-hormuz-donald-trump-vance-peace-talks-bahrain-kuwait-strikes-latest-news-updates",
+      "summary": "Iran attacked Bahrain and Kuwait after US strikes, and threatened a ‘complete halt’ to talks US and Iran trade strikes as both sides accuse the other of endangering ceasefire We will soon be closing this liveblog, but you’ll be able to stay up-to-date with ou...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-06-27 15:43",
-      "published_iso": "2026-06-27T15:43:10+00:00",
+      "published": "2026-06-28 14:34",
+      "published_iso": "2026-06-28T14:34:56+00:00",
       "score": 100,
       "keywords": [
-        "climate",
-        "europe"
+        "ceasefire",
+        "us"
       ]
     },
     {
-      "title": "After New York Elections, Israelis Fear Further Rupture in U.S.-Israeli Relationship",
-      "link": "https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html",
-      "summary": "Criticism of Israel’s war in Gaza, anger over the Iran war and election results in New York all suggest Israel’s solid support from Washington may be on borrowed time.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-06-27 15:16",
-      "published_iso": "2026-06-27T15:16:58+00:00",
+      "title": "New US-Iran exchange of attacks threatens ceasefire",
+      "link": "https://www.france24.com/en/new-us-iran-exchange-of-attacks-threatens-ceasefire",
+      "summary": "Iran's Revolutionary Guard on Sunday launched attacks targeting Bahrain and Kuwait in response to US air strikes on 10 Iranian sites. The Islamic Republic threatened a “complete halt” to negotiations to end the war if Washington continues its attacks. Efforts...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-06-28 11:27",
+      "published_iso": "2026-06-28T11:27:57+00:00",
       "score": 100,
       "keywords": [
-        "election",
+        "ceasefire",
         "us",
         "war"
       ]
     },
     {
-      "title": "Newborn baby rescued from Venezuela earthquake rubble",
-      "link": "https://www.bbc.co.uk/news/videos/cm2d0vzp3ngo?at_medium=RSS&at_campaign=rss",
-      "summary": "Two powerful earthquakes rocked Venezuela within seconds of each other on Wednesday, killing at least 920 people.",
-      "source": "BBC World",
+      "title": "Kazakhstan’s Leader Deepens U.S. Ties, Saying Trump Was ‘Sent by Heaven’",
+      "link": "https://www.nytimes.com/2026/06/28/world/asia/kazakhstan-trump.html",
+      "summary": "The Central Asian nation is aggressively courting President Trump’s Washington to counterbalance its powerful neighbors, Russia and China.",
+      "source": "NYTimes World",
       "region": "World",
-      "published": "2026-06-27 12:51",
-      "published_iso": "2026-06-27T12:51:25+00:00",
+      "published": "2026-06-28 09:39",
+      "published_iso": "2026-06-28T09:39:19+00:00",
       "score": 100,
       "keywords": [
-        "earthquake"
+        "china",
+        "russia",
+        "us"
       ]
     },
     {
-      "title": "Trump threatens 100% tariff on European countries that impose digital tax",
-      "link": "https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax",
-      "summary": "US president says levy would be imposed immediately and supersede pre-existing trade deals with the country Donald Trump has threatened to place a 100% import tariff on any European country that imposes a tax on digital services from US companies. Writing on...",
+      "title": "Venezuelan earthquakes test Trump’s new western hemisphere policy after gutting of USAID",
+      "link": "https://www.theguardian.com/us-news/2026/jun/28/venezuelan-earthquakes-test-trumps-new-western-hemisphere-policy-after-gutting-of-usaid",
+      "summary": "Marco Rubio is scrambling to provide effective disaster response to country whose president US deposed in January This week’s dual earthquakes in Venezuela are a test for the new era of American power in the western hemisphere, as the Trump administration scr...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-06-27 10:20",
-      "published_iso": "2026-06-27T10:20:46+00:00",
+      "published": "2026-06-28 09:32",
+      "published_iso": "2026-06-28T09:32:47+00:00",
       "score": 100,
+      "keywords": [
+        "earthquake",
+        "us"
+      ]
+    },
+    {
+      "title": "Shadow war: how use of proxy forces by Iran, Israel and US is driving Middle East instability",
+      "link": "https://www.theguardian.com/world/2026/jun/28/gulf-us-iran-war-proxies-middle-east",
+      "summary": "Across region there is a push to disarm militia and reinforce state authority but the temptation to use proxies remains As Marco Rubio ended his brief visit to the Middle East on Friday, he sought to cast in the best possible light his discussions with leader...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-06-28 07:00",
+      "published_iso": "2026-06-28T07:00:03+00:00",
+      "score": 100,
+      "keywords": [
+        "middle east",
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "Here’s What to Know About the Standoff in the Strait of Hormuz",
+      "link": "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html",
+      "summary": "The United States and Iran have engaged in rounds of attacks and counterattacks in recent days, eroding hopes for a quick return to normalcy in the Middle East.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-06-28 14:45",
+      "published_iso": "2026-06-28T14:45:15+00:00",
+      "score": 99,
+      "keywords": [
+        "middle east",
+        "us"
+      ]
+    },
+    {
+      "title": "London mayor to override opposition to outdoor dining in Soho next summer",
+      "link": "https://www.theguardian.com/uk-news/2026/jun/29/london-mayor-sadiq-khan-to-override-opposition-to-outdoor-dining-soho-summer-pedestrianisation-scheme",
+      "summary": "Exclusive: Sadiq Khan plans to use new powers after local council opposes city scheme for seasonal pedestrianisation The mayor of London, Sadiq Khan, plans to override opposition to al fresco dining in Soho after the local council failed to apply to a scheme...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-06-28 23:01",
+      "published_iso": "2026-06-28T23:01:23+00:00",
+      "score": 98,
+      "keywords": []
+    },
+    {
+      "title": "About 170,000 people in England expected to die from obesity-linked heart conditions by 2035",
+      "link": "https://www.theguardian.com/society/2026/jun/29/170000-people-england-die-heart-conditions-linked-obesity-2035",
+      "summary": "British Heart Foundation expects about 45 people a day to die over next decade if current trends continue About 170,000 people are expected to die from heart-related conditions linked to obesity – one of the leading causes of preventable illnesses – by 2035,...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-06-28 23:01",
+      "published_iso": "2026-06-28T23:01:22+00:00",
+      "score": 98,
+      "keywords": []
+    },
+    {
+      "title": "Pause HS2 reset until you are confident it can be delivered, NAO tells ministers",
+      "link": "https://www.theguardian.com/uk-news/2026/jun/29/pause-hs2-reset-until-you-are-confident-it-can-be-delivered-nao-tells-ministers",
+      "summary": "Spending watchdog says high-speed rail project must be put on stable footing to avoid repeat of costly past failures Revised plans for HS2 should not be put into action until the government is confident they can be delivered, according to the public spending...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-06-28 23:01",
+      "published_iso": "2026-06-28T23:01:22+00:00",
+      "score": 98,
+      "keywords": []
+    },
+    {
+      "title": "Zohran Mamdani says he and allies he endorsed carry a ‘national message’",
+      "link": "https://www.theguardian.com/us-news/2026/jun/28/zohran-mamdani-new-democratic-politics",
+      "summary": "Mayor says progressive peers who swept primaries speak to Americans ‘coast to coast’ as moderates have reservations Zohran Mamdani , the New York City mayor, said on Sunday that he and a slew of democratic socialist allies who prevailed in recent primary elec...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-06-28 18:24",
+      "published_iso": "2026-06-28T18:24:22+00:00",
+      "score": 98,
+      "keywords": []
+    },
+    {
+      "title": "Iran attacks Bahrain and Kuwait, threatens to halt talks after fresh US strikes",
+      "link": "https://www.france24.com/en/middle-east/20260628-iran-threatens-to-halt-talks-after-fresh-us-strikes-attacks-bahrain-and-kuwait",
+      "summary": "Iran launched fresh drone and missile attacks on Bahrain and Kuwait on Sunday after new US airstrikes, while warning it would completely halt negotiations and close the Strait of Hormuz if Washington continues its attacks.",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-06-28 22:47",
+      "published_iso": "2026-06-28T22:47:20+00:00",
+      "score": 97,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Armed conflict threatens Ethiopia’s ancient monasteries",
+      "link": "https://www.france24.com/en/armed-conflict-threatens-ethiopia-s-ancient-monasteries",
+      "summary": "Lake Tana in Ethiopia’s Amhara region was once a tourist hotspot, known for its picturesque shorelines and monasteries dating back to the 14th century. But since 2023, an ongoing war between the Fano militias and federal government forces has scared away the...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-06-28 22:00",
+      "published_iso": "2026-06-28T22:00:47+00:00",
+      "score": 97,
+      "keywords": [
+        "war"
+      ]
+    },
+    {
+      "title": "New Caledonia votes: High stakes in France's Pacific territory",
+      "link": "https://www.france24.com/en/video/20260628-new-caledonia-votes-high-stakes-in-france-s-pacific-territory",
+      "summary": "New Caledonia voted Sunday in local elections that are key to determining the French Pacific territory’s political future and relationship with France. FRANCE 24’s Leela Jacinto explains the stakes and how decolonization and demographics play critical roles i...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-06-28 19:36",
+      "published_iso": "2026-06-28T19:36:28+00:00",
+      "score": 97,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "Late goal gives Canada first-ever World Cup knockout stage victory",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/aje-onl-nf_ig_thumb1-280626?traffic_source=rss",
+      "summary": "Canada beat South Africa 1-0 to reach the World Cup last ​16 for the first time in their history.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-06-29 01:51",
+      "published_iso": "2026-06-29T01:51:58+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Praise pours in for ‘true Canadian heroes’ after last-minute World Cup win",
+      "link": "https://www.aljazeera.com/sports/2026/6/29/praise-pours-in-for-true-canadian-heroes-after-last-minute-world-cup-win?traffic_source=rss",
+      "summary": "From the prime minister to sport celebrities and fans on social media, Canadians have revelled in their team's win.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-06-29 01:20",
+      "published_iso": "2026-06-29T01:20:04+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Who is Stephen Eustaquio, who scored for Canada against South Africa?",
+      "link": "https://www.aljazeera.com/sports/2026/6/29/who-is-stephen-eustaquio-who-scored-for-canada-against-south-africa?traffic_source=rss",
+      "summary": "Eustaquio flip-flopped between his home country and that of his parents throughout his youth and senior career.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-06-29 00:27",
+      "published_iso": "2026-06-29T00:27:03+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "‘If I am to die, let it be here’: Malawians fleeing unrest in South Africa",
+      "link": "https://www.aljazeera.com/news/2026/6/29/if-i-am-to-die-let-it-be-here-malawians-fleeing-unrest-in-south-africa?traffic_source=rss",
+      "summary": "A mass return of Malawians from South Africa exposes the cost of migration, violence and broken livelihoods.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-06-29 00:19",
+      "published_iso": "2026-06-29T00:19:47+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Ireland upstage world champions India to win T20 series at home",
+      "link": "https://www.aljazeera.com/sports/2026/6/28/ireland-upstage-world-champions-india-to-win-t20-series-at-home?traffic_source=rss",
+      "summary": "Ireland won the second T20 by one run over India, who did not give a debut to teen sensation Sooryavanshi.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-06-28 21:37",
+      "published_iso": "2026-06-28T21:37:49+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Canada score late to beat South Africa and reach last 16 at World Cup 2026",
+      "link": "https://www.aljazeera.com/sports/2026/6/28/canada-score-late-to-beat-south-africa-and-reach-last-16-at-world-cup-2026?traffic_source=rss",
+      "summary": "Stephen Eustaquio scores in stoppage time as Canada win first knockout match in a World Cup.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-06-28 21:36",
+      "published_iso": "2026-06-28T21:36:53+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Protesters in Serbia doubt Vucic resignation will bring change",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/protesters-in-serbia-doubt-vucic-resignation-will-bring-change?traffic_source=rss",
+      "summary": "Thousands of protesters gathered in Serbia's Kraljevo, dismissing Aleksandar Vucic's pledge to resign.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-06-28 20:29",
+      "published_iso": "2026-06-28T20:29:18+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Israel kills four Palestinians in Gaza as attacks on tents continue",
+      "link": "https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss",
+      "summary": "Israeli forces restrict Palestinian worshippers at Al-Aqsa Mosque and block the call to prayer at the Ibrahimi Mosque.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-06-28 19:54",
+      "published_iso": "2026-06-28T19:54:39+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Hope of finding more Venezuela quake survivors fades despite late rescues",
+      "link": "https://www.aljazeera.com/news/2026/6/28/hope-of-finding-more-venezuela-quake-survivors-fades-despite-late-rescues?traffic_source=rss",
+      "summary": "Those rescued include 60-year-old woman trapped for 86 hours, as tens of thousands still reported missing.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-06-28 19:54",
+      "published_iso": "2026-06-28T19:54:35+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "World Cup 2026: Top matches to watch in the Round of 32 knockout stage",
+      "link": "https://www.aljazeera.com/sports/2026/6/28/world-cup-2026-top-matches-to-watch-in-the-round-of-32-knockout-stage?traffic_source=rss",
+      "summary": "We have finally reached the knockout stages of the 2026 World Cup - here is Al Jazeera's guide to the best matchups.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-06-28 19:48",
+      "published_iso": "2026-06-28T19:48:40+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Gaza’s displaced families face worsening living conditions",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/gazas-displaced-families-face-worsening-living-conditions?traffic_source=rss",
+      "summary": "Rats infest Gaza's camps, where sewage and tents full of waste spread disease as families live without sanitation.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-06-28 19:43",
+      "published_iso": "2026-06-28T19:43:26+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Israeli forces bulldoze olive groves in the occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/israeli-forces-bulldoze-olive-groves-in-the-occupied-west-bank?traffic_source=rss",
+      "summary": "Israeli forces bulldozed olive trees in the village of Zububa, west of Jenin in the occupied West Bank.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-06-28 19:21",
+      "published_iso": "2026-06-28T19:21:23+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Starmer couldn’t master the media. Can Burnham?",
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/6/28/starmer-couldnt-master-the-media-can-burnham?traffic_source=rss",
+      "summary": "Keir Starmer’s rapid fall from power and Britain’s revolving door of leaders.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-06-28 18:59",
+      "published_iso": "2026-06-28T18:59:47+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Trade tensions shake up Brazil's caipirinha spirit",
+      "link": "https://www.npr.org/2026/06/28/nx-s1-5872458/brazil-trade-us-tariffs-europe",
+      "summary": "U.S. tariff pressure is pushing Europe and Brazil closer—opening new global doors for everything from aircraft parts to Brazil's cachaça, the base of the caipirinha.",
+      "source": "NPR World",
+      "region": "World",
+      "published": "2026-06-28 15:45",
+      "published_iso": "2026-06-28T15:45:42+00:00",
+      "score": 96,
       "keywords": [
         "europe",
         "us"
       ]
     },
     {
-      "title": "Reporter's Notebook: What its like to report from an Ebola outbreak",
-      "link": "https://www.npr.org/2026/06/27/nx-s1-5866594/reporters-notebook-what-its-like-to-report-from-an-ebola-outbreak",
-      "summary": "Covering an Ebola outbreak means taking extra precautions. In this Reporter's Notebook, NPR's Emmet Livingstone takes us behind the reporting in eastern Congo.",
-      "source": "NPR World",
+      "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
+      "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
+      "source": "BBC World",
       "region": "World",
-      "published": "2026-06-27 21:05",
-      "published_iso": "2026-06-27T21:05:56+00:00",
-      "score": 99,
+      "published": "2026-06-28 04:54",
+      "published_iso": "2026-06-28T04:54:50+00:00",
+      "score": 96,
       "keywords": [
+        "ceasefire",
         "us"
       ]
     },
     {
-      "title": "NSW beaches to get dawn-to-dusk drone patrols in $34m anti-shark program",
-      "link": "https://www.theguardian.com/australia-news/2026/jun/28/nsw-beaches-to-get-dawn-to-dusk-drone-patrols-in-34m-anti-shark-program",
-      "summary": "Premier Chris Minns says he wants to restore confidence to beachgoers after series of shark sightings and attacks Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Shark-spotting drones will fl...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-06-28 01:03",
-      "published_iso": "2026-06-28T01:03:12+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Fatboy Slim says he felt paralysed at prospect of DJing sober after rehab",
-      "link": "https://www.theguardian.com/music/2026/jun/28/fatboy-slim-djing-sober-rehab-alcoholism-desert-island-discs",
-      "summary": "Speaking on Desert Island Discs, the Grammy-nominated musician referred to his alcoholism as a parasite Fatboy Slim has said he felt paralysed and “rigid with fear” at the prospect of DJing sober after spending time in rehab to deal with his alcohol addiction...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-06-27 23:01",
-      "published_iso": "2026-06-27T23:01:16+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Man arrested on suspicion of attempted murder after car hits pedestrians in London",
-      "link": "https://www.theguardian.com/uk-news/2026/jun/27/man-arrested-on-suspicion-of-attempted-after-vehicle-hits-pedestrians-in-london",
-      "summary": "Suspect held after five people injured, including three who were taken to hospital, in Ealing on Saturday afternoon A man has been arrested on suspicion of attempted murder after a vehicle hit multiple pedestrians on a busy London road before driving away, po...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-06-27 20:17",
-      "published_iso": "2026-06-27T20:17:09+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Pro-One Nation Facebook groups appear to be run by foreign ‘meme factories’ that monetise content",
-      "link": "https://www.theguardian.com/australia-news/2026/jun/28/pro-one-nation-facebook-groups-foreign-meme-factories-monetised-content-ntwnfb",
-      "summary": "Exclusive: Guardian analysis suggests several groups with thousands of members run by what expert calls ‘engagement farm’ operations in south-east Asia Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-06-27 20:00",
-      "published_iso": "2026-06-27T20:00:13+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Netanyahu hails Lebanon deal as Hezbollah rejects agreement",
-      "link": "https://www.france24.com/en/middle-east/20260627-netanyahu-hails-lebanon-deal-as-hezbollah-rejects-agreement",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu on Saturday hailed a US-brokered agreement with Lebanon as a blow to Iran and Hezbollah, while the militant group's leader, Naim Qassem, rejected the framework as \"null and void\". The opposing stances underscored the...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-06-27 20:08",
-      "published_iso": "2026-06-27T20:08:27+00:00",
-      "score": 97,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Iran, US trade attacks in the Strait of Hormuz: Navigating the 'Guardian Angel' route",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20260627-iran-us-trade-attacks-in-the-strait-of-hormuz-navigating-the-guardian-angel-route",
-      "summary": "Shots have been fired in the Strait of Hormuz. The is a diplomatic and logistical condundrum of what to do next. A literal rock and a hard place, where 11,000 crew remain stuck on ships in the middle of two warring belligerents now negotiating peace, telling...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-06-27 19:25",
-      "published_iso": "2026-06-27T19:25:24+00:00",
-      "score": 97,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Understanding the 'point men': Iran-US peace talks",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20260627-understanding-the-point-men-iran-us-peace-talks",
-      "summary": "Following the latest round of US-Iran peace talks, we assess the difficulties of diplomacy and the key characters at play. France 24's Gavin Lee spoke to Marvi Memon who served as a federal minister in the Pakistani govenrment from 2015 to 2018.",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-06-27 18:50",
-      "published_iso": "2026-06-27T18:50:27+00:00",
-      "score": 97,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Heatwave shatters records across Europe, disrupts transport and strains hospitals",
-      "link": "https://www.france24.com/en/europe/20260627-heatwave-shatters-records-across-europe-disrupts-transport-and-strains-hospitals",
-      "summary": "An intense heatwave that scorched western Europe this week spread into central and eastern parts of the continent on Saturday, bringing record temperatures from Denmark to Switzerland and Germany. The extreme heat disrupted transport, strained hospitals and r...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-06-27 17:16",
-      "published_iso": "2026-06-27T17:16:55+00:00",
-      "score": 97,
-      "keywords": [
-        "europe"
-      ]
-    },
-    {
-      "title": "Colombia top World Cup 2026 group after breathless 0-0 draw with Portugal",
-      "link": "https://www.aljazeera.com/sports/2026/6/28/colombia-wins-world-cup-2026-group-after-breathless-0-0-draw-with-portugal?traffic_source=rss",
-      "summary": "Colombia book last 32 clash with Ghana, while Portugal will face Croatia in the first knockout stage.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-06-28 01:52",
-      "published_iso": "2026-06-28T01:52:39+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Videos show Israeli settlers trying to seize house in occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/videos-show-israeli-settlers-trying-to-seize-house-in-occupied-west-bank?traffic_source=rss",
-      "summary": "Videos show Israeli settlers trying to seize a house under construction in the occupied West Bank.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-06-27 21:13",
-      "published_iso": "2026-06-27T21:13:12+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Donald Trump nominates ex-state trooper Lance Schroyer as ICE director",
-      "link": "https://www.aljazeera.com/news/2026/6/27/donald-trump-nominates-lance-schroyer-to-serve-as-ice-director?traffic_source=rss",
-      "summary": "The immigration enforcement agency has been without a Senate-confirmed director since 2017, during Trump's first term.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-06-27 20:34",
-      "published_iso": "2026-06-27T20:34:57+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Colombia vs Portugal 0-0: FIFA World Cup 2026 – as it happened",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/27/colombia-vs-portugal-live-fifa-world-cup-2026?traffic_source=rss",
-      "summary": "All the updates from a lively but goalless game, as Colombia top Group K, while Portugal finish second.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-06-27 20:30",
-      "published_iso": "2026-06-27T20:30:00+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Serbia’s President Aleksandar Vucic says will resign within ‘weeks’",
-      "link": "https://www.aljazeera.com/news/2026/6/27/serbias-president-aleksandar-vucic-says-will-resign-within-weeks?traffic_source=rss",
-      "summary": "Vucic is under ⁠pressure after months ⁠of antigovernment protests.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-06-27 20:23",
-      "published_iso": "2026-06-27T20:23:44+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Israel orders troops to prepare for ‘extended stay’ in Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/israel-orders-troops-to-prepare-for-extended-stay-in-lebanon?traffic_source=rss",
-      "summary": "Israeli Defence Minister Israel Katz says the military has been ordered to prepare for an ‘extended stay’ in Lebanon.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-06-27 19:12",
-      "published_iso": "2026-06-27T19:12:39+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "South Africa’s Broos smiles and snarls before Canada World Cup showdown",
-      "link": "https://www.aljazeera.com/sports/2026/6/27/south-africas-broos-smiles-and-snarls-ahead-of-canada-world-cup-showdown?traffic_source=rss",
-      "summary": "South Africa and Canada are both competing in the knockout stages of a World Cup for the first time.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-06-27 18:55",
-      "published_iso": "2026-06-27T18:55:14+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Two killed, dozens injured in Israeli strike on displacement tents in Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/two-killed-dozens-injured-in-israeli-strike-on-displacement-tents-in-gaza?traffic_source=rss",
-      "summary": "Two killed and dozens injured in Israeli strike on displacement tents in Gaza",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-06-27 18:50",
-      "published_iso": "2026-06-27T18:50:59+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Kenya rights groups say protesters found dumped, tortured after arrests",
-      "link": "https://www.aljazeera.com/news/2026/6/27/kenya-rights-groups-say-protesters-found-dumped-tortured-after-arrests?traffic_source=rss",
-      "summary": "Six found and one missing, NGOs say, after arrests at memorial gatherings for protesters killed in 2024.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-06-27 18:46",
-      "published_iso": "2026-06-27T18:46:23+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Australia to double fines on Big Tech as children bypass social media ban",
-      "link": "https://www.aljazeera.com/news/2026/6/27/australia-to-double-fines-on-big-tech-as-children-bypass-social-media-ban?traffic_source=rss",
-      "summary": "Canberra says tech platforms are still letting too many children bypass its under-16 social media ban.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-06-27 17:29",
-      "published_iso": "2026-06-27T17:29:34+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Tropical Storm Mekkhala leaves Taiwan underwater",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/tropical-storm-mekkhala-leaves-taiwan-underwater?traffic_source=rss",
-      "summary": "Tropical Storm Mekkhala has triggered severe flooding across parts of Taiwan.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-06-27 17:05",
-      "published_iso": "2026-06-27T17:05:48+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "A historian analyzes whether Ukraine has a localized advantage in modern combat power",
-      "link": "https://www.npr.org/2026/06/27/nx-s1-5869693/a-historian-analyzes-whether-ukraine-has-a-localized-advantage-in-modern-combat-power",
-      "summary": "NPR's Scott Simon talks with strategic studies professor Phillips O'Brien of St Andrew's University in Scotland about whether Ukraine has gained the upper hand in the fight against Russia.",
-      "source": "NPR World",
-      "region": "World",
-      "published": "2026-06-27 11:40",
-      "published_iso": "2026-06-27T11:40:20+00:00",
-      "score": 96,
-      "keywords": [
-        "russia",
-        "ukraine"
-      ]
-    },
-    {
-      "title": "Inside a secretive Ukrainian team launching deep drone strikes at Russia",
-      "link": "https://www.npr.org/2026/06/27/g-s1-129704/ukraine-long-range-drones-russia-war",
-      "summary": "Ukraine's long-range drones are striking deep inside Russia, up to 1,200 miles away, hitting oil refineries and depots. NPR recently spent time with one of the Ukrainian strike teams launching drones at Russian targets.",
-      "source": "NPR World",
-      "region": "World",
-      "published": "2026-06-27 09:02",
-      "published_iso": "2026-06-27T09:02:00+00:00",
-      "score": 96,
-      "keywords": [
-        "russia",
-        "ukraine"
-      ]
-    },
-    {
-      "title": "A Sculptor Rushes to Finish a Lionel Messi Statue During the World Cup",
-      "link": "https://www.nytimes.com/2026/06/27/world/americas/lionel-messi-argentina-statue.html",
-      "summary": "As Lionel Messi chases another World Cup title, an artist is rushing to finish a gigantic statue of the soccer star in the middle of the Patagonian desert.",
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake/heres-the-latest",
+      "summary": "",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-06-27 22:15",
-      "published_iso": "2026-06-27T22:15:42+00:00",
+      "published": "2026-06-28 23:10",
+      "published_iso": "2026-06-28T23:10:51+00:00",
       "score": 95,
       "keywords": []
     },
     {
-      "title": "A Close Call With an Alberta Grizzly Bear, Recorded in Its Entirety",
-      "link": "https://www.nytimes.com/2026/06/27/world/canada/grizzly-bear-alberta-canada-video.html",
-      "summary": "A woman in Alberta, Canada, recorded the bear as it circled her and her dog near a campsite and lodge.",
+      "title": "At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims",
+      "link": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html",
+      "summary": "Identifying victims has proved to be difficult because many bodies were badly crushed beneath collapsed buildings.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-06-27 20:28",
-      "published_iso": "2026-06-27T20:28:26+00:00",
+      "published": "2026-06-28 21:56",
+      "published_iso": "2026-06-28T21:56:02+00:00",
       "score": 95,
       "keywords": []
     },
     {
-      "title": "Foreign rescuers in Venezuela battle debris, scarcity of supplies and time.",
-      "link": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake/foreign-rescuers-in-venezuela-battle-debris-scarcity-of-supplies-and-time",
-      "summary": "Members of a Colombian search-and-rescue team working among collapsed buildings in La Guaira, Venezuela, on Friday.",
+      "title": "Deep Under the Rubble, Rescuers Find an 11-Year-Old Boy Alive",
+      "link": "https://www.nytimes.com/2026/06/28/world/americas/deep-under-the-rubble-rescuers-find-an-11-year-old-boy-alive.html",
+      "summary": "A Colombian rescue team worked for six hours to recover the child, Moises, from under nearly 10 feet of rubble in La Guaira. His rescue was captured on video.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-06-27 19:45",
-      "published_iso": "2026-06-27T19:45:22+00:00",
+      "published": "2026-06-28 21:43",
+      "published_iso": "2026-06-28T21:43:01+00:00",
+      "score": 95,
+      "keywords": []
+    },
+    {
+      "title": "An Attack on Ebola’s First Responders",
+      "link": "https://www.nytimes.com/video/world/africa/100000010952237/an-attack-on-ebolas-first-responders.html",
+      "summary": "Our chief Africa correspondent, Declan Walsh, reports from a city where Red Cross workers carrying out burials in the Ebola outbreak have come under attack.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-06-28 18:50",
+      "published_iso": "2026-06-28T18:50:36+00:00",
       "score": 95,
       "keywords": []
     }
