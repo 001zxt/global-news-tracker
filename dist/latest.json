@@ -1,123 +1,453 @@
 {
-  "generated_at": "2026-07-04T04:20:31+00:00",
+  "generated_at": "2026-07-05T04:41:17+00:00",
   "article_count": 80,
   "source_count": 8,
   "errors": [],
   "articles": [
     {
-      "title": "Iran begins public mourning for Ayatollah killed in February",
-      "link": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
-      "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
-      "source": "BBC World",
+      "title": "NSW Labor to adopt tougher pokies stance as Sydney inner west mayor says ‘momentum for real reform unstoppable’",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/05/nsw-labor-to-adopt-tougher-pokies-stance-as-sydney-inner-west-mayor-says-momentum-for-real-reform-unstoppable",
+      "summary": "State Labor conference expected to pass a motion which would commit to 50% of machines being removed from operation in next 10 years Get our breaking news email , free app or daily news podcast New South Wales premier Chris Minns will take a tougher stance on...",
+      "source": "The Guardian World",
       "region": "World",
-      "published": "2026-07-04 04:12",
-      "published_iso": "2026-07-04T04:12:06+00:00",
+      "published": "2026-07-05 04:35",
+      "published_iso": "2026-07-05T04:35:20+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "Australia Tried to Push Back on China. China Pushed Harder.",
-      "link": "https://www.nytimes.com/2026/07/04/world/asia/australia-china-politics.html",
-      "summary": "Relations between Beijing and Canberra have improved over the past four years, but China’s ambassador is now warning of a ‘Cold War mentality.”",
+      "title": "Rebel Catholics Defy Vatican’s Calls to Return to Mainstream Church",
+      "link": "https://www.nytimes.com/2026/07/05/world/europe/schism-catholic-pope-society-pius-excommunication.html",
+      "summary": "The Vatican has excommunicated the priesthood of a rebel Catholic faction. Many of the priests’ followers have refused to renounce them.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-07-04 04:01",
-      "published_iso": "2026-07-04T04:01:06+00:00",
+      "published": "2026-07-05 04:01",
+      "published_iso": "2026-07-05T04:01:22+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Impeachment Trial of Philippine Vice President Set to Begin",
+      "link": "https://www.nytimes.com/2026/07/05/world/asia/impeachment-trial-philippines-sara-duterte.html",
+      "summary": "Sara Duterte, who has said she would run for president, could be barred from politics over allegations of corruption and for making death threats against President Ferdinand Marcos Jr.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-07-05 04:01",
+      "published_iso": "2026-07-05T04:01:15+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "As Xi Looks to Extend His Rule, He Leans on a Longtime Ally",
+      "link": "https://www.nytimes.com/2026/07/05/world/asia/china-xi-leadership-cai-qi.html",
+      "summary": "Xi Jinping is preparing to extend his rule as China’s leader and bring fresh blood into the Communist Party elite. Cai Qi is the man he’s tasking to help.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-07-05 04:01",
+      "published_iso": "2026-07-05T04:01:06+00:00",
+      "score": 100,
+      "keywords": [
+        "china"
+      ]
+    },
+    {
+      "title": "A name, a document, a future: Cameroon’s fight to register every child",
+      "link": "https://www.aljazeera.com/news/2026/7/5/a-name-a-document-a-future-cameroons-fight-to-register-every-child?traffic_source=rss",
+      "summary": "Efforts to expand birth registration in Cameroon are gaining ground, but millions of children remain undocumented.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-05 03:55",
+      "published_iso": "2026-07-05T03:55:54+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Coalition criticises Labor over electricity prices as Bowen rejects ‘hypocrisy’ – as it happened",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jul/05/australia-news-live-albanese-labor-nsw-h5-bird-flu-angus-taylor-liberal-coalition-pauline-hanson-ntwnfb",
+      "summary": "This blog is now closed. Get our breaking news email , free app or daily news podcast The Australian Space Agency has confirmed that “suspected space debris” thought to contain hazardous chemicals has been located north of Townsville. Queensland police said f...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-05 03:15",
+      "published_iso": "2026-07-05T03:15:21+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Fireworks light up New York City to mark 250 years of US independence",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_fireworks-light-up-new-york-city-to-mark-250-years-040726?traffic_source=rss",
+      "summary": "Fireworks lit up the New York City skyline as America marked its 250th anniversary.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-05 02:55",
+      "published_iso": "2026-07-05T02:55:06+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Severe weather disrupts US’s 250th celebrations",
+      "link": "https://www.aljazeera.com/news/2026/7/5/severe-weather-disrupts-uss-250th-celebrations?traffic_source=rss",
+      "summary": "Trump says he will still speak in Washington, DC, after a thunderstorm delayed celebrations in the US capital.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-05 02:54",
+      "published_iso": "2026-07-05T02:54:05+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "World Cup 2026: Les Bleus discuss refereeing after Paraguay game",
+      "link": "https://www.france24.com/en/world-cup-2026-les-bleus-discuss-refereeing-after-paraguay-game",
+      "summary": "🇫🇷⚽️ Les Bleus secured their place in the World Cup 2026 quarter-finals after a very tense match against #Paraguay 🇵🇾, marked by numerous fouls that went unpunished. Despite the intensity, the #French players reacted with composure after the final whistle, fo...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-07-05 02:00",
+      "published_iso": "2026-07-05T02:00:04+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Founder of prominent underground church released from prison in China",
+      "link": "https://www.theguardian.com/world/2026/jul/05/founder-of-prominent-underground-church-released-from-prison-in-china",
+      "summary": "Ezra Jin, founder of Zion Church, lands in the US and reunites with family who are ‘overwhelmed with joy’ The founder of one of China’s most prominent underground churches has been released from prison and reunited with his family in the United States. Ezra J...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-05 01:40",
+      "published_iso": "2026-07-05T01:40:15+00:00",
       "score": 100,
       "keywords": [
         "china",
+        "us"
+      ]
+    },
+    {
+      "title": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
+      "link": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html",
+      "summary": "As days of public mourning ceremonies began, Iranians viewed the casket of Ayatollah Ali Khamenei, who was killed at the start of the U.S.-Israeli attacks.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-07-05 01:03",
+      "published_iso": "2026-07-05T01:03:49+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "This immigrant served in the US military. Now he faces deportation",
+      "link": "https://www.aljazeera.com/news/longform/2026/7/5/this-immigrant-served-in-the-us-military-now-he-faces-deportation?traffic_source=rss",
+      "summary": "Benito Miranda Hernandez completed three tours during the Iraq war but now faces removal from the US to Mexico.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-05 00:49",
+      "published_iso": "2026-07-05T00:49:14+00:00",
+      "score": 100,
+      "keywords": [
+        "us",
         "war"
       ]
     },
     {
-      "title": "Funeral Procession for Khamenei Will Visit 5 Cities in Iran and Iraq",
-      "link": "https://www.nytimes.com/2026/07/04/world/middleeast/khamenei-funeral-itineray-iran-iraq-shia.html",
-      "summary": "After lying in state in Tehran, Mr. Khamenei’s body will be taken to some of the holiest sites in Shiite Islam during a four-day procession that is expected to draw millions.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-07-04 04:01",
-      "published_iso": "2026-07-04T04:01:05+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Arias sends Colombia into World Cup last-16 with 1-0 win over Ghana",
-      "link": "https://www.aljazeera.com/news/2026/7/4/arias-sends-colombia-into-world-cup-last-16-with-1-0-win-over-ghana?traffic_source=rss",
-      "summary": "The World Cup round of 32 ends with Colombia beating Ghana 1-0, as Jhon Arias sends the South Americans through.",
+      "title": "Iran war live: Huge crowds mourn Khamenei, Trump vows to hold fire",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss",
+      "summary": "Iran's late Supreme Leader Ali Khamenei and members of his family were killed in a US-Israeli air strike in February.",
       "source": "Al Jazeera",
       "region": "Middle East",
-      "published": "2026-07-04 03:41",
-      "published_iso": "2026-07-04T03:41:22+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "World Cup 2026: Colombia secure last 16 spot with narrow victory over Ghana",
-      "link": "https://www.france24.com/en/sport/20260704-world-cup-2026-colombia-secure-last-16-spot-with-narrow-victory-over-ghana",
-      "summary": "",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-07-04 03:32",
-      "published_iso": "2026-07-04T03:32:07+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Ahead of Morocco vs Canada at the World Cup, comparisons arise with the 2022 team",
-      "link": "https://www.aljazeera.com/sports/2026/7/4/ahead-of-morocco-vs-canada-at-the-world-cup-comparisons-arise-with-the-2022-team?traffic_source=rss",
-      "summary": "Despite the ups and downs between the two World Cups, Morocco have once again risen as the top Arab and African team.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-04 03:31",
-      "published_iso": "2026-07-04T03:31:37+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "‘El Obeid crisis could be worse than El Fasher,’ warns ex-UN official",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/el-obeid-crisis-could-be-worse-than-el-fasher-warns-ex-un-official?traffic_source=rss",
-      "summary": "Mukesh Kapila, ex-UN Humanitarian Coordinator for Sudan warns that, 'El Obeid crisis could be worse than El Fasher'.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-04 02:28",
-      "published_iso": "2026-07-04T02:28:17+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Third teenager charged after 15-year-old Melbourne boy allegedly left to die from stab wounds",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/04/third-teenager-charged-after-15-year-old-melbourne-boy-allegedly-left-to-die-from-stab-wounds-ntwnfb",
-      "summary": "Darweish Mohamed was found critically wounded outside Craigieburn community hospital on Wednesday evening Get our breaking news email , free app or daily news podcast A third teenager has been charged over the fatal stabbing of a 15-year-old boy found outside...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-04 01:42",
-      "published_iso": "2026-07-04T01:42:25+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Ronaldo sends message to Venezuelan earthquake survivor",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/ronaldo-sends-message-to-venezuelan-earthquake-survivor?traffic_source=rss",
-      "summary": "Cristiano Ronaldo has sent a message to a young Venezuelan earthquake survivor, recovering in hospital.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-04 01:32",
-      "published_iso": "2026-07-04T01:32:28+00:00",
+      "published": "2026-07-05 00:00",
+      "published_iso": "2026-07-05T00:00:00+00:00",
       "score": 100,
       "keywords": [
-        "earthquake"
+        "us",
+        "war"
       ]
     },
     {
-      "title": "From friendship bracelets to wedding rings: A Taylor and Travis timeline",
-      "link": "https://www.bbc.co.uk/news/articles/cqj19p112qjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Taylor Swift and Travis Kelce are celebrating their wedding with a party at New York's Madison Square Garden this weekend, her publicist says.",
+      "title": "US influence challenged by changing global order: Paolo von Schirach",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/us-influence-challenged-by-changing-global-order-paolo-von-schirach?traffic_source=rss",
+      "summary": "US influence challenged by changing global order: Paolo von Schirach",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-04 22:10",
+      "published_iso": "2026-07-04T22:10:39+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Funeral of Iran's former supreme leader 'intensely political moment'",
+      "link": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities expect up to 20 million people to attend ceremonies across Iran and Iraq over the coming days.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-07-04 01:20",
-      "published_iso": "2026-07-04T01:20:36+00:00",
+      "published": "2026-07-04 21:46",
+      "published_iso": "2026-07-04T21:46:43+00:00",
       "score": 100,
       "keywords": []
+    },
+    {
+      "title": "Denmark’s century-old Fourth of July party looks different this year.",
+      "link": "https://www.nytimes.com/live/2026/07/04/us/america-250-celebrations-fourth-july/denmarks-century-old-fourth-of-july-party-looks-different-this-year",
+      "summary": "Overshadowed by President Trump’s threats to seize Greenland, a Danish territory, the event removed U.S. officials from the program and saw protests arrive.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-07-04 21:40",
+      "published_iso": "2026-07-04T21:40:49+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Female US rower completes historic solo journey from California to Hawaii",
+      "link": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+      "summary": "Kelsey Pfendler set out to become first US woman, youngest woman and fastest woman to solo over 2,400-mile journey A Grand Canyon river-rafting guide who aimed to become the first US woman to row solo across the mid-Pacific has completed a record-breaking jou...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-04 21:06",
+      "published_iso": "2026-07-04T21:06:56+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "A new phase in the war in Ukraine",
+      "link": "https://www.npr.org/2026/07/04/nx-s1-5879372/a-new-phase-in-the-war-in-ukraine",
+      "summary": "Ukraine says it can now hit military and energy targets deep inside Russia. Former ambassador Daniel Fried explains why he thinks Russia is starting to lose its strategic advantage.",
+      "source": "NPR World",
+      "region": "World",
+      "published": "2026-07-04 21:03",
+      "published_iso": "2026-07-04T21:03:51+00:00",
+      "score": 100,
+      "keywords": [
+        "energy",
+        "russia",
+        "ukraine",
+        "war"
+      ]
+    },
+    {
+      "title": "The Funeral of Iran’s Supreme Leader, Ali Khamenei",
+      "link": "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html",
+      "summary": "Iran’s new leaders are commemorating Ayatollah Ali Khamenei, killed on the first day of the U.S.-Israeli war against the country, with a funeral unlike any other in recent history.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-07-04 20:22",
+      "published_iso": "2026-07-04T20:22:03+00:00",
+      "score": 100,
+      "keywords": [
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "Eala wins 'for all the girls with ruffled socks and chubby cheeks'",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cjwgpz3wj69o?at_medium=RSS&at_campaign=rss",
+      "summary": "Alexandra Eala dedicates her stunning win over defending Wimbledon champion Iga Swiatek to \"all the girls with ruffled socks and chubby cheeks\".",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-07-04 20:19",
+      "published_iso": "2026-07-04T20:19:11+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Lebanon’s Aoun calls on US to keep ‘always standing beside’ his country",
+      "link": "https://www.aljazeera.com/news/2026/7/4/lebanons-aoun-calls-on-us-to-keep-always-standing-beside-his-country?traffic_source=rss",
+      "summary": "In a congratulatory message on US Independence Day, Aoun says he hopes Lebanon can 'open a new page of hope'.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-04 20:06",
+      "published_iso": "2026-07-04T20:06:41+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Doctors’ soaring use of AI scribes prompts Australian government warning over privacy",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/05/doctors-ai-scribes-australia-government-privacy-warning",
+      "summary": "Exclusive: With the technology fast becoming popular in GP surgeries, regulators are monitoring its implementation and potential pitfalls Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The f...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-04 20:00",
+      "published_iso": "2026-07-04T20:00:07+00:00",
+      "score": 100,
+      "keywords": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Neo-fascist group Patriot Front parades Confederate flag in Washington DC on Fourth of July",
+      "link": "https://www.theguardian.com/us-news/2026/jul/04/neo-fascist-patriot-front-washington-dc",
+      "summary": "Hundreds of masked members of the white supremacist organization marched and chanted in the US capital Hundreds of masked men carrying banners, including the Confederate flag, marched through Washington DC on the Fourth of July, the 250th anniversary of the U...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-04 19:47",
+      "published_iso": "2026-07-04T19:47:24+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "A politically charged holiday: The US celebrates its 250th anniversary",
+      "link": "https://www.aljazeera.com/gallery/2026/7/4/a-politically-charged-holiday-the-us-celebrates-its-250th-anniversary?traffic_source=rss",
+      "summary": "The semiquincentennial has been meet with controversy, as President Trump seeks to exert influence over the celebration.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-04 19:43",
+      "published_iso": "2026-07-04T19:43:18+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Has the US reckoned with its own history?",
+      "link": "https://www.aljazeera.com/video/upfront/2026/7/4/has-the-us-reckoned-with-its-own-history?traffic_source=rss",
+      "summary": "Marc Lamont Hill speaks to scholar Kimberle Crenshaw on whether the US is sliding backwards on civil rights.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-04 19:30",
+      "published_iso": "2026-07-04T19:30:00+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Will economic pressure move the Kremlin towards talks with Kyiv?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/4/will-economic-pressure-move-the-kremlin-towards-talks-with-kyiv?traffic_source=rss",
+      "summary": "Relentless Ukrainian strikes on refineries have caused a fuel crisis in Russia.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-04 19:19",
+      "published_iso": "2026-07-04T19:19:18+00:00",
+      "score": 100,
+      "keywords": [
+        "russia"
+      ]
+    },
+    {
+      "title": "Ukrainian drones hit St Petersburg oil terminal and nearby port",
+      "link": "https://www.theguardian.com/world/2026/jul/04/ukrainian-drones-hit-st-petersburg-oil-terminal-and-nearby-port",
+      "summary": "St Petersburg governor reports no victims after ‘large-scale’ overnight attack that also hit Baltic port of Vysotsk Ukraine launched a big overnight drone attack on St Petersburg and the surrounding area, hitting the city’s oil terminal and port infrastructur...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-04 19:09",
+      "published_iso": "2026-07-04T19:09:06+00:00",
+      "score": 100,
+      "keywords": [
+        "ukraine"
+      ]
+    },
+    {
+      "title": "Russia’s Medvedev says Strait of Hormuz is Iran’s ‘nuclear weapon’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russias-medvedev-says-strait-of-hormuz-is-irans-nuclear?traffic_source=rss",
+      "summary": "Dmitry Medvedev says Iran’s ability to disrupt traffic in the Strait of Hormuz is equivalent to possession of a nuclear.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-04 18:46",
+      "published_iso": "2026-07-04T18:46:13+00:00",
+      "score": 100,
+      "keywords": [
+        "russia"
+      ]
+    },
+    {
+      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-07-04 18:41",
+      "published_iso": "2026-07-04T18:41:25+00:00",
+      "score": 100,
+      "keywords": [
+        "russia",
+        "ukraine",
+        "war"
+      ]
+    },
+    {
+      "title": "Trump hints Israel’s Benjamin Netanyahu may visit US as early as next week",
+      "link": "https://www.aljazeera.com/news/2026/7/4/trump-hints-israels-benjamin-netanyahu-may-visit-us-as-early-as-next-week?traffic_source=rss",
+      "summary": "The visit would mark Netanyahu's seventh visit to the US since Trump returned to office for a second term as president.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-04 18:17",
+      "published_iso": "2026-07-04T18:17:58+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Turkiye’s Erdogan says Israel must not be able to ‘dynamite’ US-Iran deal",
+      "link": "https://www.aljazeera.com/news/2026/7/4/turkiyes-erdogan-says-israel-must-not-be-able-to-dynamite-us-iran-deal?traffic_source=rss",
+      "summary": "The Turkiye leader has repeatedly accused Israel of trying to undermine the US-Iran memorandum of understanding.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-04 18:09",
+      "published_iso": "2026-07-04T18:09:20+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
+      "link": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The couple tied the knot in New York on Friday, after months of speculation about when, where and how it would happen.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-07-04 17:51",
+      "published_iso": "2026-07-04T17:51:04+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Armenia’s defiant drag scene braves pushback",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260704-armenia-s-defiant-drag-scene-braves-pushback",
+      "summary": "Armenia sits at the crossroads of Europe, Asia and the Middle East. While in much of the European Union, the drag scene is mainstream, in Armenia it remains underground. Performers face threats of violence, stigma, police pressure and even rejection by their...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-07-04 17:44",
+      "published_iso": "2026-07-04T17:44:41+00:00",
+      "score": 100,
+      "keywords": [
+        "europe",
+        "middle east"
+      ]
+    },
+    {
+      "title": "Injury ends Williams' Wimbledon comeback",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Serena Williams pulls out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-07-04 17:22",
+      "published_iso": "2026-07-04T17:22:46+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "In a pickle: US pickle company pulls out of DC fair over Confederate flag",
+      "link": "https://www.theguardian.com/us-news/2026/jul/04/dc-state-fair-pickle-company-withdrawal",
+      "summary": "Mt Olive Pickle Company says it was unaware image of flag was included in exhibit, and cites value of ‘human dignity’ A leading vendor of the US delicacy that is the pickle has withdrawn from the Great American State Fair in Washington DC after North Carolina...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-04 17:21",
+      "published_iso": "2026-07-04T17:21:24+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
     },
     {
       "title": "Putin Visits Battlefield and Vows to Take More of Ukraine",
@@ -125,8 +455,8 @@
       "summary": "The Russian leader denounced Ukraine’s “imaginary achievements” on the battlefield of late, calling its leaders “play actors.”",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-07-04 00:24",
-      "published_iso": "2026-07-04T00:24:33+00:00",
+      "published": "2026-07-04 17:11",
+      "published_iso": "2026-07-04T17:11:14+00:00",
       "score": 100,
       "keywords": [
         "russia",
@@ -134,654 +464,325 @@
       ]
     },
     {
-      "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
-      "summary": "Israeli attacks on Gaza continue with a child killed and another injured in a drone strike, according to civil defence.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-04 00:00",
-      "published_iso": "2026-07-04T00:00:00+00:00",
-      "score": 100,
-      "keywords": [
-        "war"
-      ]
-    },
-    {
-      "title": "Egypt say Dallas police officer pushed player, team director at World Cup",
-      "link": "https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup?traffic_source=rss",
-      "summary": "A security officer pushed the fan, as well as Trezeguet and Hassan, at the team hotel in Dallas before Egypt's match.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-03 22:20",
-      "published_iso": "2026-07-03T22:20:04+00:00",
-      "score": 100,
-      "keywords": [
-        "security"
-      ]
-    },
-    {
-      "title": "Thousands forced to evacuate in Colorado as wildfire spreads",
-      "link": "https://www.aljazeera.com/news/2026/7/3/thousands-forced-to-evacuate-in-colorado-as-wildfire-spreads?traffic_source=rss",
-      "summary": "The Aspen Acres Fire, one of about 40 wildfires burning across western US, has destroyed homes and forced evacuations.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-03 21:32",
-      "published_iso": "2026-07-03T21:32:05+00:00",
-      "score": 100,
-      "keywords": [
-        "us",
-        "wildfire"
-      ]
-    },
-    {
-      "title": "‘A nightmare’: Strugging with the aftermath of Venezuela’s earthquakes",
-      "link": "https://www.aljazeera.com/news/longform/2026/7/3/a-nightmare-strugging-with-the-aftermath-of-venezuelas-earthquakes?traffic_source=rss",
-      "summary": "Many survivors are sheltering in tents set up in public parks, after twin earthquakes destroyed rows of buildings.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-03 21:17",
-      "published_iso": "2026-07-03T21:17:40+00:00",
-      "score": 100,
-      "keywords": [
-        "earthquake"
-      ]
-    },
-    {
-      "title": "CDC investigates parasite that’s caused cases of ‘explosive’ diarrhea in 18 US states",
-      "link": "https://www.theguardian.com/us-news/2026/jul/03/cdc-investigates-parasite-explosive-diarrhea",
-      "summary": "Parasite cyclospora spreads through produce and water contaminated with feces and causes the intestinal illness cyclosporiasis The US Centers for Disease Prevention has been working to find the source of a parasitic illness that causes “explosive”, watery dia...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-03 21:13",
-      "published_iso": "2026-07-03T21:13:46+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Massive wildfire spreads in Portugal amid extreme heat and strong wind",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/massive-wildfire-spreads-in-portugal-amid-extreme-heat-and-strong-wind?traffic_source=rss",
-      "summary": "A raging wildfire near Vouzela in central Portugal spread across several municipalities, driven by winds and heat",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-03 21:01",
-      "published_iso": "2026-07-03T21:01:17+00:00",
-      "score": 100,
-      "keywords": [
-        "wildfire"
-      ]
-    },
-    {
-      "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
-      "link": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
-      "summary": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification.",
+      "title": "BBC in Tehran as mourners gather for former supreme leader's funeral",
+      "link": "https://www.bbc.co.uk/news/videos/c5yz9jn0xkko?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranian authorities say they expect millions of people to take part in funeral commemorations for Ayatollah Ali Khamenei.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-07-03 21:00",
-      "published_iso": "2026-07-03T21:00:53+00:00",
+      "published": "2026-07-04 16:49",
+      "published_iso": "2026-07-04T16:49:36+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "Iran's control of the Strait of Hormuz remains a powerful bargaining chip",
-      "link": "https://www.npr.org/2026/07/03/nx-s1-5879278/irans-control-of-the-strait-of-hormuz-remains-a-powerful-bargaining-chip",
-      "summary": "Despite efforts by U.S. negotiators, Iran says it wants to charge a toll for ships to pass through the Strait of Hormuz. It's yet another unresolved issue of the U.S.-Iran war.",
-      "source": "NPR World",
-      "region": "World",
-      "published": "2026-07-03 20:51",
-      "published_iso": "2026-07-03T20:51:04+00:00",
-      "score": 100,
-      "keywords": [
-        "us",
-        "war"
-      ]
-    },
-    {
-      "title": "Is China’s new ethnic unity law a step towards forced assimilation?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/3/is-chinas-new-ethnic-unity-law-a-step-towards-forced-assimilation-2?traffic_source=rss",
-      "summary": "The government says the law will help forge a shared national identity.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-03 19:59",
-      "published_iso": "2026-07-03T19:59:27+00:00",
-      "score": 100,
-      "keywords": [
-        "china"
-      ]
-    },
-    {
-      "title": "Mamdani calls for unity on America’s 250th birthday",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/mamdani-calls-for-unity-on-americas-250th-birthday?traffic_source=rss",
-      "summary": "New York City Mayor Zohran Mamdani marked the US's 250th birthday by reflecting on the nation's founding ideals.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-03 19:58",
-      "published_iso": "2026-07-03T19:58:44+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "US heatwave raises alarms over AI data centre energy demands",
-      "link": "https://www.aljazeera.com/economy/2026/7/3/us-heatwave-raises-alarms-over-ai-data-centre-energy-demands?traffic_source=rss",
-      "summary": "US heatwave exposes critical strain on power grids from growing energy demands of AI data centres.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-03 19:48",
-      "published_iso": "2026-07-03T19:48:44+00:00",
-      "score": 100,
-      "keywords": [
-        "ai",
-        "energy",
-        "us"
-      ]
-    },
-    {
-      "title": "Iran plans dayslong funeral for Supreme Leader Khamenei after war death",
-      "link": "https://www.npr.org/2026/07/03/g-s1-131963/iran-plans-dayslong-funeral-for-supreme-leader-khamenei-after-war-death",
-      "summary": "The country's theocracy hopes to see millions flood the streets of the capital beginning Saturday in scenes reminiscent to the burial of the late Supreme Leader Ayatollah Ruhollah Khomeini in 1989.",
-      "source": "NPR World",
-      "region": "World",
-      "published": "2026-07-03 19:45",
-      "published_iso": "2026-07-03T19:45:24+00:00",
-      "score": 100,
-      "keywords": [
-        "flood",
-        "war"
-      ]
-    },
-    {
-      "title": "Taylor Swift fans brave the New York heat to be (at least somewhat) near wedding to Travis Kelce",
-      "link": "https://www.theguardian.com/music/2026/jul/03/taylor-swift-travis-kelce-wedding",
-      "summary": "People gather outside Madison Square Garden despite security keeping them from seeing anything noteworthy Taylor Swift ’s fans gathered in the heat outside New York’s Madison Square Garden on Friday for her wedding – or at least the celebration of it – to Tra...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-03 19:40",
-      "published_iso": "2026-07-03T19:40:43+00:00",
-      "score": 100,
-      "keywords": [
-        "security"
-      ]
-    },
-    {
-      "title": "Lebanon-Israel deal betrays ‘victims of war crimes’, rights groups say",
-      "link": "https://www.aljazeera.com/news/2026/7/3/lebanon-israel-deal-betrays-victims-of-war-crimes-rights-groups-say?traffic_source=rss",
-      "summary": "Human rights and media freedom organisations warned that the agreement prevents 'recourse to international courts'.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-03 19:27",
-      "published_iso": "2026-07-03T19:27:15+00:00",
-      "score": 100,
-      "keywords": [
-        "war"
-      ]
-    },
-    {
-      "title": "Putin & The ‘Drowning Man Syndrome’ Sudan",
-      "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20260703-putin-the-drowning-man-syndrome-sudan",
-      "summary": "From intensifying drone warfare between Ukraine and Russia to mounting fears of a humanitarian catastrophe in Sudan, anti-immigration protests in South Africa and a landmark ruling by the US Supreme Court, this week has been shaped by conflicts over power, id...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-07-03 18:18",
-      "published_iso": "2026-07-03T18:18:01+00:00",
-      "score": 100,
-      "keywords": [
-        "russia",
-        "ukraine",
-        "us"
-      ]
-    },
-    {
-      "title": "U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators",
-      "link": "https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html",
-      "summary": "Any Israeli attempt to kill Abbas Araghchi, the foreign minister, or Mohammad Ghalibaf, the Parliament speaker, would have derailed peace talks, American officials feared.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-07-03 18:10",
-      "published_iso": "2026-07-03T18:10:21+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "UK parents warned over posting images of children amid AI sexual abuse fears",
-      "link": "https://www.theguardian.com/society/2026/jul/03/ai-sexual-abuse-fears-uk-parents-warned-posting-images-children-national-crime-agency",
-      "summary": "Exclusive: National Crime Agency and safety watchdog issue guidance amid rise in explicit material online AI prey: why watchdogs are telling parents to protect children from nudification apps Parents should not put photos of their children on public display o...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-03 17:22",
-      "published_iso": "2026-07-03T17:22:59+00:00",
-      "score": 100,
-      "keywords": [
-        "ai"
-      ]
-    },
-    {
-      "title": "A U.S. Independence Celebration Damaged a Museum in Belgium",
-      "link": "https://www.nytimes.com/2026/07/03/world/europe/belgium-building-damaged-america-250-fireworks.html",
-      "summary": "There were black marks left on a structure in a central Brussels park after a fireworks display, the American ambassador to Belgium confirmed.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-07-03 17:19",
-      "published_iso": "2026-07-03T17:19:51+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Polish PM warns critical months ahead in face of Russian threat",
-      "link": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Tusk says Poland is preparing for \"various\" scenarios after media reports of a planned Russian attack.",
+      "title": "Former chess champion Kramnik banned over cheating remarks",
+      "link": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The former Russian world chess champion had accused other players, including the late Daniel Naroditsky, of cheating.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-07-03 16:41",
-      "published_iso": "2026-07-03T16:41:00+00:00",
+      "published": "2026-07-04 15:45",
+      "published_iso": "2026-07-04T15:45:15+00:00",
       "score": 100,
       "keywords": [
         "russia"
       ]
     },
     {
-      "title": "Zuma showing South Africa 'middle finger' by meeting Gupta brother - minister",
-      "link": "https://www.bbc.co.uk/news/articles/cvge0gd6lnqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Former President Zuma's trip to India reignites anger over a decade-old corruption scandal.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-07-03 16:39",
-      "published_iso": "2026-07-03T16:39:00+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Dissident Hong Kong bookseller Lam Wing-kee dies aged 70",
-      "link": "https://www.bbc.co.uk/news/articles/cwy0wy0nenvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lam Wing-kee, who defied China by selling material critical of Beijing, passed away after suffering from lung cancer.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-07-03 16:31",
-      "published_iso": "2026-07-03T16:31:40+00:00",
-      "score": 100,
-      "keywords": [
-        "china"
-      ]
-    },
-    {
-      "title": "Pope praises US history of welcoming immigrants in implicit rebuke to Trump",
-      "link": "https://www.theguardian.com/world/2026/jul/03/pope-leo-lampedusa-visit-us-250th-anniversary-trump",
-      "summary": "Pope Leo urges Americans to live up to the ideals of the Declaration of Independence in his first major address to the US Pope Leo has used his first major address to his home country to praise the US history of ⁠welcoming migrants, urging Americans to live u...",
+      "title": "Crowds gather as six-day funeral for former Iranian supreme leader begins",
+      "link": "https://www.theguardian.com/world/2026/jul/04/crowds-gather-six-day-funeral-former-iranian-supreme-leader-ali-khamenei",
+      "summary": "Up to 30 million people expected to attend delayed events for Ali Khamenei, killed at start of war with US and Israel Huge crowds have gathered at the funeral of the former Iranian supreme leader after the gates of the sprawling Grand Mosalla mosque in centra...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-07-03 16:26",
-      "published_iso": "2026-07-03T16:26:47+00:00",
+      "published": "2026-07-04 12:51",
+      "published_iso": "2026-07-04T12:51:41+00:00",
       "score": 100,
       "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "EU ‘tech sovereignty’: Uncoupling from the US and China?",
-      "link": "https://www.france24.com/en/tv-shows/talking-europe/20260703-eu-tech-sovereignty-uncoupling-from-the-us-and-china",
-      "summary": "The EU is trying to assert its strategic independence in an unstable world – a world of bullies, as some members of the EU Parliament describe it. That means independence in matters of defence and energy supplies, but also in the whole field of tech. The Euro...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-07-03 16:13",
-      "published_iso": "2026-07-03T16:13:15+00:00",
-      "score": 100,
-      "keywords": [
-        "china",
-        "energy",
-        "us"
-      ]
-    },
-    {
-      "title": "Four Reasons Crimea Has Become Crucial in the Ukraine War",
-      "link": "https://www.nytimes.com/2026/07/02/world/europe/russia-crimea-ukraine.html",
-      "summary": "Escalating drone strikes, fuel shortages and power cuts in the region Russia annexed are among the factors turning up the heat on President Vladimir V. Putin.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-07-03 14:54",
-      "published_iso": "2026-07-03T14:54:04+00:00",
-      "score": 100,
-      "keywords": [
-        "russia",
-        "ukraine",
+        "us",
         "war"
       ]
     },
     {
-      "title": "US withdraws troops from Nigeria after Islamic State mission",
-      "link": "https://www.bbc.co.uk/news/articles/cwylkvpl80xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US said the joint operation, which began in December last year, was a success.",
+      "title": "Pope urges Europe to do more for migrants as he visits gateway island",
+      "link": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
+      "summary": "The pontiff pays tribute to migrants who lost their lives at sea at a cemetery on the Italian island of Lampedusa.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-07-03 14:00",
-      "published_iso": "2026-07-03T14:00:50+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape",
-      "link": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape",
-      "summary": "Thousands of volunteers are joined by overseas teams in the hope of finding more survivors in the rubble, reports Tom Phillips in Caraballeda. Photography and video by Manu Quintero When twin earthquakes tore through Venezuela’s northern coast last week, Isra...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-03 11:08",
-      "published_iso": "2026-07-03T11:08:44+00:00",
-      "score": 100,
-      "keywords": [
-        "earthquake",
-        "war"
-      ]
-    },
-    {
-      "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
-      "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
-      "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-07-03 10:23",
-      "published_iso": "2026-07-03T10:23:32+00:00",
+      "published": "2026-07-04 11:25",
+      "published_iso": "2026-07-04T11:25:57+00:00",
       "score": 100,
       "keywords": [
         "europe"
       ]
     },
     {
-      "title": "‘Ridiculous’ for US to maintain current Nato support, Trump warns ahead of alliance summit",
-      "link": "https://www.theguardian.com/us-news/2026/jul/03/trump-nato-alliance-support-ridiculous-ahead-of-summit",
-      "summary": "President says Washington’s relationship with Nato is ‘not reciprocal’ and ‘they were not there for us’ in Iran war Donald Trump has said it is “ridiculous” for the US to continue its “one sided” relationship with Nato, less than a week before a summit of the...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-03 05:19",
-      "published_iso": "2026-07-03T05:19:33+00:00",
-      "score": 100,
-      "keywords": [
-        "us",
-        "war"
-      ]
-    },
-    {
-      "title": "'Most massive' Russian attack on Kyiv kills at least 30",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "summary": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-07-03 04:41",
-      "published_iso": "2026-07-03T04:41:05+00:00",
-      "score": 100,
-      "keywords": [
-        "russia"
-      ]
-    },
-    {
-      "title": "Iran Prepares to Bury Supreme Leader, Ayatollah Ali Khamenei, Killed at Iran War’s Outset",
-      "link": "https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html",
-      "summary": "Long-delayed funeral ceremonies for Ayatollah Ali Khamenei, killed during U.S.-Israeli strikes at the war’s outset, are set to begin Friday. For the regime, it is a critical moment to demonstrate that it has endured.",
+      "title": "Iran Projects Unity to the World While Pursuing a Crackdown at Home",
+      "link": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-dissidents-crackdown.html",
+      "summary": "The country’s security service has continued to target civil society and dissidents, including thousands of arrests since the launch of the U.S.-Israeli war in February.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-07-03 12:03",
-      "published_iso": "2026-07-03T12:03:21+00:00",
+      "published": "2026-07-04 10:33",
+      "published_iso": "2026-07-04T10:33:34+00:00",
+      "score": 100,
+      "keywords": [
+        "security",
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "link": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-07-04 07:52",
+      "published_iso": "2026-07-04T07:52:55+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "Pope Leo visits Lampedusa to spotlight missing migrants",
+      "link": "https://www.npr.org/2026/07/04/nx-s1-5879160/pope-leo-visits-lampedusa-to-spotlight-missing-migrants",
+      "summary": "Pope Leo XIV will spend July 4th in Lampedusa, Italy, one of Europe's busiest migrant landing points. He will pray with migrants and honor those who died trying to cross the Mediterranean to Europe.",
+      "source": "NPR World",
+      "region": "World",
+      "published": "2026-07-04 21:03",
+      "published_iso": "2026-07-04T21:03:49+00:00",
       "score": 99,
+      "keywords": [
+        "europe"
+      ]
+    },
+    {
+      "title": "Iran begins week of funeral celebrations for Khamenei",
+      "link": "https://www.npr.org/2026/07/04/nx-s1-5877738/iran-begins-week-of-funeral-celebrations-for-khamenei",
+      "summary": "Foreign dignitaries are gathering in Iran for a week of funeral ceremonies for Ayatollah Ali Khamenei, more than four months after he was killed in U.S.-Israeli airstrikes.",
+      "source": "NPR World",
+      "region": "World",
+      "published": "2026-07-04 21:03",
+      "published_iso": "2026-07-04T21:03:46+00:00",
+      "score": 99,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Woman charged with murder after body of four-year-old boy found in Central Coast home",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/05/woman-arrested-after-body-of-four-year-old-boy-found-wyong-central-coast-ntwnfb",
+      "summary": "Police are investigating what happened to a boy who was found with significant arm injuries Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A woman has been charged with murder after police f...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-05 00:53",
+      "published_iso": "2026-07-05T00:53:03+00:00",
+      "score": 98,
+      "keywords": []
+    },
+    {
+      "title": "Cow corner: cricket match abandoned after runaway bull stops play",
+      "link": "https://www.theguardian.com/world/2026/jul/04/cricket-match-abandoned-after-charging-bull-stops-play",
+      "summary": "Match at Burnopfield near Newcastle called off after 800kg young bull escaped from farm and stormed playing field A cricket match had to be abandoned after a runaway bull stormed the playing field and charged at players. The North East Premier League fixture...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-04 22:25",
+      "published_iso": "2026-07-04T22:25:08+00:00",
+      "score": 98,
+      "keywords": []
+    },
+    {
+      "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+      "link": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+      "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activities Archaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert. The fourth-century quarters had residential and re...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-04 20:32",
+      "published_iso": "2026-07-04T20:32:52+00:00",
+      "score": 98,
+      "keywords": []
+    },
+    {
+      "title": "Norfolk Island’s unique corals under triple threat from disease, El Niño and now government-approved dredging",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/05/norfolk-islands-unique-corals-under-triple-threat-from-disease-el-nino-and-now-government-approved-dredging",
+      "summary": "Exclusive: Most of the island’s corals are likely to be species that have not been formally described by science, researcher says Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Scientists fe...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-04 20:00",
+      "published_iso": "2026-07-04T20:00:07+00:00",
+      "score": 98,
+      "keywords": []
+    },
+    {
+      "title": "Tens of thousands march in London for annual Pride parade",
+      "link": "https://www.theguardian.com/world/2026/jul/04/tens-of-thousands-march-in-london-for-annual-pride-parade",
+      "summary": "More than 35,000 people from about 600 groups made their way from Hyde Park Corner to Whitehall via Piccadilly Tens of thousands of people marched through central London for the annual LGBT+ Pride parade. Sadiq Khan, the mayor of London, joined the crowd as t...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-04 18:06",
+      "published_iso": "2026-07-04T18:06:08+00:00",
+      "score": 98,
+      "keywords": []
+    },
+    {
+      "title": "Curtis Young on America's \"diffcult moment in the mirror\"",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260704-curtis-young-on-the-america-s-diffcult-moment-in-the-mirror",
+      "summary": "This weekend, the United States marks 250 years since the adoption of the Declaration of Independence, one of the most influential political texts in modern history. Its assertion that governments derive their power from the consent of the governed, and that...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-07-04 17:36",
+      "published_iso": "2026-07-04T17:36:25+00:00",
+      "score": 97,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "White nationalists march on Washington DC ahead of Freedom 250 celebrations",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_white-nationalists-march-ahead-of-freedom-250-040726?traffic_source=rss",
+      "summary": "Hundreds of masked white nationalists marched on Washington DC ahead of Freedom 250.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-05 00:08",
+      "published_iso": "2026-07-05T00:08:47+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "White nationalists march in Washington, DC, area during July 4 festivities",
+      "link": "https://www.aljazeera.com/news/2026/7/4/white-nationalists-march-in-washington-dc-area-during-july-4-festivities?traffic_source=rss",
+      "summary": "Donald Trump has faced condemnation for failing to forcefully reject white nationalists during his presidency.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-04 23:57",
+      "published_iso": "2026-07-04T23:57:52+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Ticket prices plunge for USA-Belgium World Cup last-16 match",
+      "link": "https://www.aljazeera.com/sports/2026/7/4/ticket-prices-plunge-for-us-belgium-world-cup-last-16-match?traffic_source=rss",
+      "summary": "The price for the final 2026 World ⁠Cup match in Seattle hit nearly $4,000 but dipped as low as $1,549 ⁠on Tuesday.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-04 23:36",
+      "published_iso": "2026-07-04T23:36:37+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Mbappe draws level with Messi as France beat Paraguay to set up Morocco tie",
+      "link": "https://www.aljazeera.com/sports/2026/7/4/mbappe-draws-level-with-messi-as-france-beat-paraguay-to-set-up-morocco-tie?traffic_source=rss",
+      "summary": "Kylian Mbappe moves level with Lionel Messi on seven goals at World Cup 2026 as France beat Paraguay 1-0 in last 16.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-04 23:25",
+      "published_iso": "2026-07-04T23:25:33+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Masses of Iranians defy heatwave on second day of Khamenei’s funeral",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/masses-of-iranians-defy-heatwave-on-second-day-of-khameneis-funeral?traffic_source=rss",
+      "summary": "Iran has marked the second day of funeral processions for its late Supreme Leader Ali Khamenei.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-04 21:08",
+      "published_iso": "2026-07-04T21:08:18+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Ounahi fires Morocco into World Cup quarterfinals with 3-0 win over Canada",
+      "link": "https://www.aljazeera.com/sports/2026/7/4/ounahi-fires-morocco-into-world-cup-quarterfinals-with-3-0-win-over-canada?traffic_source=rss",
+      "summary": "Azzedine Ounahi scored two of three second-half goals as Morocco ended cohosts run to reach last eight.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-04 20:03",
+      "published_iso": "2026-07-04T20:03:15+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "America’s Indigenous Legacy",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/americas-indigenous-legacy?traffic_source=rss",
+      "summary": "The Potomac isn't just the name of a river, it's part of a much older story. Al Jazeera's Emma Withrow explains.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-04 19:32",
+      "published_iso": "2026-07-04T19:32:43+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "At least 20 drown as boat carrying students after exams sinks in DR Congo",
+      "link": "https://www.aljazeera.com/news/2026/7/4/at-least-20-drown-as-boat-carrying-students-after-exams-sinks-in-dr-congo?traffic_source=rss",
+      "summary": "Witnesses say the boat may have been carrying more than 200 passengers.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-04 19:16",
+      "published_iso": "2026-07-04T19:16:17+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Paraguay 0-1 France: FIFA World Cup 2026 last 16 – as it happened",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/4/france-vs-paraguay-live-fifa-world-cup-2026?traffic_source=rss",
+      "summary": "All the updates from our live coverage and text commentary stream as Mbappe's France beat Paraguay 1-0 in last 16.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-04 17:51",
+      "published_iso": "2026-07-04T17:51:21+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Police clash with protesters outside AfD meeting",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/police-clash-with-protesters-outside-afd-meeting?traffic_source=rss",
+      "summary": "German police scuffled with protesters as the far-right Alternative for Germany (AfD) held its national convention",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-04 17:13",
+      "published_iso": "2026-07-04T17:13:01+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "FIFA World Cup 2026: Best Round of 16 knockout matches to watch",
+      "link": "https://www.aljazeera.com/sports/2026/7/4/biggest-fifa-world-cup-matches-to-watch-in-round-of-16-knockout-stage?traffic_source=rss",
+      "summary": "As the tournament enters the second knockout phase, there are several blockbuster matchups led by Spain-Portugal.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-04 16:51",
+      "published_iso": "2026-07-04T16:51:20+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Dayslong funeral for slain Supreme Leader Ayatollah Ali Khamenei begins in Tehran",
+      "link": "https://www.npr.org/2026/07/04/nx-s1-5882083/iran-funeral-ayatollah-ali-khamenei",
+      "summary": "Khamenei, who ruled Iran for more than three decades, was killed in an airstrike on Feb. 28 at the start of the U.S.-Israeli war against Iran.",
+      "source": "NPR World",
+      "region": "World",
+      "published": "2026-07-04 05:04",
+      "published_iso": "2026-07-04T05:04:16+00:00",
+      "score": 96,
       "keywords": [
         "us",
         "war"
       ]
     },
     {
-      "title": "Taylor Swift and Travis Kelce marry at New York City’s Madison Square Garden",
-      "link": "https://www.theguardian.com/music/2026/jul/03/taylor-swift-travis-kelce-wedding-msg-new-york",
-      "summary": "The couple invited an array of celebrity guests to the wedding, including Gigi Hadid and Bradley Cooper, while Adam Sandler officiated their nuptials Taylor Swift and Travis Kelce are officially wed. The couple hosted their wedding celebration on Friday in Ne...",
-      "source": "The Guardian World",
+      "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
+      "link": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&at_campaign=rss",
+      "summary": "Temperature records were smashed in June - and scientists warn this is a sign of things to come.",
+      "source": "BBC World",
       "region": "World",
-      "published": "2026-07-04 00:11",
-      "published_iso": "2026-07-04T00:11:52+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Stars assemble in New York City amid preparations for Taylor Swift 4 July wedding",
-      "link": "https://www.theguardian.com/music/2026/jul/03/taylor-swift-travis-kelce-wedding-new-york",
-      "summary": "Singer and fiance Travis Kelce have been coy but festivities are getting under way at Madison Square Garden The streets of New York City and the first-class lounges of Heathrow and JFK airports were crawling on Friday with celebrities on their way to attend t...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-03 23:21",
-      "published_iso": "2026-07-03T23:21:05+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Starmer warns Burnham he cannot spend less time on diplomacy",
-      "link": "https://www.theguardian.com/politics/2026/jul/03/starmer-warns-burnham-he-cannot-spend-less-time-on-diplomacy",
-      "summary": "Prime minister also speaks of his ‘intensely personal decision’ to step down in first interview since resigning Keir Starmer has warned his likely successor, Andy Burnham, that it will not be possible to spend less time focusing on international affairs. Spea...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-03 22:52",
-      "published_iso": "2026-07-03T22:52:59+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Two people dead and a third injured in shooting at Michigan shopping mall",
-      "link": "https://www.theguardian.com/us-news/2026/jul/03/two-people-dead-michigan-mall-shooting",
-      "summary": "A fight between two groups of young people who knew each other escalated into gunfire, police said A shooting altercation between two groups of young people at a shopping mall in Dearborn, Michigan, left two people dead and a third injured over what is typica...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-03 22:32",
-      "published_iso": "2026-07-03T22:32:22+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Two Romanians jailed over stabbing of Iranian TV journalist in London",
-      "link": "https://www.theguardian.com/uk-news/2026/jul/03/two-romanians-jailed-stabbing-iranian-journalist-in-london",
-      "summary": "Judge says evidence indicates attack on Pouria Zeraati outside home was carried out on behalf of Tehran regime Two Romanians who took part in a “targeted” knife attack on a television journalist in London “on behalf of the Iranian state” have been jailed. Pou...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-03 18:15",
-      "published_iso": "2026-07-03T18:15:02+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Reform UK-led council fails to attract any sponsors for union flag scheme",
-      "link": "https://www.theguardian.com/politics/2026/jul/03/reform-uk-nottinghamshire-county-council-union-flag-scheme",
-      "summary": "Party had justified plan to hang flags in Nottinghamshire on basis that local businesses would foot £75,000 bill A £75,000 scheme by a Reform-led council to hang union flags at sites across the county, which the party said would “not cost the taxpayer a singl...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-03 17:15",
-      "published_iso": "2026-07-03T17:15:41+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Hundreds join global support group for survivors of drug-facilitated rape",
-      "link": "https://www.theguardian.com/society/2026/jul/03/hundreds-join-support-group-survivors-drug-facilitated-rape",
-      "summary": "Zoe Watts and Amanda Stanhope launched network after being repeatedly assaulted by partners while unconscious Two women who were drugged and raped by their partners while they were unconscious have said hundreds of people – including about 80 in the UK – have...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-03 16:22",
-      "published_iso": "2026-07-03T16:22:23+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "'Not a proxy war': Sudan civil war 'would not go on like this' without role of international players",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20260703-not-a-proxy-war-sudan-civil-war-would-not-go-on-like-this-without-role-of-international-players",
-      "summary": "Gavin Lee is pleased to welcome Jan Pospisil, Sudan Affairs Analyst at the Peace and Conflict Resolution Evidence Platform. He says the siege has been going on for almost a year, and the RSF seems committed to seizing el-Obeid. While Pospisil explains that Su...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-07-03 17:22",
-      "published_iso": "2026-07-03T17:22:29+00:00",
-      "score": 97,
-      "keywords": [
-        "war"
-      ]
-    },
-    {
-      "title": "Pope calls for 'moderation' in US public discourse on 250th anniversary of independence",
-      "link": "https://www.france24.com/en/americas/20260703-pope-calls-for-moderation-in-us-public-discourse-on-250th-anniversary-of-independence",
-      "summary": "Pope Leo, the first US-born pontiff, called for \"moderation\" in US public discourse and called on Americans to find \"common ground\" in a speech on Friday that coincided with the 250th anniversary of US independence.",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-07-03 16:53",
-      "published_iso": "2026-07-03T16:53:00+00:00",
-      "score": 97,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Iran gets ready for Khamenei's funeral",
-      "link": "https://www.france24.com/en/video/20260703-iran-gets-ready-for-khamenei-s-funeral-1",
-      "summary": "He was assassinated in a #US-Israeli strike in February 2026. #Iran's Supreme leader Ali #Khamenei's #funerals are set to be held on July 4, with authorities expecting between 15 and 20 million people to attend.",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-07-03 16:31",
-      "published_iso": "2026-07-03T16:31:05+00:00",
-      "score": 97,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Messi scores again but Argentina given World Cup upset fright by Cape Verde",
-      "link": "https://www.aljazeera.com/sports/2026/7/4/messi-scores-again-but-argentina-given-world-cup-upset-fright-by-cape-verde?traffic_source=rss",
-      "summary": "Lionel Messi opens scoring but Argentina taken to extra time by Cape Verde, which threatened greatest World Cup upset.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-04 00:51",
-      "published_iso": "2026-07-04T00:51:40+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Egypt coach dedicates World Cup win to Palestine as Gaza celebrates",
-      "link": "https://www.aljazeera.com/sports/2026/7/4/egypt-coach-dedicates-world-cup-win-to-palestine-as-arab-world-celebrates?traffic_source=rss",
-      "summary": "Fans in Gaza celebrated Egypt's win at match screenings held against the backdrop of bombed buildings.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-04 00:20",
-      "published_iso": "2026-07-04T00:20:08+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "England vs Mexico World Cup knockout match to go ahead as scheduled",
-      "link": "https://www.aljazeera.com/sports/2026/7/4/england-vs-mexico-world-cup-knockout-match-to-go-ahead-as-scheduled?traffic_source=rss",
-      "summary": "No decision was ever made to reschedule the kickoff time of 6pm local time in Mexico City, sources tell Al Jazeera.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-04 00:07",
-      "published_iso": "2026-07-04T00:07:04+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Quakes reduce Venezuela tourist town to rubble, leaving economy in tatters",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/quakes-reduce-venezuela-tourist-town-to-rubble-leaving-economy-in-tatters?traffic_source=rss",
-      "summary": "Quakes reduce Venezuela tourist town to rubble, leaving economy in tatters.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-03 23:57",
-      "published_iso": "2026-07-03T23:57:24+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Venezuela’s Rodriguez blames ‘propaganda’ for quake response backlash",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/venezuelas-rodriguez-blames-propaganda-for-quake-response-backlash-2?traffic_source=rss",
-      "summary": "Venezuela's acting president Delcy Rodriguez dismissed criticism of the government's response.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-03 21:49",
-      "published_iso": "2026-07-03T21:49:17+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "NASA launches robotic mission to save telescope falling back to Earth",
-      "link": "https://www.aljazeera.com/news/2026/7/3/nasa-launches-robotic-mission-to-save-telescope-falling-back-to-earth?traffic_source=rss",
-      "summary": "A three-armed spacecraft blasts into orbit to rescue a NASA telescope in danger of crashing back to Earth.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-03 21:05",
-      "published_iso": "2026-07-03T21:05:39+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Salah awaits Messi as Egypt beat Australia on penalties at World Cup",
-      "link": "https://www.aljazeera.com/sports/2026/7/3/egypt-beat-australia-on-penalties-to-win-first-world-cup-knockout-match?traffic_source=rss",
-      "summary": "Egypt beat Australia 4-2 on penalties after a 1-1 draw after extra time, and could now face Argentina in the last 16.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-03 21:05",
-      "published_iso": "2026-07-03T21:05:06+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Dutch football association to sue over racist slurs after World Cup exit",
-      "link": "https://www.aljazeera.com/sports/2026/7/3/dutch-football-association-to-sue-over-racist-slurs-after-world-cup-exit?traffic_source=rss",
-      "summary": "The Netherlands' penalty loss to Morocco prompted an outpouring of social media abuse directed notably at Black players.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-03 20:58",
-      "published_iso": "2026-07-03T20:58:14+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Settlers attack activists, Palestinians trying to access their land",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/settlers-attack-activists-palestinians-trying-to-access-their-land?traffic_source=rss",
-      "summary": "Israeli settlers attacked a foreign activist and another man as they blocked access to Palestinian farmland.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-03 19:13",
-      "published_iso": "2026-07-03T19:13:39+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Saudi deputy foreign minister pays respects at Khamenei funeral",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/saudi-deputy-foreign-minister-pays-respects-at-khamenei-funeral?traffic_source=rss",
-      "summary": "Saudi Arabia’s Vice Foreign Minister Walid al-Khuraiji unexpectedly attended the former Supreme Leader's funeral",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-03 18:54",
-      "published_iso": "2026-07-03T18:54:27+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Argentina 3-2 Cape Verde: FIFA World Cup 2026 – as it happened",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/3/live-argentina-vs-cape-verde-fifa-world-cup-2026?traffic_source=rss",
-      "summary": "All the updates from our live text commentary stream coverage as Lionel Messi's Argentina beat Cape Verde in last-32.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-03 18:47",
-      "published_iso": "2026-07-03T18:47:05+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "July 4th events threatened by heat wave. And, Russia strikes on Ukraine's capital",
-      "link": "https://www.npr.org/2026/07/03/g-s1-131920/up-first-newsletter-america-250-heat-wave-ukraine-russia-democratic-party",
-      "summary": "July 4th events for America's milestone birthday are being threatened by a brutal heat wave. And, Russia has struck Ukraine's capital, killing several people in what it calls retaliatory attacks.",
-      "source": "NPR World",
-      "region": "World",
-      "published": "2026-07-03 11:39",
-      "published_iso": "2026-07-03T11:39:07+00:00",
+      "published": "2026-07-04 00:57",
+      "published_iso": "2026-07-04T00:57:05+00:00",
       "score": 96,
       "keywords": [
-        "russia",
-        "ukraine"
+        "climate",
+        "europe"
       ]
     },
     {
@@ -799,194 +800,202 @@
       ]
     },
     {
-      "title": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
-      "link": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The young migrants heading to Europe say they were stripped and had their hands tied in freezing temperatures.",
-      "source": "BBC World",
+      "title": "Prince Harry Will Travel to London, but Without His Family",
+      "link": "https://www.nytimes.com/2026/07/04/world/europe/prince-harry-london-trip-meghan-children.html",
+      "summary": "The prince’s wife, Meghan, and their children could still join him for other parts of his trip outside the capital, a person close to the family said.",
+      "source": "NYTimes World",
       "region": "World",
-      "published": "2026-07-01 22:13",
-      "published_iso": "2026-07-01T22:13:03+00:00",
-      "score": 96,
+      "published": "2026-07-04 23:18",
+      "published_iso": "2026-07-04T23:18:51+00:00",
+      "score": 95,
+      "keywords": []
+    },
+    {
+      "title": "Canada Has a New Obsession: Soccer",
+      "link": "https://www.nytimes.com/2026/07/04/world/canada/world-cup-canada-morocco.html",
+      "summary": "A surprising World Cup run ended on Saturday against Morocco, but the Canadian successes, as a team and a host, are likely to endure.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-07-04 21:37",
+      "published_iso": "2026-07-04T21:37:21+00:00",
+      "score": 95,
+      "keywords": []
+    },
+    {
+      "title": "Momentary Unity at a Funeral Masks Deep Divisions Among Iran’s Leaders",
+      "link": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-supreme-leader-funeral-divisions.html",
+      "summary": "Ayatollah Mojtaba Khamenei’s absence has raised questions inside Iranian political circles about who is really running the country and allowed open divisions to fester.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-07-04 20:44",
+      "published_iso": "2026-07-04T20:44:42+00:00",
+      "score": 95,
+      "keywords": []
+    },
+    {
+      "title": "Trump’s Travel Crackdown Has a Winner: Mexican Tourism",
+      "link": "https://www.nytimes.com/2026/07/04/world/americas/world-cup-mexico-tourism-trump.html",
+      "summary": "While critics question just how much the World Cup will benefit tourism long term, Mexican officials believe it can help boost the country to fifth most visited in the world.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-07-04 18:03",
+      "published_iso": "2026-07-04T18:03:09+00:00",
+      "score": 95,
+      "keywords": []
+    },
+    {
+      "title": "Three children dead after boat capsizes during storm in Wisconsin",
+      "link": "https://www.theguardian.com/us-news/2026/jul/04/wisconsin-children-drown",
+      "summary": "Officials rescued seven other people after a sudden storm led to a boat sinking on Geneva Lake Three children died after a boat capsized on Wisconsin ’s Geneva Lake during inclement weather on the eve of the US’s semiquincentennial celebrations, and seven oth...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-04 16:04",
+      "published_iso": "2026-07-04T16:04:01+00:00",
+      "score": 95,
       "keywords": [
-        "europe",
         "us"
       ]
     },
     {
-      "title": "Enraptured by the World Cup, Countries Rewrite Rules for Fans",
-      "link": "https://www.nytimes.com/2026/07/03/world/world-cup-countries-fans-holidays.html",
-      "summary": "From pubs open until dawn to abruptly declared national holidays, it seems regulations everywhere are bending to accommodate the tournament.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-07-03 20:21",
-      "published_iso": "2026-07-03T20:21:30+00:00",
-      "score": 95,
-      "keywords": []
-    },
-    {
-      "title": "Tibetan Man Dies After Self-Immolation Protest in New York",
-      "link": "https://www.nytimes.com/2026/07/03/world/asia/tibet-self-immolation-united-nations-china.html",
-      "summary": "Lobga Rangzen, a 52-year-old resident of Queens, died after the self-immolation. He said Beijing’s policies were “destroying the Tibetan people.”",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-07-03 18:32",
-      "published_iso": "2026-07-03T18:32:08+00:00",
-      "score": 95,
-      "keywords": []
-    },
-    {
-      "title": "A Hitler Bunker Faces Demolition in Housing-Challenged Berlin",
-      "link": "https://www.nytimes.com/2026/07/03/world/europe/hitler-bunker-berlin-germany.html",
-      "summary": "Preservation experts say the move to develop the site reflects a tension in Germany between the need to preserve historically significant monuments and the need to build and modernize.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-07-03 17:47",
-      "published_iso": "2026-07-03T17:47:13+00:00",
-      "score": 95,
-      "keywords": []
-    },
-    {
-      "title": "Cold feet and cooling prices: Australia’s property market is transforming – and first home buyers aren’t biting",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/04/australia-property-market-transforming-first-home-buyers-cold-feet",
-      "summary": "Exclusive: Data shows buyers are not rushing to get into the market, despite lower prices and less competition Get our breaking news email , free app or daily news podcast First home buyers are starting to step back and investor demand is slumping in all area...",
+      "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
+      "link": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
+      "summary": "El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSF Fatima has lost count of the number of drone attacks on the besieged city of El Obeid in Sudan, but said the attacks this past weekend were the most...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-07-03 15:00",
-      "published_iso": "2026-07-03T15:00:33+00:00",
+      "published": "2026-07-04 15:14",
+      "published_iso": "2026-07-04T15:14:18+00:00",
       "score": 95,
       "keywords": [
-        "market"
+        "war"
       ]
     },
     {
-      "title": "NSW government ‘absolutely thrilled’ to welcome OpenAI ... until someone mentioned the Terminator films",
-      "link": "https://www.theguardian.com/technology/2026/jul/03/nsw-government-openai-arrives-sydney-terminator-films",
-      "summary": "Emails sent between MP Anoulak Chanthivong’s staff take cautious approach to AI giant arriving in Sydney – despite the government’s encouragement Get our breaking news email , free app or daily news podcast The NSW technology minister’s office removed a refer...",
+      "title": "Trump issues 11 pardons on eve of country’s Fourth of July celebrations",
+      "link": "https://www.theguardian.com/us-news/2026/jul/04/trump-pardons-11-people-fourth-of-july",
+      "summary": "Pardons issued to nine people charged with violating Clean Air Act as extreme heat smothers much of US Donald Trump on Friday issued pardons to 11 men – two convicted fraudsters and nine charged with having violated the federal Clean Air Act by disabling or o...",
       "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-04 14:13",
+      "published_iso": "2026-07-04T14:13:50+00:00",
+      "score": 95,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "How the 1986 Mexico World Cup was almost cancelled after a devastating earthquake",
+      "link": "https://www.theguardian.com/football/2026/jul/04/how-the-1986-mexico-world-cup-almost-cancelled-after-earthquake-1986",
+      "summary": "Guardian reports after the disaster told of 5,000 deaths, much of the capital being razed, and doubts about Mexico hosting the finals Mexico last hosted the World Cup in 1986 , but the competition was almost cancelled several months before the start when an e...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-04 11:40",
+      "published_iso": "2026-07-04T11:40:31+00:00",
+      "score": 95,
+      "keywords": [
+        "earthquake"
+      ]
+    },
+    {
+      "title": "Pope praises US history of welcoming migrants in implicit rebuke to Trump",
+      "link": "https://www.theguardian.com/world/2026/jul/03/pope-leo-lampedusa-visit-us-250th-anniversary-trump",
+      "summary": "Pope Leo urges Americans to live up to ideals of Declaration of Independence in first key address to US Pope Leo has used his first key address to his home country to praise the US history of ⁠welcoming migrants, urging Americans to live up to the ideals put...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-04 11:09",
+      "published_iso": "2026-07-04T11:09:52+00:00",
+      "score": 95,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Overseas education project for women and girls axed by UK after two years",
+      "link": "https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years",
+      "summary": "The programme, aimed at keeping 1m girls in school across Africa, Asia and the Middle East, withdrawn after aid cuts A leading higher education programme, aimed at keeping 1 million girls in school across Africa, Asia and the Middle East, has been axed by the...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-04 08:00",
+      "published_iso": "2026-07-04T08:00:08+00:00",
+      "score": 95,
+      "keywords": [
+        "middle east"
+      ]
+    },
+    {
+      "title": "Celtic nations begin to plan for breakup of UK in event of Reform election win",
+      "link": "https://www.theguardian.com/politics/2026/jul/04/uk-ireland-leaders-fear-union-future-nigel-farage-led-government",
+      "summary": "Politicians brace for constitutional turmoil if Nigel Farage’s party end up in government – or even as a strong opposition The rise of Nigel Farage has prompted political leaders across Ireland, Northern Ireland, Scotland and Wales to game the unthinkable: th...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-04 06:00",
+      "published_iso": "2026-07-04T06:00:05+00:00",
+      "score": 95,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+      "link": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-07-04 09:45",
+      "published_iso": "2026-07-04T09:45:55+00:00",
+      "score": 94,
+      "keywords": []
+    },
+    {
+      "title": "In pictures: Stars and fans celebrate Taylor Swift and Travis Kelce's wedding",
+      "link": "https://www.bbc.co.uk/news/articles/c7vyqgy4r5lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Celebrities and sports stars were spotted as the A-list couple tied the knot in New York on Friday.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-07-04 08:24",
+      "published_iso": "2026-07-04T08:24:17+00:00",
+      "score": 94,
+      "keywords": []
+    },
+    {
+      "title": "Watch: Taylor Swift and Travis Kelce wed in NYC - here's how the day unfolded",
+      "link": "https://www.bbc.co.uk/news/videos/cewqpdgqj0ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The couple tied the knot in a star-studded ceremony officiated by comedian Adam Sandler at Madison Square Garden.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-07-04 04:50",
+      "published_iso": "2026-07-04T04:50:06+00:00",
+      "score": 94,
+      "keywords": []
+    },
+    {
+      "title": "Four Reasons Crimea Has Become Crucial in the Ukraine War",
+      "link": "https://www.nytimes.com/2026/07/02/world/europe/russia-crimea-ukraine.html",
+      "summary": "Escalating drone strikes, fuel shortages and power cuts in the region Russia annexed are among the factors turning up the heat on President Vladimir V. Putin.",
+      "source": "NYTimes World",
       "region": "World",
       "published": "2026-07-03 14:54",
-      "published_iso": "2026-07-03T14:54:59+00:00",
-      "score": 95,
+      "published_iso": "2026-07-03T14:54:04+00:00",
+      "score": 94,
       "keywords": [
-        "ai"
+        "russia",
+        "ukraine",
+        "war"
       ]
     },
     {
-      "title": "Ukrainian woman suspected of Monaco parcel bombing was ‘disguised as a man’",
-      "link": "https://www.theguardian.com/world/2026/jul/03/suspect-identified-in-monaco-parcel-bombing-that-wounded-sanctioned-ukrainian-born-oligarch",
-      "summary": "Suspect seen in Germany after attack apparently targeting tycoon Vadym Iermolaiev The main suspect in a Monaco bomb attack this week that seriously injured a Ukraine-born business tycoon and two of his family members is a Ukrainian woman living in Germany who...",
-      "source": "The Guardian World",
+      "title": "As Ukraine War Escalates, Witkoff and Kushner Are Focused on Iran",
+      "link": "https://www.nytimes.com/2026/07/02/us/politics/ukraine-russia-witkoff-kushner-trump.html",
+      "summary": "Steve Witkoff and Jared Kushner are pivotal players at a moment when the posts of U.S. ambassador to Moscow and Kyiv are both vacant.",
+      "source": "NYTimes World",
       "region": "World",
-      "published": "2026-07-03 13:24",
-      "published_iso": "2026-07-03T13:24:31+00:00",
-      "score": 95,
-      "keywords": [
-        "ukraine"
-      ]
-    },
-    {
-      "title": "Weather tracker: Heatwave breaks June temperature records across Europe",
-      "link": "https://www.theguardian.com/environment/2026/jul/03/weather-tracker-heatwave-breaks-june-temperature-records-across-europe",
-      "summary": "UK provisional peak of 37.7C shatters previous record by huge margin, while Germany hits all-time high of 41.7C Last week’s heatwave across western Europe shattered national June records and set new all-time highs. The UK recorded a provisional high of 37.7C...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-03 09:20",
-      "published_iso": "2026-07-03T09:20:03+00:00",
-      "score": 95,
-      "keywords": [
-        "europe"
-      ]
-    },
-    {
-      "title": "'We hope the member states will recognise our effort' to join the EU: Moldova's President Maia Sandu",
-      "link": "https://www.france24.com/en/tv-shows/talking-europe/20260703-we-hope-the-member-states-will-recognise-our-effort-to-join-the-eu-moldova-s-president-maia-sandu",
-      "summary": "FRANCE 24’s Europe editor-in-chief Caroline de Camaret hosts Maia Sandu, the President of Moldova. This in the context of an EU-Moldova summit held on June 22, 2026, in Brussels. The ex-Soviet republic of nearly 3 million people that borders Ukraine has opene...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-07-03 15:48",
-      "published_iso": "2026-07-03T15:48:36+00:00",
+      "published": "2026-07-03 00:33",
+      "published_iso": "2026-07-03T00:33:03+00:00",
       "score": 94,
       "keywords": [
-        "europe",
-        "ukraine"
+        "ukraine",
+        "us",
+        "war"
       ]
-    },
-    {
-      "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
-      "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-07-03 15:20",
-      "published_iso": "2026-07-03T15:20:57+00:00",
-      "score": 94,
-      "keywords": []
-    },
-    {
-      "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
-      "link": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The ads use terms including “rape” and “child video” and link to content on the messaging app Telegram.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-07-03 15:01",
-      "published_iso": "2026-07-03T15:01:27+00:00",
-      "score": 94,
-      "keywords": []
-    },
-    {
-      "title": "German row over plan for workers to need sick note on first day of illness",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyxnj38m1o?at_medium=RSS&at_campaign=rss",
-      "summary": "A doctors' group says it \"borders on madness\" that patients will have to obtain the note in person.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-07-03 14:56",
-      "published_iso": "2026-07-03T14:56:30+00:00",
-      "score": 94,
-      "keywords": []
-    },
-    {
-      "title": "Stand-up comic held for jokes about Erdoğan and Islam in Turkey crackdown",
-      "link": "https://www.bbc.co.uk/news/articles/c36yrlzew39o?at_medium=RSS&at_campaign=rss",
-      "summary": "Deniz Göktaş is regarded as one of Turkey's most popular comedians and is accused of \"inciting hatred and hostility\" on stage.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-07-03 12:28",
-      "published_iso": "2026-07-03T12:28:43+00:00",
-      "score": 94,
-      "keywords": []
-    },
-    {
-      "title": "Nasa launches mission to save falling space telescope",
-      "link": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
-      "summary": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-07-03 10:28",
-      "published_iso": "2026-07-03T10:28:17+00:00",
-      "score": 94,
-      "keywords": []
-    },
-    {
-      "title": "Ebola treatments trial begins in DR Congo",
-      "link": "https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&at_campaign=rss",
-      "summary": "According to WHO data, there have been 1,406 confirmed cases of the disease in DRC, with 301 suspected cases and 438 deaths.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-07-03 10:11",
-      "published_iso": "2026-07-03T10:11:14+00:00",
-      "score": 94,
-      "keywords": []
-    },
-    {
-      "title": "At least 32 dead after overcrowded bus plunges into ravine in Pakistan",
-      "link": "https://www.bbc.co.uk/news/articles/czrxezg60x1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The bus was travelling from Quetta to Peshawar, when it crashed in the Dana Sar mountain range.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-07-03 09:56",
-      "published_iso": "2026-07-03T09:56:57+00:00",
-      "score": 94,
-      "keywords": []
     }
   ]
 }
