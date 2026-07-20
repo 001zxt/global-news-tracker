@@ -1,17 +1,19 @@
 {
-  "generated_at": "2026-07-19T04:03:50+00:00",
+  "generated_at": "2026-07-20T04:22:50+00:00",
   "article_count": 80,
   "source_count": 8,
-  "errors": [],
+  "errors": [
+    "France 24: not well-formed (invalid token): line 9, column 92"
+  ],
   "articles": [
     {
-      "title": "Iran War Live Updates: U.S. Launches Strikes After Iranian Attack Kills 2 American Soldiers",
-      "link": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
-      "summary": "The soldiers, killed in Jordan, were the first U.S. troops to die from hostile fire since an April truce. U.S. forces began retaliatory strikes early Sunday.",
+      "title": "Iran War Live Updates: Another U.S. Service Member Is Killed as War Expands",
+      "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
+      "summary": "The Pentagon said a service member was killed in northern Iraq while troops disposed of an Iranian drone. It also said “unidentified remains” were found in Jordan, where an earlier attack had left two soldiers dead and another missing.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-07-19 03:48",
-      "published_iso": "2026-07-19T03:48:47+00:00",
+      "published": "2026-07-20 04:11",
+      "published_iso": "2026-07-20T04:11:42+00:00",
       "score": 100,
       "keywords": [
         "us",
@@ -19,347 +21,529 @@
       ]
     },
     {
-      "title": "Somalia races to save Radio Mogadishu’s fading archive",
-      "link": "https://www.aljazeera.com/news/2026/7/19/somalia-races-to-save-radio-mogadishus-fading-archive?traffic_source=rss",
-      "summary": "A small team is working to digitise decades of Somali history in the country's main public radio station.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-19 03:38",
-      "published_iso": "2026-07-19T03:38:03+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Tate brothers arrested in Miami on rape and sex trafficking charges",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/tate-brothers-arrested-in-miami-on-rape-and-sex-trafficking-charges-2?traffic_source=rss",
-      "summary": "Controversial influencers Andrew and Tristan Tate have been arrested in Miami onrape and sex trafficking charges.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-19 03:36",
-      "published_iso": "2026-07-19T03:36:44+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "FIFA World Cup 2026 sees major increase in goals from outside the box",
-      "link": "https://www.aljazeera.com/sports/2026/7/19/fifa-world-cup-2026-sees-major-increase-in-goals-from-outside-the-box?traffic_source=rss",
-      "summary": "A trend of teams defending deep has enticed forwards to take shots from outside the penalty area, Jurgen Klinsmann says.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-19 03:34",
-      "published_iso": "2026-07-19T03:34:40+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Australia news live: Victoria announces new ‘unmasking’ law for social media users accused of vilification",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jul/19/anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-bridget-mckenzie-cpac-london-politics-reactions-ski-field-temperature-high-diesel-prices-surge-ntwnfb",
-      "summary": "Follow the latest updates live Get our breaking news email , free app or daily news podcast Pianist Jayson Gillham peforms joint concert for Palestinian families Pianist Jayson Gillham has performed a concert for Palestinian families. Healing is a long road....",
+      "title": "Iran vows not a ‘single drop’ of oil or gas will pass strait of Hormuz as US carries out ninth night of strikes – Middle East crisis live",
+      "link": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
+      "summary": "Revolutionary Guard says it targeted US aircraft in Jordan and stopped two tankers in strait while American military says it is ‘holding Iran accountable’ US launches ninth night of Iran strikes as strait of Hormuz standoff sees oil price pass $90 a barrel Th...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-07-19 03:23",
-      "published_iso": "2026-07-19T03:23:15+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "‘Spanish style’ wins over New York’s die-hard World Cup fans ahead of final",
-      "link": "https://www.aljazeera.com/sports/2026/7/19/spanish-style-wins-over-new-yorks-die-hard-world-cup-fans-ahead-of-final?traffic_source=rss",
-      "summary": "La Roja's World Cup success has built a new coalition of loyal and recently converted Spanish fans across New York City.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-19 03:02",
-      "published_iso": "2026-07-19T03:02:22+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Palestinian teenage footballer dies after Israeli settler attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/palestinian-teenage-footballer-dies-after-israeli-settler-attack?traffic_source=rss",
-      "summary": "Palestinian teenage footballer, Fadi al-Naasan, has died a week after being shot by Israeli forces.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-19 02:57",
-      "published_iso": "2026-07-19T02:57:31+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Man dies after cross-border police pursuit ends in NSW northern rivers",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/19/man-dies-after-queensland-nsw-police-car-chase-ntwnfb",
-      "summary": "Car chase began in Queensland after report of armed man on Gold Coast late on Saturday, police say Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast New South Wales police have declared a “crit...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-19 02:46",
-      "published_iso": "2026-07-19T02:46:04+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
-      "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are \"innocent\".",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-07-19 02:17",
-      "published_iso": "2026-07-19T02:17:07+00:00",
+      "published": "2026-07-20 04:08",
+      "published_iso": "2026-07-20T04:08:20+00:00",
       "score": 100,
       "keywords": [
+        "middle east",
         "us"
       ]
     },
     {
-      "title": "Tate brothers arrested in Miami as UK adds rape, trafficking charges",
-      "link": "https://www.aljazeera.com/news/2026/7/19/tate-brothers-arrested-in-miami-as-uk-adds-rape-trafficking-charges?traffic_source=rss",
-      "summary": "Andrew and his brother Tristan were arrested in the US on Saturday, and the UK is seeking their extradition.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-19 02:05",
-      "published_iso": "2026-07-19T02:05:41+00:00",
+      "title": "Tehran and Washington Face a ‘Wake Up Moment’ Over the War",
+      "link": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
+      "summary": "U.S. and Iranian attacks are unfolding in a way that risks a wider war they cannot contain, analysts warn, unless they can return to negotiations quickly.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-07-20 04:01",
+      "published_iso": "2026-07-20T04:01:06+00:00",
       "score": 100,
       "keywords": [
-        "us"
+        "us",
+        "war"
       ]
     },
     {
-      "title": "WNBA coach Brondello suspended over inappropriate comment at Angel Reese",
-      "link": "https://www.aljazeera.com/sports/2026/7/19/wnba-coach-brondello-suspended-over-inappropriate-comment-at-angel-reese?traffic_source=rss",
-      "summary": "Brondello suspended for a game after calling Reese a 'protected species' in Toronto Tempo's game against Atlanta Dream.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-19 01:57",
-      "published_iso": "2026-07-19T01:57:39+00:00",
+      "title": "Five of the Main Challenges Awaiting Andy Burnham When He Becomes Prime Minister",
+      "link": "https://www.nytimes.com/2026/07/20/world/europe/five-of-the-main-challenges-awaiting-britains-new-prime-minister.html",
+      "summary": "Andy Burnham, who is set to enter Downing Street on Monday, faces a long and daunting list of issues. Here are some of the most urgent.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-07-20 04:01",
+      "published_iso": "2026-07-20T04:01:05+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "New EU border system tripling time at passport control, airport boss says",
-      "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+      "title": "Fans in Madrid party all night long after Spain’s World Cup victory",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_fans-in-madrid-party-after-spains-world-cup-victory-190726?traffic_source=rss",
+      "summary": "Spanish fans spent the night partying in Madrid after their team defeated Argentina 1-0 in the final of the World Cup.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-20 03:59",
+      "published_iso": "2026-07-20T03:59:18+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Australia news live: mourners arrive for Derryn Hinch state funeral; Mark Dreyfus tells antisemitism inquiry of ‘deeply wounding’ attack",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jul/20/australia-news-live-anthony-albanese-pauline-hanson-labor-one-nation-angus-taylor-coalition-antisemitism-royal-commission-ntwnfb",
+      "summary": "Roayl commission on antisemitism and social cohesion starts fifth block of hearings in Melbourne this week. Follow today’s news live Get our breaking news email , free app or daily news podcast The use of AI in automated decision-making by government departme...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-20 03:58",
+      "published_iso": "2026-07-20T03:58:24+00:00",
+      "score": 100,
+      "keywords": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Huge search operation after passenger ferry sinks off coast of Guyana",
+      "link": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
+      "summary": "Authorities launch criminal investigation after passenger list – showing more than 100 passengers – was found to be inaccurate, complicating rescue efforts A massive search-and-rescue operation is under way after a ferry sank ⁠off the coast of Guyana in South...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-20 03:54",
+      "published_iso": "2026-07-20T03:54:52+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Food delivery rider wins China's top literary prize",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Wang Jibing is among blue-collar Chinese workers gaining wider attention for their literary works.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-07-19 01:47",
-      "published_iso": "2026-07-19T01:47:59+00:00",
+      "published": "2026-07-20 03:53",
+      "published_iso": "2026-07-20T03:53:07+00:00",
       "score": 100,
       "keywords": [
-        "europe"
+        "china"
       ]
     },
     {
-      "title": "FIFA admits hydration breaks may not continue after World Cup criticism",
-      "link": "https://www.aljazeera.com/news/2026/7/19/fifa-admits-hydration-breaks-may-not-continue-after-world-cup-criticism?traffic_source=rss",
-      "summary": "FIFA will analyse the impact of hydration breaks after the World Cup, says Arsene Wenger a day before the final.",
+      "title": "Argentinians show pride in Buenos Aires despite World Cup final defeat",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/argentinians-show-pride-in-buenos-aires-despite-world-cup-final-defeat?traffic_source=rss",
+      "summary": "Argentinians filled the streets of Buenos Aires to honour their team despite its World Cup final defeat.",
       "source": "Al Jazeera",
       "region": "Middle East",
-      "published": "2026-07-19 01:40",
-      "published_iso": "2026-07-19T01:40:12+00:00",
+      "published": "2026-07-20 03:52",
+      "published_iso": "2026-07-20T03:52:54+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "Argentina fans flood NYC’s Times Square before World Cup final",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/argentina-fans-flood-nycs-times-square-before-world-cup-final?traffic_source=rss",
-      "summary": "Hundreds of Argentina fans packed New York City’s Times Square hours before Sunday's World Cup final.",
+      "title": "How a young and cohesive Spain took down Lionel Messi’s Argentina",
+      "link": "https://www.aljazeera.com/sports/2026/7/20/how-a-young-and-cohesive-spain-took-down-lionel-messis-argentina?traffic_source=rss",
+      "summary": "La Roja nullified and frustrated Argentina as they secured victory in New Jersey to win their second World Cup.",
       "source": "Al Jazeera",
       "region": "Middle East",
-      "published": "2026-07-19 01:20",
-      "published_iso": "2026-07-19T01:20:48+00:00",
+      "published": "2026-07-20 03:43",
+      "published_iso": "2026-07-20T03:43:42+00:00",
       "score": 100,
-      "keywords": [
-        "flood"
-      ]
+      "keywords": []
+    },
+    {
+      "title": "Andy Burnham to become UK’s PM on Monday: What happens next?",
+      "link": "https://www.aljazeera.com/news/2026/7/20/andy-burnham-to-become-uks-pm-on-monday-what-happens-next?traffic_source=rss",
+      "summary": "Andy Burnham will become UK prime minister. Here's how the transition of power will unfold.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-20 03:20",
+      "published_iso": "2026-07-20T03:20:48+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Barnaby Joyce says One Nation doesn’t want return of White Australia policy but backs Pauline Hanson on mass deportations",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/20/barnaby-joyce-one-nation-white-australia-policy-pauline-hanson-ntwnfb",
+      "summary": "Lee Hanson claims her mother’s comments on Tommy Robinson podcast were ‘misinterpreted’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Barnaby Joyce says Pauline Hanson does not support the...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-20 03:12",
+      "published_iso": "2026-07-20T03:12:01+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "‘When I get home, my whole body aches’: extreme heat saps health and wages of India’s poorest workers",
+      "link": "https://www.theguardian.com/environment/2026/jul/20/extreme-heat-india-outdoor-workers-poverty",
+      "summary": "Exclusive: Outdoor workers losing up to 9% of income as weather becomes ‘poverty multiplier’, research says Extreme heat is pushing some of India’s poorest workers further into poverty, with income losses of up to 9% for outdoor workers, new research has foun...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-20 03:00",
+      "published_iso": "2026-07-20T03:00:44+00:00",
+      "score": 100,
+      "keywords": []
     },
     {
       "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz/heres-the-latest",
+      "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz/heres-the-latest",
       "summary": "",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-07-19 01:20",
-      "published_iso": "2026-07-19T01:20:44+00:00",
+      "published": "2026-07-20 02:58",
+      "published_iso": "2026-07-20T02:58:01+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "Why the World Cup half-time show may be a taste of things to come",
-      "link": "https://www.bbc.co.uk/news/articles/cwyr498vqqpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 2026 World Cup's spectacle is creating debate about the place of music in sport - and how it could infiltrate other tournaments.",
-      "source": "BBC World",
+      "title": "Israel watches tensely as the U.S.-Iran fighting escalates.",
+      "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz/israel-watches-tensely-as-the-fighting-between-us-and-iran-escalates",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu has vowed to continue the military campaign against Iran.",
+      "source": "NYTimes World",
       "region": "World",
-      "published": "2026-07-19 01:11",
-      "published_iso": "2026-07-19T01:11:23+00:00",
+      "published": "2026-07-20 02:42",
+      "published_iso": "2026-07-20T02:42:47+00:00",
       "score": 100,
-      "keywords": []
+      "keywords": [
+        "us"
+      ]
     },
     {
-      "title": "Exiled Cuban artist Otero Alcantara has arrived in US, Rubio confirms",
-      "link": "https://www.aljazeera.com/news/2026/7/19/exiled-cuban-artist-otero-alcantara-has-arrived-in-us-rubio-confirms?traffic_source=rss",
-      "summary": "Otero Alcantara is part of the San Isidro Movement, which has long been the target of Cuban repression.",
+      "title": "Africa Shield: Why securing development is becoming a new security priority",
+      "link": "https://www.aljazeera.com/news/2026/7/20/africa-shield-why-securing-development-is-becoming-a-new-security-priority?traffic_source=rss",
+      "summary": "As Africa industrialises, governments are working to keep sensitive materials out of the wrong hands.",
       "source": "Al Jazeera",
       "region": "Middle East",
-      "published": "2026-07-19 00:52",
-      "published_iso": "2026-07-19T00:52:18+00:00",
+      "published": "2026-07-20 02:39",
+      "published_iso": "2026-07-20T02:39:17+00:00",
       "score": 100,
       "keywords": [
-        "us"
+        "security"
       ]
     },
     {
-      "title": "Two US troops killed and one missing after Iranian attack in Jordan",
-      "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
+      "title": "Test that found source of US explosive diarrhoea outbreak was false positive, health officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
+      "summary": "The latest update from the US Food and Drug Administration means the exact source of the parasite is still not known.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-07-19 00:18",
-      "published_iso": "2026-07-19T00:18:47+00:00",
+      "published": "2026-07-20 02:35",
+      "published_iso": "2026-07-20T02:35:04+00:00",
       "score": 100,
       "keywords": [
         "us"
       ]
     },
     {
-      "title": "Iran war live: US launches new strikes; Trump mourns killed soldiers",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/19/iran-war-live-us-launches-new-strikes-trump-mourns-killed-soldiers?traffic_source=rss",
-      "summary": "US president says death of soldiers in Jordan a 'sad thing' as US forces attack Iran for the eighth consecutive night.",
+      "title": "Palestinians celebrate Spain’s World Cup victory",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/palestinians-celebrate-spains-world-cup-victory?traffic_source=rss",
+      "summary": "Palestinians across Gaza and the Occupied West Bank celebrated Spain’s World Cup victory.",
       "source": "Al Jazeera",
       "region": "Middle East",
-      "published": "2026-07-19 00:00",
-      "published_iso": "2026-07-19T00:00:00+00:00",
-      "score": 100,
-      "keywords": [
-        "us",
-        "war"
-      ]
-    },
-    {
-      "title": "Russians turn to cash, putting more strain on slowing wartime economy",
-      "link": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-07-18 23:59",
-      "published_iso": "2026-07-18T23:59:26+00:00",
-      "score": 100,
-      "keywords": [
-        "ukraine",
-        "war"
-      ]
-    },
-    {
-      "title": "Andrew and Tristan Tate arrested in Miami on charges of rape and sex trafficking",
-      "link": "https://www.theguardian.com/news/2026/jul/18/andrew-tristan-tate-arrested-miami",
-      "summary": "UK to seek extradition over sexual exploitation, ‘extreme pornography’ and assault and indecent images of a child Andrew and Tristan Tate, brothers who are social media influencers, were arrested by federal authorities Saturday in Miami, the US Marshals Servi...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-18 23:57",
-      "published_iso": "2026-07-18T23:57:34+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Private jets flock to Montana - but locals can't afford the trailer park",
-      "link": "https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Rents in Bozeman, Montana have skyrocketed as wealthy out-of-towners flock to the city to experience the American West.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-07-18 23:44",
-      "published_iso": "2026-07-18T23:44:04+00:00",
+      "published": "2026-07-20 02:23",
+      "published_iso": "2026-07-20T02:23:45+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "Conservatives around world at war against ‘leftwing globalists’, Bridget McKenzie tells CPAC London event",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/19/bridget-mckenzie-cpac-london-national-party-pauline-hanson-one-nation-ntwnfb",
-      "summary": "Nationals senator echoes comments by Pauline Hanson as Labor criticises One Nation leader’s divisive stance Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The National party’s Senate leader,...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-18 23:37",
-      "published_iso": "2026-07-18T23:37:48+00:00",
-      "score": 100,
-      "keywords": [
-        "war"
-      ]
-    },
-    {
-      "title": "Why Jordan Is Becoming a New Focus in the U.S.-Iran War",
-      "link": "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html",
-      "summary": "Four Iranian attacks in five days have targeted U.S. troops in Jordan, U.S. officials said, including one on Friday that killed two soldiers and left another service member missing.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-07-18 23:03",
-      "published_iso": "2026-07-18T23:03:24+00:00",
-      "score": 100,
-      "keywords": [
-        "us",
-        "war"
-      ]
-    },
-    {
-      "title": "Pauline Hanson tells London CPAC crowd she is ‘sick of hearing about white privilege’ and ‘fears for England’",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/18/pauline-hanson-barnaby-joyce-rift-rumours-tommy-robinson-podcast-cpac-ntwnfb",
-      "summary": "Reform UK leader Nigel Farage compares One Nation leader’s polling rise to Donald Trump’s victory in the US Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Pauline Hanson has told a political...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-18 22:54",
-      "published_iso": "2026-07-18T22:54:06+00:00",
+      "title": "US service member killed during detonation of Iranian drone in Iraq",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_us-soldier-killed-detonation-of-iranian-drone-iraq-190726?traffic_source=rss",
+      "summary": "A US soldier has been killed in northern Iraq during a controlled detonation of an Iranian downed drone.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-20 02:11",
+      "published_iso": "2026-07-20T02:11:53+00:00",
       "score": 100,
       "keywords": [
         "us"
       ]
     },
     {
-      "title": "Deaths of 2 U.S. Troops in Jordan Brings American Toll in the War With Iran to 16",
-      "link": "https://www.nytimes.com/2026/07/18/world/middleeast/us-troops-killed-iran-war-jordan.html",
-      "summary": "President Trump vowed to avenge the deaths of any U.S. military personnel.",
-      "source": "NYTimes World",
+      "title": "Mbappe takes home second Golden Boot, Spain sweeps World Cup awards",
+      "link": "https://www.aljazeera.com/sports/2026/7/20/mbappe-takes-home-second-golden-boot-spain-sweeps-world-cup-awards?traffic_source=rss",
+      "summary": "While Ferran Torres orchestrated Spain's winning the ultimate prize, his teammates walk away with awards of their own.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-20 02:09",
+      "published_iso": "2026-07-20T02:09:53+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Spain fans hail new generation, as Argentina says goodbye to an icon",
+      "link": "https://www.aljazeera.com/sports/2026/7/20/spain-fans-hail-new-generation-as-argentina-says-goodbye-to-an-icon?traffic_source=rss",
+      "summary": "Revellers take to streets of New York following Spain's defeat of Argentina in Messi's likely final World Cup match.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-20 02:03",
+      "published_iso": "2026-07-20T02:03:48+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "US launches ninth night of Iran strikes as strait of Hormuz standoff sees oil price pass $90 a barrel",
+      "link": "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices",
+      "summary": "After the US military confirmed that a service member had been killed in Iraq – the third in recent days – Donald Trump said the new attacks were ‘in honour’ of the dead Middle East crisis live: follow latest updates The US launched a ninth night of strikes t...",
+      "source": "The Guardian World",
       "region": "World",
-      "published": "2026-07-18 22:53",
-      "published_iso": "2026-07-18T22:53:13+00:00",
+      "published": "2026-07-20 02:01",
+      "published_iso": "2026-07-20T02:01:55+00:00",
       "score": 100,
       "keywords": [
-        "us",
-        "war"
+        "middle east",
+        "us"
       ]
     },
     {
-      "title": "Cyclospora: iceberg lettuce recalled in 27 states and more products may follow",
-      "link": "https://www.theguardian.com/us-news/2026/jul/18/cyclospora-iceberg-lettuce-recall",
-      "summary": "Taylor Farms does not specify where products were served or sold, as US braces for weeks more of outbreak Taylor Farms recalled potentially contaminated shredded iceberg lettuce in 27 states on Friday, including lettuce distributed as recently as Thursday, as...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-18 21:25",
-      "published_iso": "2026-07-18T21:25:14+00:00",
+      "title": "US bombs Iran for ninth consecutive night as Hormuz tensions escalate",
+      "link": "https://www.aljazeera.com/news/2026/7/20/us-bombs-iran-for-ninth-consecutive-night-as-hormuz-tensions-escalate?traffic_source=rss",
+      "summary": "Iranian media report blasts in cities in the far north and far south, including Tabriz and Chabahar.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-20 01:48",
+      "published_iso": "2026-07-20T01:48:59+00:00",
       "score": 100,
       "keywords": [
         "us"
       ]
     },
     {
-      "title": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
-      "link": "https://www.nytimes.com/2026/07/18/world/europe/ukraine-protests-general-syrskyi-fedorov.html",
-      "summary": "Demonstrators supporting Ukraine’s ousted defense minister have begun denouncing the commander he clashed with in office, Gen. Oleksandr Syrskyi.",
+      "title": "Iran shipped billions in oil during the cease-fire.",
+      "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz/iran-shipped-billions-in-oil-during-its-cease-fire-with-the-us",
+      "summary": "Iran capitalized on its export of oil, gaining billions of dollars during a short-lived peace agreement with the United States.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-07-18 20:40",
-      "published_iso": "2026-07-18T20:40:57+00:00",
+      "published": "2026-07-20 01:31",
+      "published_iso": "2026-07-20T01:31:54+00:00",
+      "score": 100,
+      "keywords": [
+        "ceasefire",
+        "us"
+      ]
+    },
+    {
+      "title": "Norway opens new memorial for victims of 2011 massacre",
+      "link": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th anniversary of the attack.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-07-20 01:11",
+      "published_iso": "2026-07-20T01:11:08+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
+      "link": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Aggression against recruitment officers has become increasingly threatening, police say.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-07-20 00:19",
+      "published_iso": "2026-07-20T00:19:12+00:00",
       "score": 100,
       "keywords": [
         "ukraine"
       ]
     },
     {
-      "title": "Drone video shows scale of major wildfire in northern Spain",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/drone-video-shows-scale-of-major-wildfire-in-northern-spain?traffic_source=rss",
-      "summary": "Drone video shows the scale of a major wildfire in northern Spain where more than 150 square kilometres have burned",
+      "title": "Iran war live: US military completes ninth night of strikes on Iran",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran?traffic_source=rss",
+      "summary": "US forces attack Iran for ninth consecutive night as one US soldier killed in northern Iraq.",
       "source": "Al Jazeera",
       "region": "Middle East",
-      "published": "2026-07-18 20:18",
-      "published_iso": "2026-07-18T20:18:46+00:00",
+      "published": "2026-07-20 00:00",
+      "published_iso": "2026-07-20T00:00:00+00:00",
       "score": 100,
       "keywords": [
-        "wildfire"
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone",
+      "link": "https://www.aljazeera.com/news/2026/7/19/us-soldier-killed-in-iraq-during-controlled-detonation-of-iranian-drone?traffic_source=rss",
+      "summary": "The death brings the number of US soldiers killed since the start of the US-Israel war on Iran to 17.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-19 23:49",
+      "published_iso": "2026-07-19T23:49:30+00:00",
+      "score": 100,
+      "keywords": [
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "US Vice President JD Vance and his wife announce birth of fourth child",
+      "link": "https://www.aljazeera.com/news/2026/7/19/us-vice-president-jd-vance-and-his-wife-announce-birth-of-fourth-child?traffic_source=rss",
+      "summary": "JD and Usha Vance welcome a baby boy, the first child born to a sitting vice president in more than 150 years.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-19 23:35",
+      "published_iso": "2026-07-19T23:35:06+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Donald Trump and Gianni Infantino booed before US president attempts to crash Spain celebrations",
+      "link": "https://www.theguardian.com/football/2026/jul/19/donald-trump-world-cup-final",
+      "summary": "US president watches Spain v Argentina match Match report: Spain beat Argentina in extra-time Donald Trump and Gianni Infantino were booed as they took to the field for the presentation ceremony before the US president attempted to gatecrash Spain’s victory p...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-19 23:27",
+      "published_iso": "2026-07-19T23:27:28+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "This farmer wanted to quit the cocaine industry - he couldn't",
+      "link": "https://www.bbc.co.uk/news/articles/c0kyml1zxz4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Colombians who grow cocaine's raw material bemoan a lack of support to help them switch crops.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-07-19 23:18",
+      "published_iso": "2026-07-19T23:18:03+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Five family members found dead after flash flood in Utah canyon, police say",
+      "link": "https://www.theguardian.com/us-news/2026/jul/19/utah-flash-flood-deaths-family",
+      "summary": "Victims were Provo’s fire captain, his wife and their three sons, who were hiking in Bicknell amid heavy rains Five family members who had set out for a day of hiking were killed after a flash flood swept through canyons of southern Utah on Friday, law enforc...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-19 22:24",
+      "published_iso": "2026-07-19T22:24:04+00:00",
+      "score": 100,
+      "keywords": [
+        "flood"
+      ]
+    },
+    {
+      "title": "A Conversation with Zohran Mamdani",
+      "link": "https://www.nytimes.com/2026/07/19/world/zohran-mamdani-interview-world-cup-final.html",
+      "summary": "The mayor of New York City talks about Andy Burnham, Netanyahu and the controversial U.S. red card.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-07-19 22:18",
+      "published_iso": "2026-07-19T22:18:12+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
+      "link": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Robbie Williams and Jennifer Hudson also performed, with Kylie Jenner and Timothee Chalamet among the celebrities in the crowds.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-07-19 22:16",
+      "published_iso": "2026-07-19T22:16:39+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+      "link": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Water cascaded into subway stations and flooded streets, with people seen wading through water.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-07-19 21:43",
+      "published_iso": "2026-07-19T21:43:54+00:00",
+      "score": 100,
+      "keywords": [
+        "flood"
+      ]
+    },
+    {
+      "title": "Earthquake in Peru Kills 6 and Displaces Hundreds",
+      "link": "https://www.nytimes.com/2026/07/19/world/americas/peru-earthquake.html",
+      "summary": "Peru is prone to frequent quakes, but the 5.5-magnitude temblor was the biggest to strike the central highlands area in more than 50 years.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-07-19 21:09",
+      "published_iso": "2026-07-19T21:09:41+00:00",
+      "score": 100,
+      "keywords": [
+        "earthquake"
+      ]
+    },
+    {
+      "title": "Middle East crisis: US military says service member killed during ‘controlled detonation’ of downed Iranian drone – as it happened",
+      "link": "https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed",
+      "summary": "This live blog is now closed. US says another troop killed as Israel warns Tehran’s attacks coming close Two US troops killed and one missing in Jordan after Iranian attacks Jordanian authorities ⁠have not issued any decision ⁠to ​evacuate the airport or ⁠sea...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-19 20:25",
+      "published_iso": "2026-07-19T20:25:52+00:00",
+      "score": 100,
+      "keywords": [
+        "middle east",
+        "us"
+      ]
+    },
+    {
+      "title": "US says another troop killed as Israel warns Tehran’s attacks coming close",
+      "link": "https://www.theguardian.com/us-news/2026/jul/19/military-service-member-death-iran-airstrikes",
+      "summary": "US military says service member was killed in Iraq during ‘controlled detonation’ as it launches more airstrikes at Iran Middle East crisis live: follow latest updates The US military announced another death of a service member as it launched more airstrikes...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-19 20:16",
+      "published_iso": "2026-07-19T20:16:44+00:00",
+      "score": 100,
+      "keywords": [
+        "middle east",
+        "us"
+      ]
+    },
+    {
+      "title": "Twin earthquakes strike Peru killing at least five",
+      "link": "https://www.aljazeera.com/news/2026/7/19/twin-earthquakes-strike-peru-killing-at-least-five?traffic_source=rss",
+      "summary": "Peruvian authorities say the magnitude 5.1 and 3.7 quakes were in the mountainous Junin region east of Lima.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-19 20:11",
+      "published_iso": "2026-07-19T20:11:51+00:00",
+      "score": 100,
+      "keywords": [
+        "earthquake"
+      ]
+    },
+    {
+      "title": "The UK gets its seventh prime minister in 10 years",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/19/the-uk-gets-its-seventh-prime-minister-in-10-years?traffic_source=rss",
+      "summary": "Incoming PM Andy Burnham will immediately face foreign policy challenges, including the conflicts in Ukraine and Iran.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-19 20:05",
+      "published_iso": "2026-07-19T20:05:31+00:00",
+      "score": 100,
+      "keywords": [
+        "ukraine"
+      ]
+    },
+    {
+      "title": "US soldier killed and one injured after Iranian attack in Iraq",
+      "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-07-19 19:45",
+      "published_iso": "2026-07-19T19:45:12+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Mission in Iran war has pivoted toward ensuring oil flow, Trump official says",
+      "link": "https://www.theguardian.com/us-news/2026/jul/19/trump-official-iran-war-oil-flow-strait-hormuz",
+      "summary": "Energy secretary grapples with mounting criticism over length of US war as Democrat calls conflict ‘war of choice’ A Trump administration official on Sunday grappled with mounting criticism over the length of the US war with Iran after months of promised dipl...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-19 18:48",
+      "published_iso": "2026-07-19T18:48:12+00:00",
+      "score": 100,
+      "keywords": [
+        "energy",
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "Increased Cooperation With U.S. Has Put Jordan in Iran’s Cross Hairs",
+      "link": "https://www.nytimes.com/2026/07/19/world/middleeast/iran-war-jordan-us.html",
+      "summary": "Jordan’s role in U.S. operations against Iran has grown as other allies in the region have restricted Washington’s ability to use their bases and airspace.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-07-19 18:47",
+      "published_iso": "2026-07-19T18:47:23+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
       ]
     },
     {
@@ -368,8 +552,8 @@
       "summary": "Hundreds of wildfires in Canada and the United States have blanketed large sections of North America in dense smoke over the past week.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-07-18 20:16",
-      "published_iso": "2026-07-18T20:16:59+00:00",
+      "published": "2026-07-19 18:40",
+      "published_iso": "2026-07-19T18:40:31+00:00",
       "score": 100,
       "keywords": [
         "us",
@@ -377,136 +561,136 @@
       ]
     },
     {
-      "title": "ANU accused of ‘hysterical’ response to students using AI to cheat as unis scramble to ‘secure’ assessments",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/18/anu-accused-of-hysterical-response-to-students-using-ai-to-as-unis-scramble-to-secure-assessments",
-      "summary": "Australia risks ‘shipping’ intellectual capability overseas if educational rigour not restored, experts warn Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast An academic at the Australian Nati...",
-      "source": "The Guardian World",
+      "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
+      "link": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
+      "summary": "On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62.",
+      "source": "NYTimes World",
       "region": "World",
-      "published": "2026-07-18 20:00",
-      "published_iso": "2026-07-18T20:00:09+00:00",
+      "published": "2026-07-19 18:26",
+      "published_iso": "2026-07-19T18:26:41+00:00",
       "score": 100,
       "keywords": [
-        "ai"
-      ]
-    },
-    {
-      "title": "Two US troops killed and one missing in Jordan after Iranian attacks",
-      "link": "https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict",
-      "summary": "Sirens sound in Bahrain and Kuwait accuses Tehran of targeting civilian sites and infrastructure as Iran strikes US allies Two US troops were killed and one remains missing in Jordan after Iran launched a wave of attacks against US allies in the Middle East....",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-18 19:57",
-      "published_iso": "2026-07-18T19:57:22+00:00",
-      "score": 100,
-      "keywords": [
-        "middle east",
-        "us"
-      ]
-    },
-    {
-      "title": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
-      "summary": "Palestinians who have endured Israel's genocidal war are still being targeted.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-18 19:55",
-      "published_iso": "2026-07-18T19:55:16+00:00",
-      "score": 100,
-      "keywords": [
-        "ceasefire",
+        "russia",
+        "ukraine",
         "war"
       ]
     },
     {
-      "title": "All to know about Canadian wildfire smoke, air quality and World Cup final",
-      "link": "https://www.aljazeera.com/sports/2026/7/18/all-to-know-about-canadian-wildfire-smoke-air-quality-and-world-cup-final?traffic_source=rss",
-      "summary": "A thunderstorm rolled through the region causing disruption, and a haze raised air quality concerns in New York City.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-18 19:42",
-      "published_iso": "2026-07-18T19:42:27+00:00",
+      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-07-19 18:25",
+      "published_iso": "2026-07-19T18:25:40+00:00",
       "score": 100,
       "keywords": [
-        "wildfire"
+        "russia"
       ]
     },
     {
-      "title": "Hungary's president agrees to stand down after parliament backs removal",
-      "link": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
-      "summary": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
+      "title": "Ferry carrying 133 passengers and crew sinks off Guyana coast",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fifteen children are among 67 people rescued, officials say, with dozens still missing.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-07-18 19:34",
-      "published_iso": "2026-07-18T19:34:16+00:00",
+      "published": "2026-07-19 18:18",
+      "published_iso": "2026-07-19T18:18:05+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "Flash flood warnings strike north-east US amid wildfire smoke from Canada",
-      "link": "https://www.theguardian.com/us-news/2026/jul/18/flash-flood-weather-north-east-us",
-      "summary": "Poor air quality from wildfires continues to plague New York City as several neighborhoods hit by thunderstorms Saturday is delivering a double dose of dangerous weather across the north-eastern US, with smoky skies from Canadian wildfires giving way to sever...",
-      "source": "The Guardian World",
+      "title": "The U.S. Braced For the World Cup. It Fell in Love Instead.",
+      "link": "https://www.nytimes.com/2026/07/19/world/europe/us-world-cup-trump-boston-kansas.html",
+      "summary": "Amid anxiety over how the United States would welcome the world, cities like Lawrence, Kan., and Boston threw open their doors. The bonds forged are still visible on the streets.",
+      "source": "NYTimes World",
       "region": "World",
-      "published": "2026-07-18 19:11",
-      "published_iso": "2026-07-18T19:11:13+00:00",
-      "score": 100,
-      "keywords": [
-        "flood",
-        "us",
-        "wildfire"
-      ]
-    },
-    {
-      "title": "Iran supreme leader warns of ‘unforgettable lessons’ if US attacks continue",
-      "link": "https://www.aljazeera.com/news/2026/7/18/iran-supreme-leader-warns-of-unforgettable-lessons-if-us-attacks-continue?traffic_source=rss",
-      "summary": "Mojtaba Khamenei says Trump's signature is 'worthless' and that 'bullying' is a core element of US foreign policy.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-18 18:55",
-      "published_iso": "2026-07-18T18:55:05+00:00",
+      "published": "2026-07-19 18:11",
+      "published_iso": "2026-07-19T18:11:18+00:00",
       "score": 100,
       "keywords": [
         "us"
       ]
     },
     {
-      "title": "Israeli attacks on residential areas in Gaza kill eight",
-      "link": "https://www.aljazeera.com/news/2026/7/18/israeli-attacks-on-residential-areas-in-gaza-kill-eight?traffic_source=rss",
-      "summary": "Attacks hit neighbourhoods in Gaza City far beyond the line Israeli forces are meant to hold under the ceasefire.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-18 18:45",
-      "published_iso": "2026-07-18T18:45:49+00:00",
+      "title": "ICE officers to use body cameras during vehicle stops, Trump ‘border czar’ says",
+      "link": "https://www.theguardian.com/us-news/2026/jul/19/ice-record-vehicle-stops-body-camera-mandate-homan",
+      "summary": "Tom Homan’s comments come amid scrutiny over federal immigration agents’ fatal shooting of two men in six days US Immigration and Customs Enforcement ( ICE ) will require its officers to record vehicle stops with at least one body camera, said Tom Homan, the...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-19 17:54",
+      "published_iso": "2026-07-19T17:54:50+00:00",
       "score": 100,
       "keywords": [
-        "ceasefire"
+        "us"
       ]
     },
     {
-      "title": "Wildfires Continue To Burn in Ontario, Canada, Sending Smoke to U.S. Cities",
-      "link": "https://www.nytimes.com/2026/07/18/world/canada/ontario-wildfires-smoke-thunder-bay-canada.html",
-      "summary": "Nearly 200 fires continued to devastate swaths of the province as smoke continued to drift across parts of Canada and the United States.",
+      "title": "Earthquake in Peru leaves at least six dead",
+      "link": "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people",
+      "summary": "More than 30 injured and 300 displaced after buildings collapse near Sicaya A 5.5-magnitude earthquake shook the Andes region of Peru, killing at least six people, authorities said Sunday. More than 30 people were injured and 300 have been displaced. The US G...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-19 17:12",
+      "published_iso": "2026-07-19T17:12:47+00:00",
+      "score": 100,
+      "keywords": [
+        "earthquake",
+        "us"
+      ]
+    },
+    {
+      "title": "The U.S. Is Sending More Warplanes to the Middle East, Officials Say",
+      "link": "https://www.nytimes.com/2026/07/19/world/middleeast/us-warplanes-mideast-iran.html",
+      "summary": "F-16 and F-35 jets were en route to the region from Europe, according to U.S. officials who were not authorized to speak publicly.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-07-18 18:03",
-      "published_iso": "2026-07-18T18:03:18+00:00",
+      "published": "2026-07-19 16:50",
+      "published_iso": "2026-07-19T16:50:55+00:00",
       "score": 100,
       "keywords": [
-        "us",
-        "wildfire"
+        "europe",
+        "middle east",
+        "us"
       ]
     },
     {
-      "title": "🔴 Middle East live: Two US service members in Jordan killed, one missing in action",
-      "link": "https://www.france24.com/en/middle-east/20260718-middle-east-live-tehran-threatens-full-scale-offensive-as-us-launches-seventh-night-of-attacks",
-      "summary": "",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-07-18 17:30",
-      "published_iso": "2026-07-18T17:30:41+00:00",
+      "title": "Tate brothers arrested in US as further UK charges take total to 59",
+      "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-07-19 12:53",
+      "published_iso": "2026-07-19T12:53:20+00:00",
       "score": 100,
       "keywords": [
-        "middle east",
+        "us"
+      ]
+    },
+    {
+      "title": "Russia pounds Kyiv for five hours in one of its biggest ballistic missile attacks",
+      "link": "https://www.theguardian.com/world/2026/jul/19/dozens-of-russian-missiles-pound-kyiv-ukraine-in-major-attack",
+      "summary": "Attack on Ukraine’s capital and other cities leaves at least six people dead and dozens injured Russia has carried out one of its biggest ballistic missile attacks on Kyiv and other Ukrainian cities, launching a five-hour assault that left at least six people...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-19 08:35",
+      "published_iso": "2026-07-19T08:35:16+00:00",
+      "score": 100,
+      "keywords": [
+        "russia",
+        "ukraine"
+      ]
+    },
+    {
+      "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
+      "link": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
+      "summary": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-07-19 07:47",
+      "published_iso": "2026-07-19T07:47:02+00:00",
+      "score": 100,
+      "keywords": [
         "us"
       ]
     },
@@ -526,352 +710,213 @@
       ]
     },
     {
-      "title": "What's at stake for the EU's carbon market blueprint",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20260718-what-s-at-stake-for-the-eu-s-carbon-market-blueprint",
-      "summary": "The European Commission has confirmed it will allow EU industries to continue emitting planet-warming CO₂ gases well into the 2040s.",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-07-18 17:23",
-      "published_iso": "2026-07-18T17:23:10+00:00",
-      "score": 100,
-      "keywords": [
-        "europe",
-        "market"
-      ]
-    },
-    {
-      "title": "A Very British CPAC: Few, if Any, Costumes and Not Much Trump",
-      "link": "https://www.nytimes.com/2026/07/18/world/europe/cpac-great-britain-farage.html",
-      "summary": "London hosted an understated version of the Conservative Political Action Conference, known in the United States for its over-the-top celebration of MAGA causes.",
+      "title": "Deaths of 2 U.S. Troops in Jordan Brings American Toll in the War With Iran to 16",
+      "link": "https://www.nytimes.com/2026/07/18/world/middleeast/us-troops-killed-iran-war-jordan.html",
+      "summary": "President Trump vowed to avenge the deaths of any U.S. military personnel.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-07-18 16:48",
-      "published_iso": "2026-07-18T16:48:22+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Gulf council blasts \"war crimes\" by Iran",
-      "link": "https://www.france24.com/en/gulf-council-blasts-war-crimes-by-iran",
-      "summary": "The United States and Iran continued exchanging strikes on Saturday as tensions over control of the Strait of Hormuz escalated. US Central Command carried out a seventh consecutive night of attacks, targeting military infrastructure and maritime capabilities,...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-07-18 16:23",
-      "published_iso": "2026-07-18T16:23:09+00:00",
-      "score": 100,
+      "published": "2026-07-19 11:00",
+      "published_iso": "2026-07-19T11:00:26+00:00",
+      "score": 99,
       "keywords": [
         "us",
         "war"
       ]
     },
     {
-      "title": "Air quality warnings remain in place across US as wildfire smoke continues to swathe country",
-      "link": "https://www.theguardian.com/world/2026/jul/18/air-quality-warnings-canada-wildfires",
-      "summary": "Rain could alleviate conditions in mid-Atlantic and north-east, with World Cup final expected to go ahead on Sunday Warnings of dangerous conditions are expected to remain in place on Saturday across swathes of the US, amid uncertainty about where the heavy w...",
+      "title": "Pay gap widens as UK bosses get 130 times average worker’s salary",
+      "link": "https://www.theguardian.com/business/2026/jul/20/uk-bosses-130-times-high-pay-worker-gap-widens",
+      "summary": "In its final report the High Pay Centre says the median remuneration of a FTSE 100 CEO has risen to a record £5.06m The bosses of Britain’s largest listed companies received record pay last year, fuelling the widest earnings gap with workers in eight years. M...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-07-18 14:13",
-      "published_iso": "2026-07-18T14:13:36+00:00",
-      "score": 100,
+      "published": "2026-07-19 23:01",
+      "published_iso": "2026-07-19T23:01:39+00:00",
+      "score": 98,
+      "keywords": []
+    },
+    {
+      "title": "JD and Usha Vance welcome baby boy, first child born to sitting VP in 156 years",
+      "link": "https://www.theguardian.com/us-news/2026/jul/19/jd-usha-vance-baby-boy-born",
+      "summary": "Vice-president and second lady announced birth of Alec Neel Vance, their fourth child, in social media statement Vice-President JD Vance and his wife, second lady Usha Vance, on Sunday announced the birth of their fourth child, the first born to a sitting vic...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-19 23:00",
+      "published_iso": "2026-07-19T23:00:08+00:00",
+      "score": 98,
+      "keywords": []
+    },
+    {
+      "title": "Burnham to say UK must be honest about its challenges as he prepares to become PM",
+      "link": "https://www.theguardian.com/politics/2026/jul/19/burnham-warn-uk-honest-challenges-prepares-become-pm",
+      "summary": "Labour leader will visit king to accept role on Monday and will start making cabinet appointments that afternoon Andy Burnham will say Britain must be honest about the challenges it faces when he becomes its sixth prime minister in a decade on Monday, as he p...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-19 18:32",
+      "published_iso": "2026-07-19T18:32:36+00:00",
+      "score": 98,
+      "keywords": []
+    },
+    {
+      "title": "Burnham’s vow to end Labour briefing wars will test his grip on the party",
+      "link": "https://www.theguardian.com/politics/2026/jul/19/burnham-vow-end-labour-briefing-wars-test",
+      "summary": "Tensions between his aims are already there, including disputes over key appointments such as chancellor Andy Burnham’s vision for cleaning up Westminster politics is a utopian one: ending the dominance of the whipping system, Whitehall power hoarding and the...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-19 18:00",
+      "published_iso": "2026-07-19T18:00:33+00:00",
+      "score": 98,
+      "keywords": []
+    },
+    {
+      "title": "Flash flood warnings strike north-east US amid wildfire smoke from Canada",
+      "link": "https://www.theguardian.com/us-news/2026/jul/18/flash-flood-weather-north-east-us",
+      "summary": "Poor air quality from wildfires continues to plague New York City as several neighborhoods hit by thunderstorms Saturday is delivering a double dose of dangerous weather across the north-eastern US, with smoky skies from Canadian wildfires giving way to sever...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-07-18 19:11",
+      "published_iso": "2026-07-18T19:11:13+00:00",
+      "score": 97,
       "keywords": [
+        "flood",
         "us",
         "wildfire"
       ]
     },
     {
-      "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
-      "link": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
-      "source": "BBC World",
+      "title": "A bird’s-eye view as Donald Trump arrives for the World Cup final",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/aje-onl-nf_trump-arrives-in-helicopter-for-the-world-cup-final-190726?traffic_source=rss",
+      "summary": "Donald Trump arrived at the 2026 FIFA World Cup final between Spain and Argentina aboard Marine One.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-19 23:11",
+      "published_iso": "2026-07-19T23:11:39+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Fans in Madrid go wild as Spain beat Argentina to win second World Cup",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-in-madrid-go-wild-as-spain-beat-argentina-to-win-second-world-cup?traffic_source=rss",
+      "summary": "Fans in Madrid erupted in celebration after Spain beat Argentina 1-0 in the World Cup final.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-19 23:05",
+      "published_iso": "2026-07-19T23:05:40+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "When is the next FIFA World Cup? 2030 hosts, dates and format",
+      "link": "https://www.aljazeera.com/news/2026/7/19/when-is-the-next-fifa-world-cup-2030-hosts-dates-and-format?traffic_source=rss",
+      "summary": "The 2030 tournament will span six countries and three continents as FIFA celebrates the World Cup's centenary.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-19 22:51",
+      "published_iso": "2026-07-19T22:51:01+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Spain battle past 10-man Argentina 1-0 in extra time to win 2026 World Cup",
+      "link": "https://www.aljazeera.com/sports/2026/7/19/spain-battle-past-10-man-argentina-1-0-in-extra-time-to-win-2026-world-cup?traffic_source=rss",
+      "summary": "Ferran Torres scores the only goal of the game as Spain win their second World Cup.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-19 22:32",
+      "published_iso": "2026-07-19T22:32:30+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "When, where, and how Spain won the World Cup final against Argentina",
+      "link": "https://www.aljazeera.com/sports/2026/7/19/when-where-and-how-spain-won-the-world-cup-final-against-argentina?traffic_source=rss",
+      "summary": "Spain are world champions for the second time after Ferran Torres scored the winner against Argentina in extra time.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-19 22:24",
+      "published_iso": "2026-07-19T22:24:07+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Israeli ministers join march to Gaza to demand return of settlements",
+      "link": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
+      "summary": "Hundreds gather near the border as far-right figures push to rebuild settlements removed in 2005",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-19 20:55",
+      "published_iso": "2026-07-19T20:55:11+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "World Cup 2026: What are the extra time and penalty shootout rules?",
+      "link": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-what-are-the-extra-time-and-penalty-shootout-rules?traffic_source=rss",
+      "summary": "Several games in the 2026 World Cup have already ended in dramatic penalty shootouts.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-19 20:22",
+      "published_iso": "2026-07-19T20:22:38+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "What happened in the first half of the Spain vs Argentina World Cup final?",
+      "link": "https://www.aljazeera.com/sports/2026/7/19/what-happened-in-the-first-half-of-the-spain-vs-argentina-world-cup-final?traffic_source=rss",
+      "summary": "All the biggest talking points and statistics from the first 45 minutes of a goalless World Cup final in New Jersey.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-19 20:19",
+      "published_iso": "2026-07-19T20:19:26+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Andy Burnham’s in-tray: The challenges facing the new UK PM",
+      "link": "https://www.aljazeera.com/economy/2026/7/19/andy-burnhams-in-tray-the-challenges-facing-the-new-uk-pm?traffic_source=rss",
+      "summary": "Andy Burnham will become Britain's next prime minister on Monday, with huge challenges and opportunities.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-19 20:12",
+      "published_iso": "2026-07-19T20:12:26+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Five passengers found drifting days after boat sinks in Indonesia",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/five-passengers-found-drifting-days-after-boat-sinks-in-indonesia?traffic_source=rss",
+      "summary": "Five passengers, including a seven-year-old girl, were rescued from a passenger boat that sank in Indonesia.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-07-19 19:49",
+      "published_iso": "2026-07-19T19:49:43+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Deadly overnight Russian attack on Ukraine targets the capital",
+      "link": "https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv",
+      "summary": "Russia launched 41 missiles and 125 attack drones across Ukraine overnight, according to the Ukrainian air force.",
+      "source": "NPR World",
       "region": "World",
-      "published": "2026-07-18 13:06",
-      "published_iso": "2026-07-18T13:06:25+00:00",
-      "score": 100,
+      "published": "2026-07-19 09:14",
+      "published_iso": "2026-07-19T09:14:38+00:00",
+      "score": 96,
       "keywords": [
         "russia",
         "ukraine"
       ]
     },
     {
-      "title": "Canada wildfires affect air quality before World Cup final",
-      "link": "https://www.france24.com/en/canada-wildfires-affect-air-quality-before-world-cup-final",
-      "summary": "More than 800 wildfires are burning across Canada, including around 190 in northern Ontario, with the surge in fires largely attributed to climate change. Thick smoke has created hazardous air quality across parts of Canada and several US states, including Mi...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-07-18 11:57",
-      "published_iso": "2026-07-18T11:57:18+00:00",
-      "score": 100,
-      "keywords": [
-        "climate",
-        "us",
-        "wildfire"
-      ]
-    },
-    {
-      "title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
-      "link": "https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions",
-      "summary": "Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort.",
-      "source": "NPR World",
-      "region": "World",
-      "published": "2026-07-18 10:45",
-      "published_iso": "2026-07-18T10:45:43+00:00",
-      "score": 100,
-      "keywords": [
-        "energy",
-        "russia",
-        "war"
-      ]
-    },
-    {
-      "title": "Why is Trump risking midterm disaster by resuming the unpopular Iran war?",
-      "link": "https://www.theguardian.com/world/2026/jul/18/trump-iran-war-political-midterm-risk",
-      "summary": "Less than a month after hailing a ceasefire, Trump resumed strikes on Iran, a move experts warn could prolong the war and hurt Republicans before the midterms For half a century, Donald Trump has performed a public high-wire act based on high-stakes risks and...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-18 09:00",
-      "published_iso": "2026-07-18T09:00:02+00:00",
-      "score": 100,
-      "keywords": [
-        "ceasefire",
-        "war"
-      ]
-    },
-    {
-      "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
-      "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
-      "summary": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
+      "title": "Russians turn to cash, putting more strain on slowing wartime economy",
+      "link": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-07-17 11:37",
-      "published_iso": "2026-07-17T11:37:00+00:00",
-      "score": 100,
-      "keywords": [
-        "china",
-        "election",
-        "security",
-        "us"
-      ]
-    },
-    {
-      "title": "U.S. launches new airstrikes to 'punish' Iran for troop deaths",
-      "link": "https://www.npr.org/2026/07/18/nx-s1-5899039/us-troops-killed-missing-iran-jordan",
-      "summary": "Two U.S. service members were killed in action while \"partner forces defended against Iranian ballistic missile and drone attacks,\" U.S. Central Command said Saturday.",
-      "source": "NPR World",
-      "region": "World",
-      "published": "2026-07-18 18:14",
-      "published_iso": "2026-07-18T18:14:11+00:00",
-      "score": 99,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
-      "link": "https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html",
-      "summary": "The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-07-18 09:01",
-      "published_iso": "2026-07-18T09:01:37+00:00",
-      "score": 99,
-      "keywords": [
-        "russia",
-        "us"
-      ]
-    },
-    {
-      "title": "Hungary’s president agrees to stand down after law change ends his term",
-      "link": "https://www.theguardian.com/world/2026/jul/18/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term",
-      "summary": "Tamás Sulyok signed the constitutional amendment that cited ‘serious loss of confidence’ in him as leader Hungary’s president, Tamás Sulyok, has agreed to step down after signing a constitutional amendment passed by the ruling Tisza party of the prime ministe...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-18 22:17",
-      "published_iso": "2026-07-18T22:17:51+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Burnham to scrap Starmer’s digital ID scheme in ‘reset of priorities’",
-      "link": "https://www.theguardian.com/politics/2026/jul/18/burnham-to-scrap-starmers-digital-id-scheme-in-reset-of-priorities",
-      "summary": "Incoming PM will reallocate unspecified resources from unpopular plan to helping with cost of living Andy Burnham is expected to scrap Keir Starmer’s plans for digital ID cards in a “reset of priorities” when he enters Downing Street on Monday. The new Labour...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-18 20:00",
-      "published_iso": "2026-07-18T20:00:08+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Republican lawmaker Ralph Norman to join race to succeed Lindsey Graham in South Carolina",
-      "link": "https://www.theguardian.com/us-news/2026/jul/18/us-house-ralph-norman-south-carolina-lindsey-graham",
-      "summary": "Congressman to run for seat despite Donald Trump backing Graham’s sister, Darline, should she choose to run The Republican representative Ralph Norman, ⁠of South Carolina , has announced he will join the race to succeed the late senator Lindsey Graham, despit...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-18 19:14",
-      "published_iso": "2026-07-18T19:14:03+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "North Dakota men who discover they were switched as newborns sue hospital",
-      "link": "https://www.theguardian.com/us-news/2026/jul/18/north-dakota-newborns-switched",
-      "summary": "Kyle Bylin and Jeremy Morrison uncovered the truth after Bylin received an at-home DNA test as a Christmas gift A DNA discovery has led two families to accuse a North Dakota hospital of changing the course of their lives after learning two newborns were alleg...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-18 16:23",
-      "published_iso": "2026-07-18T16:23:09+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Memphis rallies for progressive Democrat after four fatal shootings by taskforce: ‘fight of our lives’",
-      "link": "https://www.theguardian.com/us-news/2026/jul/17/justin-pearson-memphis-rally-progressive-democrat-aoc",
-      "summary": "Alexandria Ocasio-Cortez, Ayanna Pressley and Summer Lee join rally to support Justin Pearson’s bid for Congress More than a thousand people rallied for Justin Pearson, a Democratic state representative running for Congress, in the wake of four fatal shooting...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-18 16:22",
-      "published_iso": "2026-07-18T16:22:16+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Khamenei threatens ‘unforgettable lessons’, two US troops killed in Iranian attack",
-      "link": "https://www.france24.com/en/middle-east/20260718-khamenei-threatens-unforgettable-lessons-two-us-troops-killed-in-iranian-attack",
-      "summary": "Iranian Supreme Leader Ayatollah Majotaba Khamenei on Saturday vowed to teach the US \"unforgettable lessons\" in a written message broadcast on state TV. US Central Command reported its first troop deaths due to Iranian fire when two service members were kille...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-07-18 20:10",
-      "published_iso": "2026-07-18T20:10:02+00:00",
-      "score": 97,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Power, desalination plants hit in Kuwait",
-      "link": "https://www.france24.com/en/power-desalination-plants-hit-in-kuwait",
-      "summary": "The United States and Iran continued exchanging strikes on Saturday as tensions over control of the Strait of Hormuz escalated. US Central Command carried out a seventh consecutive night of attacks, targeting military infrastructure and maritime capabilities,...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-07-18 16:21",
-      "published_iso": "2026-07-18T16:21:51+00:00",
-      "score": 97,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "A giant cake for Venezuelan quake child survivors as death toll passes 5000",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/a-giant-cake-for-venezuelan-quake-child-survivors-as-death-toll-passes-5000?traffic_source=rss",
-      "summary": "Volunteers made a giant cake to cheer up around 3,000 Venezuelan children displaced by last month's powerful twin quakes",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-19 00:39",
-      "published_iso": "2026-07-19T00:39:42+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Netanyahu declares support for Argentina ahead of World Cup final",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/netanyahu-declares-support-for-argentina-ahead-of-world-cup-final?traffic_source=rss",
-      "summary": "Argentina’s ambassador to Israel has presented Benjamin Netanyahu with a football jersey ahead of the World Cup final.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-19 00:33",
-      "published_iso": "2026-07-19T00:33:31+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Saka hat-trick helps England down France to win World Cup 2026 Bronze Final",
-      "link": "https://www.aljazeera.com/sports/2026/7/18/saka-hat-trick-helps-england-down-france-to-win-world-cup-2026-bronze-final?traffic_source=rss",
-      "summary": "Kylian Mbappe scores twice for France to hit World Cup record, but England win 6-4 in third-place playoff final.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-18 23:22",
-      "published_iso": "2026-07-18T23:22:12+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Kylian Mbappe breaks all-time World Cup scoring record with 22nd goal",
-      "link": "https://www.aljazeera.com/sports/2026/7/18/kylian-mbappe-breaks-all-time-world-cup-scoring-record-with-22nd-goal?traffic_source=rss",
-      "summary": "Mbappe is back on track to defend his Golden Boot title, which he and Messi have traded between themselves throughout the tournament.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-18 23:20",
-      "published_iso": "2026-07-18T23:20:31+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "World Cup final tickets near $2.3m mark on FIFA’s resale platform",
-      "link": "https://www.aljazeera.com/sports/2026/7/18/world-cup-final-tickets-near-2-3m-mark-on-fifas-resale-platform?traffic_source=rss",
-      "summary": "While no tickets are available on FIFA's sales platform, they are being resold for sky-high prices on resale sites.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-18 22:41",
-      "published_iso": "2026-07-18T22:41:47+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Cockroach Party protest intensifies after Wangchuk forcibly hospitalised",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/cockroach-party-protest-intensifies-after-wangchuk-forcibly-hospitalised?traffic_source=rss",
-      "summary": "Protest by India's Cockroach Janta Party has intensified after activist Sonam Wangchuk was forcibly hospitalised.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-18 21:03",
-      "published_iso": "2026-07-18T21:03:34+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Latin America unites to cheer against Argentina in FIFA World Cup final",
-      "link": "https://www.aljazeera.com/sports/2026/7/18/latin-america-unites-to-cheer-against-argentina-in-fifa-world-cup-final?traffic_source=rss",
-      "summary": "Fans from Mexico to Brazil unite to cheer Yamal's Spain against Argentina and Messi, whom they call 'FIFA’s golden boy'.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-18 21:02",
-      "published_iso": "2026-07-18T21:02:44+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Palestinian teenage footballer dies a week after Israeli settler attack",
-      "link": "https://www.aljazeera.com/news/2026/7/18/palestinian-teenage-footballer-dies-a-week-after-israeli-settler-attack?traffic_source=rss",
-      "summary": "A week after he was shot in his West Bank village, Fadi al-Nassan's death comes amid a surge in settler violence.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-18 20:24",
-      "published_iso": "2026-07-18T20:24:51+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Thousands rally in London in support of Gaza, demand new PM take action",
-      "link": "https://www.aljazeera.com/news/2026/7/18/thousands-rally-in-london-in-support-of-gaza-demand-new-pm-take-action?traffic_source=rss",
-      "summary": "Demonstrators call on Andy Burnham to impose arms embargo on Israel and pressure its government to end genocide.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-07-18 19:30",
-      "published_iso": "2026-07-18T19:30:30+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "The U.S. and Iran blow past red lines as they lurch back toward all-out war",
-      "link": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes",
-      "summary": "The United States and Iran exchanged strikes aimed at infrastructure and military targets on Saturday as their battle over the Strait of Hormuz intensified.",
-      "source": "NPR World",
-      "region": "World",
-      "published": "2026-07-18 06:01",
-      "published_iso": "2026-07-18T06:01:20+00:00",
+      "published": "2026-07-18 23:59",
+      "published_iso": "2026-07-18T23:59:26+00:00",
       "score": 96,
       "keywords": [
-        "us",
+        "ukraine",
         "war"
       ]
     },
@@ -890,132 +935,75 @@
       ]
     },
     {
-      "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
-      "link": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Tsunami Warning Center has recorded waves 0.3m (1.1 feet) high in Puerto Madero and Chiapas in Mexico after the quake.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-07-17 18:12",
-      "published_iso": "2026-07-17T18:12:54+00:00",
-      "score": 96,
-      "keywords": [
-        "earthquake",
-        "us"
-      ]
-    },
-    {
-      "title": "They Called Sam Neill ‘Skux.’ (It Was a Compliment.)",
-      "link": "https://www.nytimes.com/2026/07/18/world/australia/new-zealand-sam-neill-skux-meaning.html",
-      "summary": "The New Zealand slang word, dating back to the 1990s, was pulled back into circulation in tributes to the actor, who died on Tuesday.",
+      "title": "Tears in Argentina for Lionel Messi’s ‘Last Tango’",
+      "link": "https://www.nytimes.com/2026/07/19/world/americas/messi-argentina-buenos-aires-last-tango.html",
+      "summary": "There were still fireworks and smoke bombs, but the nation was disappointed for its soccer star after he lost in his likely last World Cup.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-07-18 18:36",
-      "published_iso": "2026-07-18T18:36:11+00:00",
+      "published": "2026-07-20 00:37",
+      "published_iso": "2026-07-20T00:37:49+00:00",
       "score": 95,
       "keywords": []
     },
     {
-      "title": "Doctors question evidence behind Pentagon plan for testosterone screening",
-      "link": "https://www.theguardian.com/us-news/2026/jul/18/us-military-testosterone-screening-doctors",
-      "summary": "Pete Hegseth announced that soldiers aged 30 and older in the US military will be screened for low testosterone The US defense secretary, ⁠Pete Hegseth, this week ordered an annual testosterone-deficiency screening for active-duty and reserve service members...",
+      "title": "Did This World Cup Change Soccer Forever?",
+      "link": "https://www.nytimes.com/2026/07/19/world/europe/fifa-world-cup-final.html",
+      "summary": "With a wartime host nation, a referee deported and a ban overturned after a call from the White House, the 2026 tournament tested FIFA like no other.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-07-19 23:47",
+      "published_iso": "2026-07-19T23:47:28+00:00",
+      "score": 95,
+      "keywords": []
+    },
+    {
+      "title": "Indian Activist on Hunger Strike Is Forcibly Removed by Police",
+      "link": "https://www.nytimes.com/2026/07/18/world/asia/sonam-wangchuk-hunger-strike-delhi-police.html",
+      "summary": "The activist, Sonam Wangchuk, has been demanding the education minister’s resignation over botched nationwide exams that affected millions of students.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-07-19 18:18",
+      "published_iso": "2026-07-19T18:18:22+00:00",
+      "score": 95,
+      "keywords": []
+    },
+    {
+      "title": "‘What has the BBC ever done for me?’ Romesh Ranganathan reboots corporation’s 1985 licence fee plea",
+      "link": "https://www.theguardian.com/media/2026/jul/19/bbc-advert-romesh-ranganathan-reboot-john-cleese-licence-fee-plea",
+      "summary": "As with the John Cleese original, comedian is supported by famous faces from Claudia Winkleman to David Jason John Cleese’s 1985 advert for the BBC in which he asks a pub full of stars “ What has the BBC ever given us? ” is one of the most famous examples of...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-07-18 15:03",
-      "published_iso": "2026-07-18T15:03:27+00:00",
+      "published": "2026-07-19 16:02",
+      "published_iso": "2026-07-19T16:02:20+00:00",
       "score": 95,
       "keywords": [
         "us"
       ]
     },
     {
-      "title": "Dismissal of Ukraine’s defence minister highlights wider issues for Zelenskyy",
-      "link": "https://www.theguardian.com/world/2026/jul/17/dismissal-ukraine-defence-minister-mykhailo-fedorov-volodomyr-zelenskyy",
-      "summary": "Mykhailo Fedorov, celebrated by many for innovative, tech-driven approach, was sidelined for military old guard Volodomyr Zelenskyy’s abrupt dismissal of Ukraine’s youthful and innovative defence minister, Mykhailo Fedorov, at precisely the moment Kyiv appear...",
+      "title": "‘He’s a war criminal’: Mamdani exploring whether he can arrest Netanyahu if he visits New York",
+      "link": "https://www.theguardian.com/us-news/2026/jul/19/mamdani-netanyahu",
+      "summary": "NYC mayor says in Times interview that’s he’s in ‘active conversation’ with city’s law department about the matter New York City mayor Zohran Mamdani has said he was reviewing whether his administration could arrest Benjamin Netanyahu if as expected the Israe...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-07-18 14:26",
-      "published_iso": "2026-07-18T14:26:22+00:00",
+      "published": "2026-07-19 15:38",
+      "published_iso": "2026-07-19T15:38:11+00:00",
       "score": 95,
       "keywords": [
-        "ukraine"
+        "war"
       ]
     },
     {
-      "title": "UK tech advocates alarmed by Burnham plan to scrap technology department",
-      "link": "https://www.theguardian.com/politics/2026/jul/18/burnham-plan-to-scrap-technology-department-triggers-backlash",
-      "summary": "MPs and industry experts say potential reorganisation will waste time at critical moment for AI and economic growth Andy Burnham’s plan to scrap the government’s technology department has triggered an angry backlash from MPs, Whitehall officials and tech expe...",
+      "title": "Government use of automated AI decision-making to be curbed under new Australian rules",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/19/national-ai-plan-labor-anthony-albanese-andrew-charlton",
+      "summary": "New national plan is accompanied by Labor push for digital duty of care legislation Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The use of AI in automated decision-making by government de...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-07-18 13:42",
-      "published_iso": "2026-07-18T13:42:43+00:00",
+      "published": "2026-07-19 12:00",
+      "published_iso": "2026-07-19T12:00:27+00:00",
       "score": 95,
       "keywords": [
         "ai"
-      ]
-    },
-    {
-      "title": "Cuba edges toward breakdown as power cuts and US meddling push society to brink",
-      "link": "https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink",
-      "summary": "As Cuba swelters under six-month oil blockade imposed by US, tempers are fraying and unrest is growing When Cuba’s national grid collapses, as it did for the third time in 10 days on Tuesday, a collective groan spreads across its cities and people wonder, aga...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-18 13:14",
-      "published_iso": "2026-07-18T13:14:57+00:00",
-      "score": 95,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "White House backs Argentina players over Falklands banner in World Cup semi-final",
-      "link": "https://www.theguardian.com/football/2026/jul/18/white-house-backs-argentina-team-falklands-banner-world-cup-semi-final",
-      "summary": "White House Fifa taskforce chief defends Argentina footballers, saying US believes in free speech The White House has backed Argentina’s footballers who displayed a banner supporting their country’s claim to the Falkland Islands after their World Cup semi-fin...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-18 10:54",
-      "published_iso": "2026-07-18T10:54:07+00:00",
-      "score": 95,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Andy Burnham considers radical shake-up to cut energy bills",
-      "link": "https://www.theguardian.com/money/2026/jul/18/andy-burnham-cut-energy-bills-gas-heat-pumps",
-      "summary": "Labour leader examining proposals to overhaul gas standing charges and make heat pumps cheaper to run than boilers Andy Burnham is considering radical plans that could cut household energy bills by £130 a year and make running a heat pump cheaper than a gas b...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-18 10:45",
-      "published_iso": "2026-07-18T10:45:01+00:00",
-      "score": 95,
-      "keywords": [
-        "energy"
-      ]
-    },
-    {
-      "title": "US launches seventh night of Iran strikes as Hormuz conflict escalates",
-      "link": "https://www.theguardian.com/world/2026/jul/17/us-launches-seventh-night-of-iran-strikes-as-hormuz-conflict-escalates",
-      "summary": "Central Command says attacks were designed to ‘continue degrading Iranian military capabilities’ The US military said it had launched a seventh consecutive night of strikes on Iran on Friday night as fighting escalated over the strait of Hormuz. US Central Co...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-18 06:03",
-      "published_iso": "2026-07-18T06:03:13+00:00",
-      "score": 95,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Israeli ministers announce plans for new illegal settlements in Gaza and West Bank",
-      "link": "https://www.theguardian.com/world/2026/jul/18/israel-plan-new-illegal-settlements-gaza-west-bank-occupied-palestine",
-      "summary": "Defence minister seeks three ‘Nahal’ outposts in Gaza as top commander says Israel now controls 65% of the strip, violating Trump ceasefire deal Israel’s defence and finance ministers announced plans for three illegal settlements in Gaza and more than $400m (...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-07-18 06:00",
-      "published_iso": "2026-07-18T06:00:50+00:00",
-      "score": 95,
-      "keywords": [
-        "ceasefire"
       ]
     }
   ]
