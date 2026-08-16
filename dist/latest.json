@@ -1,150 +1,569 @@
 {
-  "generated_at": "2026-08-15T01:57:21+00:00",
+  "generated_at": "2026-08-16T02:06:40+00:00",
   "article_count": 80,
   "source_count": 8,
   "errors": [],
   "articles": [
     {
-      "title": "At least two killed as magnitude 7.7 quake hits Indonesia",
-      "link": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss",
-      "summary": "Authorities urge coastal residents to move inland or to higher ground following the quake near Flores Island.",
+      "title": "As petrol prices soar, electric bikes gain ground in Nigeria",
+      "link": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss",
+      "summary": "Riders say the switch is helping them cut fuel and maintenance costs.",
       "source": "Al Jazeera",
       "region": "Middle East",
-      "published": "2026-08-15 01:36",
-      "published_iso": "2026-08-15T01:36:04+00:00",
+      "published": "2026-08-16 01:43",
+      "published_iso": "2026-08-16T01:43:57+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea ‘not nearly enough’ – live",
-      "link": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
-      "summary": "President claims families not worried, despite relatives raising concerns, but confirms USS George Washington will replace aircraft carrier on Iran mission Trump downplays concerns about sailors deployed for record 250 days Sign up for the Breaking News US em...",
+      "title": "News live: PM warns Australia has more guns than at time of Port Arthur massacre; Erin Patterson’s appeal to start this week",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/16/politics-reactions-nsw-gun-buyback-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-bird-flu-ntwnfb",
+      "summary": "Anthony Albanese invites all states to join gun buyback scheme launched in federal funding deal with NSW. Follow live updates Get our breaking news email , free app or daily news podcast Anthony Albanese has just been speaking alongside the New South Wales pr...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-08-15 01:31",
-      "published_iso": "2026-08-15T01:31:53+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Picasso print stolen from Milwaukee art gallery in 2018 found by landlord while cleaning apartment",
-      "link": "https://www.theguardian.com/us-news/2026/aug/14/picasso-print-stolen-milwaukee",
-      "summary": "Torero print, one of 30 known to exist signed by Picasso, was stolen from Bill DeLind’s gallery in 2018 Bill DeLind thought the Picasso print that was stolen from his Milwaukee gallery in 2018 was gone forever. But then police called last week and asked him t...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-15 01:27",
-      "published_iso": "2026-08-15T01:27:23+00:00",
+      "published": "2026-08-16 01:40",
+      "published_iso": "2026-08-16T01:40:48+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "Mangione pleads guilty as polarising CEO killing reaches new phase",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/mangione-pleads-guilty-as-polarising-ceo-killing-reaches-new-phase?traffic_source=rss",
-      "summary": "Luigi Mangione pleaded guilty to federal charges over the fatal shooting of UnitedHealthcare CEO Brian Thompson in 2024.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-15 01:20",
-      "published_iso": "2026-08-15T01:20:06+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "A Prominent Mexican Politician Says U.S. Revoked His Visa",
-      "link": "https://www.nytimes.com/2026/08/14/world/americas/mexico-visas-lopez-beltran.html",
-      "summary": "Andrés Manuel López Beltrán, a former president’s son, lashed out at the Trump administration after he said it canceled his visa, another flashpoint in the tense U.S.-Mexico relationship.",
+      "title": "Bou Meng, Rare Survivor of Khmer Rouge Torture House, Dies at 85",
+      "link": "https://www.nytimes.com/2026/08/15/world/asia/bou-meng-dead.html",
+      "summary": "Saved by his ability to paint, he was one of only a handful of prisoners to make it out of the brutal prison Tuol Sleng.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-08-15 01:17",
-      "published_iso": "2026-08-15T01:17:32+00:00",
+      "published": "2026-08-16 01:34",
+      "published_iso": "2026-08-16T01:34:34+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Army drops roses on Syrian crowds in a far cry from war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
+      "summary": "Syrian army helicopters dropped roses on crowds at Damascus Citadel’s Summer Syria festival.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-16 00:50",
+      "published_iso": "2026-08-16T00:50:12+00:00",
+      "score": 100,
+      "keywords": [
+        "war"
+      ]
+    },
+    {
+      "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
+      "link": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
+      "summary": "Hamas chief Khalil al-Hayya to meet Egyptian intelligence chief Hassan Rashad in Cairo amid ongoing Gaza tensions.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-16 00:44",
+      "published_iso": "2026-08-16T00:44:59+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+      "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-08-16 00:11",
+      "published_iso": "2026-08-16T00:11:03+00:00",
       "score": 100,
       "keywords": [
         "us"
       ]
     },
     {
-      "title": "Buenaventura residents criticise state neglect after Colombia’s earthquake",
-      "link": "https://www.aljazeera.com/features/longform/2026/8/15/buenaventura-residents-criticise-state-neglect-after-colombias-earthquake?traffic_source=rss",
-      "summary": "Locals in impoverished areas say the insufficient government response after the earthquake speaks to a broader trend.",
+      "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss",
+      "summary": "Israel kills 11 in deadliest attacks on Lebanon since June truce as Iran and Oman continue talks on Hormuz.",
       "source": "Al Jazeera",
       "region": "Middle East",
-      "published": "2026-08-15 01:12",
-      "published_iso": "2026-08-15T01:12:02+00:00",
+      "published": "2026-08-16 00:00",
+      "published_iso": "2026-08-16T00:00:45+00:00",
+      "score": 100,
+      "keywords": [
+        "war"
+      ]
+    },
+    {
+      "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-08-15 23:34",
+      "published_iso": "2026-08-15T23:34:24+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Yemen’s government says Houthi strikes hit residential areas in Marib",
+      "link": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
+      "summary": "Yemen's Ministry of Information denounces attacks on Marib as 'escalation' that threatens lives and increases suffering.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-15 23:27",
+      "published_iso": "2026-08-15T23:27:10+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "At least five reported dead amid flooding in US state of Indiana",
+      "link": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss",
+      "summary": "Indiana's state governor says that US government has promised assistance after a week of heavy rainfall.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-15 23:19",
+      "published_iso": "2026-08-15T23:19:34+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
+      "link": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss",
+      "summary": "Post-earthquake reconstruction is expected to cost about $6.4bn, but Colombia has been hit by renewed US tariffs.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-15 23:04",
+      "published_iso": "2026-08-15T23:04:47+00:00",
+      "score": 100,
+      "keywords": [
+        "earthquake",
+        "us"
+      ]
+    },
+    {
+      "title": "US Democrats finalise major shakeup to 2028 presidential primary calendar",
+      "link": "https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss",
+      "summary": "South Carolina will again take centre stage as the first nominating contest, pushing Iowa from its top spot.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-15 22:22",
+      "published_iso": "2026-08-15T22:22:46+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-08-15 21:49",
+      "published_iso": "2026-08-15T21:49:12+00:00",
       "score": 100,
       "keywords": [
         "earthquake"
       ]
     },
     {
-      "title": "Fears for missing Sydney teen who hasn’t been seen since leaving for hike on Wednesday",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/15/fears-for-missing-sydney-teen-who-hasnt-been-seen-since-leaving-for-hike-on-wednesday",
-      "summary": "Fresh search teams to scour Nattai national park for Lily Hooper, 18, who failed to return home from a bushwalk Get our breaking news email , free app or daily news podcast The search for an 18-year-old bushwalker missing in the Southern Highlands of New Sout...",
-      "source": "The Guardian World",
+      "title": "Australian state to launch gun buyback after Bondi Beach attack",
+      "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+      "summary": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
+      "source": "BBC World",
       "region": "World",
-      "published": "2026-08-15 01:07",
-      "published_iso": "2026-08-15T01:07:41+00:00",
+      "published": "2026-08-15 21:41",
+      "published_iso": "2026-08-15T21:41:43+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead",
-      "link": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html",
-      "summary": "Mr. Arday resigned last week after the university announced an investigation into allegations of plagiarism and fabrication.",
-      "source": "NYTimes World",
+      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+      "source": "BBC World",
       "region": "World",
-      "published": "2026-08-15 01:00",
-      "published_iso": "2026-08-15T01:00:46+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Lula holds slim lead over Flavio Bolsonaro ahead of Brazil election",
-      "link": "https://www.aljazeera.com/news/2026/8/15/lula-holds-slim-lead-over-flavio-bolsonaro-ahead-of-brazil-election?traffic_source=rss",
-      "summary": "A new poll shows Lula leading Bolsonaro, but the gap has closed ahead of Brazil's high-stakes presidential election.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-15 00:32",
-      "published_iso": "2026-08-15T00:32:56+00:00",
-      "score": 100,
-      "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "UN urges support for Afghan women’s aid five years into Taliban rule",
-      "link": "https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss",
-      "summary": "More than half of women’s organisations operating in Afghanistan could cease operations within next year: UN Women.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-15 00:23",
-      "published_iso": "2026-08-15T00:23:26+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Families angered by slow search for loved ones after Colombia quake",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-colombia-quake-reported-mp4?traffic_source=rss",
-      "summary": "Families are demanding answers over loved ones buried under rubble in Cali, Colombia after Monday’s 7.4 magnitude quake.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-15 00:14",
-      "published_iso": "2026-08-15T00:14:47+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss",
-      "summary": "US President Trump says that 'pretty soon' he will declare the Strait of Hormuz a US territory once Iran is defeated.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-15 00:00",
-      "published_iso": "2026-08-15T00:00:00+00:00",
+      "published": "2026-08-15 21:03",
+      "published_iso": "2026-08-15T21:03:57+00:00",
       "score": 100,
       "keywords": [
         "us",
         "war"
+      ]
+    },
+    {
+      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-08-15 20:58",
+      "published_iso": "2026-08-15T20:58:31+00:00",
+      "score": 100,
+      "keywords": [
+        "security"
+      ]
+    },
+    {
+      "title": "California tackles multiple wildfires as firefighter workforce faces strain",
+      "link": "https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss",
+      "summary": "The federal wildland firefighting workforce, faced with low pay and cost of living issues, copes with Trump-era cuts.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-15 20:40",
+      "published_iso": "2026-08-15T20:40:48+00:00",
+      "score": 100,
+      "keywords": [
+        "wildfire"
+      ]
+    },
+    {
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-08-15 20:21",
+      "published_iso": "2026-08-15T20:21:14+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
+      "link": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
+      "summary": "The petition is set to be discussed by House of Commons in a sign of discontent with policies of US President Trump.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-15 20:09",
+      "published_iso": "2026-08-15T20:09:33+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Moroccan police intercept migrants heading for Ceuta enclave",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
+      "summary": "Security forces in Fnideq have stepped up operations to prevent migrants from crossing into Ceuta.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-15 20:07",
+      "published_iso": "2026-08-15T20:07:07+00:00",
+      "score": 100,
+      "keywords": [
+        "security"
+      ]
+    },
+    {
+      "title": "New York City man charged with hate crimes after alleged synagogue assault",
+      "link": "https://www.theguardian.com/us-news/2026/aug/15/hate-crime-charges-new-york-synagogue-assault",
+      "summary": "Police say Larry Montes struck a woman and a security guard after he disrupted Shabbat services A New York City man is facing hate crime charges after police say he assaulted a woman and a security team member while disrupting Shabbat services at Central Syna...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-08-15 20:02",
+      "published_iso": "2026-08-15T20:02:27+00:00",
+      "score": 100,
+      "keywords": [
+        "security"
+      ]
+    },
+    {
+      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+      "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-08-15 19:41",
+      "published_iso": "2026-08-15T19:41:57+00:00",
+      "score": 100,
+      "keywords": [
+        "europe"
+      ]
+    },
+    {
+      "title": "How Cyclospora Evaded the U.S. Food Safety System to Sicken Thousands",
+      "link": "https://www.nytimes.com/2026/08/15/health/cyclospora-invesigation-fda.html",
+      "summary": "The Trump administration delayed a rule last year that could have sped up the effort to pinpoint the source of the contamination. Critics charge that food safety oversight has eroded overall.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-08-15 19:38",
+      "published_iso": "2026-08-15T19:38:20+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Multiple suspects at large after five shot at Virginia State University, police say",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-08-15 19:34",
+      "published_iso": "2026-08-15T19:34:22+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
+      "link": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html",
+      "summary": "Mr. Hoekstra has been President Trump’s faithful messenger in Canada amid a historic low in relations. More than 170,000 Canadians want him gone.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-08-15 18:15",
+      "published_iso": "2026-08-15T18:15:49+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
+      "summary": "Cleanup crews are responding along 12 kilometres of Omani coastline following an oil spill from the grounded tanker.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-15 18:11",
+      "published_iso": "2026-08-15T18:11:12+00:00",
+      "score": 100,
+      "keywords": [
+        "russia"
+      ]
+    },
+    {
+      "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
+      "link": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
+      "summary": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territory Moroccan police have arrested 111 people as they tried to enter Spain’s north African territory of Ceuta, amid ⁠tightened security on both s...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-08-15 18:08",
+      "published_iso": "2026-08-15T18:08:21+00:00",
+      "score": 100,
+      "keywords": [
+        "security"
+      ]
+    },
+    {
+      "title": "Why is Australia's mushroom killer back in court this week?",
+      "link": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC’s Katy Watson explains why triple-murder Erin Patterson is back in court this week trying to overturn her conviction.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-08-15 18:02",
+      "published_iso": "2026-08-15T18:02:30+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
+      "link": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
+      "summary": "The USS Washington's movement comes amid reports of dire conditions on the USS Lincoln amid the ongoing Iran war.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-15 17:49",
+      "published_iso": "2026-08-15T17:49:42+00:00",
+      "score": 100,
+      "keywords": [
+        "middle east",
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
+      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The fire burning through the major park was described as the country's worst in recent years.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-08-15 17:47",
+      "published_iso": "2026-08-15T17:47:42+00:00",
+      "score": 100,
+      "keywords": [
+        "wildfire"
+      ]
+    },
+    {
+      "title": "One killed, dozens injured after wildfire hits Croatian coast",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss",
+      "summary": "At least one person was killed and around 42 others were injured after a violent wildfire hit a coastal town in Croatia.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-15 16:33",
+      "published_iso": "2026-08-15T16:33:05+00:00",
+      "score": 100,
+      "keywords": [
+        "wildfire"
+      ]
+    },
+    {
+      "title": "Massive egg recall in US south and south-west due to salmonella outbreak",
+      "link": "https://www.theguardian.com/us-news/2026/aug/15/egg-recall-us-south-and-south-west-salmonella-outbreak",
+      "summary": "About 1.6m dozen eggs from Texas recalled amid one of the largest recorded foodborne illness outbreaks in US history A massive egg recall affecting nearly 1.6m dozen eggs has been elevated to the US Food and Drug Administration’s highest-risk warning as offic...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-08-15 16:01",
+      "published_iso": "2026-08-15T16:01:10+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Royal estates rent out homes that fail to meet legal energy efficiency standards",
+      "link": "https://www.theguardian.com/society/2026/aug/15/royal-estates-rent-out-homes-that-fail-to-meet-legal-energy-efficiency-standards",
+      "summary": "Exclusive: More than 100 homes on King Charles and Prince William’s inherited estates have EPC ratings of F or G • ‘It’s archaic’: the struggle to heat poorly insulated homes let by royal estates More than 100 homes on the inherited royal estates of King Char...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-08-15 16:00",
+      "published_iso": "2026-08-15T16:00:01+00:00",
+      "score": 100,
+      "keywords": [
+        "energy"
+      ]
+    },
+    {
+      "title": "Alarmed by the alarm: people react to ‘severe alert’ on phones over UK wildfires",
+      "link": "https://www.theguardian.com/world/2026/aug/15/people-react-severe-alert-phones-message-uk-wildfires",
+      "summary": "Many complained online that piercingly loud tone was ‘overreach’ while others lamented lack of action on decarbonisation On Friday at 7pm, Thérèse Coffey was nine miles away from a nuclear power station when her phone made a loud, piercing and very worrying s...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-08-15 15:54",
+      "published_iso": "2026-08-15T15:54:15+00:00",
+      "score": 100,
+      "keywords": [
+        "wildfire"
+      ]
+    },
+    {
+      "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
+      "link": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
+      "summary": "Ukraine used domestically produced Flamingo missiles to hit targets in Russia's southwestern Samara region.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-15 15:50",
+      "published_iso": "2026-08-15T15:50:06+00:00",
+      "score": 100,
+      "keywords": [
+        "russia",
+        "ukraine"
+      ]
+    },
+    {
+      "title": "Powerful earthquake kills dozens in eastern Indonesia",
+      "link": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+      "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47 people, causing widespread panic and collapsing buildings and homes i...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-08-15 15:34",
+      "published_iso": "2026-08-15T15:34:38+00:00",
+      "score": 100,
+      "keywords": [
+        "earthquake"
+      ]
+    },
+    {
+      "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
+      "link": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
+      "summary": "One person killed and hundreds evacuated in Croatia as blazes also hit Germany, Greece and Spain Almost 500 people have been arrested on suspicion of starting wildfires in France since the start of the summer, authorities have said, as firefighters in half a...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-08-15 15:32",
+      "published_iso": "2026-08-15T15:32:38+00:00",
+      "score": 100,
+      "keywords": [
+        "europe",
+        "wildfire"
+      ]
+    },
+    {
+      "title": "Syrian Convicted in Austria of Civil War Abuses Is Detained in Syria",
+      "link": "https://www.nytimes.com/2026/08/15/world/middleeast/syria-austria-arrest-civil-war-crimes.html",
+      "summary": "Musab Abu Rukbah, a former police chief, left Austria after appealing his eight-year sentence for crimes committed during Syria’s civil war.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-08-15 15:28",
+      "published_iso": "2026-08-15T15:28:28+00:00",
+      "score": 100,
+      "keywords": [
+        "war"
+      ]
+    },
+    {
+      "title": "Alaska candidate for US Senate rejects Kamala Harris’s unsolicited support",
+      "link": "https://www.theguardian.com/us-news/2026/aug/15/alaska-mary-peltola-rejects-kamala-harris-unsolicited-support",
+      "summary": "Former VP sent fundraising appeal for Democrat Mary Peltola’s campaign – with half of donations going to Harris’s organization Alaska US Senate candidate Mary Peltola has rejected the support of Kamala Harris , her fellow Democrat, after the 2024 presidential...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-08-15 15:07",
+      "published_iso": "2026-08-15T15:07:54+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "South Korea proposes talks to officially end war with North",
+      "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-08-15 14:40",
+      "published_iso": "2026-08-15T14:40:15+00:00",
+      "score": 100,
+      "keywords": [
+        "war"
+      ]
+    },
+    {
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-08-15 11:25",
+      "published_iso": "2026-08-15T11:25:32+00:00",
+      "score": 100,
+      "keywords": [
+        "ai"
+      ]
+    },
+    {
+      "title": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
+      "link": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
+      "summary": "Asian allies are beginning to wonder whether the United States would or could defend them in a war.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-08-15 09:01",
+      "published_iso": "2026-08-15T09:01:01+00:00",
+      "score": 100,
+      "keywords": [
+        "china",
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
+      "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
+      "summary": "From glaciers shrinking to an exposed shipwreck, satellites capture the impact of extreme heat and drought.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-08-15 05:01",
+      "published_iso": "2026-08-15T05:01:13+00:00",
+      "score": 100,
+      "keywords": [
+        "europe"
+      ]
+    },
+    {
+      "title": "Wary of Trump, Europe Seeks Role in Eventual Russia-Ukraine Talks",
+      "link": "https://www.nytimes.com/2026/08/15/world/europe/europe-russia-ukraine-talks.html",
+      "summary": "French, German and British diplomats are working on a format for future negotiations — even if Russia has shown little interest.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-08-15 04:01",
+      "published_iso": "2026-08-15T04:01:09+00:00",
+      "score": 100,
+      "keywords": [
+        "europe",
+        "russia",
+        "ukraine"
       ]
     },
     {
@@ -153,844 +572,412 @@
       "summary": "In Moldova, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-08-14 23:55",
-      "published_iso": "2026-08-14T23:55:21+00:00",
-      "score": 100,
+      "published": "2026-08-15 09:03",
+      "published_iso": "2026-08-15T09:03:53+00:00",
+      "score": 99,
       "keywords": [
         "election",
         "russia"
       ]
     },
     {
-      "title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia",
-      "link": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
-      "summary": "Shallow quake hit Indonesia’s Flores region early on Saturday, prompting thousands to seek higher ground after initial tsunami warning A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, the US Geological Survey said, sending thousands...",
+      "title": "One Nation senator says parents who support their trans children are engaging in ‘child abuse’",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/16/one-nation-tyron-whitten-comments-parents-trans-children-abuse-ntwnfb",
+      "summary": "‘There’s male, there’s female, and then there’s mental illness,’ Tyron Whitten says on YouTube show Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast One Nation senator Tyron Whitten has claime...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-08-14 23:43",
-      "published_iso": "2026-08-14T23:43:18+00:00",
-      "score": 100,
-      "keywords": [
-        "earthquake",
-        "us"
-      ]
-    },
-    {
-      "title": "Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal",
-      "link": "https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss",
-      "summary": "Hezbollah criticises Beirut’s approach, accusing officials of exposing the Lebanese army to risks and Israeli pressure.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-14 23:02",
-      "published_iso": "2026-08-14T23:02:55+00:00",
-      "score": 100,
+      "published": "2026-08-15 20:00",
+      "published_iso": "2026-08-15T20:00:06+00:00",
+      "score": 98,
       "keywords": []
     },
     {
-      "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss",
-      "summary": "Six Houthi ballistic missiles struck Yemen's government-held al-Makha port, killing at least four.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-14 22:58",
-      "published_iso": "2026-08-14T22:58:58+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Trump downplays concerns about sailors onboard USS Abraham Lincoln amid record deployment",
-      "link": "https://www.theguardian.com/us-news/2026/aug/14/trump-uss-abraham-lincoln-deployment",
-      "summary": "President said nine months at sea ‘not nearly long enough’ even as families call for attention to mental health crisis Donald Trump has downplayed concerns about US sailors enduring a record-setting deployment of nearly nine months onboard the USS Abraham Lin...",
+      "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+      "link": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+      "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake Kariba , on...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-08-14 22:12",
-      "published_iso": "2026-08-14T22:12:55+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
+      "published": "2026-08-15 19:39",
+      "published_iso": "2026-08-15T19:39:07+00:00",
+      "score": 98,
+      "keywords": []
     },
     {
-      "title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
-      "link": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss",
-      "summary": "Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-14 21:50",
-      "published_iso": "2026-08-14T21:50:46+00:00",
-      "score": 100,
-      "keywords": [
-        "ceasefire",
-        "us",
-        "war"
-      ]
-    },
-    {
-      "title": "Wildfires rage across Europe as heatwaves drive record temperatures",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/wildfires-rage-across-europe-as-heatwaves-drive-record-temperatures?traffic_source=rss",
-      "summary": "Wildfires fuelled by record heat are ravaging Europe, burning around 500,000 hectares and forcing thousands to flee.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-14 21:50",
-      "published_iso": "2026-08-14T21:50:35+00:00",
-      "score": 100,
-      "keywords": [
-        "europe",
-        "wildfire"
-      ]
-    },
-    {
-      "title": "Trump threatens to declare strait of Hormuz ‘territory of the United States’",
-      "link": "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
-      "summary": "Seriousness of remark made in New York on Friday, and whether it signaled new policy ​position, not clear Donald Trump has threatened to declare the strait of Hormuz as “a territory of the United States” as his administration struggles to conclude the war wit...",
+      "title": "Thousands of Bonnie Tyler fans gather to pay respects as coffin brought home",
+      "link": "https://www.theguardian.com/music/2026/aug/15/bonnie-tyler-fans-gather-pay-respects-swansea",
+      "summary": "Fans line streets, singing Total Eclipse of the Heart ahead of Welsh singer’s Swansea funeral Thousands of Bonnie Tyler fans lined the streets of her home town in south Wales to pay respects to the singer as her coffin was brought back to her former home. The...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-08-14 21:38",
-      "published_iso": "2026-08-14T21:38:17+00:00",
-      "score": 100,
-      "keywords": [
-        "us",
-        "war"
-      ]
+      "published": "2026-08-15 18:44",
+      "published_iso": "2026-08-15T18:44:49+00:00",
+      "score": 98,
+      "keywords": []
     },
     {
-      "title": "Burnham announces £65m for drought-hit farmers after Labour pressure",
-      "link": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-climate-response-drought-hit-farmers-labour-pressure",
-      "summary": "PM steps up climate response with measures including better water access and support for building farm reservoirs Farmers must not carry the risks of the climate crisis alone, Andy Burnham has said, as he announced £65m of funding to help them manage the deva...",
+      "title": "Body found in Romania believed to be missing British hiker George Smyth",
+      "link": "https://www.theguardian.com/world/2026/aug/15/body-found-in-romania-believed-to-be-missing-british-hiker-george-smyth",
+      "summary": "Family paid tribute to Bristol University geology student, 18, after being notified by Avon and Somerset police A body has been found in the search for an 18-year-old British man who went missing last year while hiking in Romania, UK police said. George Smyth...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-08-14 21:30",
-      "published_iso": "2026-08-14T21:30:38+00:00",
-      "score": 100,
-      "keywords": [
-        "climate"
-      ]
-    },
-    {
-      "title": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier",
-      "link": "https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss",
-      "summary": "Members of the US Congress have called for a probe into conditions amid reports of sailors attempting to jump ship.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-14 21:17",
-      "published_iso": "2026-08-14T21:17:15+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Dozens injured and thousands evacuated in Croatia wildfire",
-      "link": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-08-14 20:22",
-      "published_iso": "2026-08-14T20:22:56+00:00",
-      "score": 100,
-      "keywords": [
-        "wildfire"
-      ]
-    },
-    {
-      "title": "Son of Mexico’s former president AMLO alleges US revoked his visa",
-      "link": "https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss",
-      "summary": "The US has not confirmed the revocation which comes amid crackdown on Mexican politicians with alleged ties to cartels.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-14 19:44",
-      "published_iso": "2026-08-14T19:44:43+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "New aerial video reveals huge scale of oil spill off Oman",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss",
-      "summary": "A potential environmental disaster is unfolding off Oman, where a grounded tanker is leaking sanctioned Russian oil.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-14 19:36",
-      "published_iso": "2026-08-14T19:36:45+00:00",
-      "score": 100,
-      "keywords": [
-        "russia"
-      ]
-    },
-    {
-      "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-      "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-      "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-08-14 19:20",
-      "published_iso": "2026-08-14T19:20:43+00:00",
-      "score": 100,
+      "published": "2026-08-15 17:14",
+      "published_iso": "2026-08-15T17:14:38+00:00",
+      "score": 98,
       "keywords": []
     },
     {
-      "title": "Emergency alert warning of wildfire risk sent to phones in England and Wales",
-      "link": "https://www.theguardian.com/world/2026/aug/14/emergency-alert-warning-wildfire-risk-sent-phones-england-wales",
-      "summary": "People urged not to light barbecues, campfires or anything else that could spark fire during period of extreme heat Millions of people across England and Wales received an emergency alert to their phones on Friday as the government warned against activities t...",
+      "title": "Heathrow airport roads reopen after flooding from burst water main",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/15/heathrow-passengers-face-disruption-after-flood-restricts-access",
+      "summary": "Heathrow says airport operating as normal after passengers told not to travel by road and use rail and tube instead Disruptions caused by flooding from a burst water main on a ring road at Heathrow airport restricted access to Terminals 2 and 3 on Saturday mo...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-08-14 19:19",
-      "published_iso": "2026-08-14T19:19:48+00:00",
-      "score": 100,
-      "keywords": [
-        "wildfire"
-      ]
+      "published": "2026-08-15 14:58",
+      "published_iso": "2026-08-15T14:58:52+00:00",
+      "score": 98,
+      "keywords": []
     },
     {
-      "title": "Trump asks Supreme Court to allow ballroom work to continue",
-      "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-08-14 19:05",
-      "published_iso": "2026-08-14T19:05:22+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Trump asks US Supreme Court to allow $400m ballroom project to proceed",
-      "link": "https://www.aljazeera.com/news/2026/8/14/trump-asks-us-supreme-court-to-allow-400m-ballroom-project-to-proceed?traffic_source=rss",
-      "summary": "Appeals court previously ruled that Trump administration must seek authorisation from Congress to continue with project.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-14 19:02",
-      "published_iso": "2026-08-14T19:02:49+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "US Forest Service chief reportedly pressed staff for more support for wildfire near his ranch",
-      "link": "https://www.theguardian.com/us-news/2026/aug/14/michael-boren-idaho-wildfire-ranch",
-      "summary": "Michael Boren requested more aircraft for 7-acre Cabin Creek fire, some of which were diverted from other fires Michael Boren, the US undersecretary of agriculture for natural resources and environment who oversees the US Forest Service, reportedly pressed ag...",
+      "title": "Thirty years after Tupac Shakur’s killing, can a murder trial offer justice?",
+      "link": "https://www.theguardian.com/music/2026/aug/15/tupac-shakur-duane-davis-murder-trial",
+      "summary": "Duane ‘Keffe D’ Davis faces trial on Monday over rap star’s death that marked notorious chapter in hip-hop’s history In September 1996, rap star Tupac Shakur was gunned down in a drive-by shooting near the Las Vegas strip, succumbing days later to his injurie...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-08-14 19:01",
-      "published_iso": "2026-08-14T19:01:58+00:00",
-      "score": 100,
-      "keywords": [
-        "us",
-        "wildfire"
-      ]
+      "published": "2026-08-15 14:40",
+      "published_iso": "2026-08-15T14:40:47+00:00",
+      "score": 98,
+      "keywords": []
     },
     {
-      "title": "Woman charged over vandalism of World War II Memorial in Washington, DC",
-      "link": "https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss",
-      "summary": "The arrest comes weeks after Trump criticised Jeanine Pirro for dropping charges over damage to the Reflecting Pool.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-14 18:55",
-      "published_iso": "2026-08-14T18:55:24+00:00",
-      "score": 100,
-      "keywords": [
-        "war"
-      ]
-    },
-    {
-      "title": "Burnham criticised for EV and North Sea approach amid climate crisis",
-      "link": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-new-ev-sales-targets",
-      "summary": "Cut in electric vehicle sales targets could add millions of tonnes of CO 2 to emissions in UK, say green campaigners Andy Burnham has been criticised for moving to cut electric vehicle (EV) sales targets and accept North Sea drilling at a time of devastating...",
+      "title": "Safety check calls after Irish teenager electrocuted taking shower in Greece",
+      "link": "https://www.theguardian.com/world/2026/aug/15/irish-teenager-electrocuted-shower-greece",
+      "summary": "Alex McKee died when picking up showerhead in ‘outdoor and rudimentary’ bathroom on Kimolos The death of an Irish teenager, electrocuted while taking a shower in a holiday home in Greece, has led to calls for tighter checks on appliances at tourist accommodat...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-08-14 18:51",
-      "published_iso": "2026-08-14T18:51:11+00:00",
-      "score": 100,
-      "keywords": [
-        "climate"
-      ]
-    },
-    {
-      "title": "Art offers young Gaza survivors solace and escape from war’s devastation",
-      "link": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
-      "summary": "Young survivors of Israel's genocidal war in Gaza find safe spaces to process trauma and rediscover joy.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-14 18:43",
-      "published_iso": "2026-08-14T18:43:36+00:00",
-      "score": 100,
-      "keywords": [
-        "war"
-      ]
-    },
-    {
-      "title": "CEO pay skyrockets in 2025 amid growing income inequality in the US",
-      "link": "https://www.aljazeera.com/economy/2026/8/14/ceo-pay-skyrockets-in-2025-amid-growing-income-inequality-in-the-us?traffic_source=rss",
-      "summary": "Elon Musk earned 2.5 million times more than a Tesla worker's median pay in 2025, despite revenue and sales declines.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-14 18:28",
-      "published_iso": "2026-08-14T18:28:17+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-      "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-08-14 18:25",
-      "published_iso": "2026-08-14T18:25:38+00:00",
-      "score": 100,
+      "published": "2026-08-15 14:26",
+      "published_iso": "2026-08-15T14:26:46+00:00",
+      "score": 98,
       "keywords": []
     },
     {
-      "title": "What to Know About the U.K. Special Election: Farage vs. Binface",
-      "link": "https://www.nytimes.com/2026/08/13/world/europe/farage-binface-uk-byelection-clacton.html",
-      "summary": "Nigel Farage, the right-wing populist leader, won a by-election for his parliamentary seat in Clacton, which he initiated after coming under pressure over his financial declarations.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-08-14 18:16",
-      "published_iso": "2026-08-14T18:16:35+00:00",
-      "score": 100,
+      "title": "France's Léon Marchand wins 200-meter butterfly final at European Swimming Championships",
+      "link": "https://www.france24.com/en/sport/20260815-l%C3%A9on-marchand-wins-200-meter-butterfly-at-european-swimming-championships",
+      "summary": "",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-08-15 16:55",
+      "published_iso": "2026-08-15T16:55:43+00:00",
+      "score": 97,
       "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "Zambia Halts Presidential Election Vote Count Over Violence and Fraud Allegations",
-      "link": "https://www.nytimes.com/2026/08/14/world/africa/zambia-election-vote-count-suspended-president.html",
-      "summary": "The electoral commission for the southern African nation said poll workers had been attacked and ballots had been stolen.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-08-14 18:01",
-      "published_iso": "2026-08-14T18:01:30+00:00",
-      "score": 100,
-      "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
-      "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-08-14 17:36",
-      "published_iso": "2026-08-14T17:36:27+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-      "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-08-14 17:03",
-      "published_iso": "2026-08-14T17:03:17+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
-      "link": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&at_campaign=rss",
-      "summary": "Civil servants are entitled to extra money for working in difficult or dangerous cities around the world.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-08-14 17:00",
-      "published_iso": "2026-08-14T17:00:46+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Why is Selena Gomez being sued?",
-      "link": "https://www.bbc.co.uk/news/videos/cly58dnde5yo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC journalist Ana Guerra-Moore looks at why investors who backed Wondermind Global are claiming the pop star failed to fulfil promises.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-08-14 16:59",
-      "published_iso": "2026-08-14T16:59:53+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
-      "link": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
-      "summary": "One person killed and hundreds evacuated in Croatia as blazes also hit Germany, Greece and Spain Almost 500 people have been arrested on suspicion of starting wildfires in France since the start of the summer, authorities have said, as firefighters in half a...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-14 16:58",
-      "published_iso": "2026-08-14T16:58:04+00:00",
-      "score": 100,
-      "keywords": [
-        "europe",
-        "wildfire"
-      ]
-    },
-    {
-      "title": "France's top court blocks social media ban for under-15s",
-      "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-08-14 16:35",
-      "published_iso": "2026-08-14T16:35:06+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
-      "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\".",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-08-14 16:28",
-      "published_iso": "2026-08-14T16:28:59+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "As Europe Gets Hotter, Its Transportation Systems Struggle to Cope",
-      "link": "https://www.nytimes.com/2026/08/14/world/europe/heat-trains-transportation-roads.html",
-      "summary": "The continent’s railways and roads “were engineered for a climate that no longer exists,” one expert said.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-08-14 16:23",
-      "published_iso": "2026-08-14T16:23:27+00:00",
-      "score": 100,
-      "keywords": [
-        "climate",
         "europe"
       ]
     },
     {
-      "title": "Europe: Raging wildfires scorch large swaths of the continent",
-      "link": "https://www.france24.com/en/video/20260814-europe-raging-wildfires-scorch-large-swaths-of-the-continent",
-      "summary": "Firefighters across Europe battled multiple fires August 14 as a new wave of record-breaking heat baked a swath of the continent. The historic temperatures are linked to human-caused climate change, and are hitting countries better suited for long cold season...",
+      "title": "French swimmer Marchand wins first Euros gold as Germany's Liebmann breaks 1500m free world record",
+      "link": "https://www.france24.com/en/sport/20260815-l%C3%A9on-marchand-wins-200-meter-butterfly-at-european-swimming-championships",
+      "summary": "French swimming star Léon Marchand won the 200m butterfly final at the European swimming championships Saturday in Paris while German swimmer Johannes Liebmann broke the 1,500m freestyle world record by nearly four seconds.",
       "source": "France 24",
       "region": "Europe",
-      "published": "2026-08-14 16:02",
-      "published_iso": "2026-08-14T16:02:43+00:00",
-      "score": 100,
+      "published": "2026-08-15 16:51",
+      "published_iso": "2026-08-15T16:51:24+00:00",
+      "score": 97,
       "keywords": [
-        "climate",
-        "europe",
-        "wildfire"
+        "europe"
       ]
     },
     {
-      "title": "The Taliban Kicked the U.S. Out of Afghanistan. Now They Want It Back.",
-      "link": "https://www.nytimes.com/2026/08/14/world/asia/afghanistan-us-taliban.html",
-      "summary": "In an interview, Afghanistan’s foreign minister called on the U.S. to reopen its embassy and invest in the country — a near-impossible sell for now, analysts and former diplomats say.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-08-14 16:01",
-      "published_iso": "2026-08-14T16:01:43+00:00",
-      "score": 100,
+      "title": "South Korea president proposes talks with Pyongyang to formally end Korean War",
+      "link": "https://www.france24.com/en/asia-pacific/20260815-south-korea-president-proposes-talks-with-pyongyang-to-formally-end-korean-war",
+      "summary": "South Korean President Lee Jae-myung proposed on Saturday that Pyongyang engage in dialogue to formally end the Korean War, which has technically been ongoing for more than 70 years due to the lack of a peace treaty.",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-08-15 15:39",
+      "published_iso": "2026-08-15T15:39:37+00:00",
+      "score": 97,
       "keywords": [
-        "us"
+        "war"
       ]
     },
     {
-      "title": "Heat Is Hammering Europe, Again. Here’s What That Looks Like.",
-      "link": "https://www.nytimes.com/2026/08/14/world/europe/europe-heat-wave-photos.html",
-      "summary": "Extreme temperatures and repeated wildfires are pushing infrastructure to the limit and testing the continent’s resolve.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-08-14 15:33",
-      "published_iso": "2026-08-14T15:33:45+00:00",
-      "score": 100,
-      "keywords": [
-        "europe",
-        "wildfire"
-      ]
-    },
-    {
-      "title": "One dead, dozens injured and thousands evacuated in Croatian wildfires – as it happened",
-      "link": "https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates",
-      "summary": "Firefighters discover body and say more than 40 people hurt in the Lokva Rogoznica and Omiš areas England has received just 4mm of rain so far in August, or 6% of the long-term average for the month , the Environment Agency said on Friday, as reported by PA....",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-14 15:23",
-      "published_iso": "2026-08-14T15:23:29+00:00",
-      "score": 100,
+      "title": "Hundreds of villagers evacuate as Belgium battles record wildfire",
+      "link": "https://www.france24.com/en/europe/20260815-hundreds-of-villagers-evacuate-as-belgium-battles-record-wildfire",
+      "summary": "Hundreds of residents were evacuated and more than 2,700 hectares were scorched as Belgium continued to battle one of the worst wildfires in its history on Saturday.",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-08-15 15:37",
+      "published_iso": "2026-08-15T15:37:09+00:00",
+      "score": 97,
       "keywords": [
         "wildfire"
       ]
     },
     {
-      "title": "Moment €9m worth of art stolen from Italy museum",
-      "link": "https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Police released the CCTV footage after the art, which was stolen in March, was recovered.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-08-14 14:56",
-      "published_iso": "2026-08-14T14:56:04+00:00",
-      "score": 100,
+      "title": "Why is the latest Ebola outbreak worsening?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss",
+      "summary": "Virus spreading in DRC faster than containment efforts.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-15 22:00",
+      "published_iso": "2026-08-15T22:00:42+00:00",
+      "score": 96,
       "keywords": []
     },
     {
-      "title": "American missionary kidnapped in Niger freed after nine months",
-      "link": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
-      "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, his organisation has said. Serving in Mission International...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-14 14:55",
-      "published_iso": "2026-08-14T14:55:17+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
+      "title": "Qatar denies it is detaining three Iranian bomber pilots",
+      "link": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
+      "summary": "Iran says Qatar is holding three pilots who were shot down in March. Doha decries 'misleading statements'.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-15 20:55",
+      "published_iso": "2026-08-15T20:55:29+00:00",
+      "score": 96,
+      "keywords": []
     },
     {
-      "title": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
-      "link": "https://www.theguardian.com/business/2026/aug/14/bp-offshore-gasfield-venezuela-donald-trump",
-      "summary": "Move will be one of first large-scale foreign investments in country since US ousted leader Nicolás Maduro in January BP has answered Donald Trump’s call for oil companies to help rebuild Venezuela’s fossil fuel industry with new plans to develop a large offs...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-14 14:04",
-      "published_iso": "2026-08-14T14:04:49+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
+      "title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
+      "link": "https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss",
+      "summary": "A social media campaign encouraged people to flock to Ceuta just weeks after many died while making the crossing.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-15 19:46",
+      "published_iso": "2026-08-15T19:46:20+00:00",
+      "score": 96,
+      "keywords": []
     },
     {
-      "title": "Ukraine war: Grain attacks raise food price fears",
-      "link": "https://www.france24.com/en/ukraine-war-grain-attacks-raise-food-price-fears",
-      "summary": "Ukraine and Russia have been trading attacks on each other’s grain warehouses, raising concerns that the damage to food supplies could push global food prices higher. France 24 International affairs editor Philippe Turle shares more insights on the subject.",
+      "title": "Death toll from Zimbabwe ferry disaster rises to 72",
+      "link": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
+      "summary": "Police say 26 more bodies have been recovered from Lake Kariba after the overloaded vessel capsized on Tuesday.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-15 19:10",
+      "published_iso": "2026-08-15T19:10:06+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "La Liga: Real Madrid key talking points heading into new 2026-27 season",
+      "link": "https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss",
+      "summary": "Real Madrid welcome back Jose Mourinho as manager as they attempt to stop a three-peat by Barcelona in La Liga.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-15 18:19",
+      "published_iso": "2026-08-15T18:19:23+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Inter Milan sign England’s Djed Spence from Tottenham Hotspur",
+      "link": "https://www.aljazeera.com/sports/2026/8/15/inter-milan-sign-englands-djed-spence-from-tottenham-hotspur?traffic_source=rss",
+      "summary": "The 26-year-old, who has signed a five-year deal, cost the Italian champions about $40m, according to media reports.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-15 17:48",
+      "published_iso": "2026-08-15T17:48:32+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Storm Lala strengthens into a Category 1 hurricane as it nears Hawaii",
+      "link": "https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss",
+      "summary": "Authorities warn residents to take precautions as storm is expected to bring rain and strong winds to the island chain.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-15 17:27",
+      "published_iso": "2026-08-15T17:27:57+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "UK PM Burnham reacts to death of former Cambridge professor",
+      "link": "https://www.aljazeera.com/news/2026/8/15/uk-pm-burnham-reacts-to-death-of-former-cambridge-professor?traffic_source=rss",
+      "summary": "Jason Arday was found dead on Friday, just days after resigning amid intense scrutiny over his academic work.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-15 17:19",
+      "published_iso": "2026-08-15T17:19:12+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
+      "link": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
+      "summary": "Turkish president tells Al Jazeera that the recently signed agreement is open to new members as he pledges continued support.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-15 16:39",
+      "published_iso": "2026-08-15T16:39:52+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return",
+      "link": "https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss",
+      "summary": "Al-Burhan pledged temporary immunity and legal protections for participants in a Sudanese national dialogue.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-15 16:17",
+      "published_iso": "2026-08-15T16:17:43+00:00",
+      "score": 96,
+      "keywords": []
+    },
+    {
+      "title": "$10 Million in Gold Found Buried Under Former Brewery in Belgium",
+      "link": "https://www.nytimes.com/2026/08/15/world/europe/gold-bars-coins-belgium.html",
+      "summary": "A construction worker’s drill struck gold during a renovation project in East Flanders, setting off a search for the owners of the stashed fortune.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-08-15 21:07",
+      "published_iso": "2026-08-15T21:07:17+00:00",
+      "score": 95,
+      "keywords": []
+    },
+    {
+      "title": "Where to Eat and Drink at a Barcelona Bar Like a Local",
+      "link": "https://www.nytimes.com/2026/08/15/travel/barcelona-bars-bodegas.html",
+      "summary": "The classic bars, known as bodegas, are where locals in the Catalan capital take their rituals seriously. If you know where to look, you can join them.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-08-15 20:00",
+      "published_iso": "2026-08-15T20:00:04+00:00",
+      "score": 95,
+      "keywords": []
+    },
+    {
+      "title": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
+      "link": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html",
+      "summary": "Iran said the airmen have been held since March 2 when their fighter jets were shot down. The Qatari government denies detaining any Iranian pilots.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-08-15 19:36",
+      "published_iso": "2026-08-15T19:36:20+00:00",
+      "score": 95,
+      "keywords": []
+    },
+    {
+      "title": "Palestinian Rappers Shabjdeed and Saint Levant in Spat Over Authenticity",
+      "link": "https://www.nytimes.com/2026/08/14/world/middleeast/shabjdeed-saint-levant-slv.html",
+      "summary": "Shabjdeed, a rapper in the West Bank, criticized a fellow Palestinian musician in a song, saying his Western lifestyle and lyrics were far removed from life back home.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-08-15 19:02",
+      "published_iso": "2026-08-15T19:02:03+00:00",
+      "score": 95,
+      "keywords": []
+    },
+    {
+      "title": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
+      "link": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
+      "summary": "Jason Arday, the school’s youngest Black professor, was found dead on Friday. The school ignored a series of warnings about his life story and his work.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-08-15 17:31",
+      "published_iso": "2026-08-15T17:31:40+00:00",
+      "score": 95,
+      "keywords": []
+    },
+    {
+      "title": "Israeli Strikes in Lebanon Kill 11, Health Officials Say",
+      "link": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html",
+      "summary": "The Lebanese health ministry said children were among those killed. The Israeli prime minister’s office said Hezbollah had struck first, injuring three Israeli soldiers.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-08-15 16:09",
+      "published_iso": "2026-08-15T16:09:55+00:00",
+      "score": 95,
+      "keywords": []
+    },
+    {
+      "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+      "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+      "summary": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-08-15 13:41",
+      "published_iso": "2026-08-15T13:41:09+00:00",
+      "score": 94,
+      "keywords": []
+    },
+    {
+      "title": "World's Ugliest Dog contest crowns 2026 winner",
+      "link": "https://www.bbc.co.uk/news/videos/c39eekgv79ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The annual contest has been taking place in Santa Rosa, California.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-08-15 13:41",
+      "published_iso": "2026-08-15T13:41:08+00:00",
+      "score": 94,
+      "keywords": []
+    },
+    {
+      "title": "Ukraine attacks Russian air base and rocket plant in Samara region",
+      "link": "https://www.france24.com/en/europe/20260815-ukraine-attacks-russian-air-base-and-rocket-plant-in-samara-region",
+      "summary": "Ukraine ⁠struck industrial infrastructure ​in Russia's ​Samara region on Saturday, local authorities said. Ukrainian President Volodymyr Zelensky confirmed the attack, saying a rocket plant and air base were hit.",
       "source": "France 24",
       "region": "Europe",
-      "published": "2026-08-14 10:41",
-      "published_iso": "2026-08-14T10:41:12+00:00",
-      "score": 100,
+      "published": "2026-08-15 11:43",
+      "published_iso": "2026-08-15T11:43:15+00:00",
+      "score": 94,
       "keywords": [
         "russia",
-        "ukraine",
-        "war"
+        "ukraine"
       ]
     },
     {
-      "title": "US missionary released following kidnap in Niger, Christian group says",
-      "link": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials.",
+      "title": "Moment family rescued after 16 hours floating on jet ski off Thailand",
+      "link": "https://www.bbc.co.uk/news/videos/cj4kg74ndggo?at_medium=RSS&at_campaign=rss",
+      "summary": "A 50-year-old father and his two sons were found floating off Koh Samui island, a local official told AFP on Saturday.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-08-14 10:18",
-      "published_iso": "2026-08-14T10:18:02+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
+      "published": "2026-08-15 09:29",
+      "published_iso": "2026-08-15T09:29:31+00:00",
+      "score": 94,
+      "keywords": []
     },
     {
-      "title": "US says dozens of countries helped China dodge Trump's tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-      "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-08-14 08:39",
-      "published_iso": "2026-08-14T08:39:46+00:00",
-      "score": 100,
-      "keywords": [
-        "china",
-        "us"
-      ]
-    },
-    {
-      "title": "Many Iranians are heading to Turkey to escape the ongoing war's heavy toll",
-      "link": "https://www.npr.org/2026/08/14/nx-s1-5931244/many-iranians-are-heading-to-turkey-to-escape-the-ongoing-wars-heavy-toll",
-      "summary": "Iranians visiting the city of Van, Turkey, near the Iranian border say how expensive and difficult life back home is.",
+      "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
+      "summary": "President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful.",
       "source": "NPR World",
       "region": "World",
-      "published": "2026-08-14 22:03",
-      "published_iso": "2026-08-14T22:03:08+00:00",
-      "score": 99,
-      "keywords": [
-        "war"
-      ]
-    },
-    {
-      "title": "Jason Arday, professor at centre of Cambridge plagiarism row, found dead",
-      "link": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
-      "summary": "Academic was pronounced dead at his home in south London after police called to address after 3pm on Friday Jason Arday, the academic who resigned last week as a professor at the University of Cambridge , has been found dead at his home in south London. The M...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-14 22:10",
-      "published_iso": "2026-08-14T22:10:24+00:00",
-      "score": 98,
+      "published": "2026-08-15 18:21",
+      "published_iso": "2026-08-15T18:21:32+00:00",
+      "score": 92,
       "keywords": []
     },
     {
-      "title": "BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit",
-      "link": "https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit",
-      "summary": "Network wants to serve Jared Kushner, Ivanka Trump and Donald Trump Jr after president sues over January 6 documentary The BBC is trying to subpoena Donald Trump’s children as it builds its defense against the president’s defamation lawsuit centered on a docu...",
-      "source": "The Guardian World",
+      "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
+      "summary": "Arday was 37 when he became Cambridge's youngest Black professor in 2023. He was found unresponsive Friday at a home in southwest London.",
+      "source": "NPR World",
       "region": "World",
-      "published": "2026-08-14 21:05",
-      "published_iso": "2026-08-14T21:05:47+00:00",
-      "score": 98,
+      "published": "2026-08-15 17:04",
+      "published_iso": "2026-08-15T17:04:43+00:00",
+      "score": 92,
       "keywords": []
     },
     {
-      "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
-      "link": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
-      "summary": "Win is significant for region’s premier, Doug Ford, who blames protected zones for city’s traffic ills The Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after the region’s top court ruled in favour of the province on Fr...",
-      "source": "The Guardian World",
+      "title": "At Least 47 Dead as 7.7-Magnitude Earthquake Rocks Indonesia",
+      "link": "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html",
+      "summary": "The temblor was one of the strongest the area had experienced in decades, an official said.",
+      "source": "NYTimes World",
       "region": "World",
-      "published": "2026-08-14 21:03",
-      "published_iso": "2026-08-14T21:03:43+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "‘Devastating’: bulldozers plough through Big Bend national park as Trump’s border work pushes ahead",
-      "link": "https://www.theguardian.com/us-news/2026/aug/14/bulldozers-big-bend-national-park-trump",
-      "summary": "Heavy machinery seen operating in famous Santa Elena Canyon amid outcry over new wall infrastructure in beloved Texas park Bulldozers have begun plowing up ground at the mouth of Big Bend national park’s famed Santa Elena Canyon as part of the Trump administr...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-14 19:27",
-      "published_iso": "2026-08-14T19:27:08+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Madonna will not be playing Glastonbury in 2027, Emily Eavis says",
-      "link": "https://www.theguardian.com/music/2026/aug/14/madonna-will-not-be-playing-glastonbury-2027-emily-eavis-says",
-      "summary": "Festival organiser says she has booked next year’s headliners but would not say if Taylor Swift is among them Madonna will not be performing at next year’s Glastonbury, the festival’s organiser, Emily Eavis, has said. The singer, who has the most top 10 singl...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-14 18:38",
-      "published_iso": "2026-08-14T18:38:25+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
-      "link": "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
-      "summary": "Palestine’s vice-president calls plan ‘flagrant violation of international law’ and a step towards full Israeli annexation Israel’s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan tha...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-14 17:52",
-      "published_iso": "2026-08-14T17:52:51+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "French court blocks Macron’s social media ban for under-15s",
-      "link": "https://www.theguardian.com/world/2026/aug/14/french-court-blocks-macron-social-media-ban-under-15s",
-      "summary": "Constitutional council says curbs infringe freedom of expression and privacy as president vows to rework legislation France’s top court has blocked a ban on social media access for under-15s, ruling that it infringed freedom of expression and privacy. The dec...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-14 17:12",
-      "published_iso": "2026-08-14T17:12:14+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Canadian plasma clinics pause collections after deaths of two donors",
-      "link": "https://www.theguardian.com/world/2026/aug/14/canadian-plasma-clinics-pause-collections-after-deaths-of-donors-grifols",
-      "summary": "Grifols, which runs private chain of clinics, to temporarily stop taking donations after new government investigation A chain of private plasma donation clinics in Canada has said it is pausing collections after the deaths of two donors and a new government i...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-14 16:21",
-      "published_iso": "2026-08-14T16:21:39+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Belgian student strikes gold worth €9m while digging a new sewer",
-      "link": "https://www.theguardian.com/world/2026/aug/14/belgian-student-strikes-gold-worth-9m-while-digging-sewers",
-      "summary": "Kobe, 18, who made discovery on site of former brewery in Sint-Gillis-Dendermonde, at first thought trove was €1 coins For a student with a summer job working on a Belgian building site, “money down the drain” has taken on a whole new meaning: excavating the...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-14 15:52",
-      "published_iso": "2026-08-14T15:52:31+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Iberian orca known for ramming boats seen with suspected gunshot wounds",
-      "link": "https://www.theguardian.com/environment/2026/aug/14/iberian-orca-known-for-ramming-boats-seen-with-suspected-gunshot-wounds",
-      "summary": "Marine conservationist says deliberate attack would be ‘act of extreme cruelty’ against endangered population Spanish officials have launched an investigation after the matriarch of an orca pod known for jostling and ramming boats off the Iberian Peninsula wa...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-14 15:07",
-      "published_iso": "2026-08-14T15:07:10+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "A Queensland man enjoyed soaring profits from a crypto trading app. Then his money started disappearing",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/15/australia-crypto-money-investment-scam-ai-fraud-crime",
-      "summary": "The administrative work required to run an effective investment scam has been drastically cut by using merging technology Get our breaking news email , free app or daily news podcast Within days of clicking on an online ad for a cryptocurrency trading app, a...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-14 15:00",
-      "published_iso": "2026-08-14T15:00:31+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-      "source": "TechCrunch AI",
-      "region": "Technology",
-      "published": "2026-08-14 14:05",
-      "published_iso": "2026-08-14T14:05:00+00:00",
-      "score": 98,
-      "keywords": [
-        "ai",
-        "us"
-      ]
-    },
-    {
-      "title": "Trump says record Navy deployment in Iran operations 'not nearly long enough'",
-      "link": "https://www.france24.com/en/middle-east/20260814-trump-says-record-navy-deployment-in-iran-operations-not-nearly-long-enough",
-      "summary": "US President Donald Trump on Friday dismissed concerns about the toll on sailors aboard the aircraft carrier USS Abraham Lincoln, who have endured a record deployment of almost nine months, saying that the deployment had been “not nearly long enough”. The Lin...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-08-14 20:17",
-      "published_iso": "2026-08-14T20:17:38+00:00",
-      "score": 97,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Race to free trapped quake survivor offers hope in Colombia",
-      "link": "https://www.france24.com/en/americas/20260814-race-to-free-trapped-survivor-offers-hope-in-colombia-earthquake-zone",
-      "summary": "Rescue workers rushed to free a survivor Friday in Colombia amid the rubble left by a powerful earthquake nearly four days earlier that killed at least 285 people and injured 4,000. Some 400 people were still missing and tens of thousands of homes were ​damag...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-08-14 16:49",
-      "published_iso": "2026-08-14T16:49:37+00:00",
-      "score": 97,
+      "published": "2026-08-15 13:08",
+      "published_iso": "2026-08-15T13:08:44+00:00",
+      "score": 92,
       "keywords": [
         "earthquake"
       ]
     },
     {
-      "title": "France wildfire forces 520 to evacuate",
-      "link": "https://www.france24.com/en/france-wildfire-forces-520-to-evacuate",
-      "summary": "Around 520 residents in France’s southwestern Landes region have been evacuated as a raging wildfire has burned through more than 1,000 hectares since Thursday. Significant reinforcements have been mobilised, while authorities warn that the fire’s trajectory...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-08-14 15:28",
-      "published_iso": "2026-08-14T15:28:55+00:00",
-      "score": 97,
-      "keywords": [
-        "wildfire"
-      ]
-    },
-    {
-      "title": "Yemen’s government says Houthi attack on al-Makha kills at least four",
-      "link": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss",
-      "summary": "Hostilities are rising between Iran-backed Houthis and Yemen's internationally recognised government.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-14 22:45",
-      "published_iso": "2026-08-14T22:45:19+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss",
-      "summary": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-14 21:45",
-      "published_iso": "2026-08-14T21:45:20+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Mount Etna eruption and volcanic ash shut Sicily’s busiest airport",
-      "link": "https://www.aljazeera.com/news/2026/8/14/mount-etna-eruption-and-volcanic-ash-shut-sicilys-busiest-airport?traffic_source=rss",
-      "summary": "Flights will be suspended until at least Saturday afternoon, leaving hundreds of travellers stranded.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-14 21:03",
-      "published_iso": "2026-08-14T21:03:07+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Former Cambridge professor accused of plagiarism found dead",
-      "link": "https://www.aljazeera.com/news/2026/8/14/former-cambridge-professor-accused-of-plagiarism-found-dead?traffic_source=rss",
-      "summary": "Police are treating sociology professor Jason Arday's death as unexpected but not suspicious.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-14 20:46",
-      "published_iso": "2026-08-14T20:46:40+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Italian police recover stolen paintings worth over $10m",
-      "link": "https://www.aljazeera.com/news/2026/8/14/italian-police-recover-stolen-paintings-worth-over-10m?traffic_source=rss",
-      "summary": "Nine Moldovans are being investigated in connection with the theft of paintings by Cezanne, Renoir and Matisse.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-14 18:37",
-      "published_iso": "2026-08-14T18:37:59+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Luigi Mangione pleads guilty in UnitedHealthcare CEO’s killing",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/luigi-mangione-pleads-guilty-in-unitedhealthcare-ceos-killing?traffic_source=rss",
-      "summary": "Luigi Mangione pleaded guilty to killing UnitedHealthcare CEO Brian Thompson in 2024.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-14 18:09",
-      "published_iso": "2026-08-14T18:09:12+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "British cyclist Finlay Tarling dies in Tour of Portugal crash aged 19",
-      "link": "https://www.aljazeera.com/sports/2026/8/14/british-cyclist-finlay-tarling-dies-in-tour-of-portugal-crash-aged-19?traffic_source=rss",
-      "summary": "Organisers said on social media that Tarling died following a 'serious accident' on the stage between Melgaco and Fafe.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-14 18:04",
-      "published_iso": "2026-08-14T18:04:08+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
-      "link": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
-      "summary": "At least eight people died in Japan as heavy rains flooded roads and disrupted traffic while firefighters from Britain to France and Croatia struggled to contain blazes in Europe's fifth heatwave this summer",
-      "source": "NPR World",
+      "title": "Heat Deaths in a ‘Cold’ Country Are a Warning to the Rest of Europe",
+      "link": "https://www.nytimes.com/2026/08/15/world/europe/belgium-heat-wave-deaths.html",
+      "summary": "A June heat wave in Belgium and neighboring countries exposed a lethal lack of readiness. That’s a risk as another wave hits Europe.",
+      "source": "NYTimes World",
       "region": "World",
-      "published": "2026-08-14 10:30",
-      "published_iso": "2026-08-14T10:30:17+00:00",
-      "score": 96,
+      "published": "2026-08-15 11:03",
+      "published_iso": "2026-08-15T11:03:26+00:00",
+      "score": 92,
       "keywords": [
-        "europe",
-        "flood"
-      ]
-    },
-    {
-      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-      "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-08-13 04:55",
-      "published_iso": "2026-08-13T04:55:58+00:00",
-      "score": 96,
-      "keywords": [
-        "ukraine",
-        "war"
+        "europe"
       ]
     }
   ]
