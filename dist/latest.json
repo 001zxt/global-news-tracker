@@ -1,30 +1,549 @@
 {
-  "generated_at": "2026-08-19T02:02:52+00:00",
+  "generated_at": "2026-08-20T02:00:43+00:00",
   "article_count": 80,
   "source_count": 8,
   "errors": [],
   "articles": [
     {
-      "title": "Erin Patterson appeal live: mushroom murderer challenges convictions over fatal beef wellington lunch",
-      "link": "https://www.theguardian.com/australia-news/live/2026/aug/19/erin-patterson-appeal-live-mushroom-murders-court-australia-victoria-ntwnfb",
-      "summary": "Victorian court of appeal to consider whether triple murder and attempted murder guilty verdicts should be quashed Get our breaking news email , free app or daily news podcast Limited accomodation during sequestering ‘issues of convenience’, Patterson’s barri...",
-      "source": "The Guardian World",
+      "title": "Harry and Meghan’s Break with Britain and Planned Return: a Timeline",
+      "link": "https://www.nytimes.com/2026/08/19/world/europe/harry-meghan-uk-royals-timeline.html",
+      "summary": "The couple will remain non-working royals, though it is unclear what they will do for work or where they will live.",
+      "source": "NYTimes World",
       "region": "World",
-      "published": "2026-08-19 01:42",
-      "published_iso": "2026-08-19T01:42:02+00:00",
+      "published": "2026-08-20 01:40",
+      "published_iso": "2026-08-20T01:40:34+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "Florida primaries live: governor matchup set; Democratic socialist shocks establishment-backed nominee in Senate race",
-      "link": "https://www.theguardian.com/us-news/live/2026/aug/18/donald-trump-florida-alaska-wyoming-primaries-midterms-white-house-ballroom-iran-cnn-latest-news-updates",
-      "summary": "Trump-backed Byron Donalds and Democrat David Jolly race to succeed term-limited governor Ron DeSantis; Angie Nixon upsets Alex Vindman in Senate primary Donalds and Jolly to face off in Florida governor race Democratic socialist Angie Nixon wins Senate prima...",
+      "title": "Australia politics live: Chalmers says Coalition ‘hyperventilating’ over national debt as gross figure hits $1tn; jobless rate climbs to 4.5% as 15,800 lose work",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/20/australian-politics-live-penny-wong-labor-government-anthony-albanese-gambling-ndis-question-time-angus-taylor-pauline-hanson-ntwnfb",
+      "summary": "Greens senator David Shoebridge argues blame for debt rests with major parties for selling off Australian assets. Follow today’s news live Get our breaking news email , free app or daily news podcast ‘Outrageous’: Greens leader says sending Israeli ambassador...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-08-19 01:32",
-      "published_iso": "2026-08-19T01:32:43+00:00",
+      "published": "2026-08-20 01:39",
+      "published_iso": "2026-08-20T01:39:46+00:00",
       "score": 100,
       "keywords": []
+    },
+    {
+      "title": "Republicans reportedly fear datacenter backlash could cost them Ohio Senate seat – US politics live",
+      "link": "https://www.theguardian.com/us-news/live/2026/aug/19/mary-peltola-dan-sullivan-alaska-primary-election-us-senate-florida-california-wyoming--donald-trump-us-politics-latest",
+      "summary": "Jon Husted campaign reportedly concerned that rival Sherrod Brown successfully channelling outrage over energy-guzzling facilities Sign up for the US Breaking News email Those unfamiliar with Alaska politics are likely raising an eyebrow at some repeated name...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-08-20 01:32",
+      "published_iso": "2026-08-20T01:32:21+00:00",
+      "score": 100,
+      "keywords": [
+        "energy",
+        "us"
+      ]
+    },
+    {
+      "title": "Prince Harry and Meghan ‘moving back to Britain this month’",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/19/prince-harry-and-meghan-moving-back-to-britain-this-month",
+      "summary": "Reports say Duke and Duchess of Sussex intend to relocate from US, with children to start British school in September The Duke and Duchess of Sussex are planning to return to live in Britain, six years after leaving for the US, it has been reported. The coupl...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-08-20 01:28",
+      "published_iso": "2026-08-20T01:28:29+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Erin Patterson appeal live: prosecutors to seek life in prison without parole for triple murderer",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/20/erin-patterson-appeal-live-court-mushroom-murders-australia-victoria-ntwnfb",
+      "summary": "Victorian court of appeal also to consider whether triple murder and attempted murder convictions should be quashed Erin Patterson argues mushroom murder convictions should be quashed due to ‘catastrophic’ failure of justice Get our breaking news email , free...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-08-20 01:28",
+      "published_iso": "2026-08-20T01:28:24+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Trump says he will meet North Korea’s Kim Jong Un later this year",
+      "link": "https://www.france24.com/en/americas/20260820-trump-says-he-will-meet-north-korea-s-kim-jong-un-later-this-year",
+      "summary": "US President Donald Trump said Wednesday he plans to meet North Korean leader Kim Jong Un later this year, seeking to revive their first-term relationship. Trump said it was important to “get along” with Kim and claimed Pyongyang possessed 57 “very powerful”...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-08-20 01:15",
+      "published_iso": "2026-08-20T01:15:53+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+      "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-08-20 01:02",
+      "published_iso": "2026-08-20T01:02:51+00:00",
+      "score": 100,
+      "keywords": [
+        "ceasefire"
+      ]
+    },
+    {
+      "title": "‘Like a miracle’: 84-year-old woman pulled alive from rubble three days after Indonesian quake",
+      "link": "https://www.theguardian.com/world/2026/aug/20/indonesia-earthquake-flores-miracle-rescue-elderly-woman-found-alive-in-rubble",
+      "summary": "A landslide triggered by the quake had blocked access to the village where Paulina Pobi had lived, leaving her buried under the collapsed remains An 84-year-old woman has been discovered alive in the flattened remains of her home three days after a powerful e...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-08-20 00:57",
+      "published_iso": "2026-08-20T00:57:42+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
+      "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\".",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-08-20 00:53",
+      "published_iso": "2026-08-20T00:53:20+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia's foreign minister says she will summon the Israeli ambassador over 'insulting' Zomi Frankcom decision.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-08-20 00:48",
+      "published_iso": "2026-08-20T00:48:57+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Reporters and military duo held at gunpoint by security at US space force base",
+      "link": "https://www.theguardian.com/us-news/2026/aug/19/reporters-held-gunpoint-california-space-force-base",
+      "summary": "Officers reportedly believed invitees were trying to make unauthorized entry on to Vandenberg base in California Five news reporters and two members of the military who were invited to an event at Vandenberg space force base in California were briefly detaine...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-08-20 00:41",
+      "published_iso": "2026-08-20T00:41:12+00:00",
+      "score": 100,
+      "keywords": [
+        "security",
+        "us"
+      ]
+    },
+    {
+      "title": "UC Berkeley professor admits to using AI to edit op-ed on students’ math skills",
+      "link": "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai",
+      "summary": "Zvezdelina Stankova says she used AI to ‘help edit’ an article about some of her students being ‘five to eight years’ behind A math professor at the University of California, Berkeley, criticizing a “severe” math deficiency among students in an op-ed for the...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-08-20 00:35",
+      "published_iso": "2026-08-20T00:35:11+00:00",
+      "score": 100,
+      "keywords": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Publisher of US military newspaper resigns over differences with government",
+      "link": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss",
+      "summary": "Retirement of longtime Stars and Stripes publisher comes amid the Trump administration's push for editorial control.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-20 00:34",
+      "published_iso": "2026-08-20T00:34:13+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "‘Tsunami’ of emigration reshapes Israel’s future, experts warn",
+      "link": "https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss",
+      "summary": "Nearly 270,000 Israelis have left the country over three years, citing political uncertainty and security concerns.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-20 00:26",
+      "published_iso": "2026-08-20T00:26:59+00:00",
+      "score": 100,
+      "keywords": [
+        "security"
+      ]
+    },
+    {
+      "title": "Trump and Canada’s Carney Seem to Make Progress on a Tariff Deal, but Questions Linger",
+      "link": "https://www.nytimes.com/2026/08/19/world/canada/trump-canada-tariffs-carney-deal-trade.html",
+      "summary": "After a deadline extension, the latest U.S. tariff threats seemed headed toward resolution on Wednesday, but questions lingered about what Canada would give up, and what it would get in exchange.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-08-20 00:22",
+      "published_iso": "2026-08-20T00:22:17+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Canada and US say they are finalising a trade deal, but details remain murky",
+      "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-08-20 00:18",
+      "published_iso": "2026-08-20T00:18:01+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "More than 100 dead after goldmine collapses in Central African Republic",
+      "link": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
+      "summary": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continue More than 100 people have died after an artisanal goldmine at a small village in western Central African Republic (CAR) caved in du...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-08-20 00:14",
+      "published_iso": "2026-08-20T00:14:17+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Harry Kane scores goal by winning Golden Shoe for the second time",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss",
+      "summary": "English footballer Harry Kane won the title of ‘Europe’s best goalscorer’, awarded the Golden Shoe for the second time.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-20 00:12",
+      "published_iso": "2026-08-20T00:12:59+00:00",
+      "score": 100,
+      "keywords": [
+        "europe"
+      ]
+    },
+    {
+      "title": "Nigeria’s election campaign begins with Tinubu facing a reform test",
+      "link": "https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test?traffic_source=rss",
+      "summary": "Rising costs fuel anger, but President Bola Tinubu’s machinery and opposition divisions may shape the race.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-20 00:06",
+      "published_iso": "2026-08-20T00:06:05+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "Three boys charged over alleged rape of teenage girl in Sydney home",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/20/three-boys-charged-alleged-rape-teenage-girl-sydney-ntwnfb",
+      "summary": "The 17-year-olds were charged over an alleged attack in Sydney’s south-west on Saturday Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Three teenage boys have been charged over the alleged r...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-08-20 00:05",
+      "published_iso": "2026-08-20T00:05:58+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
+      "summary": "Trump says Washington may resume talks with Tehran 'at some point'.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-20 00:00",
+      "published_iso": "2026-08-20T00:00:00+00:00",
+      "score": 100,
+      "keywords": [
+        "war"
+      ]
+    },
+    {
+      "title": "US national debt passes record $40 trillion",
+      "link": "https://www.aljazeera.com/economy/2026/8/19/us-national-debt-passes-record-40-trillion?traffic_source=rss",
+      "summary": "The amount has doubled in the last decade, from Trump's first term through the Biden administration.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-19 23:59",
+      "published_iso": "2026-08-19T23:59:16+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "‘We do not trust Israeli judiciary’ says Hind Rajab’s grandmother",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/we-do-not-trust-israeli-judiciary-says-hind-rajabs-grandmother?traffic_source=rss",
+      "summary": "The grandmother of Hind Rajab, a five-year-old Palestinian girl killed in her family’s car by Israeli forces in Gaza.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-19 23:56",
+      "published_iso": "2026-08-19T23:56:47+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Kosovo finds remains of at least 23 people in suspected mass graves",
+      "link": "https://www.aljazeera.com/news/2026/8/19/kosovo-finds-remains-of-at-least-23-people-in-suspected-mass-graves?traffic_source=rss",
+      "summary": "The discovery is part of Kosovo’s long-running effort to find people who disappeared during a brutal war in the 1990s.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-19 23:55",
+      "published_iso": "2026-08-19T23:55:33+00:00",
+      "score": 100,
+      "keywords": [
+        "war"
+      ]
+    },
+    {
+      "title": "South Korea’s rookie investors lose small fortunes amid AI stocks frenzy",
+      "link": "https://www.aljazeera.com/economy/2026/8/19/south-koreas-rookie-investors-lose-small-fortunes-amid-ai-stocks-frenzy?traffic_source=rss",
+      "summary": "South Korea's stock market has attracted a wave of novice investors amid booming demand for chips used in AI.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-19 23:51",
+      "published_iso": "2026-08-19T23:51:12+00:00",
+      "score": 100,
+      "keywords": [
+        "ai",
+        "market"
+      ]
+    },
+    {
+      "title": "International body votes to convene emergency meeting over Nicaragua",
+      "link": "https://www.aljazeera.com/news/2026/8/19/international-body-votes-to-convene-emergency-meeting-over-nicaragua?traffic_source=rss",
+      "summary": "Nicaragua's move to extend Ortega's rule and bar rivals from elections triggers a near-unanimous OAS rebuke.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-19 23:48",
+      "published_iso": "2026-08-19T23:48:52+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "California becomes first US state to set efficiency rules for replacement tires",
+      "link": "https://www.theguardian.com/us-news/2026/aug/19/california-replacement-tires",
+      "summary": "Regulations that would block sale of older tires praised by environmental groups amid rightwing backlash California has become the first state in the nation to mandate that replacement tires be energy efficient, a major auto industry regulation set to block t...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-08-19 23:48",
+      "published_iso": "2026-08-19T23:48:06+00:00",
+      "score": 100,
+      "keywords": [
+        "energy",
+        "us"
+      ]
+    },
+    {
+      "title": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.",
+      "link": "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html",
+      "summary": "The prince and his wife, whose relations with King Charles and the rest of the royal family have long been strained, will remain non-working royals, according to a person familiar with the decision.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-08-19 23:40",
+      "published_iso": "2026-08-19T23:40:42+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+      "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+      "source": "TechCrunch AI",
+      "region": "Technology",
+      "published": "2026-08-19 23:32",
+      "published_iso": "2026-08-19T23:32:00+00:00",
+      "score": 100,
+      "keywords": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Middle East live: Trump threatens economic punishment on 'any country' helping Iran",
+      "link": "https://www.france24.com/en/middle-east/20260819-middle-east-live-trump-threatens-economic-punishment-on-any-country-helping-iran",
+      "summary": "⁠US President ​Donald Trump on Wednesday ​warned of economic consequences against any country that ​supported ‌Tehran or ⁠provided \"any type of lifeline ‌to Iran.\" He ​did not specify ​what specific ​steps Washington would take against such ​a country and did...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-08-19 23:26",
+      "published_iso": "2026-08-19T23:26:20+00:00",
+      "score": 100,
+      "keywords": [
+        "middle east",
+        "us"
+      ]
+    },
+    {
+      "title": "Pentagon quizzes NATO allies on political loyalty, documents reveal",
+      "link": "https://www.aljazeera.com/news/2026/8/19/pentagon-quizzes-nato-allies-on-political-loyalty-documents-reveal?traffic_source=rss",
+      "summary": "NATO allies probed on loyalty to US policies in Pentagon questionnaire obtained exclusively by Al Jazeera.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-19 23:24",
+      "published_iso": "2026-08-19T23:24:43+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Lebanon hands former Syrian army general to Damascus after arrest warrant",
+      "link": "https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss",
+      "summary": "The transfer is the first from Lebanon involving a Syrian military officer who fled after al-Assad's government fell.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-19 23:21",
+      "published_iso": "2026-08-19T23:21:32+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Trump announces ‘most crushing economic operation ever’ against Iran",
+      "link": "https://www.aljazeera.com/news/2026/8/19/trump-announces-most-crushing-economic-operation-ever-against-iran?traffic_source=rss",
+      "summary": "US president announces 'causing economic operation' against Iran, vows measures against nations trading with Tehran.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-19 23:18",
+      "published_iso": "2026-08-19T23:18:32+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Who is Natalie Harp, Trump's right-hand woman?",
+      "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+      "summary": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-08-19 23:11",
+      "published_iso": "2026-08-19T23:11:14+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Young vapers ‘at risk of breathing problems and becoming smokers’",
+      "link": "https://www.theguardian.com/society/2026/aug/20/young-vapers-at-risk-of-breathing-problems-and-becoming-smokers",
+      "summary": "Review by paediatricians links child vaping with poor respiratory health such as coughing, wheezing and asthma Young people who start vaping risk developing breathing problems and going on to smoke cigarettes, children’s doctors have warned. Child vaping is c...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-08-19 23:01",
+      "published_iso": "2026-08-19T23:01:36+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Chinese Start-Up Lands Reusable Rocket for the First Time",
+      "link": "https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html",
+      "summary": "The milestone by the private company, LandSpace, could put China closer to challenging SpaceX’s rule in lower-cost spaceflight.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-08-19 21:49",
+      "published_iso": "2026-08-19T21:49:10+00:00",
+      "score": 100,
+      "keywords": [
+        "china"
+      ]
+    },
+    {
+      "title": "Mike Lindell offers to fund recount in Minnesota Republican primary for governor",
+      "link": "https://www.theguardian.com/us-news/2026/aug/19/mike-lindell-recount-minnesota-primary",
+      "summary": "MyPillow founder and Trump ally lost primary to Lisa Demuth by 11 points, but still refuses to concede defeat US politics live – latest updates The pillow salesman, Trump supporter and election denier Mike Lindell has offered to personally fund a recount and...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-08-19 21:37",
+      "published_iso": "2026-08-19T21:37:02+00:00",
+      "score": 100,
+      "keywords": [
+        "election",
+        "us"
+      ]
+    },
+    {
+      "title": "Trump says he plans to meet Kim Jong Un later this year",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss",
+      "summary": "US President Donald Trump praised his relationship with North Korea’s leader Kim Jong Un.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-19 21:35",
+      "published_iso": "2026-08-19T21:35:34+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+      "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-08-19 21:32",
+      "published_iso": "2026-08-19T21:32:15+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Taxpayers to fund clear-up of illegal dumps in West Yorkshire, Surrey and Kent",
+      "link": "https://www.theguardian.com/environment/2026/aug/19/taxpayers-to-fund-clear-up-of-dumps-in-west-yorkshire-surrey-and-kent",
+      "summary": "Andy Burnham promises drive to tackle toxic waste, raise fines and use AI-powered drones to detect illegal activity Illegal dumps in West Yorkshire, Surrey and Kent will be cleared up using taxpayer money, Andy Burnham has announced, as the prime minister pro...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-08-19 21:30",
+      "published_iso": "2026-08-19T21:30:33+00:00",
+      "score": 100,
+      "keywords": [
+        "ai"
+      ]
+    },
+    {
+      "title": "More than 1,000 Afghan refugees have been stuck at a camp in Qatar since 2021",
+      "link": "https://www.npr.org/2026/08/19/nx-s1-5936482/more-than-1-000-afghan-refugees-have-been-stuck-at-a-camp-in-qatar-since-2021",
+      "summary": "More than 1,000 Afghan refugees who fled their homes in 2021 have been stuck in Camp As-Sayliyah, Qatar. They're isolated and unable to leave, despite many having aided U.S. forces during the war.",
+      "source": "NPR World",
+      "region": "World",
+      "published": "2026-08-19 21:15",
+      "published_iso": "2026-08-19T21:15:06+00:00",
+      "score": 100,
+      "keywords": [
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts",
+      "link": "https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss",
+      "summary": "Reports of dire conditions underscore supply challenges, questions of US plans going forward, experts say.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-08-19 21:01",
+      "published_iso": "2026-08-19T21:01:54+00:00",
+      "score": 100,
+      "keywords": [
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "Trump vs. the International Criminal Court",
+      "link": "https://www.nytimes.com/2026/08/19/world/trump-icc-israel-investigation.html",
+      "summary": "The U.S. approach to the court has always been complicated. Now, it’s openly hostile.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-08-19 20:50",
+      "published_iso": "2026-08-19T20:50:20+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
     },
     {
       "title": "Sacked Ukrainian defence minister calls for presidential election",
@@ -32,8 +551,8 @@
       "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-08-19 01:31",
-      "published_iso": "2026-08-19T01:31:15+00:00",
+      "published": "2026-08-19 20:34",
+      "published_iso": "2026-08-19T20:34:39+00:00",
       "score": 100,
       "keywords": [
         "election",
@@ -41,961 +560,470 @@
       ]
     },
     {
-      "title": "Australia politics live: One Nation files three years of overdue financial returns hours before deadline",
-      "link": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
-      "summary": "Meanwhile Liberal MP Andrew Wallace says concerns remain over gambling bill after crossing the floor on Tuesday. Follow today’s news live Follow our breaking news email , free app or daily news podcast ‘Collapsing confidence’ in housing market, Wilson says Ti...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-19 01:25",
-      "published_iso": "2026-08-19T01:25:53+00:00",
-      "score": 100,
-      "keywords": [
-        "market"
-      ]
-    },
-    {
-      "title": "‘Prepare early’: bushfire authorities sound alarm for NT, NSW and Queensland",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/19/bushfire-danger-risk-heightened-fire-australia-nt-nsw-queensland",
-      "summary": "Effects of global heating in NT worsened by ‘dangerous and fire-promoting buffel grass’, expert says Get our breaking news email , free app or daily news podcast Fire authorities have warned large parts of the Northern Territory are facing heightened fire dan...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-19 01:00",
-      "published_iso": "2026-08-19T01:00:01+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Two French filmmakers held in Togo since July 27, Paris says",
-      "link": "https://www.france24.com/en/africa/20260819-two-french-filmmakers-detained-togo-july-27-foreign-ministry",
-      "summary": "Two French nationals have been detained in Togo since July 27 and are under judicial investigation, France's foreign ministry said on Tuesday. The pair are journalist-directors working for a French production company, according to local media. Paris did not p...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-08-19 00:55",
-      "published_iso": "2026-08-19T00:55:26+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "How Ebola became the deadliest outbreak in DR Congo’s history",
-      "link": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss",
-      "summary": "Conflict, delayed detection, and mistrust are complicating efforts to contain the virus in eastern DR Congo.",
+      "title": "What’s behind Israel’s latest attack on Syria?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss",
+      "summary": "US envoy warns Israel's strike could have sparked direct confrontation with Turkish forces.",
       "source": "Al Jazeera",
       "region": "Middle East",
-      "published": "2026-08-19 00:53",
-      "published_iso": "2026-08-19T00:53:34+00:00",
+      "published": "2026-08-19 20:18",
+      "published_iso": "2026-08-19T20:18:40+00:00",
       "score": 100,
-      "keywords": []
+      "keywords": [
+        "us"
+      ]
     },
     {
-      "title": "US ambassador to Israel calls settler violence ‘terror’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss",
-      "summary": "US Ambassador to Israel Mike Huckabee says Israeli settler violence in the occupied West Bank",
+      "title": "Amid the Iran war, the U.S. has pivoted it's geopolitical attention away from Asia",
+      "link": "https://www.npr.org/2026/08/19/nx-s1-5935388/amid-the-iran-war-the-u-s-has-pivoted-its-geopolitical-attention-away-from-asia",
+      "summary": "A decade ago, the U.S. was still in its \"pivot to Asia.\" Today, as conflicts in the Middle East suck up American military resources, analysts say that pivot is over — or never really began.",
+      "source": "NPR World",
+      "region": "World",
+      "published": "2026-08-19 20:16",
+      "published_iso": "2026-08-19T20:16:16+00:00",
+      "score": 100,
+      "keywords": [
+        "middle east",
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "Protests in Kyiv back ex-defence minister Fedorov’s call for elections",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss",
+      "summary": "Ukrainians in Kyiv held a protest in support of ousted defence Minister Mykailo Fedorov.",
       "source": "Al Jazeera",
       "region": "Middle East",
-      "published": "2026-08-19 00:49",
-      "published_iso": "2026-08-19T00:49:10+00:00",
+      "published": "2026-08-19 19:09",
+      "published_iso": "2026-08-19T19:09:53+00:00",
       "score": 100,
       "keywords": [
-        "us"
+        "election"
       ]
     },
     {
-      "title": "Tupac Shakur murder trial: ‘You better treat me as a hostile witness,’ Suge Knight associate testifies – as it happened",
-      "link": "https://www.theguardian.com/us-news/live/2026/aug/18/tupac-shakur-gang-killing-murder-trial-live",
-      "summary": "This live blog is now closed. What we know about Tupac Shakur’s death and what to expect from murder trial District Court Judge Carli Kierney relayed a few questions directly from the jury to medical examiner Dr. Lisa Gavin. “Where there any wounds to the hea...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-19 00:35",
-      "published_iso": "2026-08-19T00:35:18+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Democratic socialist Angie Nixon clinches surprise primary win in Florida US Senate race",
-      "link": "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results",
-      "summary": "Nixon bested Alexander Vindman to win Democratic nomination and now faces Republican Ashley Moody in November Trump-backed Byron Donalds wins Republican primary in race to succeed Florida governor DeSantis In an upset for the Democratic establishment, progres...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-19 00:26",
-      "published_iso": "2026-08-19T00:26:21+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Quebec separatist says no independence referendum while Trump in office",
-      "link": "https://www.aljazeera.com/news/2026/8/19/quebec-separatist-says-no-independence-referendum-while-trump-in-office?traffic_source=rss",
-      "summary": "Leader of Canadian province's secessionist party says debate over independence stymied by turbulence in US politics.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-19 00:17",
-      "published_iso": "2026-08-19T00:17:01+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Trump-backed Byron Donalds to face Democrat David Jolly in race to succeed Florida governor DeSantis",
-      "link": "https://www.theguardian.com/us-news/2026/aug/18/florida-primary-results-governor-senate",
-      "summary": "Congressman had pledged to implement president’s agenda if he gained governor’s seat Democratic socialist Angie Nixon clinches surprise primary win in Florida US Senate race Byron Donalds, a congressman backed by Donald Trump , won the Republican nomination f...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-19 00:08",
-      "published_iso": "2026-08-19T00:08:33+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Harvard agrees to pay millions after morgue manager sold body parts",
-      "link": "https://www.bbc.co.uk/news/articles/c5y0lyde9rvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Harvard Medical School has agreed to pay $53 million to families who alleged the school mishandled the donated remains of loved ones.",
+      "title": "81-year-old confesses to German cold case murder of US tourist in 1994",
+      "link": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-08-19 00:07",
-      "published_iso": "2026-08-19T00:07:37+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
-      "summary": "Trump says no talks with Tehran scheduled; Iranian Foreign Minister Abbas Araghchi claims US 'begging' for negotiations.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-19 00:00",
-      "published_iso": "2026-08-19T00:00:00+00:00",
+      "published": "2026-08-19 18:26",
+      "published_iso": "2026-08-19T18:26:21+00:00",
       "score": 100,
       "keywords": [
-        "us",
-        "war"
-      ]
-    },
-    {
-      "title": "Ten-year-old girl found three days after she was reported missing in Perth suburbs",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/18/wa-police-appeal-for-help-to-find-10-year-old-girl-missing-from-perth-suburbs",
-      "summary": "The young Indigenous girl was found on Tuesday after she was last seen leaving home in Butler on Saturday evening Get our breaking news email , free app or daily news podcast A ten-year-old First Nations girl, reported missing from Perth’s outer northern subu...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-18 23:59",
-      "published_iso": "2026-08-18T23:59:56+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Al Jazeera reports from Indonesia’s quake zone, desperate for help",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/al-jazeera-reports-from-indonesias-quake-zone-desperate-for-help?traffic_source=rss",
-      "summary": "Thousands are still displaced on Indonesia’s Flores Island after a 7.7-magnitude earthquake killed at least 70 people.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-18 23:59",
-      "published_iso": "2026-08-18T23:59:43+00:00",
-      "score": 100,
-      "keywords": [
-        "earthquake"
-      ]
-    },
-    {
-      "title": "Democrats call for USS Lincoln probe, question US Navy’s readiness",
-      "link": "https://www.aljazeera.com/news/2026/8/18/democrats-call-for-uss-lincoln-probe-question-us-navys-readiness?traffic_source=rss",
-      "summary": "Lawmakers question whether conditions on the aircraft carrier indicate a 'pattern' of poor planning amid the Iran war.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-18 23:45",
-      "published_iso": "2026-08-18T23:45:16+00:00",
-      "score": 100,
-      "keywords": [
-        "us",
-        "war"
-      ]
-    },
-    {
-      "title": "Europe’s seas reach record heat as climate change threatens marine life",
-      "link": "https://www.france24.com/en/environment/20260818-europe-seas-record-heat-climate-change-marine-life",
-      "summary": "Human-caused climate change was the main driver of record-breaking sea temperatures around Europe this summer, scientists said on Wednesday, warning of severe risks to marine ecosystems and coastal communities. The Mediterranean averaged a record 27 degrees C...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-08-18 23:34",
-      "published_iso": "2026-08-18T23:34:08+00:00",
-      "score": 100,
-      "keywords": [
-        "climate",
-        "europe"
-      ]
-    },
-    {
-      "title": "US senator Jon Ossoff condemns Trump as ‘draft-dodging, crook president’",
-      "link": "https://www.theguardian.com/us-news/2026/aug/18/jon-ossoff-trump",
-      "summary": "Potential presidential hopeful running for re-election in Georgia intensifies White House feud after remarks about ‘Natalie’ drew ire of president and allies The Democratic senator Jon Ossoff called Donald Trump a “draft-dodging, crook president” while defend...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-18 23:32",
-      "published_iso": "2026-08-18T23:32:53+00:00",
-      "score": 100,
-      "keywords": [
-        "election",
         "us"
       ]
     },
     {
-      "title": "Carney and Trump Talk Again as Deadline Nears on New U.S. Tariffs",
-      "link": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html",
-      "summary": "Canada is seeking a deal to dodge further economic pain at the hands of the Trump administration on midnight Tuesday. But at what cost?",
+      "title": "North Korean Official Dismisses Reduced Drills Between US and South Korea",
+      "link": "https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html",
+      "summary": "Kim Yo-jong, a powerful adviser and sister of Kim Jong-un, also said she was “unaware” of any communication with Washington, contradicting President Trump’s claim her brother had responded to his outreach.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-08-18 23:19",
-      "published_iso": "2026-08-18T23:19:12+00:00",
+      "published": "2026-08-19 18:17",
+      "published_iso": "2026-08-19T18:17:10+00:00",
       "score": 100,
       "keywords": [
         "us"
       ]
     },
     {
-      "title": "Fenerbahce fight back against Lyon as Greenwood scores Champions League equaliser",
-      "link": "https://www.france24.com/en/sport/20260818-fenerbahce-fight-back-against-lyon-as-greenwood-scores-champions-league-equaliser",
-      "summary": "Mason Greenwood struck a second-half equaliser as Fenerbahce fought back to draw 1-1 at home to Lyon in their Champions League play-off first leg on Tuesday. Lois Openda put Lyon ahead before Greenwood levelled. Viking Stavanger rallied from two goals down to...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-08-18 23:06",
-      "published_iso": "2026-08-18T23:06:27+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "ZZ Top drummer Frank Beard dies aged 77",
-      "link": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
-      "summary": "A statement on the blues-rock band's website said he died on Monday in hospice",
+      "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
+      "link": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify looks at footage from two deadly strikes in under 24 hours in Gaza.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-08-18 22:25",
-      "published_iso": "2026-08-18T22:25:46+00:00",
+      "published": "2026-08-19 17:46",
+      "published_iso": "2026-08-19T17:46:01+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "Ukraine’s dismissed defence minister calls for wartime presidential election",
-      "link": "https://www.theguardian.com/world/2026/aug/18/ukraines-dismissed-defence-minister-calls-for-wartime-presidential-election",
-      "summary": "Mykhailo Fedorov’s appeal is most direct challenge to Volodymyr Zelenskyy since Russian invasion in 2022 Ukraine’s recently dismissed former defence minister Mykhailo Fedorov has called for a wartime presidential election in the most direct political challeng...",
+      "title": "Kim Jong-un’s sister casts doubt on Trump’s claims of secret US-North Korea talks",
+      "link": "https://www.theguardian.com/world/2026/aug/19/kim-jong-un-sister-doubt-trump-claims-secret-us-north-korea-talks",
+      "summary": "President says he plans to meet dictator this year but Kim Yo-jong says Washington remains Pyongyang’s enemy Donald Trump has said he is planning to meet North Korea’s Kim Jong-un later this year, though the reclusive leader’s younger sister cast doubt on the...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-08-18 22:21",
-      "published_iso": "2026-08-18T22:21:59+00:00",
+      "published": "2026-08-19 17:39",
+      "published_iso": "2026-08-19T17:39:56+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "South Korea shortens war games with US, citing Washington request",
+      "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-08-19 17:39",
+      "published_iso": "2026-08-19T17:39:49+00:00",
+      "score": 100,
+      "keywords": [
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "Volodymyr Zelenskyy sacks senior aide amid Ukraine corruption crisis",
+      "link": "https://www.theguardian.com/world/2026/aug/19/volodymyr-zelenskyy-sacks-senior-aide-amid-ukraine-corruption-crisis",
+      "summary": "Presidential deputy chief of staff Iryna Mudra dismissed day after former defence minister called for wartime election Ukraine’s president Volodymyr Zelenskyy has fired a senior aide amid a fresh corruption investigation – one day after a former defence minis...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-08-19 17:14",
+      "published_iso": "2026-08-19T17:14:02+00:00",
       "score": 100,
       "keywords": [
         "election",
-        "russia",
         "ukraine"
       ]
     },
     {
-      "title": "The Indian activist jailed after taking on a luxury hotel plan",
-      "link": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo?at_medium=RSS&at_campaign=rss",
-      "summary": "An activist's detention has brought under focus a larger battle over land and development around the famed Kaziranga National Park.",
+      "title": "Is the US actually too chicken to take on China for trade?",
+      "link": "https://www.theguardian.com/us-news/2026/aug/19/china-trump-trade-weak-yuan",
+      "summary": "A weak yuan guarantees Beijing massive trade surplus even as the White House tries tamp down on Chinese imports Since China offered a truce in the trade war last October following its threat to deprive the United States of rare-earth magnets, the Trump admini...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-08-19 16:42",
+      "published_iso": "2026-08-19T16:42:08+00:00",
+      "score": 100,
+      "keywords": [
+        "china",
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+      "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
+      "summary": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-08-18 22:18",
-      "published_iso": "2026-08-18T22:18:50+00:00",
+      "published": "2026-08-19 16:31",
+      "published_iso": "2026-08-19T16:31:48+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "Meta hooked children on Facebook and Instagram, court hears",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
+      "title": "Trial of mum accused of killing her three children puts postpartum psychosis on the map",
+      "link": "https://www.bbc.co.uk/news/articles/c5yedy98j7po?at_medium=RSS&at_campaign=rss",
+      "summary": "Postpartum psychosis is a psychiatric emergency that can involve mania, depression, hallucinations and delusions.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-08-18 22:11",
-      "published_iso": "2026-08-18T22:11:07+00:00",
+      "published": "2026-08-19 16:30",
+      "published_iso": "2026-08-19T16:30:55+00:00",
       "score": 100,
-      "keywords": [
-        "us"
-      ]
+      "keywords": []
     },
     {
-      "title": "A Rescue Mission in Remote Colombia",
-      "link": "https://www.nytimes.com/video/world/americas/100000011097252/a-rescue-mission-in-remote-colombia.html",
-      "summary": "Our photographer Federico Rios joined aid flights in Chocó to document earthquake rescue efforts in remote communities.",
-      "source": "NYTimes World",
+      "title": "Why does the U.S. military seem stymied in the war with Iran?",
+      "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
+      "summary": "Defense analyst Stacie Pettyjohn says while the U.S. military is facing long-range missile shortages, prolonged deployments and vacated regional bases, Iran is building cheaper weapons quickly.",
+      "source": "NPR World",
       "region": "World",
-      "published": "2026-08-18 22:06",
-      "published_iso": "2026-08-18T22:06:32+00:00",
-      "score": 100,
-      "keywords": [
-        "earthquake"
-      ]
-    },
-    {
-      "title": "Trump administration moves to end rule protecting swaths of forest land",
-      "link": "https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss",
-      "summary": "US Agriculture Department says rescinding 2001 rule will help reduce wildfire risk and return control to local managers.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-18 21:26",
-      "published_iso": "2026-08-18T21:26:47+00:00",
+      "published": "2026-08-19 16:18",
+      "published_iso": "2026-08-19T16:18:35+00:00",
       "score": 100,
       "keywords": [
         "us",
-        "wildfire"
+        "war"
       ]
     },
     {
-      "title": "Why is the US ramping up Tomahawk production?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss",
-      "summary": "The Pentagon has contracted a defence manufacturer to increase the output of cruise missiles.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-18 21:26",
-      "published_iso": "2026-08-18T21:26:07+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
-      "link": "https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html",
-      "summary": "The attack was the latest in a series of Israeli military interventions in Syria over the past two years.",
-      "source": "NYTimes World",
+      "title": "Two detained after French influencer's scorched body found in vineyard",
+      "link": "https://www.bbc.co.uk/news/articles/c3r058eeqv2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sonia Bellina's body was \"abandoned\" after \"a murder of rare savagery\", the family's lawyer says.",
+      "source": "BBC World",
       "region": "World",
-      "published": "2026-08-18 21:16",
-      "published_iso": "2026-08-18T21:16:37+00:00",
+      "published": "2026-08-19 16:04",
+      "published_iso": "2026-08-19T16:04:39+00:00",
       "score": 100,
-      "keywords": [
-        "us"
-      ]
+      "keywords": []
     },
     {
-      "title": "Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal",
-      "link": "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss",
-      "summary": "US president hits out as states bordering the Strait of Hormuz continue talks on managing the strategic waterway.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-18 21:03",
-      "published_iso": "2026-08-18T21:03:59+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
-      "link": "https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html",
-      "summary": "They made a risky bid to reunite after three years of separation, illness and deprivation — the kind of ordeal suffered by many thousands of families torn apart by the war in eastern Ukraine.",
-      "source": "NYTimes World",
+      "title": "Sacking turns former Zelenskyy loyalist into potent political opponent",
+      "link": "https://www.theguardian.com/world/2026/aug/19/mykhailo-fedorov-zelenskyy-loyalist-opponent-ukraine",
+      "summary": "Mykhailo Fedorov’s blistering critique comes at a time of growing pressure for democratic renewal in Ukraine For more than a month, demonstrators have gathered in Ivan Franko Square outside Volodymyr Zelenskyy’s office. The protesters have been chanting a nam...",
+      "source": "The Guardian World",
       "region": "World",
-      "published": "2026-08-18 20:55",
-      "published_iso": "2026-08-18T20:55:38+00:00",
+      "published": "2026-08-19 15:52",
+      "published_iso": "2026-08-19T15:52:04+00:00",
       "score": 100,
       "keywords": [
-        "russia",
+        "ukraine"
+      ]
+    },
+    {
+      "title": "Jellyfish mesmerise in their own museum in Florida",
+      "link": "https://www.bbc.co.uk/news/videos/c0m7eld12l1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Jellyfish Museum in Pompano Beach is believed to be the first in the US dedicated entirely to the floating predators.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-08-19 15:39",
+      "published_iso": "2026-08-19T15:39:08+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Why is Ukraine's ex-defence minister calling for wartime elections?",
+      "link": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-08-19 15:38",
+      "published_iso": "2026-08-19T15:38:38+00:00",
+      "score": 100,
+      "keywords": [
+        "election",
         "ukraine",
         "war"
       ]
     },
     {
-      "title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
-      "link": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Verify has used satellite imagery to monitor the warship on one of the longest ever US deployments.",
+      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-08-18 20:48",
-      "published_iso": "2026-08-18T20:48:09+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
-      "link": "https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss",
-      "summary": "Concern over the security of Europe's largest nuclear plant has been rife since Russia launched its full-scale war.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-18 20:45",
-      "published_iso": "2026-08-18T20:45:42+00:00",
-      "score": 100,
-      "keywords": [
-        "europe",
-        "russia",
-        "security",
-        "war"
-      ]
-    },
-    {
-      "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
-      "link": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-08-18 20:39",
-      "published_iso": "2026-08-18T20:39:36+00:00",
+      "published": "2026-08-19 15:33",
+      "published_iso": "2026-08-19T15:33:32+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "Liberia to take 1,200 deportees from the US",
-      "link": "https://www.aljazeera.com/news/2026/8/18/liberia-to-take-1200-deportees-from-the-us?traffic_source=rss",
-      "summary": "The first group of 20 deportees is expected to arrive in the coming days.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-18 20:39",
-      "published_iso": "2026-08-18T20:39:15+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Man in Chucky-style mask terrorises Philadelphia residents",
-      "link": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&at_campaign=rss",
-      "summary": "\"It was just weird, like some twisted game\": At least half a dozen people were threatened near City Hall last week.",
+      "title": "'I was born in South Africa', says beauty queen facing legal bid to deport her",
+      "link": "https://www.bbc.co.uk/news/articles/cj364xxr5ngo?at_medium=RSS&at_campaign=rss",
+      "summary": "Chidimma Adetshina is challenging efforts to have her deported from South Africa, which she says is her home.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-08-18 20:27",
-      "published_iso": "2026-08-18T20:27:44+00:00",
+      "published": "2026-08-19 15:12",
+      "published_iso": "2026-08-19T15:12:41+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "Russian missile strike kills 10 civilians in Kharkiv",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss",
-      "summary": "A Russian missile strike on Pechenihy, in Ukraine’s Kharkiv region, killed at least 10 civilians and wounded 17 others.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-18 20:26",
-      "published_iso": "2026-08-18T20:26:01+00:00",
-      "score": 100,
-      "keywords": [
-        "russia",
-        "ukraine"
-      ]
-    },
-    {
-      "title": "US announces new sanctions on top ICC figures",
-      "link": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
+      "title": "Trump administration can target Ethiopians for deportation",
+      "link": "https://www.bbc.co.uk/news/articles/c39e8zy12pyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Judge Brian Murphy cleared the way for the Trump administration to cancel Temporary Protected Status for Ethiopians living in the US.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-08-18 20:21",
-      "published_iso": "2026-08-18T20:21:49+00:00",
+      "published": "2026-08-19 15:11",
+      "published_iso": "2026-08-19T15:11:19+00:00",
       "score": 100,
       "keywords": [
         "us"
       ]
     },
     {
-      "title": "Trump and Carney speak ahead of US tariff deadline",
-      "link": "https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss",
-      "summary": "The new US tariffs would cover about $20bn worth of imports and could lead to job losses and business closures.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-18 20:19",
-      "published_iso": "2026-08-18T20:19:27+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "US sanctions International Criminal Court president and trial lawyer",
-      "link": "https://www.aljazeera.com/news/2026/8/18/us-sanctions-international-criminal-court-president-and-trial-lawyer?traffic_source=rss",
-      "summary": "The Trump administration has led a campaign to 'dismantle' the court, calling it a threat to national sovereignty.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-18 20:09",
-      "published_iso": "2026-08-18T20:09:07+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "US Justice Department denies whistleblower claims on anti-Semitism probes",
-      "link": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
-      "summary": "Ivy League schools were pressured into settlements despite a lack of evidence, according to a former DOJ lawyer.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-18 19:56",
-      "published_iso": "2026-08-18T19:56:48+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Judge swapped in Trump's defamation case against BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
-      "summary": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC.",
+      "title": "'Incredible': SpaceX rocket spotted off Christmas Island coast",
+      "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
+      "summary": "A SpaceX rocket that blasted off from Texas in July, and crashed into the Indian Ocean, made an unexpected appearance off Christmas Island.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-08-18 19:52",
-      "published_iso": "2026-08-18T19:52:32+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "US seeks to revive criminal case against Kilmar Abrego Garcia",
-      "link": "https://www.aljazeera.com/news/2026/8/18/us-seeks-to-revive-criminal-case-against-kilmar-abrego-garcia?traffic_source=rss",
-      "summary": "Judge previously found US government brought charges against Abrego Garcia as retaliation for case that embarrassed it.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-18 19:46",
-      "published_iso": "2026-08-18T19:46:39+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
-      "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
-      "summary": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-08-18 17:54",
-      "published_iso": "2026-08-18T17:54:46+00:00",
+      "published": "2026-08-19 15:01",
+      "published_iso": "2026-08-19T15:01:57+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "Earthquake rocks Spain's historic Granada, injuring three",
-      "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
-      "summary": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-08-18 17:15",
-      "published_iso": "2026-08-18T17:15:39+00:00",
-      "score": 100,
-      "keywords": [
-        "earthquake"
-      ]
-    },
-    {
-      "title": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
-      "link": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-08-18 17:00",
-      "published_iso": "2026-08-18T17:00:29+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Chocó, Colombia, Faces Deeper Hardship After an Earthquake",
-      "link": "https://www.nytimes.com/2026/08/18/world/americas/colombia-earthquake-choco.html",
-      "summary": "In Chocó, a remote region, “pain, hunger and homelessness await” survivors of last week’s earthquake, the governor said. Shakira visited to help draw awareness.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-08-18 16:32",
-      "published_iso": "2026-08-18T16:32:08+00:00",
-      "score": 100,
-      "keywords": [
-        "earthquake"
-      ]
-    },
-    {
-      "title": "Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK",
-      "link": "https://www.bbc.co.uk/news/articles/c1e155428qyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Afolabi Kazeem Micheal has not commented on allegations he is linked to a global drug trafficking network.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-08-18 16:26",
-      "published_iso": "2026-08-18T16:26:22+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "At Ex-Premier Zhu Rongji’s Funeral, China’s Past Shadows Its Present",
-      "link": "https://www.nytimes.com/2026/08/18/world/asia/zhu-rongji-funeral-china.html",
-      "summary": "Beijing wants to portray today’s China as carrying forward Zhu Rongji’s era of growth, but for many Chinese, the optimism of that time has since faded.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-08-18 16:12",
-      "published_iso": "2026-08-18T16:12:57+00:00",
-      "score": 100,
-      "keywords": [
-        "china"
-      ]
-    },
-    {
-      "title": "Death and alleged torture of man in detention sparks protests in Syria",
-      "link": "https://www.theguardian.com/world/2026/aug/18/death-alleged-torture-man-detention-sparks-protests-syria",
-      "summary": "Picture showing White Helmets volunteer unconscious and with bruises on his body went viral Syrians have protested over the death of a man who was arrested and allegedly beaten by security forces, sparking widespread anger at a practice thought to have ended...",
+      "title": "Zelenskyy sacks deputy head of his office amid reported corruption investigation – as it happened",
+      "link": "https://www.theguardian.com/world/live/2026/aug/19/europe-ukraine-zelenskyy-mykhailo-fedorov-parliament-vote-corruption-probe-russia-belgium-wildfires-latest-news-updates",
+      "summary": "Ukrainian anti-corruption agencies said they uncovered group responsible for money laundering $3.35m but did not name individuals involved The rise in Germany’s ⁠borrowing costs to a 15-year high reflects the ⁠increased security challenges ⁠facing ​the countr...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-08-18 16:03",
-      "published_iso": "2026-08-18T16:03:24+00:00",
+      "published": "2026-08-19 14:51",
+      "published_iso": "2026-08-19T14:51:09+00:00",
       "score": 100,
       "keywords": [
         "security"
       ]
     },
     {
-      "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
-      "link": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss",
-      "summary": "Imran Khan has been imprisoned since 2023 on corruption charges which he says were politically motivated.",
+      "title": "Send Us Your Questions About the Iran War",
+      "link": "https://www.nytimes.com/2026/08/19/world/iran-war-reader-questions.html",
+      "summary": "Times reporters who cover the war, diplomacy, energy and the broader Middle East are joining our “Ask a Correspondent” feature as the conflict nears the six-month mark. Let us know what’s on your mind.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-08-19 14:47",
+      "published_iso": "2026-08-19T14:47:37+00:00",
+      "score": 100,
+      "keywords": [
+        "energy",
+        "middle east",
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "Angélique Kidjo becomes first African musician with Hollywood Walk of Fame star",
+      "link": "https://www.bbc.co.uk/news/articles/c62xyg6527go?at_medium=RSS&at_campaign=rss",
+      "summary": "Without Africans, no music is possible on this planet, says the 66-year-old musical icon from Benin.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-08-18 16:00",
-      "published_iso": "2026-08-18T16:00:30+00:00",
+      "published": "2026-08-19 14:36",
+      "published_iso": "2026-08-19T14:36:25+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "Belgian firefighters push to encircle ‘largest wildfire in a century’ – as it happened",
-      "link": "https://www.theguardian.com/world/live/2026/aug/18/ukraine-drone-attack-moscow-crimea-russia-nato-wildfires-europe-live-latest-updates",
-      "summary": "The blaze charring peatland, pine trees and hiking trails grew over the weekend to half the size of Manhattan Some first pictures from this morning’s earthquakes in Granada are emerging on social media… Andalusian president Juanma Moreno urged residents to ma...",
+      "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
+      "link": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
+      "summary": "Madrid government changes stance after previously saying anyone who entered territory illegally would be sent back Europe live – latest updates The Spanish government has U-turned and said it will allow 500 migrant children in Ceuta to relocate to the mainlan...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-08-18 15:45",
-      "published_iso": "2026-08-18T15:45:00+00:00",
+      "published": "2026-08-19 14:33",
+      "published_iso": "2026-08-19T14:33:24+00:00",
       "score": 100,
       "keywords": [
-        "earthquake",
+        "europe"
+      ]
+    },
+    {
+      "title": "Germany’s firewall was meant to hold the far right at bay. It may have done the reverse",
+      "link": "https://www.theguardian.com/world/2026/aug/19/germanys-firewall-was-meant-to-hold-the-far-right-at-bay-it-may-have-done-the-reverse",
+      "summary": "An AfD win in ​next month’s state election in Saxony-Anhalt would shatter a decades-long political consensus and reverberate throughout the EU • Don’t get This Is Europe delivered to your inbox? Sign up here In just over two weeks’ time, Saxony-Anhalt – home...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-08-19 14:30",
+      "published_iso": "2026-08-19T14:30:13+00:00",
+      "score": 100,
+      "keywords": [
+        "election",
+        "europe"
+      ]
+    },
+    {
+      "title": "France measures more than 7,300 excess deaths – and counting – during historic heatwaves",
+      "link": "https://www.france24.com/en/france/20260819-france-experienced-more-than-7-300-excess-deaths-during-historic-heatwaves",
+      "summary": "More than 7,300 excess deaths have been recorded in France over the historically hot summer as Europe grapples with worsening heatwaves, wildfires and droughts, public health authorities said Wednesday. France has suffered a record-breaking 52 days of heatwav...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-08-19 14:29",
+      "published_iso": "2026-08-19T14:29:13+00:00",
+      "score": 100,
+      "keywords": [
+        "europe",
         "wildfire"
       ]
     },
     {
-      "title": "Moscow threat of ‘consequences’ will not alter UK support for Ukraine, says Burnham",
-      "link": "https://www.theguardian.com/world/2026/aug/18/moscow-warns-uk-over-reports-ukraine-using-british-drones-to-attack-russia",
-      "summary": "Prime minister responds to Russian anger over Kyiv’s use of British-made drones in ‘deep strike’ campaign UK politics live – latest updates Europe live – latest updates Andy Burnham says the UK will continue to “support Ukraine 100%” after Russia threatened c...",
+      "title": "Ukrainian diver arrested in Croatia over Nord Stream pipeline bombings",
+      "link": "https://www.theguardian.com/business/2026/aug/19/ukrainian-diver-arrested-in-croatia-over-nord-stream-pipeline-bombings",
+      "summary": "Berlin to seek suspect’s extradition for 2022 explosions that damaged gas pipelines to Russia A Ukrainian man has been arrested in Croatia as part of an investigation into the 2022 bombing of the Nord Stream gas pipelines between Germany and Russia. Undersea...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-08-18 12:13",
-      "published_iso": "2026-08-18T12:13:35+00:00",
+      "published": "2026-08-19 14:14",
+      "published_iso": "2026-08-19T14:14:54+00:00",
       "score": 100,
       "keywords": [
-        "europe",
+        "russia"
+      ]
+    },
+    {
+      "title": "Ukraine’s Ex-Defense Minister Calls for Election, Cementing Break With Zelensky",
+      "link": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-fedorov-zelensky-elections.html",
+      "summary": "Mykhailo Fedorov, a popular young leader who was fired last month, said Russia should not be allowed to dictate when Ukrainians can choose their next government.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-08-19 12:53",
+      "published_iso": "2026-08-19T12:53:51+00:00",
+      "score": 100,
+      "keywords": [
+        "election",
         "russia",
         "ukraine"
       ]
     },
     {
-      "title": "China censors public mourning as it holds former premier's funeral",
-      "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
-      "summary": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
+      "title": "Spared execution eight times, oldest inmate in US dies at 101",
+      "link": "https://www.bbc.co.uk/news/articles/c98vr7ql2vdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Francis Smith was one of a growing number of elderly people who are incarcerated.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-08-18 07:17",
-      "published_iso": "2026-08-18T07:17:07+00:00",
+      "published": "2026-08-19 11:22",
+      "published_iso": "2026-08-19T11:22:09+00:00",
       "score": 100,
       "keywords": [
-        "china"
+        "us"
       ]
     },
     {
-      "title": "Canadian tariff deadline looms as two sides continue to negotiate",
-      "link": "https://www.npr.org/2026/08/18/nx-s1-5936214/canadian-tariff-deadline-looms-as-two-sides-continue-to-negotiate",
-      "summary": "The U.S. is scheduled to impose more tariffs on Canada, hitting about $20 billion dollars worth of goods, as trade negotiations between the two neighboring countries hit an impasse.",
-      "source": "NPR World",
+      "title": "Activist forced out of US after criticising Trump-aligned Colombian politician",
+      "link": "https://www.theguardian.com/world/2026/aug/19/activist-forced-out-of-us-after-criticising-trump-aligned-colombian-politician",
+      "summary": "Beto Coral held up banners in Florida warning fellow Colombians to not vote for Abelardo de la Espriella In the week before Colombia’s presidential election, Beto Coral, a well-known activist living in the United States, travelled to Florida to persuade fello...",
+      "source": "The Guardian World",
       "region": "World",
-      "published": "2026-08-18 20:49",
-      "published_iso": "2026-08-18T20:49:22+00:00",
-      "score": 99,
+      "published": "2026-08-19 09:00",
+      "published_iso": "2026-08-19T09:00:12+00:00",
+      "score": 100,
+      "keywords": [
+        "election",
+        "us"
+      ]
+    },
+    {
+      "title": "Shares in humanoid robot firm Unitree surge 600% on Chinese stock market debut",
+      "link": "https://www.theguardian.com/technology/2026/aug/19/unitree-shares-surge-humanoid-robot-firm-chinese-stock-market-debut",
+      "summary": "Company’s robots have gained global fame via videos of them performing martial arts and as dancers for pop stars Unitree, the world’s biggest humanoid robot maker, has made a spectacular entry on to China’s stock market, with its shares surging by more than 6...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-08-19 07:49",
+      "published_iso": "2026-08-19T07:49:58+00:00",
+      "score": 100,
+      "keywords": [
+        "china",
+        "market"
+      ]
+    },
+    {
+      "title": "Families' agonising search for answers as thousands still missing in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
+      "summary": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-08-19 05:04",
+      "published_iso": "2026-08-19T05:04:00+00:00",
+      "score": 100,
+      "keywords": [
+        "ceasefire"
+      ]
+    },
+    {
+      "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
+      "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-08-19 05:00",
+      "published_iso": "2026-08-19T05:00:39+00:00",
+      "score": 100,
       "keywords": [
         "us"
       ]
     },
     {
-      "title": "S. Korea stresses US alliance amid confusion over Trump drill cut",
-      "link": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut",
-      "summary": "Lee's comments Tuesday come as many South Koreans remain baffled and concerned about U.S. President Donald Trump's abrupt order to \"substantially reduce\" military exercises with South Korea.",
-      "source": "NPR World",
-      "region": "World",
-      "published": "2026-08-18 15:19",
-      "published_iso": "2026-08-18T15:19:40+00:00",
-      "score": 99,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Do not cut benefits for disabled young people, dozens of UK charities urge ministers",
-      "link": "https://www.theguardian.com/society/2026/aug/19/benefits-disabled-young-people-uk-charities-letter",
-      "summary": "More than 40 charities write to Pat McFadden and review head Alan Milburn over fears of stricter eligibility rules More than 40 of the UK’s leading charities have warned ministers against imposing tougher benefit sanctions or cuts on disabled young people, as...",
+      "title": "Zomi Frankcom: Penny Wong condemns ‘insulting’ decision to clear IDF over Gaza strikes that killed Australian aid worker",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/20/australia-idf-reaction-gaza-strike-zomi-frankcom-penny-wong-statement-ntwnfb",
+      "summary": "Foreign affairs minister says Australia is ‘outraged’ after Israeli government decided not to pursue criminal proceedings over 2024 triple drone strike on humanitarian convoy Follow our Australia news live blog for latest updates Get our breaking news email ,...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-08-18 23:01",
-      "published_iso": "2026-08-18T23:01:03+00:00",
+      "published": "2026-08-19 22:39",
+      "published_iso": "2026-08-19T22:39:32+00:00",
       "score": 98,
       "keywords": []
     },
     {
-      "title": "Poor sleep can cost over-50s nine months of career, study finds",
-      "link": "https://www.theguardian.com/money/2026/aug/18/poor-sleep-cost-over-50s-nine-months-career",
-      "summary": "Findings highlight importance of sleep health during middle age, particularly for those with lower socioeconomic status Sleep that is extremely disrupted or that goes on too long could mean a loss of nine months from working life after the age of 50, a study...",
+      "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
+      "link": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
+      "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of northern Kenya, according...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-08-18 22:30",
-      "published_iso": "2026-08-18T22:30:02+00:00",
+      "published": "2026-08-19 20:17",
+      "published_iso": "2026-08-19T20:17:39+00:00",
       "score": 98,
       "keywords": []
-    },
-    {
-      "title": "Ulez led to better lung size and function among London children, study finds",
-      "link": "https://www.theguardian.com/environment/2026/aug/18/ulez-better-lung-size-function-london-children",
-      "summary": "Researchers find capacity stunted by pollution was restored after introduction of ultra-low emission zone Children’s lungs grew bigger and stronger after the most polluting vehicles were restricted from entering London, a study has found. Examinations of Lond...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-18 22:30",
-      "published_iso": "2026-08-18T22:30:02+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Three dead after family get into difficulty in water off Shoreham-by-Sea",
-      "link": "https://www.theguardian.com/uk-news/2026/aug/18/three-dead-after-family-get-into-difficulty-in-water-off-shoreham-by-sea",
-      "summary": "A man, woman and teenage girl have died, while a younger girl is in a critical condition, say Sussex police A couple and their teenage daughter have died after getting into difficulty in the sea off the West Sussex coast, police said on Tuesday. A man, a woma...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-18 22:23",
-      "published_iso": "2026-08-18T22:23:44+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "GPs’ advice service is causing cancer diagnoses to be missed, inquiry finds",
-      "link": "https://www.theguardian.com/society/2026/aug/18/gps-advice-service-is-causing-cancer-diagnoses-to-be-missed-inquiry-finds",
-      "summary": "Advice and guidance services for doctors in England found to be creating risk of missed or late detection of illness Cancer diagnoses have been missed or delayed because of a system designed for GPs to seek specialist advice before referring patients to hospi...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-18 22:10",
-      "published_iso": "2026-08-18T22:10:48+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Swedish MP intervenes in ‘damaging’ Brexit row over elderly Britons ordered to leave",
-      "link": "https://www.theguardian.com/politics/2026/aug/18/swedish-mp-intervenes-brexit-row-elderly-britons-ordered-leave",
-      "summary": "Migration minister asked how he intends to stop deportations of people ‘who had lived in Sweden for decades’ The deportation and removal of British citizens from Sweden over Brexit residency rights is damaging relations with the UK amid efforts to improve lin...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-18 18:44",
-      "published_iso": "2026-08-18T18:44:06+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "PBS should fund drug to treat breast cancer, endometriosis and gender dysphoria, experts recommend",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/18/pbs-breast-cancer-endometriosis-gender-dysphoria-puberty-blocker-drug-triptorelin-ntwnfb",
-      "summary": "Triptorelin, already listed for prostate cancer, should have unrestricted use, the Pharmaceutical Benefits Advisory Committee says Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The federal...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-18 15:00",
-      "published_iso": "2026-08-18T15:00:50+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Mechanical fault suspected in helicopter crash that killed British newlyweds in Greece",
-      "link": "https://www.theguardian.com/world/2026/aug/18/mechanical-fault-helicopter-crash-killed-british-newlyweds-sifnos-greece",
-      "summary": "Marie Ebert, Alexander Cromie and their pilot died when their aircraft crashed on island of Sifnos Greek police believe a mechanical fault may have caused a helicopter to crash moments before it was due to land on the island of Sifnos, killing a British coupl...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-08-18 14:24",
-      "published_iso": "2026-08-18T14:24:50+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "As war with Ukraine wages on, a look at life inside Russia",
-      "link": "https://www.npr.org/2026/08/17/nx-s1-5933043/as-war-with-ukraine-wages-on-a-look-at-life-inside-russia",
-      "summary": "NPR's Sacha Pfeiffer speaks with Nina Krushcheva, professor of international affairs at the New School, about the current geopolitical climate in Russia.",
-      "source": "NPR World",
-      "region": "World",
-      "published": "2026-08-17 08:50",
-      "published_iso": "2026-08-17T08:50:29+00:00",
-      "score": 98,
-      "keywords": [
-        "climate",
-        "russia",
-        "ukraine",
-        "war"
-      ]
-    },
-    {
-      "title": "Trump says no Iran talks planned as UAE suspends trade with Tehran",
-      "link": "https://www.france24.com/en/middle-east/20260818-trump-says-no-iran-talks-planned-insists-strait-of-hormuz-remains-open",
-      "summary": "US President Donald Trump said Tuesday no talks with Iran were planned and insisted the Strait of Hormuz remained open despite reduced shipping traffic. Oman and Iran neared a deal on the waterway as a projectile struck a vessel, while the UAE said two Irania...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-08-18 22:22",
-      "published_iso": "2026-08-18T22:22:09+00:00",
-      "score": 97,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "ICC says US sanctions on top court members 'undermine rule of law'",
-      "link": "https://www.france24.com/en/americas/20260818-icc-says-us-sanctions-on-top-court-members-undermine-rule-of-law",
-      "summary": "The US on Tuesday imposed sanctions against two top members of the International Criminal Court (ICC) which the court said \"undermine the rule of law\". The move represents the Trump administration's latest salvo against the court based in The Hague, which was...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-08-18 20:31",
-      "published_iso": "2026-08-18T20:31:24+00:00",
-      "score": 97,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "‘You have to be careful, to go slow & fast’: Inside high-risk mission at International Space Station",
-      "link": "https://www.france24.com/en/you-have-to-be-careful-to-go-slow-fast-inside-high-risk-mission-at-international-space-station",
-      "summary": "Mark Owen is pleased to welcome Michel Tognini, former head of the European Astronaut Centre of the European Space Agency. Tognini sees a spacewalk as a paradox of human spaceflight: from the ground, it can look almost effortless, but outside the space statio...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-08-18 17:52",
-      "published_iso": "2026-08-18T17:52:48+00:00",
-      "score": 97,
-      "keywords": [
-        "europe"
-      ]
-    },
-    {
-      "title": "In Ceuta, migrants stranded at Europe’s gates await their fate",
-      "link": "https://www.france24.com/en/europe/20260818-ceuta-migrants-stranded-europes-gates-await-their-fate",
-      "summary": "Weeks after some 70,000 migrants tried to cross from Morocco into the Spanish enclave of Ceuta, the ones who chose to stay have settled on El Trampolin beach. They hail from various countries, speak different languages and crossed many borders to get to this...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-08-18 15:52",
-      "published_iso": "2026-08-18T15:52:41+00:00",
-      "score": 97,
-      "keywords": [
-        "europe"
-      ]
-    },
-    {
-      "title": "ISS: Sophie Adenot and Anil Menon conduct spacewalk to replace space-to-ground antenna",
-      "link": "https://www.france24.com/en/iss-sophie-adenot-and-anil-menon-conduct-spacewalk-to-replace-space-to-ground-antenna",
-      "summary": "Nadia Massih is pleased to welcome Daniel Neuenschwander, Director of Human and Robotic Exploration at the European Space Agency (ESA). According to Neuenschwander, this latest ISS mission demonstrates what makes the International Space Station exceptional: i...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-08-18 14:18",
-      "published_iso": "2026-08-18T14:18:58+00:00",
-      "score": 97,
-      "keywords": [
-        "europe"
-      ]
-    },
-    {
-      "title": "Minnesota official sues Texas governor to force ICE agent’s extradition",
-      "link": "https://www.aljazeera.com/news/2026/8/18/minnesota-official-sues-texas-governor-to-force-ice-agents-extradition?traffic_source=rss",
-      "summary": "State Attorney General Keith Ellison has called for the transfer of ICE agent accused of lying about nonfatal shooting.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-18 22:55",
-      "published_iso": "2026-08-18T22:55:50+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Bolivia arrests political adviser to Latin American right-wingers",
-      "link": "https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss",
-      "summary": "Arrest comes after attack on activist Nadia Beller, who says she was targeted for her opposition to corruption.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-18 21:50",
-      "published_iso": "2026-08-18T21:50:43+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Syria opens Assad-era nuclear programme to UN probe",
-      "link": "https://www.aljazeera.com/news/2026/8/18/syria-opens-assad-era-nuclear-programme-to-un-probe?traffic_source=rss",
-      "summary": "UN watchdog reports that it found large amounts of material at undisclosed sites in Syria.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-18 21:25",
-      "published_iso": "2026-08-18T21:25:06+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "DR Congo’s Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO",
-      "link": "https://www.aljazeera.com/news/2026/8/18/congo-ebola-outbreak-global-emergency-as-infections-pass-5000-who?traffic_source=rss",
-      "summary": "Officials warn they are continuing to identify new chains of transmission that need to be broken to stop the spread.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-18 21:24",
-      "published_iso": "2026-08-18T21:24:52+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Israeli strike reported to kill at least six in Gaza City",
-      "link": "https://www.aljazeera.com/news/2026/8/18/israeli-strike-reported-to-kill-at-least-six-in-gaza-city?traffic_source=rss",
-      "summary": "The strike comes as efforts to push an agreement aimed at ending hostilities remain stalled.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-18 21:03",
-      "published_iso": "2026-08-18T21:03:04+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "WHO: Ebola can be contained in months if enough funding is provided",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/who-ebola-can-be-contained-in-months-if-enough-funding-is-provided?traffic_source=rss",
-      "summary": "The World Health Organization says the Ebola outbreak in DR Congo can be brought under control in three months.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-18 20:53",
-      "published_iso": "2026-08-18T20:53:44+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Jose Mourinho returns to Real Madrid in closed-door ceremony",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/jose-mourinho-returns-to-real-madrid-in-closed-door-ceremony?traffic_source=rss",
-      "summary": "In an unusually private ceremony, Jose Mourinho has officially begun his second spell as Real Madrid manager.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-18 20:41",
-      "published_iso": "2026-08-18T20:41:50+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "Turkish politician Melih Meric stabbed",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/turkish-politician-melih-meric-stabbed?traffic_source=rss",
-      "summary": "Footage shows the moment Turkish New Party MP Melih Meric got into an argument with a man who stabbed him.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-18 19:51",
-      "published_iso": "2026-08-18T19:51:17+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "The ‘witch-hunt’ of Jason Arday",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/the-witch-hunt-of-jason-arday?traffic_source=rss",
-      "summary": "The ‘witch-hunt’ of Jason Arday",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-08-18 19:22",
-      "published_iso": "2026-08-18T19:22:45+00:00",
-      "score": 96,
-      "keywords": []
-    },
-    {
-      "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
-      "link": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
-      "summary": "The U.S. and Iran missed a deadline to begin peace talks this week. The monthslong war has depleted U.S. resources. And, what to know about Alaska's U.S. Senate seat primary.",
-      "source": "NPR World",
-      "region": "World",
-      "published": "2026-08-18 11:40",
-      "published_iso": "2026-08-18T11:40:35+00:00",
-      "score": 96,
-      "keywords": [
-        "us",
-        "war"
-      ]
     }
   ]
 }
