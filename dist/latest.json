@@ -1,161 +1,952 @@
 {
-  "generated_at": "2026-10-27T05:25:34+00:00",
+  "generated_at": "2026-10-28T06:06:14+00:00",
   "article_count": 80,
   "source_count": 8,
   "errors": [],
   "articles": [
     {
-      "title": "Albanese promises ‘swift response’ on MP safety as he mulls panic buttons for politicians",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/27/albanese-promises-swift-response-on-mp-safety-as-he-mulls-panic-buttons-for-politicians-ntwnfb",
-      "summary": "Senator Fatima Payman also criticises former colleagues over lack of staffing given to her office Anthony Albanese has promised a “swift government response” to safety threats to MPs and floated the provision of duress alarms for electorate offices, saying po...",
+      "title": "Australian politics live: Coalition MP ejected from question time after swearing at PM; Payman apologises to Haines for comments after alleged attack",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
+      "summary": "Get our breaking news email , free app or daily news podcast Online hate is spilling into the real world, AFP warns AFP Commissioner Krissy Barrett began her late-night appearance at the Senate estimates hearing noting “a heaviness that hangs across Australia...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-10-27 05:19",
-      "published_iso": "2026-10-27T05:19:39+00:00",
+      "published": "2026-10-28 05:48",
+      "published_iso": "2026-10-28T05:48:08+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "Australian politics live: Coalition tells Albanese to ‘stop the spin’ on $6m golf grant; Labor promises ‘swift response’ on MP safety",
-      "link": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
-      "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Political debate should be ‘robust but respectful’, Anne Ruston says A day after MPs addressed the House of Representatives paying tribute to the independent Helen Haines...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-10-27 05:19",
-      "published_iso": "2026-10-27T05:19:10+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Two Candidates, Two Israels, One Nation in the Balance",
-      "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html",
-      "summary": "As Israel votes, hard-right nationalism competes with the country’s founding ideals. The outcome could shape Israel’s identity for years.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-10-27 05:19",
-      "published_iso": "2026-10-27T05:19:09+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Macklemore opens ‘Free Palestine’ tour in Dublin",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/macklemore-opens-free-palestine-tour-in-dublin?traffic_source=rss",
-      "summary": "American rapper Macklemore opened his ‘Free Palestine’ tour before a sold-out crowd in Dublin",
+      "title": "Why India has soured on Trump ahead of US midterms",
+      "link": "https://www.aljazeera.com/features/2026/10/28/why-india-has-soured-on-trump-ahead-of-us-midterms?traffic_source=rss",
+      "summary": "Seven years after Modi backed Trump, New Delhi may now hope US midterm losses leave the president chastened.",
       "source": "Al Jazeera",
       "region": "Middle East",
-      "published": "2026-10-27 05:14",
-      "published_iso": "2026-10-27T05:14:13+00:00",
+      "published": "2026-10-28 05:43",
+      "published_iso": "2026-10-28T05:43:40+00:00",
       "score": 100,
-      "keywords": []
+      "keywords": [
+        "us"
+      ]
     },
     {
-      "title": "Jay-Z to perform at Super Bowl half-time show",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
-      "summary": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
-      "source": "BBC World",
+      "title": "Rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear",
+      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+      "summary": "Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next government. Vote counting could take days.",
+      "source": "NYTimes World",
       "region": "World",
-      "published": "2026-10-27 05:05",
-      "published_iso": "2026-10-27T05:05:15+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Israel election live: polls open in most consequential vote in country’s history",
-      "link": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "summary": "Most polling shows prime minister Benjamin Netanyahu’s coalition will lose its majority, with Gadi Eisenkot the leading opposition contender What you need to know about Israel’s election In Jerusalem Israel is holding its first election since the 7 October 20...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-10-27 05:01",
-      "published_iso": "2026-10-27T05:01:26+00:00",
+      "published": "2026-10-28 05:39",
+      "published_iso": "2026-10-28T05:39:52+00:00",
       "score": 100,
       "keywords": [
         "election"
       ]
     },
     {
-      "title": "AI makes discoveries in mathematics, computer science, physics, OpenAI says",
-      "link": "https://www.aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says?traffic_source=rss",
-      "summary": "OpenAI's announcement is the latest in a series of claimed scientific breakthroughs credited to AI.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-10-27 05:01",
-      "published_iso": "2026-10-27T05:01:13+00:00",
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/10/28/world/israel-elections/heres-the-latest",
+      "summary": "",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-10-28 05:37",
+      "published_iso": "2026-10-28T05:37:18+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Israel election results live: vote count underway as exit polls point to tie between Netanyahu and Eisenkot blocs",
+      "link": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+      "summary": "Both blocs fall short of the 61 seats needed to form a government in initial forecasts as support for Palestinian parties surges Full report: Coalition talks loom as Israel exit polls suggest Netanyahu and Eisenkot blocs tied Analysis: Rise of Palestinian par...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-10-28 05:34",
+      "published_iso": "2026-10-28T05:34:51+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "From a seed in China to the ‘backdrop for countless love stories’: a ginko’s 167-year journey to Victorian tree of the year",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/28/backdrop-for-countless-local-love-stories-geelong-gingko-named-victorian-tree-of-the-year",
+      "summary": "National trust of Victoria award celebrates much-loved arboreal icons while calling for protection of green spaces Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast For more than 160 years,...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-10-28 05:32",
+      "published_iso": "2026-10-28T05:32:13+00:00",
+      "score": 100,
+      "keywords": [
+        "china"
+      ]
+    },
+    {
+      "title": "‘Emotional intimacy’ from AI chatbots would be banned under Australia’s digital duty of care laws",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics",
+      "summary": "Labor government under pressure to create social media watchdog as new online safety standards bill passes lower house The federal government wants to ban AI chatbots which seek to create “emotional intimacy” after prime minister Anthony Albanese raised the a...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-10-28 05:31",
+      "published_iso": "2026-10-28T05:31:55+00:00",
       "score": 100,
       "keywords": [
         "ai"
       ]
     },
     {
-      "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/heres-the-latest",
-      "summary": "",
+      "title": "Israel’s President, Isaac Herzog, Faces a Difficult Choice",
+      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html",
+      "summary": "The president has a largely ceremonial role, except after elections when it is his responsibility to pick a candidate for prime minister.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-10-27 05:01",
-      "published_iso": "2026-10-27T05:01:03+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "A quick guide to Israel's high-stakes elections",
-      "link": "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide",
-      "summary": "Israel is holding its first elections since the Hamas-led attacks of 2023 triggered a chain of conflicts across the region — a quick guide the key players, issues and when to expect a result.",
-      "source": "NPR World",
-      "region": "World",
-      "published": "2026-10-27 04:54",
-      "published_iso": "2026-10-27T04:54:30+00:00",
+      "published": "2026-10-28 05:18",
+      "published_iso": "2026-10-28T05:18:10+00:00",
       "score": 100,
       "keywords": [
         "election"
       ]
     },
     {
-      "title": "Iran, Saudi, Turkiye and Pakistan agree to more talks amid Houthi attacks",
-      "link": "https://www.aljazeera.com/news/2026/10/27/iran-saudi-turkiye-and-pakistan-agree-to-more-talks-amid-houthi-attacks?traffic_source=rss",
-      "summary": "Top officials from four countries to continue talks for peace and security as Saudi forces down more Houthi missiles.",
+      "title": "Two key unions turn on Labor, running attack ads and pulling campaign funds a month out from Victorian election",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/28/unions-turn-on-labor-attack-ads-campaign-funds-victorian-election-exclusive",
+      "summary": "Exclusive: ASU launches ‘Ben Lied. Labor lies’ ads while ETU diverts money to defending members at royal commission Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast Two major unions in Vic...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-10-28 05:10",
+      "published_iso": "2026-10-28T05:10:54+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "Gulf states working on multipart peace deal to avert renewal of US-Iran war",
+      "link": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war",
+      "summary": "Talks are aimed at reopening strait of Hormuz and lifting sanctions on Iran, and for Houthis to withdraw in Yemen A multipronged peace deal to reopen the strait of Hormuz within four days of sanctions being lifted and for the Houthis to withdraw substantial f...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-10-28 05:00",
+      "published_iso": "2026-10-28T05:00:55+00:00",
+      "score": 100,
+      "keywords": [
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "Beau Lamarre-Condon’s friend tells court she drank champagne while he scrubbed blood from van used to move bodies",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/28/beau-lamarre-condon-friend-tells-court-she-drank-champagne-while-he-cleaned-van-ntwnfb",
+      "summary": "Lamarre-Condon, who has pleaded not guilty to murders of Jesse Baird and Luke Davies, allegedly told friend he had ‘come to say goodbye’ Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast A...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-10-28 04:55",
+      "published_iso": "2026-10-28T04:55:48+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Mbappe faces backlash in China for meme fiasco",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/mbappe-faces-backlash-in-china-for-meme-fiasco?traffic_source=rss",
+      "summary": "Three major Chinese brands have ended partnerships with French football star Kylian Mbappe",
       "source": "Al Jazeera",
       "region": "Middle East",
-      "published": "2026-10-27 04:54",
-      "published_iso": "2026-10-27T04:54:26+00:00",
+      "published": "2026-10-28 04:28",
+      "published_iso": "2026-10-28T04:28:22+00:00",
+      "score": 100,
+      "keywords": [
+        "china"
+      ]
+    },
+    {
+      "title": "Watch: What happens now after close vote in Israeli election?",
+      "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Polls have closed in the Israeli election, but there is no clear winner.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-10-28 04:22",
+      "published_iso": "2026-10-28T04:22:59+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "Mahmoud Khalil credits Palestinian activism for reshaping US politics",
+      "link": "https://www.aljazeera.com/news/2026/10/28/mahmoud-khalil-credits-palestinian-activism-for-reshaping-us-politics?traffic_source=rss",
+      "summary": "Khalil returned to Columbia University to discuss his memoir detailing his arrest and detention by US immigration agents",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-10-28 04:13",
+      "published_iso": "2026-10-28T04:13:28+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Major Israeli TV networks revise polling projections – as it happened",
+      "link": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "summary": "This blog had now closed – our live Israel election results coverage continues here Israel election results live updates Across Israel , voting is now under way. Here are some of the latest images being sent to us over the newswires: Tens of thousands of Isra...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-10-28 04:08",
+      "published_iso": "2026-10-28T04:08:29+00:00",
+      "score": 100,
+      "keywords": [
+        "election",
+        "us"
+      ]
+    },
+    {
+      "title": "A Chinese Port Could Be a Lifeline for Spain, but Also a Threat",
+      "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html",
+      "summary": "Residents say a proposed Chinese car plant in northern Spain will create new jobs. Others say it’s a long-term risk, distilling a debate about the costs and perks of ties to China.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-10-28 04:01",
+      "published_iso": "2026-10-28T04:01:08+00:00",
+      "score": 100,
+      "keywords": [
+        "china"
+      ]
+    },
+    {
+      "title": "Bolsonaro ally denies knowledge of senator’s plan to flee Brazil",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/bolsonaro-ally-denies-knowledge-of-senators-plan-to-flee-brazil?traffic_source=rss",
+      "summary": "Flavio Bolsonaro’s former campaign manager says the senator did not inform him that he planned to flee Brazil.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-10-28 03:49",
+      "published_iso": "2026-10-28T03:49:40+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Hong Kong’s Property Market Is (Literally) the Stuff of Horror Movies",
+      "link": "https://www.nytimes.com/2026/10/27/world/asia/hong-kong-apartment-horror-movies.html",
+      "summary": "In the city’s “apartment horror” films, one of the world’s least affordable housing markets is a backdrop for exploring superstition and socioeconomic anxiety.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-10-28 03:36",
+      "published_iso": "2026-10-28T03:36:13+00:00",
+      "score": 100,
+      "keywords": [
+        "market"
+      ]
+    },
+    {
+      "title": "Global stock markets rise as investors continue to bet on AI",
+      "link": "https://www.aljazeera.com/news/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai?traffic_source=rss",
+      "summary": "Asian stock markets rise, following gains on Wall Street.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-10-28 03:14",
+      "published_iso": "2026-10-28T03:14:31+00:00",
+      "score": 100,
+      "keywords": [
+        "ai",
+        "market"
+      ]
+    },
+    {
+      "title": "Syria-Jordan border reopens amid probe into deadly air strikes",
+      "link": "https://www.aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes?traffic_source=rss",
+      "summary": "Foreign ministers form security committee to share intelligence and follow up on impact of Jordan's strikes on Syria.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-10-28 03:10",
+      "published_iso": "2026-10-28T03:10:17+00:00",
       "score": 100,
       "keywords": [
         "security"
       ]
     },
     {
-      "title": "People missing after massive drilling platform sinks off Gabon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/people-missing-after-massive-drilling-platform-sinks-off-gabon?traffic_source=rss",
-      "summary": "Five people are missing after a massive offshore drilling platform sank into the sea off Gabon’s southern coast.",
+      "title": "Five key takeaways from Israel’s parliamentary elections",
+      "link": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections?traffic_source=rss",
+      "summary": "Netanyahu's Likud emerges as single largest Israeli party, bloc edges past opposition.",
       "source": "Al Jazeera",
       "region": "Middle East",
-      "published": "2026-10-27 04:45",
-      "published_iso": "2026-10-27T04:45:16+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Israel heads to the polls as shift to the right dominates critical election",
-      "link": "https://www.aljazeera.com/news/2026/10/27/israel-heads-to-the-polls-as-shift-to-the-right-dominates-critical-election?traffic_source=rss",
-      "summary": "Netanyahu seeks to extend rule at helm of far right alliance facing off against predominantly right-wing bloc.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-10-27 04:44",
-      "published_iso": "2026-10-27T04:44:14+00:00",
+      "published": "2026-10-28 02:53",
+      "published_iso": "2026-10-28T02:53:35+00:00",
       "score": 100,
       "keywords": [
         "election"
       ]
     },
     {
-      "title": "Meghan to co-host Junior MasterChef Australia",
-      "link": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year.",
+      "title": "RAF Fairford Incident Was Coordinated By Man Acting for Iran, UK Prosecutors Say",
+      "link": "https://www.nytimes.com/2026/10/27/world/europe/raf-fairford-charges-uk-air-base-us-iran.html",
+      "summary": "Two British men were charged Tuesday over a suspected plot targeting a base used by the United States. Prosecutors believe they were directed by a man working for Iran.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-10-28 02:39",
+      "published_iso": "2026-10-28T02:39:46+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "What to Know About Brazil’s Election, and What Comes Next",
+      "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html",
+      "summary": "President Luis Inácio Lula da Silva’s victory ended a string of election wins by right-wing candidates in Latin America. His opponent, Flávio Bolsonaro, refused to accept defeat and has fled Brazil.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-10-28 02:36",
+      "published_iso": "2026-10-28T02:36:51+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+      "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-10-27 04:43",
-      "published_iso": "2026-10-27T04:43:56+00:00",
+      "published": "2026-10-28 02:20",
+      "published_iso": "2026-10-28T02:20:25+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Trump tells Texas campaign rally crowd he’s rolling back environmental rules to curb methane pollution – as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
+      "summary": "This live blog is now closed. Sign up for the Breaking News US email US voters: tell us what issues will decide your vote? Speaking to reporters on the tarmac before departing for a campaign event in Michigan, JD Vance responded to a question about President...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-10-28 02:00",
+      "published_iso": "2026-10-28T02:00:46+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
+      "link": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
+      "summary": "Critics warn of climate danger as president in Texas claims change will save companies and consumers billions Donald Trump announced his administration is “terminating” Biden-era regulations holding oil and gas companies accountable for large leaks of planet-...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-10-28 01:45",
+      "published_iso": "2026-10-28T01:45:27+00:00",
+      "score": 100,
+      "keywords": [
+        "climate"
+      ]
+    },
+    {
+      "title": "Arab parties on track to win record seats in Israel election, polls show",
+      "link": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
+      "summary": "Record-breaking voter turnout among Palestinian citizens of Israel hits around 80 percent, early indications show.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-10-28 00:43",
+      "published_iso": "2026-10-28T00:43:56+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "Netanyahu, Eisenkot camps clash over Israel election projections",
+      "link": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
+      "summary": "Despite narrower exit poll figures, opposition leaders insisted the result was a defeat for the government.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-10-28 00:43",
+      "published_iso": "2026-10-28T00:43:02+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "Flávio Bolsonaro Leaves Brazil for the U.S. After Election Defeat",
+      "link": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html",
+      "summary": "The U.S. plans to issue a visa to Mr. Bolsonaro, a U.S. official said. Brazilian police had asked him to hand over his passports because of his links to an investigation.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-10-28 00:26",
+      "published_iso": "2026-10-28T00:26:51+00:00",
+      "score": 100,
+      "keywords": [
+        "election",
+        "us"
+      ]
+    },
+    {
+      "title": "‘This is America’: US envoy scolds Cuban diplomat at UN",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss",
+      "summary": "US envoy Mike Waltz repeatedly told Cuba’s UN team, ‘This is America’, during a heated clash at UN headquarters",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-10-28 00:25",
+      "published_iso": "2026-10-28T00:25:08+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Rise of Palestinian parties in Knesset will redraw Israel’s political landscape",
+      "link": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
+      "summary": "Exit polls indicate opposition leader Gadi Eisenkot will have to work with Arab-Israeli leaders to have a hope of governing Israeli elections: live updates Full report: Coalition talks loom as Israel exit polls suggest Netanyahu and Eisenkot blocs tied Israel...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-10-27 23:57",
+      "published_iso": "2026-10-27T23:57:50+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
+      "link": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
+      "summary": "Gaza film festival highlights women's resilience through stories of war, loss and survival.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-10-27 23:35",
+      "published_iso": "2026-10-27T23:35:51+00:00",
+      "score": 100,
+      "keywords": [
+        "war"
+      ]
+    },
+    {
+      "title": "President Lula calls Bolsonaro’s Brazil exit ‘shameful’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/president-lula-calls-bolsonaros-brazil-exit?traffic_source=rss",
+      "summary": "President Lula da Silva criticised Flavio Bolsonaro for leaving Brazil amid reports he was headed to the US.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-10-27 23:23",
+      "published_iso": "2026-10-27T23:23:42+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "A bad day for Ben-Gvir as he addresses his supporters",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss",
+      "summary": "Itamar Ben Gvir was defiant after polls show his Otzma Yehudit party has lost seats in the Israeli election.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-10-27 23:16",
+      "published_iso": "2026-10-27T23:16:38+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state",
+      "link": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
+      "summary": "President at Texas campaign rally hails deal struck with post-Maduro government as ‘greatest oil victory in history’ Donald Trump suggested Venezuela would become the 51st state of the United States on Tuesday as the president showed off a tanker he claimed h...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-10-27 23:07",
+      "published_iso": "2026-10-27T23:07:06+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Israel election results: No clear winner projected, what’s next?",
+      "link": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
+      "summary": "President Isaac Herzog will task the candidate he deems best placed to form a government once results are in.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-10-27 23:06",
+      "published_iso": "2026-10-27T23:06:47+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "Israeli Election Authorities and Volunteers Seek to Counter Threats to Voting",
+      "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israeli-election-authorities-and-volunteers-seek-to-counter-threats-to-voting.html",
+      "summary": "Election observers point to risks including the growing sophistication and prevalence of A.I.-generated content and senior government officials who have repeatedly suggested the results could be rigged.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-10-27 22:41",
+      "published_iso": "2026-10-27T22:41:26+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss",
+      "summary": "Israel’s Joint Arab List party celebrated as exit polls projected as many as 18 parliamentary seats for the Arab-bloc.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-10-27 22:31",
+      "published_iso": "2026-10-27T22:31:31+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
+      "link": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
+      "summary": "Three-quarters of all responses were machine-generated in failed attempt to stop bill from passing into law, research finds AI bots flooded a government consultation with tens of thousands of fake responses in a failed attempt to stop the UK’s ban on disposab...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-10-27 22:30",
+      "published_iso": "2026-10-27T22:30:45+00:00",
+      "score": 100,
+      "keywords": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
+      "summary": "Iranian president's words came at summit for gas exporting countries in Russia.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-10-27 22:29",
+      "published_iso": "2026-10-27T22:29:31+00:00",
+      "score": 100,
+      "keywords": [
+        "middle east",
+        "russia",
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-10-27 22:11",
+      "published_iso": "2026-10-27T22:11:08+00:00",
+      "score": 100,
+      "keywords": [
+        "ceasefire",
+        "russia",
+        "ukraine"
+      ]
+    },
+    {
+      "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+      "link": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+      "summary": "Far-right senator en route to US after missing deadline to hand over his passport since loss to Lula The far-right senator Flávio Bolsonaro has reportedly fled Brazil and is on his way to the United States after losing Sunday’s presidential election to the le...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-10-27 22:03",
+      "published_iso": "2026-10-27T22:03:00+00:00",
+      "score": 100,
+      "keywords": [
+        "election",
+        "us"
+      ]
+    },
+    {
+      "title": "In Israel’s Election, It’s Nationalism vs. Founding Ideals",
+      "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html",
+      "summary": "As Israel votes, ever more strident hard-right views compete with hopes for a diverse land. The outcome could shape the country’s identity for years.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-10-27 21:49",
+      "published_iso": "2026-10-27T21:49:04+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "Flavio Bolsonaro flees Brazil after election loss, US says will grant visa",
+      "link": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss",
+      "summary": "News comes one day after Brazil's Supreme Court ordered Bolsonaro to hand over his passports in money-laundering probe.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-10-27 21:47",
+      "published_iso": "2026-10-27T21:47:34+00:00",
+      "score": 100,
+      "keywords": [
+        "election",
+        "us"
+      ]
+    },
+    {
+      "title": "Trump touts Venezuelan oil at Texas rally ahead of US midterms",
+      "link": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
+      "summary": "US president seeks to highlight Venezuela operation as Iran war makes affordability a key midterm issue.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-10-27 21:28",
+      "published_iso": "2026-10-27T21:28:33+00:00",
+      "score": 100,
+      "keywords": [
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "Forever Wars: Why can’t America stop?",
+      "link": "https://www.aljazeera.com/video/lets-focus/2026/10/27/forever-wars-why-cant-america-stop?traffic_source=rss",
+      "summary": "Iran, Iraq, Afghanistan. Why does the US keep going to war, and can voters stop it?",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-10-27 21:21",
+      "published_iso": "2026-10-27T21:21:08+00:00",
+      "score": 100,
+      "keywords": [
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "Will players in the Gulf establish a new security framework?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/27/will-players-in-the-gulf-establish-a-new-security-framework?traffic_source=rss",
+      "summary": "Officials from Riyadh, Islamabad, Ankara and Tehran met in Iran.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-10-27 21:14",
+      "published_iso": "2026-10-27T21:14:12+00:00",
+      "score": 100,
+      "keywords": [
+        "security"
+      ]
+    },
+    {
+      "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+      "link": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-10-27 21:09",
+      "published_iso": "2026-10-27T21:09:12+00:00",
       "score": 100,
       "keywords": []
+    },
+    {
+      "title": "Tensions Between North and South Korea Stem From Decade-Old Border Dispute",
+      "link": "https://www.nytimes.com/2026/10/27/world/asia/korea-tensions-border-dmz-mdl.html",
+      "summary": "A heated disagreement over recent land mine explosions is part of the legacy of the truce that halted the Korean War 73 years ago.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-10-27 21:00",
+      "published_iso": "2026-10-27T21:00:08+00:00",
+      "score": 100,
+      "keywords": [
+        "war"
+      ]
+    },
+    {
+      "title": "Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats",
+      "link": "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
+      "summary": "Early indications suggest it will be some time before the shape of new government and who will lead it is clear Israel election – live updates Israel election: what we know so far Rise of Palestinian parties in Knesset will redraw Israel’s political landscape...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-10-27 20:56",
+      "published_iso": "2026-10-27T20:56:23+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "European Leaders Split Over Phone Call to Putin",
+      "link": "https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html",
+      "summary": "The diplomatic outreach was part of an effort to push talks to end the war in Ukraine, though it was not welcomed by all European leaders.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-10-27 20:49",
+      "published_iso": "2026-10-27T20:49:50+00:00",
+      "score": 100,
+      "keywords": [
+        "europe",
+        "ukraine",
+        "war"
+      ]
+    },
+    {
+      "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-10-27 20:44",
+      "published_iso": "2026-10-27T20:44:40+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+      "link": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-10-27 20:42",
+      "published_iso": "2026-10-27T20:42:38+00:00",
+      "score": 100,
+      "keywords": [
+        "russia",
+        "ukraine"
+      ]
+    },
+    {
+      "title": "Olivia Chow elected as Toronto mayor for second term in victory for progressives",
+      "link": "https://www.theguardian.com/world/2026/oct/27/olivia-chow-toronto-mayor-election-results",
+      "summary": "Tightly fought election saw record turnout as incumbent mayor ran against her rival Brad Bradford The mayor of Toronto, Olivia Chow, promised more rental housing, free school lunches and reduce fares for frequent transit riders after she was elected to a deci...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-10-27 20:23",
+      "published_iso": "2026-10-27T20:23:46+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "Book Review: ‘Princes and Thieves,’ by Matthew Cole",
+      "link": "https://www.nytimes.com/2026/10/26/books/review/princes-and-thieves-matthew-cole.html",
+      "summary": "The new book by the reporter Matthew Cole connects $2 billion in slush funds from Gulf state leaders to Trump’s son-in-law in an effort to influence U.S. policy.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-10-27 19:43",
+      "published_iso": "2026-10-27T19:43:59+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Dutch zookeeper dies after being mauled by leopard",
+      "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-10-27 19:30",
+      "published_iso": "2026-10-27T19:30:37+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "RAF Fairford plot ‘coordinated by handler working on behalf of Iran’",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/27/two-men-charged-raf-fairford",
+      "summary": "Two men charged under National Security Act were directed by handler believed to have been working for Iranian intelligence, court told A group of men were directed to drive vans loaded with petrol to Fairford RAF base by a handler known as Ali, who police be...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-10-27 19:24",
+      "published_iso": "2026-10-27T19:24:29+00:00",
+      "score": 100,
+      "keywords": [
+        "security"
+      ]
+    },
+    {
+      "title": "Israeli elections have great consequences for Palestinians, but they don’t get to vote.",
+      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/israeli-elections-have-great-consequences-for-palestinians-but-they-dont-get-to-vote",
+      "summary": "Election fliers in Beit Kahil in the West Bank on Tuesday.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-10-27 19:18",
+      "published_iso": "2026-10-27T19:18:48+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "Do You Have Questions About the U.S. Midterm Elections?",
+      "link": "https://www.nytimes.com/2026/10/27/world/americas/callout-reader-questions-us-midterm-elections.html",
+      "summary": "We want to hear from you.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-10-27 19:01",
+      "published_iso": "2026-10-27T19:01:44+00:00",
+      "score": 100,
+      "keywords": [
+        "election",
+        "us"
+      ]
+    },
+    {
+      "title": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
+      "link": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Overcrowding and poor ventilation caused the deaths of 33 detainees in a prison cell in Minna state.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-10-27 19:01",
+      "published_iso": "2026-10-27T19:01:16+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Israel’s Election: 4 Things to Watch For",
+      "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-four-things.html",
+      "summary": "The election on Tuesday is unlikely to yield quick answers about who might lead the next government.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-10-27 18:59",
+      "published_iso": "2026-10-27T18:59:59+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "Netanyahu accuses Arab citizens of ‘trying to steal the elections’ in racial appeal to voters.",
+      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/netanyahu-accuses-arab-citizens-of-trying-to-steal-the-elections-in-racial-appeal-to-voters",
+      "summary": "Prime Minister Benjamin Netanyahu of Israel talking to supporters during a campaign event in Jerusalem last week.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-10-27 18:53",
+      "published_iso": "2026-10-27T18:53:47+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The group targeted elderly people across US and Europe, luring them into romantic relationship before persuading them to transfer large sums of money.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-10-27 18:43",
+      "published_iso": "2026-10-27T18:43:41+00:00",
+      "score": 100,
+      "keywords": [
+        "europe",
+        "us"
+      ]
+    },
+    {
+      "title": "Controversial Islamic cleric shot dead in northern Nigeria",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd8nq55d74o?at_medium=RSS&at_campaign=rss",
+      "summary": "Yahaya Masussuka had posted videos in which he rejected some elements of mainstream Islam.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-10-27 18:35",
+      "published_iso": "2026-10-27T18:35:02+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Israeli elections a 'referendum' on Netanyahu, security and whether Israel will 'remain a democracy'",
+      "link": "https://www.france24.com/en/israeli-elections-a-referendum-on-netanyahu-security-and-whether-israel-will-remain-a-democracy",
+      "summary": "Erin Ogunkeye is pleased to welcome Ron Gerlitz, CEO of aChord Center at Hebrew University, an Israeli organization specialising in the social psychology of intergroup relations. “The main issue in this election is the fight for Israeli democracy,” explains G...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-10-27 18:34",
+      "published_iso": "2026-10-27T18:34:19+00:00",
+      "score": 100,
+      "keywords": [
+        "election",
+        "security"
+      ]
+    },
+    {
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-10-27 18:28",
+      "published_iso": "2026-10-27T18:28:23+00:00",
+      "score": 100,
+      "keywords": [
+        "ukraine"
+      ]
+    },
+    {
+      "title": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
+      "link": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin",
+      "summary": "Frontline near Russian-occupied city in southern Ukraine quiet for first time in years ahead of planned evacuation A local ceasefire in a southern Ukrainian city under Russian occupation appeared to be holding on Tuesday, with both sides ceasing drone attacks...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-10-27 17:43",
+      "published_iso": "2026-10-27T17:43:02+00:00",
+      "score": 100,
+      "keywords": [
+        "ceasefire",
+        "europe",
+        "russia",
+        "ukraine"
+      ]
+    },
+    {
+      "title": "Trump Explores Lifting Sanctions on Russia’s Flagship Investment Fund",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html",
+      "summary": "The move would be the latest U.S. concession to Moscow as President Trump pursues economic incentives he hopes will secure an end to war in Ukraine.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-10-27 17:30",
+      "published_iso": "2026-10-27T17:30:52+00:00",
+      "score": 100,
+      "keywords": [
+        "russia",
+        "ukraine",
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – as it happened",
+      "link": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
+      "summary": "Alexander Stubb and Jonas Gahr Støre held ‘substantive’ talk with Russian president on peace negotiations, but faced sceptical reactions from some European leaders Meanwhile, Wes Streeting, the defence secretary, has warned that Russia’s Vladimir Putin is “te...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-10-27 16:23",
+      "published_iso": "2026-10-27T16:23:32+00:00",
+      "score": 100,
+      "keywords": [
+        "europe",
+        "russia"
+      ]
+    },
+    {
+      "title": "West warns of famine risk in Sudan as civil war grinds on",
+      "link": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Millions face acute hunger in Sudan as conflict, drought and funding cuts aggravate the humanitarian crisis.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-10-27 15:41",
+      "published_iso": "2026-10-27T15:41:46+00:00",
+      "score": 100,
+      "keywords": [
+        "war"
+      ]
+    },
+    {
+      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-10-27 13:25",
+      "published_iso": "2026-10-27T13:25:54+00:00",
+      "score": 100,
+      "keywords": [
+        "china"
+      ]
+    },
+    {
+      "title": "What does Israel's election mean for Gaza and the wider world?",
+      "link": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-10-27 10:17",
+      "published_iso": "2026-10-27T10:17:36+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
     },
     {
       "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
@@ -174,448 +965,29 @@
       ]
     },
     {
-      "title": "Israel election 2026 live: Netanyahu faces tough test in high-stakes polls",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss",
-      "summary": "Millions to cast ballots in election widely billed as the most consequential in Israel's history.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-10-27 04:30",
-      "published_iso": "2026-10-27T04:30:00+00:00",
-      "score": 100,
-      "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "Israel votes in first election since October 7 attack as Netanyahu faces crucial test",
-      "link": "https://www.france24.com/en/middle-east/20261027-israel-election-2026-netanyahu-october-7",
-      "summary": "Israelis head to the polls on Tuesday for the first time since Hamas's October 7, 2023 attack, in a closely contested election seen as a referendum on Prime Minister Benjamin Netanyahu. The vote follows three years of regional wars, with Netanyahu running nec...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-10-27 04:12",
-      "published_iso": "2026-10-27T04:12:41+00:00",
-      "score": 100,
-      "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "What to Know About Brazil’s Election, and What Comes Next",
-      "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html",
-      "summary": "President Luis Inácio Lula da Silva’s victory ended a string of presidential election wins by right-wing candidates in Latin America. His opponent has refused to accept defeat.",
-      "source": "NYTimes World",
+      "title": "U.S. to issue visas to Flávio Bolsonaro as his whereabouts remain unclear",
+      "link": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
+      "summary": "Flávio Bolsonaro leaves Brazil for the U.S. amid a money-laundering probe, as Washington agrees to issue visas to him and his family.",
+      "source": "NPR World",
       "region": "World",
-      "published": "2026-10-27 04:08",
-      "published_iso": "2026-10-27T04:08:13+00:00",
-      "score": 100,
-      "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "What Is the Commonwealth? What to Know as King Charles Hosts Meeting in the Caribbean",
-      "link": "https://www.nytimes.com/2026/10/27/world/europe/commonwealth-king-charles-chogm.html",
-      "summary": "King Charles III is traveling to host a meeting of the leaders of more than 50 nations.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-10-27 04:01",
-      "published_iso": "2026-10-27T04:01:13+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "King Charles Faces High Stakes Test With Caribbean Tour",
-      "link": "https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html",
-      "summary": "The king will confront calls for reparations and apologies for his country’s colonial past as he attends the Commonwealth heads of government meeting.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-10-27 04:01",
-      "published_iso": "2026-10-27T04:01:06+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Kylian Mbappe loses two major China sponsorship deals over Mao Zedong joke",
-      "link": "https://www.france24.com/en/sport/20261027-kylian-mbappe-china-mao-zedong-sponsorship-deal",
-      "summary": "French football star Kylian Mbappe was dropped by two major Chinese brands on Tuesday after a video circulated online in which he appeared to joke about former leader Mao Zedong. Energy drink giant Dongpeng and dairy producer Mengniu said they had terminated...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-10-27 03:54",
-      "published_iso": "2026-10-27T03:54:02+00:00",
-      "score": 100,
-      "keywords": [
-        "china",
-        "energy"
-      ]
-    },
-    {
-      "title": "Man with fake gun shot after using abused partner as shield",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/man-with-fake-gun-shot-after-using-abused-partner-as-shield?traffic_source=rss",
-      "summary": "Brazilian police shot a man who assaulted and threatened his partner with a fake gun in Criciuma, southern Brazil.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-10-27 03:48",
-      "published_iso": "2026-10-27T03:48:41+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Serbia’s Election Shows New Vulnerability for Nationalist Populists",
-      "link": "https://www.nytimes.com/2026/10/26/world/europe/serbia-election-vucic-nationalist-populists.html",
-      "summary": "In much of Europe, the advance of the right has been seen as unstoppable. But in the east, nationalists are being cast aside in places where they long governed.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-10-27 03:29",
-      "published_iso": "2026-10-27T03:29:47+00:00",
-      "score": 100,
-      "keywords": [
-        "election",
-        "europe"
-      ]
-    },
-    {
-      "title": "Ex-FBI chief Comey defiant in the face of third prosecution",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/ex-fbi-chief-comey-defiant-in-the-face-of-third-prosecution?traffic_source=rss",
-      "summary": "Ex-FBI Director James Comey denies US Justice Department's new charges.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-10-27 03:17",
-      "published_iso": "2026-10-27T03:17:40+00:00",
-      "score": 100,
+      "published": "2026-10-28 01:58",
+      "published_iso": "2026-10-28T01:58:08+00:00",
+      "score": 99,
       "keywords": [
         "us"
       ]
     },
     {
-      "title": "US bans vehicles from China’s BYD at Japan military base, calling them ‘unacceptable’ risk",
-      "link": "https://www.theguardian.com/world/2026/oct/27/us-bans-byd-electric-vehicles-kadena-military-base",
-      "summary": "US military says the restrictions on the electric vehicles at Kadena airbase also apply to delivery drivers and taxis One of America’s biggest overseas military bases has banned vehicles made by the Chinese electric vehicle maker BYD over security concerns, t...",
-      "source": "The Guardian World",
+      "title": "Israel's voter turnout soars as Netanyahu faces a tight election",
+      "link": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
+      "summary": "Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition.",
+      "source": "NPR World",
       "region": "World",
-      "published": "2026-10-27 02:50",
-      "published_iso": "2026-10-27T02:50:31+00:00",
-      "score": 100,
-      "keywords": [
-        "china",
-        "security",
-        "us"
-      ]
-    },
-    {
-      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-10-27 02:40",
-      "published_iso": "2026-10-27T02:40:17+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Moroccan police intercept migrant swimming back towards Ceuta",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/moroccan-police-intercept-migrant-swimming-back-towards-ceuta?traffic_source=rss",
-      "summary": "Moroccan police intercepted a migrant swimming towards Spain’s North African enclave of Ceuta",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-10-27 02:38",
-      "published_iso": "2026-10-27T02:38:48+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect",
-      "link": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss",
-      "summary": "The localised ceasefire, secured by US First Lady Melania Trump, will allow evacuations and aid deliveries to Oleshky.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-10-27 02:29",
-      "published_iso": "2026-10-27T02:29:00+00:00",
-      "score": 100,
-      "keywords": [
-        "ceasefire",
-        "russia",
-        "ukraine",
-        "us"
-      ]
-    },
-    {
-      "title": "US-EU trade truce at risk over $3.4 billion Airbus loan, Trump official warns",
-      "link": "https://www.france24.com/en/europe/20261027-us-eu-trade-truce-airbus-loan-trump",
-      "summary": "US Trade Representative Jamieson Greer warned on Monday that a $3.4 billion European Investment Bank loan to Airbus could jeopardise a tariff truce between Washington and Brussels. Greer said his office had received no details about the financing, announced i...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-10-27 02:20",
-      "published_iso": "2026-10-27T02:20:28+00:00",
-      "score": 100,
-      "keywords": [
-        "europe",
-        "us"
-      ]
-    },
-    {
-      "title": "Trump suggests renaming the Atlantic Ocean the ‘American Ocean’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-suggests-renaming-the-atlantic-ocean-the-american?traffic_source=rss",
-      "summary": "US President Donald Trump has suggested renaming the Atlantic Ocean the ‘American Ocean’ at a Republican rally.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-10-27 02:17",
-      "published_iso": "2026-10-27T02:17:06+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Ex-FBI chief James Comey faces federal charges for third time",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-10-27 02:01",
-      "published_iso": "2026-10-27T02:01:27+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Trump continues midterm campaign blitz in Mississippi amid outcry over racist, Islamophobic attacks – as it happened",
-      "link": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
-      "summary": "This live blog is now closed. What are the US midterm elections and why do they matter? Sign up for Breaking News US email In a post to social media on Monday, Ukrainian president Volodymyr Zelenskyy said that Ukraine was facing dwindling stocks of Patriot in...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-10-27 01:55",
-      "published_iso": "2026-10-27T01:55:40+00:00",
-      "score": 100,
-      "keywords": [
-        "election",
-        "ukraine",
-        "us"
-      ]
-    },
-    {
-      "title": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
-      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
-      "summary": "Israel’s military chief resisted the prime minister, who then pressed in recent days for a separate action, short of an overt strike, according to an official and a person briefed on the matter.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-10-27 01:34",
-      "published_iso": "2026-10-27T01:34:24+00:00",
-      "score": 100,
+      "published": "2026-10-27 20:45",
+      "published_iso": "2026-10-27T20:45:39+00:00",
+      "score": 99,
       "keywords": [
         "election"
-      ]
-    },
-    {
-      "title": "Bolsonaro’s party accepts Brazil election after Trump calls vote ‘rigged’",
-      "link": "https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was?traffic_source=rss",
-      "summary": "Trump pushes unsubstantiated claims about Brazil's presidential vote but says he 'didn't take sides' in the race.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-10-27 01:32",
-      "published_iso": "2026-10-27T01:32:54+00:00",
-      "score": 100,
-      "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "Serbia’s ‘students’ celebrate for a second night after election victory",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/serbias-students-celebrate-for-a-second-night-after-election-victory?traffic_source=rss",
-      "summary": "Thousands gathered on the streets of Belgrade for a second night to celebrate the student-led movement's victory.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-10-27 01:06",
-      "published_iso": "2026-10-27T01:06:50+00:00",
-      "score": 100,
-      "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "US court rules against Trump administration in California voting case",
-      "link": "https://www.aljazeera.com/news/2026/10/27/us-court-rules-against-trump-administration-in-california-voting-case?traffic_source=rss",
-      "summary": "US appeals court blocks government effort to stop California from tabulating ballots from list of alleged non-citizens.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-10-27 01:01",
-      "published_iso": "2026-10-27T01:01:53+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "How Lula’s Social Media Campaign Helped Him Win Brazil’s Election",
-      "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html",
-      "summary": "President Luiz Inácio Lula da Silva won another term on Sunday, with the help of a seismic social media campaign that convinced Brazilians to reject his rival.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-10-27 00:45",
-      "published_iso": "2026-10-27T00:45:26+00:00",
-      "score": 100,
-      "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "Romania says Russia-run sabotage network set fire near weapons factory",
-      "link": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory?traffic_source=rss",
-      "summary": "Authorities say the fire in September is part of a broader campaign against European countries that support Ukraine.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-10-27 00:33",
-      "published_iso": "2026-10-27T00:33:06+00:00",
-      "score": 100,
-      "keywords": [
-        "europe",
-        "russia",
-        "ukraine"
-      ]
-    },
-    {
-      "title": "Court blocks bid by Trump DoJ to stop California from counting mail-in ballots",
-      "link": "https://www.theguardian.com/us-news/2026/oct/26/court-california-ballots",
-      "summary": "Newsom accuses Trump of ‘assault on democracy’ as DoJ claims 20,000 registered voters in state are non-citizens A US federal appeals court rejected the Trump administration’s move to block California from counting the ballots of 20,000 registered voters that...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-10-27 00:31",
-      "published_iso": "2026-10-27T00:31:37+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-10-27 00:31",
-      "published_iso": "2026-10-27T00:31:11+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims",
-      "link": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
-      "summary": "Tasks from determining asylum seekers’ ages to border surveillance now involve AI, says Open Rights Group AI has been embedded across the Home Office in near-total secrecy, reinforcing the so-called hostile environment for immigration, according to research....",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-10-27 00:01",
-      "published_iso": "2026-10-27T00:01:02+00:00",
-      "score": 100,
-      "keywords": [
-        "ai"
-      ]
-    },
-    {
-      "title": "UK shop price inflation ‘highest since 2024’ as retailers struggle to limit price rises",
-      "link": "https://www.theguardian.com/business/2026/oct/27/uk-shop-price-inflation-highest-since-2024-as-retailers-struggle-to-limit-price-rises",
-      "summary": "British Retail Consortium says ‘dam is starting to break on the huge wave of costs’ being kept from consumers Shop price inflation has risen to the highest level in two and a half years, according to the British Retail Consortium, which warned that “the dam i...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-10-27 00:01",
-      "published_iso": "2026-10-27T00:01:02+00:00",
-      "score": 100,
-      "keywords": [
-        "inflation"
-      ]
-    },
-    {
-      "title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
-      "link": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
-      "summary": "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second. What comes next for Brazil? The Guardian’s Tom Phillips will be answering your questi...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-10-27 00:00",
-      "published_iso": "2026-10-27T00:00:03+00:00",
-      "score": 100,
-      "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
-      "summary": "Iran says the United States is \"not serious\" about negotiations as UKMTO reports a ship on fire off the coast of Iraq.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-10-27 00:00",
-      "published_iso": "2026-10-27T00:00:00+00:00",
-      "score": 100,
-      "keywords": [
-        "us",
-        "war"
-      ]
-    },
-    {
-      "title": "Brazil Supreme Court Orders Flávio Bolsonaro to Hand Over Passports in Money Laundering Inquiry",
-      "link": "https://www.nytimes.com/2026/10/26/world/americas/flavio-bolsonaro-passport-brazil.html",
-      "summary": "Brazil’s Supreme Court told the police to seize passport of Mr. Bolsonaro, who lost the presidential election, over his links to an investigation.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-10-26 23:55",
-      "published_iso": "2026-10-26T23:55:15+00:00",
-      "score": 100,
-      "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "Bolsonaro says police demand passports after Brazil election defeat",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss",
-      "summary": "Flavio Bolsonaro posted a video on social media saying police ordered him to surrender his passports",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-10-26 23:53",
-      "published_iso": "2026-10-26T23:53:45+00:00",
-      "score": 100,
-      "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "Europe's top NATO powers pledge greater defence role, reaffirm US alliance",
-      "link": "https://www.france24.com/en/europe/20261026-europe-nato-defence-responsibility-us-alliance",
-      "summary": "Europe's five main NATO members said on Monday they were ready to take greater responsibility for the continent's security while reaffirming the United States as an \"indispensable ally\". Defence ministers from France, Germany, Italy, Poland and Britain pledge...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-10-26 23:33",
-      "published_iso": "2026-10-26T23:33:06+00:00",
-      "score": 100,
-      "keywords": [
-        "europe",
-        "security",
-        "us"
-      ]
-    },
-    {
-      "title": "Mecca pact nations hold talks with Iran to prevent renewed Middle East war",
-      "link": "https://www.france24.com/en/middle-east/20261026-iran-talks-mecca-pact-nations-war",
-      "summary": "Senior officials from Saudi Arabia, Turkey and Pakistan held talks in Iran on Monday aimed at preventing renewed fighting in the Middle East, with Tehran describing discussions as “very good”. The diplomatic push, attended by Saudi Defence Minister Prince Kha...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-10-26 23:24",
-      "published_iso": "2026-10-26T23:24:17+00:00",
-      "score": 100,
-      "keywords": [
-        "middle east",
-        "war"
-      ]
-    },
-    {
-      "title": "Civilian Suffering Was Goal of Russian Strikes in Ukraine, U.N. Panel Says",
-      "link": "https://www.nytimes.com/2026/10/26/world/europe/russia-ukraine-energy-strikes-un.html",
-      "summary": "The assaults on infrastructure, which cut off heat and power on bitterly cold winter days, amounted to a crime against humanity, investigators said.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-10-26 23:12",
-      "published_iso": "2026-10-26T23:12:02+00:00",
-      "score": 100,
-      "keywords": [
-        "russia",
-        "ukraine"
       ]
     },
     {
@@ -624,426 +996,63 @@
       "summary": "Seeking new elections, María Corina Machado will need to tread carefully to avoid offending the Trump administration, while also asserting her own leadership.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-10-26 23:09",
-      "published_iso": "2026-10-26T23:09:14+00:00",
-      "score": 100,
+      "published": "2026-10-27 16:02",
+      "published_iso": "2026-10-27T16:02:58+00:00",
+      "score": 99,
       "keywords": [
         "election",
         "us"
       ]
     },
     {
-      "title": "Mexico’s Top Election Official Resigns Amid Corruption Scandal",
-      "link": "https://www.nytimes.com/2026/10/26/world/americas/mexico-election-official-resigns.html",
-      "summary": "Guadalupe Taddei Zavala, the head of the electoral watchdog, stepped down after facing accusations of corruption and influence peddling.",
+      "title": "5 Key Moments From Israel’s Pivotal Election Campaign",
+      "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-campaign-highlights.html",
+      "summary": "New political alliances, a contentious A.I. video and accusations about security failures all featured in the run-up to Tuesday’s election, widely seen as one of the most consequential in Israeli history.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-10-26 22:33",
-      "published_iso": "2026-10-26T22:33:20+00:00",
-      "score": 100,
+      "published": "2026-10-27 09:45",
+      "published_iso": "2026-10-27T09:45:05+00:00",
+      "score": 99,
       "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "Former FBI director James Comey hit with third set of charges under Trump",
-      "link": "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss",
-      "summary": "Comey, who was fired during Trump's first term, has been accused of unlawfully divulging national security information.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-10-26 22:03",
-      "published_iso": "2026-10-26T22:03:26+00:00",
-      "score": 100,
-      "keywords": [
+        "election",
         "security"
       ]
     },
     {
-      "title": "Anthropic's IPO filing shows soaring sales and steep losses",
-      "link": "https://www.france24.com/en/tv-shows/business/20261026-anthropic-s-ipo-filing-shows-soaring-sales-and-steep-losses",
-      "summary": "AI giant Anthropic has publicly filed for an initial public offering (IPO) with US market regulators. The document offered a glimpse into the company's finances but also contained nearly 100 pages related to risks around investing in the company. The filing r...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-10-26 22:01",
-      "published_iso": "2026-10-26T22:01:25+00:00",
-      "score": 100,
-      "keywords": [
-        "ai",
-        "market",
-        "us"
-      ]
-    },
-    {
-      "title": "Africa food security under threat due to Iran war, trade officials warn",
-      "link": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
-      "summary": "The war on Iran is driving up fuel and fertiliser costs across Africa, threatening food security, trade officials say.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-10-26 21:42",
-      "published_iso": "2026-10-26T21:42:18+00:00",
-      "score": 100,
-      "keywords": [
-        "security",
-        "war"
-      ]
-    },
-    {
-      "title": "Election Surprises",
-      "link": "https://www.nytimes.com/2026/10/26/world/brazil-serbia-election-results-anthropic.html",
-      "summary": "Serbia and Brazil are very different countries. But their unexpected election results tell us a lot.",
+      "title": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
+      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html",
+      "summary": "Saudi Arabia, Turkey and Pakistan made a rare joint visit to Tehran amid reports that the U.S. and Israel were drawing up plans to renew their attacks on Iran.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-10-26 21:37",
-      "published_iso": "2026-10-26T21:37:28+00:00",
-      "score": 100,
+      "published": "2026-10-27 06:59",
+      "published_iso": "2026-10-27T06:59:20+00:00",
+      "score": 99,
       "keywords": [
-        "election",
-        "us"
-      ]
-    },
-    {
-      "title": "'Maxxing' selected as Dictionary.com word of the year",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
-      "summary": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-10-26 21:31",
-      "published_iso": "2026-10-26T21:31:53+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Lula wins fourth term in dramatic Brazil election comeback",
-      "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-10-26 21:02",
-      "published_iso": "2026-10-26T21:02:47+00:00",
-      "score": 100,
-      "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "Man found dead in Queensland floods named as former councillor and One Nation candidate",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/26/man-found-dead-in-queensland-floodwaters-as-state-hit-by-days-long-deluge",
-      "summary": "Fraser coast mayor described James Hansen as ‘always ready to help others, contribute to the community and advocate strongly’ Get our breaking news email , free app or daily news podcast James Hansen, a former Queensland councillor, has been identified as the...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-10-26 20:55",
-      "published_iso": "2026-10-26T20:55:21+00:00",
-      "score": 100,
-      "keywords": [
-        "flood"
-      ]
-    },
-    {
-      "title": "Israel Has Committed Genocidal Acts in Gaza Since Cease-Fire, U.N. Human Rights Panel Says",
-      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/un-human-rights-panel-israel-palestinians.html",
-      "summary": "The panel also accuses Israel of committing crimes against humanity in the West Bank. Israel condemned the report.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-10-26 20:30",
-      "published_iso": "2026-10-26T20:30:07+00:00",
-      "score": 100,
-      "keywords": [
-        "ceasefire"
-      ]
-    },
-    {
-      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-      "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-10-26 19:27",
-      "published_iso": "2026-10-26T19:27:21+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
-      "link": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
-      "summary": "Israeli prime minister increases alarmist rhetoric as his far-right coalition narrowly trails in polls Benjamin Netanyahu has resorted to increasingly alarmist rhetoric and reportedly put pressure on Israel’s military to take action against Iran as his far-ri...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-10-26 19:21",
-      "published_iso": "2026-10-26T19:21:36+00:00",
-      "score": 100,
-      "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "Middle East peace held back by US insistence that Iran is a threat, Oman’s foreign minister says",
-      "link": "https://www.theguardian.com/world/2026/oct/26/saudi-pakistani-turkish-delegation-iran-avert-flare-up-conflict-us",
-      "summary": "Badr Albusaidi calls for security pact involving Gulf states, Iraq and Iran with US no longer primary provider of security The Middle East’s ability to solve its problems has been held back by America’s 50-year insistence that the Gulf states should view Iran...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-10-26 19:12",
-      "published_iso": "2026-10-26T19:12:09+00:00",
-      "score": 100,
-      "keywords": [
-        "middle east",
-        "security",
-        "us"
-      ]
-    },
-    {
-      "title": "Pope's South American trip to go ahead as planned after lung cancer surgery",
-      "link": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Pope underwent surgery in to remove a tumour on the lower part of his right lung and is gradually resuming his duties.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-10-26 18:46",
-      "published_iso": "2026-10-26T18:46:19+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Major clean-up under way after two storms cause havoc in Britain",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/26/power-cuts-storm-boelo-austen-uk",
-      "summary": "More strong winds forecast after Austen and Boelo kill two people and bring travel disruption and flooding Tell us: have you been affected by Storm Boelo and Storm Austen A major clean-up operation was under way on Monday after weekend storms caused havoc, wi...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-10-26 18:25",
-      "published_iso": "2026-10-26T18:25:07+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
-      "link": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The airport won’t have direct public transportation for a year. How do locals feel about getting there?",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-10-26 18:00",
-      "published_iso": "2026-10-26T18:00:10+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "How the streets and social media drove Lula to a historic comeback in Brazil",
-      "link": "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
-      "summary": "A viral WhatsApp channel and student-led protests played a key role in the veteran Brazilian leftist’s election victory After the first round of the Brazilian presidential election three weeks ago, the leftist incumbent Luiz Inácio Lula da Silva reportedly to...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-10-26 17:56",
-      "published_iso": "2026-10-26T17:56:50+00:00",
-      "score": 100,
-      "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "How Lula beat far-right Bolsonaro in Brazil – The Latest",
-      "link": "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest",
-      "summary": "Brazil’s Luiz Inácio Lula da Silva has won a historic fourth term as president, defeating the far-right candidate Flávio Bolsonaro in a dramatic comeback. Lula is the first candidate to win a runoff election after losing in the first round, taking victory wit...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-10-26 17:38",
-      "published_iso": "2026-10-26T17:38:16+00:00",
-      "score": 100,
-      "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "Opponents accuse Netanyahu of stoking tensions with Iran before Israel's election",
-      "link": "https://www.france24.com/en/opponents-accuse-netanyahu-of-stoking-tensions-with-iran-before-israel-s-election",
-      "summary": "Israel's defence minister denied on Monday (October 26) reports of a rift between PM Netanyahu and the army over Iran, before the vote. Netanyahu has campaigned heavily on his security credentials, insisting only he can \"finish the job\" in the US-Israeli war...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-10-26 17:11",
-      "published_iso": "2026-10-26T17:11:03+00:00",
-      "score": 100,
-      "keywords": [
-        "election",
-        "security",
         "us",
         "war"
       ]
     },
     {
-      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
-      "summary": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-10-26 17:00",
-      "published_iso": "2026-10-26T17:00:09+00:00",
-      "score": 100,
-      "keywords": [
-        "energy"
-      ]
-    },
-    {
-      "title": "Israel and the US are both going to the polls - the consequences will be global",
-      "link": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-10-26 16:30",
-      "published_iso": "2026-10-26T16:30:34+00:00",
-      "score": 100,
-      "keywords": [
-        "election",
-        "us"
-      ]
-    },
-    {
-      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-10-26 16:27",
-      "published_iso": "2026-10-26T16:27:17+00:00",
-      "score": 100,
-      "keywords": [
-        "ai"
-      ]
-    },
-    {
-      "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world mobilisation.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-10-26 15:37",
-      "published_iso": "2026-10-26T15:37:33+00:00",
-      "score": 100,
-      "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "Audi boss under fire in Germany for Trump rally appearance",
-      "link": "https://www.theguardian.com/world/2026/oct/26/audi-boss-under-fire-in-germany-for-trump-rally-appearance",
-      "summary": "Gernot Döllner criticised for in-person announcement of major investment in US days before midterm elections The head of the luxury carmaker Audi is under fire in Germany for appearing at a rally with Donald Trump just days before the US midterm elections, to...",
+      "title": "Danny Masterson loses appeal against rape conviction after arguing judge was biased against Scientology",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/oct/28/danny-masterson-loses-scientology-bias-appeal-ntwnfb",
+      "summary": "That ’70s Show actor was sentenced to 30 years in prison for two counts of rape against two women, who were also Scientologists Danny Masterson has lost the appeal of his rape conviction, meaning his 30-year prison sentence has been upheld. The actor, best kn...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-10-26 14:42",
-      "published_iso": "2026-10-26T14:42:27+00:00",
-      "score": 100,
-      "keywords": [
-        "election",
-        "us"
-      ]
+      "published": "2026-10-28 00:22",
+      "published_iso": "2026-10-28T00:22:32+00:00",
+      "score": 98,
+      "keywords": []
     },
     {
-      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-10-26 14:34",
-      "published_iso": "2026-10-26T14:34:52+00:00",
-      "score": 100,
-      "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "US Marine indicted for murder and robbery of woman in Japan",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-10-26 14:13",
-      "published_iso": "2026-10-26T14:13:18+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Five ways Trump has changed immigration in the US",
-      "link": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
-      "summary": "This is how his signature policy has played out after returning to power promising a closed border and mass deportations.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-10-26 11:29",
-      "published_iso": "2026-10-26T11:29:02+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
-      "link": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
-      "summary": "Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety. Is it a deliberate military strategy? The water was rising rapidly. It had...",
+      "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
+      "link": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
+      "summary": "Royal tour of Caribbean comes as Commonwealth nations renew calls for Britain to engage in reparation talks King Charles has confirmed he will discuss the legacy of slavery at a summit with Commonwealth leaders as he begins his Caribbean tour. The king arrive...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-10-26 11:00",
-      "published_iso": "2026-10-26T11:00:40+00:00",
-      "score": 100,
-      "keywords": [
-        "flood",
-        "us"
-      ]
-    },
-    {
-      "title": "To Work With P.O.W.s, Ukrainians Suppress Feelings About the Enemy",
-      "link": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-russia-pows-prisoners.html",
-      "summary": "Much has been said about how Ukraine should treat Russian prisoners of war. Less attention has been paid to the emotional struggle for the Ukrainians tasked with that work.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-10-26 09:58",
-      "published_iso": "2026-10-26T09:58:09+00:00",
-      "score": 100,
-      "keywords": [
-        "russia",
-        "ukraine",
-        "war"
-      ]
-    },
-    {
-      "title": "‘Zero-energy companionship’: bizarre hobby takes seed among China’s stressed young adults",
-      "link": "https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults",
-      "summary": "Faced with a stagnant jobs market, many are spurning children or pets in favour of ‘raising bricks’ Young adults in China looking for a cheaper, low-maintenance alternative to having children or pets have found an answer: raising bricks. Bricks may not be as...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-10-26 09:47",
-      "published_iso": "2026-10-26T09:47:14+00:00",
-      "score": 100,
-      "keywords": [
-        "china",
-        "energy",
-        "market"
-      ]
-    },
-    {
-      "title": "China's big political meeting could see Xi 'tighten discipline' in party",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The highly secretive four-day Plenum starts Monday in Beijing.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-10-26 07:40",
-      "published_iso": "2026-10-26T07:40:57+00:00",
-      "score": 100,
-      "keywords": [
-        "china"
-      ]
-    },
-    {
-      "title": "Why Israel's election is one of the most important in its history",
-      "link": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-10-25 22:05",
-      "published_iso": "2026-10-25T22:05:30+00:00",
-      "score": 100,
-      "keywords": [
-        "election",
-        "middle east",
-        "security"
-      ]
+      "published": "2026-10-28 00:07",
+      "published_iso": "2026-10-28T00:07:22+00:00",
+      "score": 98,
+      "keywords": []
     }
   ]
 }
