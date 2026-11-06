@@ -1,214 +1,466 @@
 {
-  "generated_at": "2026-11-05T07:12:08+00:00",
+  "generated_at": "2026-11-06T07:12:22+00:00",
   "article_count": 80,
   "source_count": 8,
   "errors": [],
   "articles": [
     {
-      "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
-      "link": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
-      "summary": "The American singer-songwriter and poet visited with the American pope at the Vatican during a break between concert dates in Italy. The Vatican said the encounter was brief.",
-      "source": "NPR World",
-      "region": "World",
-      "published": "2026-11-05 07:02",
-      "published_iso": "2026-11-05T07:02:12+00:00",
+      "title": "'Leaders all over the world understand that Trump is only there for two more years & then he's gone'",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261106-leaders-all-over-the-world-understand-that-trump-is-only-there-for-two-more-years-then-he-s-gone",
+      "summary": "In American politics, even presidential power has its limits. And now, the laws of political gravity may finally be catching up with Donald Trump's hyper-aggressive exercise of executive authority. Following what political scientist Ian Bremmer describes as t...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-11-06 07:08",
+      "published_iso": "2026-11-06T07:08:47+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "Ministers to target ‘wild west’ of e-bikes blocking pavements",
-      "link": "https://www.theguardian.com/world/2026/nov/05/e-bikes-blocking-pavements-department-for-transport",
-      "summary": "Exclusive: Consultation led by Department for Transport will consider parking standards, fleet sizes and insurance requirements Ministers are seeking to end the “wild west” of parked e-bikes blocking pavements, as they attempt to crack down on antisocial beha...",
+      "title": "M&S takes on John Lewis in Christmas ad battle with topless ‘shredded Santa’",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/nov/06/marks-and-spencer-john-lewis-christmas-ad-battle-james-norton-lucy-punch-topless-santa",
+      "summary": "James Norton and Lucy Punch star as a youthful Mr and Mrs Claus in lively ad about shared moments as well as shopping For years the “Christmas advert moment” has belonged to one brand. John Lewis’s syrupy commercials featuring piano ballads and tearjerker sto...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-11-05 07:00",
-      "published_iso": "2026-11-05T07:00:57+00:00",
+      "published": "2026-11-06 07:00",
+      "published_iso": "2026-11-06T07:00:47+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "A Democratic-controlled Congress will likely try to constrain Trump’s foreign adventures",
-      "link": "https://www.theguardian.com/us-news/2026/nov/05/democrats-trump-foreign-policy-analysis",
-      "summary": "But the president still has veto power, which he can wield to dictate policy over tariffs, the war in Iran or aid for Ukraine In a rare occurrence, a US election may have actually been decided by foreign policy. Donald Trump ’s war in Iran and international t...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-05 07:00",
-      "published_iso": "2026-11-05T07:00:57+00:00",
-      "score": 100,
-      "keywords": [
-        "election",
-        "ukraine",
-        "us",
-        "war"
-      ]
-    },
-    {
-      "title": "Warming UK seas could ‘fundamentally reshape marine ecosystems’ – report",
-      "link": "https://www.theguardian.com/environment/2026/nov/05/warming-uk-seas-could-fundamentally-reshape-marine-ecosystems-report",
-      "summary": "Four-year study warns destabilised marine food webs could jeopardise food security by 2050 Warming seas around the UK and the wider north-east Atlantic could destabilise marine food webs, weaken ocean health and jeopardise food security by 2050, according to...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-05 07:00",
-      "published_iso": "2026-11-05T07:00:56+00:00",
-      "score": 100,
-      "keywords": [
-        "security"
-      ]
-    },
-    {
-      "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-      "summary": "Democrat Scott Colom is leading Republican incumbent Cindy Hyde-Smith in the southern state; JD Vance pointed to the war in Iran as the ‘obvious’ culprit for Republicans’ loss Live results | How do you feel about the results? Sign up for Breaking News US emai...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-05 07:00",
-      "published_iso": "2026-11-05T07:00:28+00:00",
-      "score": 100,
-      "keywords": [
-        "election",
-        "us",
-        "war"
-      ]
-    },
-    {
-      "title": "Accused double murderer gives evidence in high-profile case – as it happened",
-      "link": "https://www.theguardian.com/australia-news/live/2026/nov/05/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
-      "summary": "This blog is now closed Beau Lamarre-Condon tells double murder trial he suffered ‘daily bullying’ when working for NSW police Get our breaking news email , free app or daily news podcast The court has adjourned for lunch. Lamarre-Condon will continue giving...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-05 06:58",
-      "published_iso": "2026-11-05T06:58:33+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Joshua Wong, Hong Kong Democracy Activist, Is Sentenced to 10 Years in Prison",
-      "link": "https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html",
-      "summary": "Mr. Wong, one of the most high-profile members of a movement that was quashed in 2020, was accused of conspiracy to collude with foreign forces, a national security offense.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-11-05 06:56",
-      "published_iso": "2026-11-05T06:56:25+00:00",
-      "score": 100,
-      "keywords": [
-        "security"
-      ]
-    },
-    {
-      "title": "Beau Lamarre-Condon tells double murder trial he went through Jesse Baird’s phone and poured water into his fuel tank",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb",
-      "summary": "Former police officer gives evidence in court after pleading not guilty to murdering Baird and Luke Davies in early 2024 The day in court: Beau Lamarre-Condon gives evidence in murder trial Get our breaking news email , free app or daily news podcast Beau Lam...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-05 06:56",
-      "published_iso": "2026-11-05T06:56:01+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+      "title": "Macau jails pro-democracy campaigner in city's first national security case",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\".",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-11-05 06:35",
-      "published_iso": "2026-11-05T06:35:25+00:00",
+      "published": "2026-11-06 06:46",
+      "published_iso": "2026-11-06T06:46:21+00:00",
       "score": 100,
       "keywords": [
         "security"
       ]
     },
     {
-      "title": "New Zealand braces for knife-edge election: What you need to know",
-      "link": "https://www.aljazeera.com/news/2026/11/5/new-zealand-braces-for-knife-edge-election-what-you-need-to-know?traffic_source=rss",
-      "summary": "Smaller parties hold the key, with major contenders expected to fall short of the majority needed to govern alone.",
+      "title": "Who is Kozo Tashima, the Japanese official running for FIFA presidency?",
+      "link": "https://www.aljazeera.com/sports/2026/11/6/kozo-tashima-japan-fifa-president-election-gianni-infantino?traffic_source=rss",
+      "summary": "Tashima has served as a football player, coach and bureaucrat, and has a reputation for being a safe pair of hands.",
       "source": "Al Jazeera",
       "region": "Middle East",
-      "published": "2026-11-05 06:34",
-      "published_iso": "2026-11-05T06:34:50+00:00",
+      "published": "2026-11-06 06:43",
+      "published_iso": "2026-11-06T06:43:42+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Friday briefing: ​After a week of disruption, is living with threats our new normal?",
+      "link": "https://www.theguardian.com/world/2026/nov/06/friday-briefing-after-a-week-of-disruption-is-living-with-threats-our-new-normal",
+      "summary": "In today’s newsletter: From diverted airliners to hacked ​fridges, a string of disruptive incidents has exposed the ​vulnerabilities of modern ​life. ​There is now an increasingly blurred space between peace and conflict, the grey zone. Good morning. A multip...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-06 06:43",
+      "published_iso": "2026-11-06T06:43:04+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Judge temporarily halts building work on Trump’s triumphal arch",
+      "link": "https://www.theguardian.com/us-news/2026/nov/06/judge-temporarily-halts-work-trump-triumphal-arch-washington",
+      "summary": "Federal judge issues 14-day restraining order on any construction work on Washington monument, hours after it was approved by planning commission A federal judge has halted construction work on Donald Trump’s towering triumphal arch for 14 days, a major setba...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-06 06:36",
+      "published_iso": "2026-11-06T06:36:20+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "source": "TechCrunch AI",
+      "region": "Technology",
+      "published": "2026-11-06 06:28",
+      "published_iso": "2026-11-06T06:28:32+00:00",
+      "score": 100,
+      "keywords": [
+        "ai",
+        "security"
+      ]
+    },
+    {
+      "title": "Bondi beach shooting: Eva Geller, 90, shot during massacre dies in hospital year after antisemitic attack",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
+      "summary": "She was shot on 14 December 2025 during Hanukah festival and had been in and out of hospital since Get our breaking news email , free app or daily news podcast A woman who was shot during the Bondi beach terror attack has died in hospital almost 12 months aft...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-06 06:26",
+      "published_iso": "2026-11-06T06:26:03+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Democrats flip more House seats – as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+      "summary": "This blog is now closed Live results | Q&A: Ask your questions about Democrats’ win Sign up for Breaking News US email Election night brought a series of dramatic developments, unexpected results and closely contested races across the US. We have put together...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-06 06:19",
+      "published_iso": "2026-11-06T06:19:03+00:00",
+      "score": 100,
+      "keywords": [
+        "election",
+        "us"
+      ]
+    },
+    {
+      "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+      "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+      "summary": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-06 06:16",
+      "published_iso": "2026-11-06T06:16:22+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
+      "link": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions?traffic_source=rss",
+      "summary": "Tehran says ships from four countries can cross Hormuz freely, but analysts say the deals carry political risks.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-06 06:06",
+      "published_iso": "2026-11-06T06:06:24+00:00",
+      "score": 100,
+      "keywords": [
+        "china"
+      ]
+    },
+    {
+      "title": "Did a data centre revolt affect the US mid-term election results?",
+      "link": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-06 06:01",
+      "published_iso": "2026-11-06T06:01:13+00:00",
+      "score": 100,
+      "keywords": [
+        "ai",
+        "election",
+        "us"
+      ]
+    },
+    {
+      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-06 06:00",
+      "published_iso": "2026-11-06T06:00:59+00:00",
+      "score": 100,
+      "keywords": [
+        "ai",
+        "us"
+      ]
+    },
+    {
+      "title": "The Dark Side of K-Pop",
+      "link": "https://www.nytimes.com/2026/11/05/world/kpop-russell-brand-iran.html",
+      "summary": "As the popularity of the genre has surged, a dispute between a band and its label has put a spotlight on restrictive artist contracts.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-06 06:00",
+      "published_iso": "2026-11-06T06:00:53+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
+      "link": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nine British nationals were among the 15 people who died when fire ripped through the village of Bédar this summer.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-06 06:00",
+      "published_iso": "2026-11-06T06:00:46+00:00",
+      "score": 100,
+      "keywords": [
+        "wildfire"
+      ]
+    },
+    {
+      "title": "Minister tells energy suppliers to do more to help households tackle unpaid bills this winter",
+      "link": "https://www.theguardian.com/business/2026/nov/06/minister-energy-suppliers-help-households-unpaid-bills-debt-relief",
+      "summary": "Bosses from Great Britain’s biggest energy companies called to meeting as part of government’s debt relief plan An energy minister has told the bosses of Great Britain’s biggest energy suppliers to do more to help households get on top of their unpaid energy...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-06 06:00",
+      "published_iso": "2026-11-06T06:00:44+00:00",
+      "score": 100,
+      "keywords": [
+        "energy"
+      ]
+    },
+    {
+      "title": "Police turn to charities for help with teenagers caught up in online child abuse",
+      "link": "https://www.theguardian.com/society/2026/nov/06/police-charities-pornography-online-child-abuse",
+      "summary": "As new pornography laws come into force, officers say viewing extreme content could lead young people towards abuse images Police forces are turning to specialist charities and partner agencies to cope with the growing number of teenagers caught up in online...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-06 06:00",
+      "published_iso": "2026-11-06T06:00:44+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/in-athenss-pro-palestinian-heartland-israeli-buyers-spark-resentment?traffic_source=rss",
+      "summary": "In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-06 05:59",
+      "published_iso": "2026-11-06T05:59:54+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "US Justice Department sues Penn State over undocumented students’ tuition",
+      "link": "https://www.aljazeera.com/news/2026/11/6/us-justice-department-sues-penn-state-over-undocumented-students-tuition?traffic_source=rss",
+      "summary": "The lawsuit challenges Penn State's policy that allows undocumented students to qualify for reduced tuition rates.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-06 05:57",
+      "published_iso": "2026-11-06T05:57:27+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
+      "link": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
+      "summary": "The president of the South American nation, Santiago Peña, has apologized for failing to prevent its worst financial crisis in decades.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-06 05:49",
+      "published_iso": "2026-11-06T05:49:51+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn’t intentional but ‘it was my fault’",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb",
+      "summary": "Former NSW police officer gives evidence for a second day after pleading not guilty to murdering Baird and Luke Davies in early 2024 The day in court: Prosecution begins cross-examination of double murder accused Beau Lamarre-Condon Beau Lamarre-Condon “stand...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-06 05:17",
+      "published_iso": "2026-11-06T05:17:05+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Why one Republican won a redrawn Texas district despite blue tsunami",
+      "link": "https://www.aljazeera.com/news/2026/11/6/why-one-republican-won-a-redrawn-texas-district-despite-blue-tsunami?traffic_source=rss",
+      "summary": "Republican redistricting largely backfired in Texas and beyond, but one redrawn district delivered for the party.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-06 05:03",
+      "published_iso": "2026-11-06T05:03:57+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Tech stocks plunge as US midterm results fuel fears of tighter AI rules",
+      "link": "https://www.france24.com/en/technology/20261106-tech-stocks-plunge-us-midterm-ai-rules",
+      "summary": "Asian tech stocks fell sharply on Friday, with Seoul and Tokyo leading losses after a Wall Street sell-off driven by fears of tighter AI regulation following Democrats’ US midterm election victory. Many winning candidates pledged to curb data centre developme...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-11-06 05:02",
+      "published_iso": "2026-11-06T05:02:06+00:00",
+      "score": 100,
+      "keywords": [
+        "ai",
+        "election",
+        "us"
+      ]
+    },
+    {
+      "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
+      "link": "https://www.nytimes.com/2026/11/06/world/europe/12-planes-in-12-days-pope-begins-major-latin-america-tour-weeks-after-surgery.html",
+      "summary": "Pope Leo XIV’s tour of Uruguay, Argentina and Peru is his first major trip since an operation on his lung last month.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-06 05:01",
+      "published_iso": "2026-11-06T05:01:24+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Pope Leo’s Trip to Latin America: What to Know",
+      "link": "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html",
+      "summary": "Less than a month after lung surgery, Pope Leo XIV is landing in Uruguay on Friday, the first stop of a 12-day voyage across South America.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-06 05:01",
+      "published_iso": "2026-11-06T05:01:17+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "In French City Hit by Terrorist Attack, Residents Blame Far-Right Rhetoric",
+      "link": "https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html",
+      "summary": "In Trappes, a suburb of Paris with a large immigrant population, residents believe that a shooting rampage was fueled by years of anti-immigrant sentiment.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-06 05:01",
+      "published_iso": "2026-11-06T05:01:16+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "A Summit in China With Trump and Putin? That Might be Awkward for Xi.",
+      "link": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
+      "summary": "A summit could bolster Xi Jinping’s stature. But talks about Ukraine’s future and limits on nuclear weapons pose uncomfortable choices for China.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-06 05:01",
+      "published_iso": "2026-11-06T05:01:11+00:00",
+      "score": 100,
+      "keywords": [
+        "china",
+        "ukraine"
+      ]
+    },
+    {
+      "title": "Who’s Hiding Secrets About Dag Hammarskjöld’s Death?",
+      "link": "https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html",
+      "summary": "The U.N. leader died in a plane crash in 1961. Many suspect foul play, but a lot of information still remains secret.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-06 05:01",
+      "published_iso": "2026-11-06T05:01:06+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
+      "link": "https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran?traffic_source=rss",
+      "summary": "Call comes as Iraq's top diplomat urges armed groups not to join any Iranian retaliation to US attacks.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-06 05:00",
+      "published_iso": "2026-11-06T05:00:47+00:00",
+      "score": 100,
+      "keywords": [
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "Trump issues proclamation declaring Oval Office national monument",
+      "link": "https://www.aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument?traffic_source=rss",
+      "summary": "Following election losses, the signing marks Trump's third event of the week focused on signature renovation projects.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-06 04:48",
+      "published_iso": "2026-11-06T04:48:00+00:00",
       "score": 100,
       "keywords": [
         "election"
       ]
     },
     {
-      "title": "France braces for fresh protests in test for Macron's policies",
-      "link": "https://www.france24.com/en/france-braces-for-fresh-protests-in-test-for-macron-s-policies",
-      "summary": "Hundreds of thousands of protesters are expected to march through French cities and public workers to strike on Thursday, in a fresh test for President Emmanuel Macron after weeks of ​unrest that have rattled ‌his government and dominated the agenda five mont...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-05 06:24",
-      "published_iso": "2026-11-05T06:24:09+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Has India’s democracy failed its Muslims? Jailed scholar triggers debate",
-      "link": "https://www.aljazeera.com/news/2026/11/5/has-indias-democracy-failed-its-muslims-jailed-scholar-triggers-debate?traffic_source=rss",
-      "summary": "Sharjeel Imam questioned foundational ideas of India's nationalism in interview with The Quint, inspiring heated debate.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-05 06:10",
-      "published_iso": "2026-11-05T06:10:51+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Norman conquest castle and Dickens chalet among sites added to heritage at risk register",
-      "link": "https://www.theguardian.com/artanddesign/2026/nov/05/hastings-castle-dickens-chalet-heritage-at-risk-register",
-      "summary": "William the Conquerer-built Hastings Castle and Swiss-style writing retreat in Kent two of nearly 200 additions to list A castle built by William the Conquerer, a Swiss-style chalet where Charles Dickens wrote and a swathe of fire-blasted moorland are among s...",
+      "title": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/06/us-midterms-warning-for-australia-cost-of-living-fuel-prices",
+      "summary": "Anthony Albanese’s government has taken a blow due to Iran war but voter anxiety around cost of living and datacentres may hit harder Get our daily political email , free app or daily news podcast The Democrats’ stunning midterm victory should broaden Austral...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-11-05 06:00",
-      "published_iso": "2026-11-05T06:00:56+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Live: France braces for nationwide strikes in fresh test for Macron’s policies",
-      "link": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs",
-      "summary": "Strikes and demonstrations are planned across France on Thursday, with trade unions urging the government to support households struggling with rising living costs. The nationwide action follows weeks of social unrest. Follow our liveblog for the latest updat...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-05 05:53",
-      "published_iso": "2026-11-05T05:53:09+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Israel’s opposition slams ‘toxic Netanyahu’ after Democrats win US Congress",
-      "link": "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss",
-      "summary": "Netanyahu's rivals say US midterm results show Israel 'cannot afford' to have the prime minister remain in office.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-05 05:39",
-      "published_iso": "2026-11-05T05:39:31+00:00",
+      "published": "2026-11-06 04:45",
+      "published_iso": "2026-11-06T04:45:24+00:00",
       "score": 100,
       "keywords": [
-        "us"
+        "us",
+        "war"
       ]
     },
     {
-      "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
-      "link": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
-      "summary": "Wong was sentenced for his second conviction under a Beijing-imposed national security law, in a case that critics say reflects the crackdown on the city's once-thriving pro-democracy movement.",
-      "source": "NPR World",
+      "title": "Israeli settlers seize 8 Palestinian homes in Jericho, displacing dozens",
+      "link": "https://www.aljazeera.com/news/2026/11/6/israeli-settlers-seize-8-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
+      "summary": "UN says settlers reportedly used live ammunition and beat Palestinians, forcing families to flee for their safety.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-06 04:30",
+      "published_iso": "2026-11-06T04:30:26+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Trump signs order preventing future presidents from changing Oval Office",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+      "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+      "source": "BBC World",
       "region": "World",
-      "published": "2026-11-05 05:29",
-      "published_iso": "2026-11-05T05:29:56+00:00",
+      "published": "2026-11-06 04:29",
+      "published_iso": "2026-11-06T04:29:25+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Democratic Socialist Nithya Raman wins LA mayoral race",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/democratic-socialist-nithya-raman-wins-la-mayoral-race?traffic_source=rss",
+      "summary": "Nithya Raman's victory in LA marks the second major win for Democratic Socialists in a year.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-06 04:29",
+      "published_iso": "2026-11-06T04:29:04+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Building wind turbines out of parts found in Gaza’s rubble",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/building-wind-turbines-out-of-parts-found-in-gazas-rubble?traffic_source=rss",
+      "summary": "Palestinians in Gaza have made wind turbines to generate electricity, using scraps found in the rubble.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-06 04:20",
+      "published_iso": "2026-11-06T04:20:22+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Iran’s security chief meets Putin, delivers message from Khamenei",
+      "link": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei?traffic_source=rss",
+      "summary": "Putin meets Iran's top security official to discuss regional security and receives a letter from Mojtaba Khamenei.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-06 02:48",
+      "published_iso": "2026-11-06T02:48:19+00:00",
       "score": 100,
       "keywords": [
         "security"
       ]
     },
     {
-      "title": "Republican blame game begins as Democrat’s Mississippi lead grows – as it happened",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
-      "summary": "This blog has now closed – our live US midterms results coverage continues here Wall Street surged at the open, after Democrats scored historic victories in midterm elections and secured control of US Congress. The Dow Jones rose 2%, while the tech-heavy Nasd...",
+      "title": "Liberal bus crashes into shop awning on its first outing of Victorian election campaign",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/06/liberal-jess-wilson-campaign-bus-crashes-into-shop-first-day-victorian-election",
+      "summary": "Opposition leader Jess Wilson grimaces as the ‘Jess Express’, carrying Liberals and reporters, backs into the structure in suburban Melbourne Get our breaking news email , free app or daily news podcast The Victorian Liberal party’s first offical day on the c...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-11-05 05:28",
-      "published_iso": "2026-11-05T05:28:47+00:00",
+      "published": "2026-11-06 02:28",
+      "published_iso": "2026-11-06T02:28:02+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+      "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-06 02:08",
+      "published_iso": "2026-11-06T02:08:57+00:00",
       "score": 100,
       "keywords": [
         "election",
@@ -216,79 +468,503 @@
       ]
     },
     {
-      "title": "Melania Trump to host Ukrainian, Russian officials at White House",
-      "link": "https://www.france24.com/en/americas/20261105-melania-trump-to-host-ukrainian-russian-officials-at-white-house",
-      "summary": "Delegations of Russian and Ukrainian officials, including human rights chiefs from both countries, are set to meet with US First Lady Melania Trump at the White House Thursday ahead of talks in Abu Dhabi aimed at ending the Ukraine war. It comes weeks after M...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-05 05:23",
-      "published_iso": "2026-11-05T05:23:48+00:00",
+      "title": "California governor commutes sentences of more than 500 people on death row",
+      "link": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss",
+      "summary": "Gavin Newsom cites state values and flaws in the legal system as he grants largest mass clemency in US history.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-06 01:39",
+      "published_iso": "2026-11-06T01:39:35+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+      "link": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
+      "summary": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-06 01:28",
+      "published_iso": "2026-11-06T01:28:03+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Trump says Russia-Ukraine deal is near after meeting Putin’s envoy",
+      "link": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+      "summary": "Though the US president said deal was 'very close', he gave no specifics and did not meet visiting Ukrainian delegation.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-06 00:06",
+      "published_iso": "2026-11-06T00:06:31+00:00",
       "score": 100,
       "keywords": [
         "russia",
         "ukraine",
+        "us"
+      ]
+    },
+    {
+      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+      "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-06 00:02",
+      "published_iso": "2026-11-06T00:02:57+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
+      "summary": "Trump says the US may have to 'destroy' the rest of Iran, adding that people will 'know soon enough'.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-06 00:00",
+      "published_iso": "2026-11-06T00:00:00+00:00",
+      "score": 100,
+      "keywords": [
         "us",
         "war"
       ]
     },
     {
-      "title": "A Trump Reckoning",
-      "link": "https://www.nytimes.com/2026/11/04/world/us-midterms-trump-israel.html",
-      "summary": "The results from the U.S. midterm elections could be the beginning of the end of the Trump era.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-11-05 05:14",
-      "published_iso": "2026-11-05T05:14:54+00:00",
+      "title": "Nithya Raman wins LA mayoral race, becoming city’s first South Asian mayor",
+      "link": "https://www.aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor?traffic_source=rss",
+      "summary": "DSA-backed Raman will lead the second-largest US city, promising action on homelessness and affordable housing.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-05 23:46",
+      "published_iso": "2026-11-05T23:46:52+00:00",
       "score": 100,
       "keywords": [
-        "election",
         "us"
       ]
     },
     {
-      "title": "‘Bring it on’: Pauline Hanson to appeal Mehreen Faruqi racial discrimination ruling in high court",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/05/pauline-hanson-to-appeal-mehreen-faruqi-racial-discrimination-ruling-high-court-ntwnfb",
-      "summary": "One Nation leader granted special leave to appeal after full federal court earlier this year agreed Hanson portrayed Faruqi as a ‘second-class citizen’ Get our daily political email , free app or daily news podcast Australia’s high court has agreed to hear Pa...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-05 05:03",
-      "published_iso": "2026-11-05T05:03:08+00:00",
+      "title": "Three-quarters of world's displaced people face severe climate risks, UN says",
+      "link": "https://www.france24.com/en/environment/20261105-un-displaced-people-climate-risks",
+      "summary": "Nearly 90 million forcibly displaced people, or three-quarters of the global total, live in countries highly exposed to climate hazards, the UN Refugee Agency said on Friday, urging action ahead of the COP31 climate summit in Turkey. It said droughts, floods...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-11-05 23:34",
+      "published_iso": "2026-11-05T23:34:08+00:00",
       "score": 100,
-      "keywords": []
+      "keywords": [
+        "climate",
+        "flood"
+      ]
     },
     {
-      "title": "First, France Had Riots and Protests. Now It’s Bracing for a General Strike.",
-      "link": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
-      "summary": "More than 220 demonstrations are expected to take place across the country on Thursday, escalating weeks of protests against the rising cost of living.",
+      "title": "Israel’s Election Ended With No Clear Winner. These Parties Are Trying to Form a Coalition.",
+      "link": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
+      "summary": "President Isaac Herzog wrapped up two days of talks with party leaders by saying he will ask one of them on Sunday to try to assemble a governing coalition.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-11-05 05:01",
-      "published_iso": "2026-11-05T05:01:14+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "The New Zealand Election That Could ‘Flip the Table’",
-      "link": "https://www.nytimes.com/2026/11/05/world/australia/new-zealand-election-polls.html",
-      "summary": "Support for the major parties — led by two men called Chris — is cratering, thanks to dissatisfaction with the economy. Minor parties stand to benefit from a desire among voters for change.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-11-05 05:01",
-      "published_iso": "2026-11-05T05:01:12+00:00",
+      "published": "2026-11-05 23:18",
+      "published_iso": "2026-11-05T23:18:21+00:00",
       "score": 100,
       "keywords": [
         "election"
       ]
     },
     {
-      "title": "Voters Are Turning Out in Droves to Cut Autocrats Down to Size",
-      "link": "https://www.nytimes.com/2026/11/05/world/europe/voters-are-turning-out-in-droves-to-cut-autocrats-down-to-size.html",
-      "summary": "In country after country stricken by democratic decay, overwhelming turnout in elections is making a difference.",
+      "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+      "link": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-05 23:16",
+      "published_iso": "2026-11-05T23:16:53+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "California governor commutes sentences for state's 548 death row inmates",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "summary": "California has historically had the largest population of people on death row in the US.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-05 23:09",
+      "published_iso": "2026-11-05T23:09:33+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Fox News suffers ratings drop on bleak election night for Republicans",
+      "link": "https://www.theguardian.com/media/2026/nov/04/fox-news-midterm-ratings",
+      "summary": "News channel trailed NBC and ABC, but edged out CNN, MS Now and CBS in primetime hours on midterm election night Q&A: Ask your questions about Democrats’ win in the midterms On a midterm election night that was a huge disappointment for Republicans , with Dem...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-05 22:04",
+      "published_iso": "2026-11-05T22:04:20+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "Generation Z and young voters help redefine US politics after midterms",
+      "link": "https://www.aljazeera.com/news/2026/11/5/generation-z-and-diversity-redefine-us-politics-in-groundbreaking-election?traffic_source=rss",
+      "summary": "Melat Kiros becomes the first Generation Z woman elected to Congress, embodying a new era of political representation.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-05 21:49",
+      "published_iso": "2026-11-05T21:49:31+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "South Africa’s ANC on track for new lows in local polls",
+      "link": "https://www.aljazeera.com/news/2026/11/5/south-africas-anc-on-track-for-new-lows-in-local-polls?traffic_source=rss",
+      "summary": "The ANC was on about 32 percent of the vote with more than 60 percent of votes counted in municipal elections.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-05 21:48",
+      "published_iso": "2026-11-05T21:48:16+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "Carney Asserts Canada’s Sovereignty and Vows to End Homelessness in Budget",
+      "link": "https://www.nytimes.com/2026/11/05/world/canada/carney-sovereignty-federal-budget-trade.html",
+      "summary": "The prime minister’s second budget repeatedly stresses diversifying Canada’s economy away from the United States.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-11-05 05:01",
-      "published_iso": "2026-11-05T05:01:06+00:00",
+      "published": "2026-11-05 21:30",
+      "published_iso": "2026-11-05T21:30:46+00:00",
       "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Hoax bomb threats force emergency landings, evacuations across Europe",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
+      "summary": "Bomb threats are causing travel disruptions at airports across Europe, targeting at least 27 flights.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-05 21:26",
+      "published_iso": "2026-11-05T21:26:21+00:00",
+      "score": 100,
+      "keywords": [
+        "europe"
+      ]
+    },
+    {
+      "title": "How Melania Trump Became a Dark-Horse Diplomat on Ukraine",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html",
+      "summary": "Both Moscow and Kyiv say Mrs. Trump’s team was the driving force behind an evacuation of a besieged city. It was also in their interest to deliver her a humanitarian win.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-05 21:07",
+      "published_iso": "2026-11-05T21:07:31+00:00",
+      "score": 100,
+      "keywords": [
+        "ukraine"
+      ]
+    },
+    {
+      "title": "What to Know About the Bomb Threats Disrupting Flights in Europe",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
+      "summary": "More than two dozen planes that were targeted on Thursday landed safely, officials said, after similar threats earlier this week. The hoaxes have added to airspace anxiety in the region.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-05 20:38",
+      "published_iso": "2026-11-05T20:38:38+00:00",
+      "score": 100,
+      "keywords": [
+        "europe"
+      ]
+    },
+    {
+      "title": "Who could be behind hoax bomb threats to European air travel?",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+      "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-05 19:58",
+      "published_iso": "2026-11-05T19:58:40+00:00",
+      "score": 100,
+      "keywords": [
+        "europe",
+        "russia"
+      ]
+    },
+    {
+      "title": "How Did Flávio Bolsonaro Flee Brazil? ‘I’ll Take That to the Grave,’ He Says",
+      "link": "https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html",
+      "summary": "From Miami, Flávio Bolsonaro is making unfounded claims of a stolen election and plotting to sway his nation’s politics from afar, even though his party is not challenging the results.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-05 19:56",
+      "published_iso": "2026-11-05T19:56:52+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "Bomb Threats Disrupt European Flights and Rattle Passengers",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
+      "summary": "Passengers recounted landing at a military base and being subjected to security checks and travel delays after threats that turned out to be hoaxes affected planes in Italy, Poland and Spain.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-05 19:39",
+      "published_iso": "2026-11-05T19:39:19+00:00",
+      "score": 100,
+      "keywords": [
+        "europe",
+        "security"
+      ]
+    },
+    {
+      "title": "Eight killed in series of shootings in western Turkey",
+      "link": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Victims are found in several locations in three separate vehicles, according to local reports.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-05 19:32",
+      "published_iso": "2026-11-05T19:32:54+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
+      "link": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
+      "summary": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-05 19:08",
+      "published_iso": "2026-11-05T19:08:48+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-05 19:08",
+      "published_iso": "2026-11-05T19:08:08+00:00",
+      "score": 100,
+      "keywords": [
+        "ceasefire",
+        "russia",
+        "ukraine",
+        "us"
+      ]
+    },
+    {
+      "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
+      "link": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-05 18:22",
+      "published_iso": "2026-11-05T18:22:46+00:00",
+      "score": 100,
+      "keywords": [
+        "europe"
+      ]
+    },
+    {
+      "title": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
+      "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
+      "summary": "Planes forced into emergency landings or diversions two days after hoax alerts affected air travel Why have more than 30 European flights been hit by bomb threats this week? Hoax bomb threats have disrupted at least 34 flights across Europe this week, with so...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-05 18:17",
+      "published_iso": "2026-11-05T18:17:36+00:00",
+      "score": 100,
+      "keywords": [
+        "europe",
+        "war"
+      ]
+    },
+    {
+      "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – as it happened",
+      "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
+      "summary": "EU transport commissioner says ‘too early’ to say if bomb threats to 20 flights are linked Tell us: have you been affected by the bomb threats? And the Italian news agency Ansa reported that two more planes with links to Italy were affected by bomb threats th...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-05 17:57",
+      "published_iso": "2026-11-05T17:57:54+00:00",
+      "score": 100,
+      "keywords": [
+        "europe",
+        "us"
+      ]
+    },
+    {
+      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+      "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-05 17:39",
+      "published_iso": "2026-11-05T17:39:48+00:00",
+      "score": 100,
+      "keywords": [
+        "europe"
+      ]
+    },
+    {
+      "title": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
+      "link": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
+      "summary": "Iran’s willingness to re-engage on the issue suggests that Qatar-led diplomatic efforts to avert full-blown war between the U.S. and Iran have had some success.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-05 18:27",
+      "published_iso": "2026-11-05T18:27:59+00:00",
+      "score": 99,
+      "keywords": [
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "Midterm Election Losses Complicate Trump’s Options on Iran War",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
+      "summary": "The midterm results laid bare the deep unpopularity of the war of choice that President Trump started and is now struggling to end.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-05 10:04",
+      "published_iso": "2026-11-05T10:04:44+00:00",
+      "score": 99,
+      "keywords": [
+        "election",
+        "war"
+      ]
+    },
+    {
+      "title": "Beau Lamarre-Condon trial: prosecution begins cross-examination of double murder accused – as it happened",
+      "link": "https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
+      "summary": "This blog has now closed Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn’t intentional but ‘it was my fault’ Get our breaking news email , free app or daily news podcast Lamarre-Condon tells the court he had seen what he assumed to...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-06 02:30",
+      "published_iso": "2026-11-06T02:30:00+00:00",
+      "score": 98,
+      "keywords": []
+    },
+    {
+      "title": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
+      "link": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
+      "summary": "Three suitcases’ worth of the spiders were on their way to Germany, where they could fetch an estimated €1.5m More than 3,000 tarantulas were seized at an airport in Lima on their way to Germany, Peruvian authorities said. The spiders were hidden inside dirty...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-06 01:22",
+      "published_iso": "2026-11-06T01:22:49+00:00",
+      "score": 98,
+      "keywords": []
+    },
+    {
+      "title": "Trump signs proclamation to try to prevent changes to gold-covered Oval Office",
+      "link": "https://www.theguardian.com/us-news/2026/nov/05/trump-oval-office-design-proclamation",
+      "summary": "President seeks to make Oval Office a national monument to ensure designs are not ‘ripped down by stupid people’ Donald Trump signed a proclamation on Thursday that he says will prevent future administrations from changing his design of the Oval Office and Ca...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-06 00:29",
+      "published_iso": "2026-11-06T00:29:06+00:00",
+      "score": 98,
+      "keywords": []
+    },
+    {
+      "title": "Alabama, Florida and Indiana carry out executions on same day",
+      "link": "https://www.theguardian.com/us-news/2026/nov/05/executions-florida-alabama-indiana",
+      "summary": "Unusual instance of three states administering the death penalty on the same day previously happened in 2010 Alabama, Florida and Indiana all carried out executions on Thursday in an unusual instance of three states administering the death penalty on the same...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-06 00:27",
+      "published_iso": "2026-11-06T00:27:20+00:00",
+      "score": 98,
+      "keywords": []
+    },
+    {
+      "title": "Slashing number of police forces in England and Wales is only option, says Met chief",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/05/cut-number-of-police-forces-england-hogan-howe-review",
+      "summary": "Mark Rowley calls for ‘revolution’ in policing as major review is expected to propose regional ‘super forces’ Police are heading for failure unless the number of forces in England and Wales is slashed, with their ability to catch criminals collapsing and publ...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-06 00:04",
+      "published_iso": "2026-11-06T00:04:37+00:00",
+      "score": 98,
+      "keywords": []
+    },
+    {
+      "title": "British Ebola patient evacuated from DR Congo arrives at London hospital",
+      "link": "https://www.theguardian.com/world/2026/nov/05/british-ebola-patient-evacuated-drc-arrives-london-hospital",
+      "summary": "Doctor who was helping response to outbreak in Africa taken to specialist isolation unit at Royal Free hospital A British doctor who tested positive for Ebola while working in the Democratic Republic of the Congo has returned to the UK for specialist treatmen...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-05 20:30",
+      "published_iso": "2026-11-05T20:30:11+00:00",
+      "score": 98,
+      "keywords": []
+    },
+    {
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "source": "TechCrunch AI",
+      "region": "Technology",
+      "published": "2026-11-05 19:48",
+      "published_iso": "2026-11-05T19:48:28+00:00",
+      "score": 98,
+      "keywords": [
+        "ai",
+        "us"
+      ]
+    },
+    {
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+      "source": "TechCrunch AI",
+      "region": "Technology",
+      "published": "2026-11-05 19:12",
+      "published_iso": "2026-11-05T19:12:39+00:00",
+      "score": 98,
+      "keywords": [
+        "ai",
+        "election"
+      ]
+    },
+    {
+      "title": "Rubio denies plans to resign, says working for Trump until end of term has 'always been my plan'",
+      "link": "https://www.france24.com/en/americas/20261106-marco-rubio-denies-resignation-2028-white-house",
+      "summary": "US Secretary of State Marco Rubio dismissed reports on Thursday that he planned to leave the administration after Republican midterm losses, telling The New York Times he intended to serve through the end of President Donald Trump’s term. Rubio, a potential 2...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-11-06 00:24",
+      "published_iso": "2026-11-06T00:24:59+00:00",
+      "score": 97,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Nigeria court bars opposition candidate two months before election",
+      "link": "https://www.france24.com/en/nigeria-court-bars-opposition-candidate-two-months-before-election",
+      "summary": "In tonight's edition, a Nigerian court disqualifies a leading presidential candidate, adding fresh complications for the electoral process two months before the election. Also, tens of thousands have fled across the border into Kenya as deadly ethnic clashes...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-11-05 21:22",
+      "published_iso": "2026-11-05T21:22:18+00:00",
+      "score": 97,
       "keywords": [
         "election"
       ]
@@ -301,7 +977,7 @@
       "region": "World",
       "published": "2026-11-05 05:00",
       "published_iso": "2026-11-05T05:00:55+00:00",
-      "score": 100,
+      "score": 97,
       "keywords": [
         "ai",
         "china",
@@ -309,734 +985,26 @@
       ]
     },
     {
-      "title": "Protesters to join nationwide march as France braces for day of strike action",
-      "link": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
-      "summary": "Hospital workers, air traffic and rail staff expected to join strikes amid renewed protests over education and rising living costs Hundreds of thousands are expected to march in demonstrations across France as trade unions call for a nationwide strike expecte...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-05 05:00",
-      "published_iso": "2026-11-05T05:00:54+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Historians say King Verica persuaded Rome to invade Britain. But could Verica actually have been a queen?",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/05/verica-rome-invade-britain-queen-or-king",
-      "summary": "Controversial theory that Verica, who incited Emperor Claudius’s AD43 landing, was a woman could put a new spin on British history if true It was a moment that changed the course of British history: in AD43, Roman troops under the emperor Claudius landed in K...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-05 05:00",
-      "published_iso": "2026-11-05T05:00:54+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "The Pitt and ER are similar enough for Michael Crichton’s widow’s lawsuit to proceed, court rules",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/nov/05/tv-the-pitt-er-michael-crichton-widow-lawsuit-to-proceed",
-      "summary": "Court finds ‘clear and numerous similarities’ between two medical dramas, allowing lawsuit by ER creator’s widow Sherri to go to jury trial in 2027 The Pitt is similar enough to ER to allow Michael Crichton’s widow to pursue a long-running lawsuit over the aw...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-05 04:57",
-      "published_iso": "2026-11-05T04:57:41+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "‘An insult to his culture’: Italian chef sacked for not putting pineapple on pizza loses bid to get job back",
-      "link": "https://www.theguardian.com/food/2026/nov/05/italian-chef-sacked-refusing-pineapple-on-pizza-australia-fair-work",
-      "summary": "Australia’s Fair Work Commission heard that Davide Tamburella was sacked after refusing to use the controversial topping With its sea foam-green and white decor, exposed brick columns and “classic Italian dishes” served atop European oak tables, La Costa was...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-05 04:53",
-      "published_iso": "2026-11-05T04:53:28+00:00",
-      "score": 100,
-      "keywords": [
-        "europe"
-      ]
-    },
-    {
-      "title": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine",
-      "link": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss",
-      "summary": "EU officials also urge new US Congress to step up pressure on Russia to end the four-and-a-half-year war.",
+      "title": "Paraguay’s president impeached amid bank collapse crisis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/paraguays-president-impeached-amid-bank-collapse-crisis?traffic_source=rss",
+      "summary": "Lawmakers have voted to impeach Paraguay’s President Santiago Pena amid a banking collapse that has roiled the country.",
       "source": "Al Jazeera",
       "region": "Middle East",
-      "published": "2026-11-05 04:49",
-      "published_iso": "2026-11-05T04:49:56+00:00",
-      "score": 100,
-      "keywords": [
-        "russia",
-        "ukraine",
-        "us",
-        "war"
-      ]
-    },
-    {
-      "title": "Mamdani: ‘it’s morning again in America’ after blue wave",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mamdani-its-morning-again-in-america-after-blue-wave?traffic_source=rss",
-      "summary": "New York City Mayor Zohran Mamdani urged fellow Democrats to ‘fulfill promises’ after sweeping wins.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-05 04:30",
-      "published_iso": "2026-11-05T04:30:18+00:00",
-      "score": 100,
+      "published": "2026-11-06 03:49",
+      "published_iso": "2026-11-06T03:49:33+00:00",
+      "score": 96,
       "keywords": []
     },
     {
-      "title": "South Korea says it will expand naval operations closer to strait of Hormuz",
-      "link": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
-      "summary": "Seoul to seek parliamentary approval to extend anti-piracy Cheonghae unit’s area to about 650km from the vital strait after criticism from Donald Trump on Iran war support South Korea plans to expand the operations ⁠of its anti-piracy unit to waters closer to...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-05 04:22",
-      "published_iso": "2026-11-05T04:22:49+00:00",
-      "score": 100,
-      "keywords": [
-        "war"
-      ]
-    },
-    {
-      "title": "Brazilian airport torn apart by violent storm",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/brazilian-airport-torn-apart-by-violent-storm?traffic_source=rss",
-      "summary": "Dramatic footage captured the moment a powerful tornado struck Chapecó Airport in Santa Catarina, Brazil",
+      "title": "Gaza turns discarded cooking pots into seawalls",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls?traffic_source=rss",
+      "summary": "As winter approaches, Palestinians in Gaza are turning damaged cooking pots into makeshift seawalls to avoid flooding.",
       "source": "Al Jazeera",
       "region": "Middle East",
-      "published": "2026-11-05 04:12",
-      "published_iso": "2026-11-05T04:12:11+00:00",
-      "score": 100,
+      "published": "2026-11-06 02:03",
+      "published_iso": "2026-11-06T02:03:47+00:00",
+      "score": 96,
       "keywords": []
-    },
-    {
-      "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
-      "link": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
-      "summary": "Wong, 30, has been imprisoned since 2020 and is the only activist in Hong Kong prosecuted twice under national security law Exclusive: Joshua Wong laments city’s fate from inside maximum security prison Hong Kong activist Joshua Wong has been sentenced to 10...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-05 04:04",
-      "published_iso": "2026-11-05T04:04:49+00:00",
-      "score": 100,
-      "keywords": [
-        "security"
-      ]
-    },
-    {
-      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-05 03:47",
-      "published_iso": "2026-11-05T03:47:56+00:00",
-      "score": 100,
-      "keywords": [
-        "election",
-        "war"
-      ]
-    },
-    {
-      "title": "What’s delaying the US Senate election results in Mississippi and Alaska?",
-      "link": "https://www.aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska?traffic_source=rss",
-      "summary": "Ranked-choice voting may decide Alaska's Senate outcome, while Mississippi's race hangs on a knife's edge.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-05 03:13",
-      "published_iso": "2026-11-05T03:13:08+00:00",
-      "score": 100,
-      "keywords": [
-        "election",
-        "us"
-      ]
-    },
-    {
-      "title": "Vote counting underway in critical South Africa elections",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/vote-counting-underway-in-critical-south-africa-elections?traffic_source=rss",
-      "summary": "Votes are being counted across South Africa after a record 29.2 million people registered to vote.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-05 02:43",
-      "published_iso": "2026-11-05T02:43:04+00:00",
-      "score": 100,
-      "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-05 02:09",
-      "published_iso": "2026-11-05T02:09:23+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Election deniers lose races for governor in key US swing states",
-      "link": "https://www.aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states?traffic_source=rss",
-      "summary": "State leaders can hold significant sway over election administration, with implications for the 2028 presidential race.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-05 02:06",
-      "published_iso": "2026-11-05T02:06:07+00:00",
-      "score": 100,
-      "keywords": [
-        "election",
-        "us"
-      ]
-    },
-    {
-      "title": "Israel’s Herzog accepts vote results, opens talks on forming a government",
-      "link": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss",
-      "summary": "Move deals blow to Netanyahu's efforts to discredit the elections, in which he and his allies lost their majority.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-05 01:53",
-      "published_iso": "2026-11-05T01:53:30+00:00",
-      "score": 100,
-      "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "Ohio’s voters tell Republicans: don’t take us for granted",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/ohios-voters-tell-republicans-dont-take-us-for-granted?traffic_source=rss",
-      "summary": "Democrats flipped a Senate seat and recaptured the governor’s mansion in Ohio.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-05 00:36",
-      "published_iso": "2026-11-05T00:36:25+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Democrats won Congress. But can they deliver on their promises?",
-      "link": "https://www.aljazeera.com/news/2026/11/5/democrats-won-congress-but-can-they-deliver-on-their-promises?traffic_source=rss",
-      "summary": "Despite their midterm election victories, Democrats face major obstacles to reining in Trump on Iran, tariffs and more.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-05 00:25",
-      "published_iso": "2026-11-05T00:25:43+00:00",
-      "score": 100,
-      "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "Historic firsts redraw US political map in 2026 midterm elections",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/historic-firsts-redraw-us-political-map-in-2026-midterm-elections?traffic_source=rss",
-      "summary": "The 2026 US midterms delivered a wave of historic firsts for women, Black, Muslim, gay and Native American politicians.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-05 00:24",
-      "published_iso": "2026-11-05T00:24:20+00:00",
-      "score": 100,
-      "keywords": [
-        "election",
-        "us"
-      ]
-    },
-    {
-      "title": "Iran war live: IRGC says two oil tankers and tugboat caught fire in Hormuz",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
-      "summary": "Iran's IRGC says two tankers and a tugboat caught fire in the Strait of Hormuz after using an \"unauthorised route\".",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-05 00:00",
-      "published_iso": "2026-11-05T00:00:00+00:00",
-      "score": 100,
-      "keywords": [
-        "war"
-      ]
-    },
-    {
-      "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-04 23:50",
-      "published_iso": "2026-11-04T23:50:40+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Who gets to vote in the US?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/who-gets-to-vote-in-the-us?traffic_source=rss",
-      "summary": "Tati Abu King lost his voting rights after felony convictions.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-04 23:50",
-      "published_iso": "2026-11-04T23:50:34+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "What Trump’s Midterm Defeat Means for Iran and Oil Prices",
-      "link": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
-      "summary": "Commentators abroad wondered what President Trump’s electoral losses might mean for oil prices, the war on Iran and the future of American politics.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-11-04 23:37",
-      "published_iso": "2026-11-04T23:37:00+00:00",
-      "score": 100,
-      "keywords": [
-        "war"
-      ]
-    },
-    {
-      "title": "Giant banner of Trump, Vance and Netanyahu burnt at Tehran rally",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/giant-banner-of-trump-vance-and-netanyahu-burnt-at-tehran-rally?traffic_source=rss",
-      "summary": "A giant banner depicting US President Donald Trump and Israel’s Prime Minister Benjamin Netanyahu was burnt in Tehran",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-04 23:34",
-      "published_iso": "2026-11-04T23:34:47+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Trump blames Iran war for midterms losses",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss",
-      "summary": "President Donald Trump said the war in Iran likely contributed to Republican setbacks in the midterm elections",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-04 23:30",
-      "published_iso": "2026-11-04T23:30:01+00:00",
-      "score": 100,
-      "keywords": [
-        "election",
-        "war"
-      ]
-    },
-    {
-      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
-      "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
-      "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-04 23:12",
-      "published_iso": "2026-11-04T23:12:47+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-04 22:48",
-      "published_iso": "2026-11-04T22:48:43+00:00",
-      "score": 100,
-      "keywords": [
-        "russia",
-        "ukraine"
-      ]
-    },
-    {
-      "title": "'Hopefully things get done': Americans react to historic political shift",
-      "link": "https://www.bbc.co.uk/news/videos/cwj0l61e2927o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC spoke to voters from different states for their reaction to Democrats taking control of both the Senate and the House of Representatives.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-04 22:34",
-      "published_iso": "2026-11-04T22:34:08+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "For Israelis, U.S. Midterms Show How Far Their Star Has Fallen in America",
-      "link": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html",
-      "summary": "Israel once had bipartisan support in the United States, but a strong showing for Democrats, some of whom are deeply critical of the war in Gaza, has left the country with fewer friends in Congress.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-11-04 22:04",
-      "published_iso": "2026-11-04T22:04:04+00:00",
-      "score": 100,
-      "keywords": [
-        "us",
-        "war"
-      ]
-    },
-    {
-      "title": "How Chinese AI is censoring the controversy around Mbappé’s Chairman Mao comments",
-      "link": "https://www.france24.com/en/asia-pacific/20261104-how-chinese-ai-is-censoring-the-controversy-around-mbappes-chairman-mao-comments",
-      "summary": "Footballer Kylian Mbappé sparked a wave of condemnation across China when he implied that Chinese leader Mao Zedong was a dictator. In China, information about this controversy is being censored by Chinese AI chatbots.",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-04 20:28",
-      "published_iso": "2026-11-04T20:28:09+00:00",
-      "score": 100,
-      "keywords": [
-        "ai",
-        "china"
-      ]
-    },
-    {
-      "title": "The midterms were a thumping rebuke of the US-Israel relationship",
-      "link": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections",
-      "summary": "Even Trump seems to recognize that the relationship has become a political liability, and may never be the same Send us your questions about the midterm results Track live results from all 50 states On the eve of a midterm election that ended in an unequivoca...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-04 19:22",
-      "published_iso": "2026-11-04T19:22:43+00:00",
-      "score": 100,
-      "keywords": [
-        "election",
-        "us"
-      ]
-    },
-    {
-      "title": "European leaders welcome Democrats' US midterms election win",
-      "link": "https://www.france24.com/en/european-leaders-welcome-democrats-us-midterms-election-win",
-      "summary": "European leaders voiced hopes for a reset with the United States on Wednesday, November 4, after voters delivered a huge midterm election defeat to President Donald Trump and his Republican party. FRANCE 24's Dave Keating has more.",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-04 17:00",
-      "published_iso": "2026-11-04T17:00:09+00:00",
-      "score": 100,
-      "keywords": [
-        "election",
-        "europe",
-        "us"
-      ]
-    },
-    {
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-04 16:59",
-      "published_iso": "2026-11-04T16:59:15+00:00",
-      "score": 100,
-      "keywords": [
-        "war"
-      ]
-    },
-    {
-      "title": "US midterms: Iran's deputy parliament speaker reacts to Trump's elections setback",
-      "link": "https://www.france24.com/en/video/20261104-us-midterms-iran-s-deputy-parliament-speaker-reacts-to-trump-s-elections-setback-1",
-      "summary": "First Deputy Speaker of the Parliament of Iran Ali Nikzad on Wednesday attributed Republican losses in the US midterm elections to Washington's war with Iran, telling lawmakers that American efforts to pressure Tehran had failed. Democrats won control of both...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-04 16:50",
-      "published_iso": "2026-11-04T16:50:06+00:00",
-      "score": 100,
-      "keywords": [
-        "election",
-        "us",
-        "war"
-      ]
-    },
-    {
-      "title": "The young politicians with African roots making history in the US midterms",
-      "link": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss",
-      "summary": "For some young Africans, these victories offer a glimpse of what a new generation of voters could do at home.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-04 16:34",
-      "published_iso": "2026-11-04T16:34:32+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Israel's president begins consultations with parties after election deadlock",
-      "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
-      "summary": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-04 16:18",
-      "published_iso": "2026-11-04T16:18:21+00:00",
-      "score": 100,
-      "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
-      "link": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
-      "summary": "School in Komyshuvakha in the Zaporizhzhia region was struck on Monday Meanwhile, the Kremlin said that ⁠it ​hopes that the ⁠results of the US ⁠midterm ​elections ‌will not impact ‌what it ‌said were president Donald Trump’s “peacemaking efforts\" on Ukraine,...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-04 16:09",
-      "published_iso": "2026-11-04T16:09:19+00:00",
-      "score": 100,
-      "keywords": [
-        "election",
-        "russia",
-        "ukraine",
-        "us"
-      ]
-    },
-    {
-      "title": "Everything you need to know from the US midterm elections",
-      "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
-      "summary": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-04 14:05",
-      "published_iso": "2026-11-04T14:05:42+00:00",
-      "score": 100,
-      "keywords": [
-        "election",
-        "us"
-      ]
-    },
-    {
-      "title": "How America voted in maps and charts",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-      "summary": "See the maps and charts that show how America voted in the US midterm elections.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-04 09:53",
-      "published_iso": "2026-11-04T09:53:18+00:00",
-      "score": 100,
-      "keywords": [
-        "election",
-        "us"
-      ]
-    },
-    {
-      "title": "Tears, celebrations and selfies: US midterms in pictures",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pexm44elo?at_medium=RSS&at_campaign=rss",
-      "summary": "Democrats cheered as they picked up victories in Republican states. Tears were shed as Republican losses mounted.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-04 08:05",
-      "published_iso": "2026-11-04T08:05:53+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Strike on Ukraine Humanitarian Hub Is Feared to Be Among War’s Deadliest",
-      "link": "https://www.nytimes.com/2026/11/03/world/europe/komyshuvakha-zaporizhzhia-attack-ukraine.html",
-      "summary": "Hours after the Russian attack, which killed at least 31 and left dozens missing, the United States said that peace talks with the two countries would resume after nine months.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-11-03 15:58",
-      "published_iso": "2026-11-03T15:58:26+00:00",
-      "score": 100,
-      "keywords": [
-        "russia",
-        "ukraine",
-        "us",
-        "war"
-      ]
-    },
-    {
-      "title": "Russia Senses Opportunity in Polish Political Turmoil",
-      "link": "https://www.nytimes.com/2026/11/02/world/europe/russia-polish-political-turmoil.html",
-      "summary": "After its sometime allies were ousted in elections in Hungary and Serbia, Moscow has seized on Poland’s constitutional standoff in its effort to weaken Europe’s support for Ukraine.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-11-02 19:05",
-      "published_iso": "2026-11-02T19:05:52+00:00",
-      "score": 100,
-      "keywords": [
-        "election",
-        "europe",
-        "russia",
-        "ukraine"
-      ]
-    },
-    {
-      "title": "What we know about the alert app hack in Ukraine and Russia",
-      "link": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
-      "summary": "Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-02 14:24",
-      "published_iso": "2026-11-02T14:24:25+00:00",
-      "score": 100,
-      "keywords": [
-        "cyber",
-        "russia",
-        "ukraine"
-      ]
-    },
-    {
-      "title": "More Iranians Call for Nuclear Weapons After War With U.S.",
-      "link": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html",
-      "summary": "Some Iranian clerics and officials argue the country must rebuild deterrence by dropping its longstanding pledge not to build a nuclear bomb.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-11-04 16:26",
-      "published_iso": "2026-11-04T16:26:33+00:00",
-      "score": 99,
-      "keywords": [
-        "us",
-        "war"
-      ]
-    },
-    {
-      "title": "David Jones goes into administration, with store closures expected and thousands of jobs at risk",
-      "link": "https://www.theguardian.com/business/2026/nov/05/david-jones-stores-closing-down-collapse-administration",
-      "summary": "Future of Australia’s upmarket department store in jeopardy after years of steep losses, and outer suburban and regional locations vulnerable Get our breaking news email , free app or daily news podcast Australia’s premier upmarket department store David Jone...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-05 03:12",
-      "published_iso": "2026-11-05T03:12:54+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Trump has been humbled. Now what? - podcast",
-      "link": "https://www.theguardian.com/news/audio/2026/nov/05/trump-has-been-humbled-now-what-podcast",
-      "summary": "Journalist Molly Ball reports from Washington DC after the Republicans’ resounding midterms defeat. Will the party finally distance itself from Donald Trump? And what will the Democrats do with the power they’ve just gained? Send your comments and questions t...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-05 03:00",
-      "published_iso": "2026-11-05T03:00:51+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Hubert Aiwanger, prominent German politician, found dead in Berlin hotel",
-      "link": "https://www.theguardian.com/world/2026/nov/05/hubert-aiwanger-dead-german-politician-berlin-hotel",
-      "summary": "Police and prosecutors open investigation into death of the 55-year-old Bavarian state deputy leader A prominent German politician was found dead in a Berlin hotel on Wednesday, police said, adding they had launched an investigation. The cause of death of Hub...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-05 00:53",
-      "published_iso": "2026-11-05T00:53:19+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Milburn review to call for jobs ’revolution’ for young people with disabilities",
-      "link": "https://www.theguardian.com/society/2026/nov/05/milburn-review-jobs-revolution-young-people-disabilities-neets",
-      "summary": "Exclusive: Government should introduce ‘flexi-jobs’ alongside subsidies and skills support, former minister will say The British state should create and subsidise paid jobs for thousands of disabled young people as part of an “opportunity revolution” aimed at...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-05 00:01",
-      "published_iso": "2026-11-05T00:01:47+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-      "source": "TechCrunch AI",
-      "region": "Technology",
-      "published": "2026-11-04 22:45",
-      "published_iso": "2026-11-04T22:45:09+00:00",
-      "score": 98,
-      "keywords": [
-        "ai",
-        "election"
-      ]
-    },
-    {
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
-      "source": "TechCrunch AI",
-      "region": "Technology",
-      "published": "2026-11-04 21:25",
-      "published_iso": "2026-11-04T21:25:44+00:00",
-      "score": 98,
-      "keywords": [
-        "ai",
-        "election"
-      ]
-    },
-    {
-      "title": "Serbia detains police officers over alleged use of force against protesters",
-      "link": "https://www.theguardian.com/world/2026/nov/04/serbia-officers-protesters",
-      "summary": "Interior ministry claims suspects tortured and intimidated protesters detained in garage of government compound Serbian authorities detained nine active police officers and one former officer on Wednesday for ⁠allegedly using excessive force against detainees...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-04 20:42",
-      "published_iso": "2026-11-04T20:42:14+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
-      "link": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
-      "summary": "Conservation officers say more than one bear may have been involved in attack on women near their home Search teams in Canada have discovered the body of a 20-year-old woman and confirmed that both she and her mother were killed in an attack that conservation...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-04 19:42",
-      "published_iso": "2026-11-04T19:42:47+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Hong Kong activist Joshua Wong gets 10 more years in jail for foreign collusion",
-      "link": "https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion",
-      "summary": "Hong Kong democracy activist Joshua Wong was sentenced to 10 more years in prison on Thursday for colluding with foreign powers, a court summary said. Wong, 30, pleaded guilty in September to seeking foreign sanctions against Hong Kong and China under Beijing...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-05 03:31",
-      "published_iso": "2026-11-05T03:31:53+00:00",
-      "score": 97,
-      "keywords": [
-        "china"
-      ]
-    },
-    {
-      "title": "South Korea to deploy military mission to keep Strait of Hormuz open",
-      "link": "https://www.france24.com/en/asia-pacific/20261105-south-korea-military-mission-strait-of-hormuz",
-      "summary": "South Korea will deploy maritime patrol aircraft and an explosive ordnance disposal team near the Strait of Hormuz to help keep the waterway open, its defence ministry said Thursday. Seoul said it would protect commercial shipping and energy supplies while ru...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-05 02:17",
-      "published_iso": "2026-11-05T02:17:44+00:00",
-      "score": 97,
-      "keywords": [
-        "energy"
-      ]
-    },
-    {
-      "title": "Netanyahu claims 'serious concerns' of foreign spending to sway Israeli election",
-      "link": "https://www.france24.com/en/middle-east/20261104-netanyahu-claims-serious-concerns-of-foreign-spending-to-sway-israeli-election",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu on Wednesday cited \"serious suspicions\" around foreign interference in Israel's recent parliamentary elections. He claims foreign countries spent large amounts of money to influence the results, while the largest Arab...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-04 21:26",
-      "published_iso": "2026-11-04T21:26:53+00:00",
-      "score": 97,
-      "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "South Africans vote in key municipal elections",
-      "link": "https://www.france24.com/en/south-africans-vote-in-key-municipal-elections",
-      "summary": "In tonight's edition, a crucial test for South Africa's ruling ANC as millions vote to elect municipal governments. Also, Ethiopia has expelled six Sudanese diplomats amid accusations it's allowing the paramilitary RSF to launch drone strikes from its territo...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-04 21:26",
-      "published_iso": "2026-11-04T21:26:13+00:00",
-      "score": 97,
-      "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "Musk-backed candidates lose midterms despite financial backing",
-      "link": "https://www.france24.com/en/musk-backed-candidates-lose-midterms-despite-financial-backing",
-      "summary": "Shares of Tesla and SpaceX dropped after the Democratic party swept to power in America's midterm elections. Their founder, tech titan Elon Musk, poured over $440 million into Republican candidates and causes, the single biggest campaign donor in the election...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-04 21:06",
-      "published_iso": "2026-11-04T21:06:09+00:00",
-      "score": 97,
-      "keywords": [
-        "election"
-      ]
     }
   ]
 }
