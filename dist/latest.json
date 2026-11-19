@@ -1,229 +1,473 @@
 {
-  "generated_at": "2026-11-18T07:51:20+00:00",
+  "generated_at": "2026-11-19T07:47:09+00:00",
   "article_count": 80,
   "source_count": 8,
   "errors": [],
   "articles": [
     {
-      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-      "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-      "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+      "title": "Crimean Bridge attacked again, Russia says",
+      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-11-18 07:48",
-      "published_iso": "2026-11-18T07:48:18+00:00",
+      "published": "2026-11-19 07:32",
+      "published_iso": "2026-11-19T07:32:06+00:00",
+      "score": 100,
+      "keywords": [
+        "russia"
+      ]
+    },
+    {
+      "title": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
+      "link": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss",
+      "summary": "The US blockade of Iranian ports has a crippling effect on the economy, but Tehran insists its economy can survive.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-19 07:08",
+      "published_iso": "2026-11-19T07:08:57+00:00",
       "score": 100,
       "keywords": [
         "us"
       ]
     },
     {
-      "title": "Italy approves anti-semitism law despite concerns over freedom of expression",
-      "link": "https://www.france24.com/en/europe/20261118-italy-approves-anti-semitism-law-despite-concerns-over-freedom-of-expression",
-      "summary": "Italy's ​parliament on Tuesday approved a new bill aimed at combating anti-semitism – which lists some forms of criticism of ⁠Israel as examples of anti-semitic conduct – despite concerns that it could limit freedom of expression and advocacy for Palestinian...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-18 07:37",
-      "published_iso": "2026-11-18T07:37:42+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
-      "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-      "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal. W...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-18 07:29",
-      "published_iso": "2026-11-18T07:29:23+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Hungry, unpaid and afraid: Africa’s journalists pushed to the brink",
-      "link": "https://www.aljazeera.com/opinions/2026/11/18/hungry-unpaid-and-afraid-africas-journalists-pushed-to-the-brink?traffic_source=rss",
-      "summary": "The exploitation of journalists is undermining independent reporting and the public’s right to know.",
+      "title": "Netanyahu’s last stand and the dangerous politics of survival",
+      "link": "https://www.aljazeera.com/news/2026/11/19/netanyahus-last-stand-and-the-dangerous-politics-of-survival?traffic_source=rss",
+      "summary": "Facing political oblivion, Netanyahu is playing a high-stakes game that could push Israel towards violence and chaos.",
       "source": "Al Jazeera",
       "region": "Middle East",
-      "published": "2026-11-18 07:09",
-      "published_iso": "2026-11-18T07:09:22+00:00",
+      "published": "2026-11-19 06:58",
+      "published_iso": "2026-11-19T06:58:44+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "UK inflation rises to 3.6% as energy prices increase",
-      "link": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
-      "summary": "October annual rate piles pressure on households as Iran war pushes up oil cost and rattles global economy Business live – latest updates Inflation in the UK rose to 3.6% in October amid an increase in energy prices triggered by the war in the Middle East. Fi...",
+      "title": "Violent protests and killings in Bangladesh ahead of exiled Sheikh Hasina’s planned return",
+      "link": "https://www.theguardian.com/world/2026/nov/19/bangladesh-violent-protest-sheikh-hasina-planned-return",
+      "summary": "Awami League party called for ⁠nationwide protest on Thursday after the government rejected Hasina’s request for passport Parts of Bangladesh were shut down Thursday as protests by supporters of former prime minister Sheikh Hasina sparked clashes, bomb blasts...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-11-18 07:01",
-      "published_iso": "2026-11-18T07:01:09+00:00",
+      "published": "2026-11-19 06:58",
+      "published_iso": "2026-11-19T06:58:33+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Villa Where Trump, Xi and Putin Will Meet Once Hosted Kim Jong-il",
+      "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin-kylin-villa.html",
+      "summary": "The secluded Kylin Villa resort in the Chinese city of Shenzhen once hosted the North Korean dictator, Xi Jinping’s father and envoys of the Dalai Lama.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-19 06:53",
+      "published_iso": "2026-11-19T06:53:53+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Putin Returns to APEC ‘Family Photo,’ Testing Western Leaders",
+      "link": "https://www.nytimes.com/2026/11/19/world/asia/putin-xi-trump-apec-family-photo.html",
+      "summary": "The leaders of Australia and Canada defended their decision to join the APEC group portrait as a courtesy to the host, China, despite criticism at home.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-19 06:46",
+      "published_iso": "2026-11-19T06:46:07+00:00",
       "score": 100,
       "keywords": [
-        "energy",
-        "inflation",
-        "middle east",
+        "china"
+      ]
+    },
+    {
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/heres-the-latest",
+      "summary": "",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-19 06:45",
+      "published_iso": "2026-11-19T06:45:28+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "‘It’s my friend’: Moment Trump greets Putin at China summit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/its-my-friend-moment-trump-greets-putin-at-china-summit?traffic_source=rss",
+      "summary": "‘It’s my friend’: Moment Trump greets Putin at China summit",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-19 06:44",
+      "published_iso": "2026-11-19T06:44:59+00:00",
+      "score": 100,
+      "keywords": [
+        "china"
+      ]
+    },
+    {
+      "title": "A Village Burned, Its People Killed or Exiled. Was It Genocide?",
+      "link": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
+      "summary": "Zammona’s erasure was part of a wider campaign of violence against Rohingya Muslims. An international court will rule whether Myanmar is culpable for the atrocities.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-19 06:42",
+      "published_iso": "2026-11-19T06:42:09+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Tammy Shipley was supposed to be monitored in prison. Instead she died after drinking 20L of water",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/19/tammy-shipley-was-supposed-to-be-monitored-in-prison-instead-she-died-after-drinking-20l-of-water-ntwnfb",
+      "summary": "If the Aboriginal woman had been checked at regular intervals as required, her ‘excess consumption of water’ would have been prevented, inquest finds • Warning: This article contains images of and references to Indigenous Australians who have died Get our bre...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-19 06:20",
+      "published_iso": "2026-11-19T06:20:46+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Mother whose twin baby died was determined to have home birth despite advice of experts, NSW inquest hears",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/19/mother-whose-twin-baby-died-was-determined-to-have-home-birth-despite-expert-advice-nsw-inquest-hears-ntwnfb",
+      "summary": "Inquest into deaths of four babies in northern NSW between 2022 and 2024 told mother refused to give birth in hospital after hearing others’ traumatic stories Get our breaking news email , free app or daily news podcast Baby B’s mother was so determined to ha...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-19 06:17",
+      "published_iso": "2026-11-19T06:17:12+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "FIFA rankings: France finish the year on the podium, Morocco break into the top five",
+      "link": "https://www.france24.com/en/tv-shows/sports/20261119-fifa-rankings-france-finish-the-year-on-the-podium-morocco-break-into-the-top-five",
+      "summary": "FIFA unveiled its final world ranking of 2026. France remain third in the world, behind Spain and Argentina. Les Bleus have now finished in the top three for the ninth consecutive year. Morocco climb two places to fifth, equalling the best-ever ranking by an...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-11-19 06:16",
+      "published_iso": "2026-11-19T06:16:49+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Could Trump, Putin and Xi end the nuclear age?",
+      "link": "https://www.aljazeera.com/opinions/2026/11/19/could-trump-putin-and-xi-end-the-nuclear-age?traffic_source=rss",
+      "summary": "Their meeting could revive the dream of nuclear disarmament that Reagan and Gorbachev nearly realised 40 years ago.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-19 06:15",
+      "published_iso": "2026-11-19T06:15:55+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Grand Theft Auto VI launches to rave reviews after 13-year wait",
+      "link": "https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait?traffic_source=rss",
+      "summary": "Critics hail GTA 6 as a 'masterpiece', 'spectacular', and an 'astonishing American epic'.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-19 06:08",
+      "published_iso": "2026-11-19T06:08:47+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "The Xi-Putin-Trump summit will not be a ‘new Yalta’",
+      "link": "https://www.aljazeera.com/opinions/2026/11/19/the-xi-putin-trump-summit-will-not-be-a-new-yalta?traffic_source=rss",
+      "summary": "The three leaders have divergent geopolitical goals and visions for the world order.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-19 06:07",
+      "published_iso": "2026-11-19T06:07:05+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Ecuadorian footballer gets eight-year ban for throwing rock at referee",
+      "link": "https://www.aljazeera.com/sports/2026/11/19/ecuadorian-footballer-gets-eight-year-ban-for-throwing-rock-at-referee?traffic_source=rss",
+      "summary": "Jhon Perlaza threw a stone that struck an assistant referee, who later required surgery, during a third-tier match.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-19 06:06",
+      "published_iso": "2026-11-19T06:06:23+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "After A.I. Cheating Scandal, South Korea Adopts New Restrictions for Grueling College Entrance Exam",
+      "link": "https://www.nytimes.com/2026/11/18/world/asia/south-korea-cheating-college-exam-suneung.html",
+      "summary": "South Korea is sending loud emergency alerts to every phone in the country as part of a campaign to keep students taking a grueling test honest.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-19 06:02",
+      "published_iso": "2026-11-19T06:02:52+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Car use in London forecast to rise by 10% in next decade",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/19/car-use-in-london-forecast-to-rise-by-10-in-next-decade",
+      "summary": "Modelling in draft of 10-year London plan threatens Sadiq Khan’s promises on improving air quality Car use in London will rise by 10% over the next decade with cycling and walking falling as a proportion of trips, according to an official forecast by the city...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-19 06:00",
+      "published_iso": "2026-11-19T06:00:20+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Tulip Siddiq says she is considering legal action against former Bangladesh leader",
+      "link": "https://www.theguardian.com/world/2026/nov/19/tulip-siddiq-says-she-is-considering-legal-action-against-former-bangladesh-leader",
+      "summary": "Former minister, who was sentenced to prison in Bangladesh in her absence, says she was victim of ‘malicious prosecution’ The former minister Tulip Siddiq has said she is considering taking legal action against the former interim leader of Bangladesh over cor...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-19 06:00",
+      "published_iso": "2026-11-19T06:00:18+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Uncontacted Awá of Brazil Emerge From Rainforest Seeking Food",
+      "link": "https://www.nytimes.com/2026/11/18/world/americas/brazil-amazon-indigenous-contact.html",
+      "summary": "A group of 20 people emerged from the forest and asked for food, an Indigenous peoples’ rights group said, raising fears that environmental degradation had left them with no choice but to reach out.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-19 05:51",
+      "published_iso": "2026-11-19T05:51:37+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Undoing Brexit",
+      "link": "https://www.nytimes.com/2026/11/18/world/19int-theworld-brexit-trump-xi-putin.html",
+      "summary": "Prime Minister Andy Burnham wants a reset with the European Union. Reversing a decade of separation won’t be easy.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-19 05:48",
+      "published_iso": "2026-11-19T05:48:05+00:00",
+      "score": 100,
+      "keywords": [
+        "europe"
+      ]
+    },
+    {
+      "title": "‘Remarkable luck’: wreck of first Australian-built warship discovered exactly 128 years after sinking",
+      "link": "https://www.theguardian.com/environment/2026/nov/19/first-australian-built-warship-wreck-discovered",
+      "summary": "HMCS Spitfire was commissioned by colonial government to protect against Russian warships during the Crimean war The wreck of Australia’s first locally built warship has been discovered 128 years after sinking off the coast of far north Queensland. Marine arc...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-19 05:22",
+      "published_iso": "2026-11-19T05:22:38+00:00",
+      "score": 100,
+      "keywords": [
+        "russia",
         "war"
       ]
     },
     {
-      "title": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/18/social-media-ban-once-in-a-generation-study",
-      "summary": "Research to look at whether ban can make meaningful change in mental health and wellbeing for under-16s Countries around the world are considering social media bans for children, but whether this would work in practice has been hotly debated. Now researchers...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-18 07:00",
-      "published_iso": "2026-11-18T07:00:36+00:00",
+      "title": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
+      "link": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss",
+      "summary": "World court to issue key verdict in its first genocide ruling in more than a decade.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-19 05:13",
+      "published_iso": "2026-11-19T05:13:13+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-      "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
-      "source": "BBC World",
+      "title": "Middle East crisis poses 'largest threat' to energy security in history, warns IEA",
+      "link": "https://www.france24.com/en/middle-east/20261119-middle-east-crisis-energy-security-iea",
+      "summary": "The International Energy Agency said on Thursday that the Middle East crisis triggered by US and Israeli strikes on Iran in February posed the “largest threat” to energy security in history. It warned that consumers were bearing more of the costs as Iran’s bl...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-11-19 05:11",
+      "published_iso": "2026-11-19T05:11:59+00:00",
+      "score": 100,
+      "keywords": [
+        "energy",
+        "middle east",
+        "security",
+        "us"
+      ]
+    },
+    {
+      "title": "Meet Phil, the bar-tailed godwit tracked on a 6,800-mile round trip to Siberia",
+      "link": "https://www.theguardian.com/environment/2026/nov/19/phil-bar-tailed-godwit-bird-tracked-round-trip-siberia",
+      "summary": "Scientists use lightweight tracker to map wading bird’s extraordinary migration from Norfolk to the Arctic and back A bar-tailed godwit called Phil has completed a 6,800-mile journey from Norfolk to Siberia and back again, in the first mapping of the enduranc...",
+      "source": "The Guardian World",
       "region": "World",
-      "published": "2026-11-18 07:00",
-      "published_iso": "2026-11-18T07:00:25+00:00",
+      "published": "2026-11-19 05:01",
+      "published_iso": "2026-11-19T05:01:17+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "After Train Crash, Spain Asks if High-Speed Rail Grew Too Fast",
+      "link": "https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html",
+      "summary": "As an election nears, a railway disaster in Spain has set off debate over whether maintenance of its infrastructure kept pace with its booming population.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-19 05:01",
+      "published_iso": "2026-11-19T05:01:07+00:00",
       "score": 100,
       "keywords": [
         "election"
       ]
     },
     {
-      "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/heres-the-latest",
-      "summary": "suggested the rush to patch systems, whose vulnerabilities are exposed by A.I.",
+      "title": "Netanyahu Associates Acknowledge Role in Setting Off Election Day Arrests",
+      "link": "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html",
+      "summary": "Prime Minister Benjamin Netanyahu of Israel had claimed the detention of three opposition activists from an Arab-led party was evidence of vote rigging. His chief of staff has admitted being involved with the initial outreach to police.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-11-18 06:51",
-      "published_iso": "2026-11-18T06:51:01+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Bikie ‘not surprised’ if he used fake $20,000 souvlaki invoice to pocket thousands on Big Build site, inquiry hears",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/18/bandidos-bikie-joel-leavitt-cfmeu-big-build-inquiry-ntwnfb",
-      "summary": "Royal commission sees text message where Bandidos member Joel Leavitt says ‘just make up a quote that hits 20K’ while working on site for CFMEU Get our breaking news email , free app or daily news podcast A Bandidos gang member says it is possible he used a f...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-18 06:48",
-      "published_iso": "2026-11-18T06:48:28+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Rubio Says Rush to Secure Systems May Be Causing Failures",
-      "link": "https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html",
-      "summary": "Secretary of State Marco Rubio suggested the rush to patch systems, whose vulnerabilities are exposed by A.I., may explain recent failures with air traffic controls, banks and government agencies.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-11-18 06:46",
-      "published_iso": "2026-11-18T06:46:28+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "2027 AFCON qualifiers: Senegal and 5 other nations secure spot",
-      "link": "https://www.france24.com/en/tv-shows/sports/20261118-2027-afcon-qualifiers-senegal-and-5-other-nations-secure-spot",
-      "summary": "The first teams to qualify for the 2027 AFCON have been decided. Senegal, Cameroon and Morocco are among them.",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-18 06:30",
-      "published_iso": "2026-11-18T06:30:56+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
-      "link": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
-      "summary": "The US secretary of state was speaking after Microsoft, major banks, and the National Security Agency were all affected by technical failures in recent days US secretary of state Marco Rubio has sought to assure Americans that there’s “zero” information that...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-18 06:26",
-      "published_iso": "2026-11-18T06:26:49+00:00",
+      "published": "2026-11-19 05:01",
+      "published_iso": "2026-11-19T05:01:06+00:00",
       "score": 100,
       "keywords": [
-        "security",
+        "election"
+      ]
+    },
+    {
+      "title": "Weight-loss drugs used in nearly one in 10 homes in Great Britain, study finds",
+      "link": "https://www.theguardian.com/science/2026/nov/19/weight-loss-drugs-nearly-one-in-10-homes-great-britain-study-finds",
+      "summary": "About 2.6m adults are taking the drugs, fuelled by the regulator’s approval of the pill versions and a rise in male users At least one person is taking weight-loss drugs in 8.5% of households in Great Britain, according to research, meaning there are more hom...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-19 05:00",
+      "published_iso": "2026-11-19T05:00:19+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+      "link": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+      "summary": "Global energy watchdog forecasts huge rise as US and China turn to fossil fuels to power AI growth agendas The world’s datacentres will create 70% more carbon emissions within the next four years as the US and China turn to fossil fuels to power their AI grow...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-19 05:00",
+      "published_iso": "2026-11-19T05:00:18+00:00",
+      "score": 100,
+      "keywords": [
+        "ai",
+        "china",
+        "energy",
         "us"
       ]
     },
     {
-      "title": "Africa’s economic future cannot depend on Washington",
-      "link": "https://www.aljazeera.com/opinions/2026/11/18/africas-economic-future-cannot-depend-on-washington?traffic_source=rss",
-      "summary": "Trump's move to exclude South Africa and Rwanda from AGOA shows why Africa must accelerate its own economic integration.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-18 06:22",
-      "published_iso": "2026-11-18T06:22:59+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "How the Houthis fund war effort and tighten grip on Yemen",
-      "link": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss",
-      "summary": "The Houthis’ expanding war economy fuels military recruitment while poverty deepens and public services deteriorate.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-18 06:19",
-      "published_iso": "2026-11-18T06:19:17+00:00",
+      "title": "How the War in Iran Will Remake the Global Energy Order",
+      "link": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
+      "summary": "The International Energy Agency, in its most comprehensive analysis of the war’s fallout, found the oil shock could accelerate adoption of alternative power sources.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-19 05:00",
+      "published_iso": "2026-11-19T05:00:06+00:00",
       "score": 100,
       "keywords": [
+        "energy",
         "war"
       ]
     },
     {
-      "title": "A tropical Chinese city is half-empty and ready for the summit.",
-      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit",
-      "summary": "From lush landscaping to extensive surveillance, Shenzhen has made elaborate efforts to prepare for this week’s Asia-Pacific Economic Cooperation summit.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-11-18 06:08",
-      "published_iso": "2026-11-18T06:08:26+00:00",
+      "title": "Far from Trump-Putin meeting, Europe to count cost of Ukraine’s defence",
+      "link": "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss",
+      "summary": "European leaders set to meet in Berlin as Kyiv faces a 25 billion-euro ($27.4bn) financing gap next year.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-19 04:58",
+      "published_iso": "2026-11-19T04:58:36+00:00",
       "score": 100,
-      "keywords": []
+      "keywords": [
+        "europe",
+        "ukraine"
+      ]
     },
     {
-      "title": "Big Money, Existential Risks",
-      "link": "https://www.nytimes.com/2026/11/17/world/18int-theworld-anthropic-ukraine-nvidia.html",
-      "summary": "Anthropic’s prospectus for its blockbuster I.P.O. this week reads like dystopian science fiction.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-11-18 06:08",
-      "published_iso": "2026-11-18T06:08:02+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "‘Deeply concerning’: NHS in England reports more than 3,000 incidents of staff snooping on patients’ records",
-      "link": "https://www.theguardian.com/society/2026/nov/18/nhs-england-staff-snooping-patients-records",
-      "summary": "Campaign groups and regulators say data breaches are distressing for patients and families and erode trust in the health service The NHS in England has recorded more than 3,000 incidents of staff inappropriately snooping on patients’ medical records in the la...",
+      "title": "Hannah Lillith Assadi wins National book award for ‘visionary’ novel Paradiso 17",
+      "link": "https://www.theguardian.com/books/2026/nov/19/hannah-lillith-assadi-paradiso-17-wins-national-book-award",
+      "summary": "Assadi’s third novel was inspired by the story of her late father, a Palestinian who escaped the Nakba as a child in 1948 Palestinian-Jewish author Hannah Lillith Assadi has won the National book award for fiction, one of the US’s most prestigious literary pr...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-11-18 06:00",
-      "published_iso": "2026-11-18T06:00:34+00:00",
+      "published": "2026-11-19 04:54",
+      "published_iso": "2026-11-19T04:54:13+00:00",
       "score": 100,
-      "keywords": []
+      "keywords": [
+        "us"
+      ]
     },
     {
-      "title": "How to deal with a class difference in friendships? Make fun of your privileged friends",
-      "link": "https://www.theguardian.com/inequality/2026/nov/18/class-difference-friendships-research-lse",
-      "summary": "Lasting cross-class friendships involve routinely ‘taking the piss’ out of the more privileged party, research by the LSE shows Routinely “taking the piss” out of more privileged friends is one of the main ways people cope with a class difference in their fri...",
-      "source": "The Guardian World",
+      "title": "Trump wants to talk nuclear with Putin and Xi",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-wants-to-talk-nuclear-with-putin-and-xi?traffic_source=rss",
+      "summary": "US President Donald Trump says he plans to raise nuclear non-proliferation with China’s Xi and Russia’s Putin.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-19 04:50",
+      "published_iso": "2026-11-19T04:50:28+00:00",
+      "score": 100,
+      "keywords": [
+        "china",
+        "russia",
+        "us"
+      ]
+    },
+    {
+      "title": "Elon Musk says he feels ‘pretty foolish’ about US midterm spending",
+      "link": "https://www.aljazeera.com/news/2026/11/19/elon-musk-says-he-feels-pretty-foolish-about-us-midterm-spending?traffic_source=rss",
+      "summary": "Musk says campaign cash alone cannot decide elections, even as he heavily funded Republican candidates in Texas.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-19 04:46",
+      "published_iso": "2026-11-19T04:46:18+00:00",
+      "score": 100,
+      "keywords": [
+        "election",
+        "us"
+      ]
+    },
+    {
+      "title": "Is this ancient Swahili town at risk from Kenya’s energy boom",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/is-this-ancient-swahili-town-at-risk-from-kenyas-energy-boom?traffic_source=rss",
+      "summary": "East Africa is betting billions on oil infrastructure to strengthen energy security and reduce dependence on imports.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-19 04:44",
+      "published_iso": "2026-11-19T04:44:24+00:00",
+      "score": 100,
+      "keywords": [
+        "energy",
+        "security"
+      ]
+    },
+    {
+      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+      "source": "BBC World",
       "region": "World",
-      "published": "2026-11-18 06:00",
-      "published_iso": "2026-11-18T06:00:32+00:00",
+      "published": "2026-11-19 04:42",
+      "published_iso": "2026-11-19T04:42:52+00:00",
       "score": 100,
-      "keywords": []
+      "keywords": [
+        "china"
+      ]
     },
     {
-      "title": "Trump Meets Philippine Leader Before Flying to China",
-      "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
-      "summary": "The next stop on President Trump’s whirlwind Asia trip is the city of Shenzhen, where he is expected to meet with Xi Jinping of China and President Vladimir V. Putin of Russia.",
+      "title": "How to Decode the Xi-Trump Hug",
+      "link": "https://www.nytimes.com/2026/11/18/world/asia/xi-trump-hug-shenzhen.html",
+      "summary": "The welcome China’s leader, Xi Jinping, offered President Trump appeared to reflect a desire for a measure of stability at a time of growing disagreements.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-11-18 06:00",
-      "published_iso": "2026-11-18T06:00:22+00:00",
+      "published": "2026-11-19 04:29",
+      "published_iso": "2026-11-19T04:29:42+00:00",
+      "score": 100,
+      "keywords": [
+        "china"
+      ]
+    },
+    {
+      "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
+      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
+      "summary": "China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vladimir V. Putin of Russia.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-19 03:58",
+      "published_iso": "2026-11-19T03:58:59+00:00",
       "score": 100,
       "keywords": [
         "china",
@@ -231,342 +475,26 @@
       ]
     },
     {
-      "title": "What’s in the air you breathe? How to stay safe during smog season",
-      "link": "https://www.aljazeera.com/news/2026/11/18/whats-in-the-air-you-breathe-how-to-stay-safe-during-smog-season-2?traffic_source=rss",
-      "summary": "India and Pakistan had 42 of the world’s 50 most polluted cities in 2025. Millions now face another toxic winter.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-18 05:55",
-      "published_iso": "2026-11-18T05:55:08+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Rafael Grossi is eyeing the UN’s top job. Will US support nuke his chances?",
-      "link": "https://www.aljazeera.com/news/2026/11/18/rafael-grossi-wants-to-be-un-chief-will-trumps-support-nuke-his-chances?traffic_source=rss",
-      "summary": "The nuclear watchdog chief is seen as technically competent, but questions remain about his plans for UN reform.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-18 05:24",
-      "published_iso": "2026-11-18T05:24:02+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "FIFA election: Who are Infantino’s challengers, and will he be re-elected?",
-      "link": "https://www.aljazeera.com/sports/2026/11/18/fifa-president-election-nomination-infantino-diallo-tashima-vega?traffic_source=rss",
-      "summary": "A look at FIFA's presidential election process, the challengers and key dates, as Gianni Infantino seeks a fourth term.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-18 05:16",
-      "published_iso": "2026-11-18T05:16:25+00:00",
-      "score": 100,
-      "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "Rare video of Brazilian Amazon tribe",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rare-video-of-brazilian-amazon-tribe?traffic_source=rss",
-      "summary": "A new video has emerged showing members of the isolated Awa tribe who live in the remote part of Brazil’s Amazon forest.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-18 05:14",
-      "published_iso": "2026-11-18T05:14:07+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "‘Devastating consequences’: One Nation plan to slash Australia’s refugee program denounced",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb",
-      "summary": "Amid widespread condemnation of the proposal, Pauline Hanson also wants to scrap existing parent and aged parent visa program Get our daily political email , free app or daily news podcast One Nation has vowed to cut Australia’s refugee intake by 90% and scra...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-18 05:11",
-      "published_iso": "2026-11-18T05:11:31+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "These Villagers Wonder if They’re on the Front Line of Russia’s Shadow War",
-      "link": "https://www.nytimes.com/2026/11/18/world/europe/liepzig-airport-drone-attack-russia-ukraine-war.html",
-      "summary": "Russia is accused of clandestine attacks on Ukraine’s allies in Europe, most notably at Leipzig/Halle airport in eastern Germany. That has changed life for villagers nearby.",
+      "title": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit",
+      "link": "https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html",
+      "summary": "The bilateral meeting between the neighbors follows trade gains for Canada’s prime minister this week with China and the Philippines.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-11-18 05:01",
-      "published_iso": "2026-11-18T05:01:06+00:00",
-      "score": 100,
-      "keywords": [
-        "europe",
-        "russia",
-        "ukraine",
-        "war"
-      ]
-    },
-    {
-      "title": "‘Human’ wins Cambridge dictionary’s word of the year",
-      "link": "https://www.theguardian.com/science/2026/nov/18/cambridge-word-of-the-year-human",
-      "summary": "Meaning and use of word has become more important in age of AI chatbot, says dictionary In a world where the line between people and machines is more blurred than ever, Cambridge dictionary has sided with natural intelligence for its word of the year: human....",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-18 05:00",
-      "published_iso": "2026-11-18T05:00:34+00:00",
-      "score": 100,
-      "keywords": [
-        "ai"
-      ]
-    },
-    {
-      "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
-      "link": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
-      "summary": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loans The European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landmark pact with the authoritarian governm...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-18 05:00",
-      "published_iso": "2026-11-18T05:00:32+00:00",
-      "score": 100,
-      "keywords": [
-        "europe"
-      ]
-    },
-    {
-      "title": "Waymo suspends driverless freeway rides across US after California ban",
-      "link": "https://www.aljazeera.com/news/2026/11/18/waymo-suspends-driverless-freeway-rides-across-us-after-california-ban?traffic_source=rss",
-      "summary": "California authorities have declared self-driving cars an 'imminent hazard to public safety' after traffic incidents.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-18 04:58",
-      "published_iso": "2026-11-18T04:58:02+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
-      "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-18 04:57",
-      "published_iso": "2026-11-18T04:57:06+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Australian wages grow at fastest pace since 2023 – but prices are climbing even more quickly",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/18/wages-grow-at-fastest-pace-since-2023-but-prices-are-climbing-even-more-quickly",
-      "summary": "Wage rates climb about 1 percentage point faster than before pandemic, triggering warnings of a sixth RBA rate rise Get our daily political email , free app or daily news podcast Wages grew at their fastest pace since late 2023 over the three months to Septem...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-18 04:33",
-      "published_iso": "2026-11-18T04:33:40+00:00",
-      "score": 100,
-      "keywords": [
-        "pandemic"
-      ]
-    },
-    {
-      "title": "‘Aarigaa!’: the triumph of Mary Peltola’s historic US Senate win and what it means for Alaska Natives",
-      "link": "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis",
-      "summary": "Peltola, the first Alaska Native in the US Senate, ran a campaign that drew universal issues from her own Indigenous politics Late into the night on 3 November, while the lower 48 states were reeling from the blue wave crashing across the US, Mary Peltola too...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-18 04:25",
-      "published_iso": "2026-11-18T04:25:29+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Rubio rules out cyberattacks or links between tech outages",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rubio-rules-out-cyberattacks-or-links-between-tech-outages?traffic_source=rss",
-      "summary": "US Secretary of State Marco Rubio said there is no evidence linking technical outages to each other or to cyberattacks.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-18 04:01",
-      "published_iso": "2026-11-18T04:01:16+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Mary Peltola flips Alaska Senate seat in another Democratic win",
-      "link": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss",
-      "summary": "The hard-fought contest is the last to be called for the US Senate and likely faces legal challenges.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-18 03:28",
-      "published_iso": "2026-11-18T03:28:41+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Xi Jinping calls for global cooperation on AI and free trade at APEC summit",
-      "link": "https://www.france24.com/en/asia-pacific/20261118-xi-jinping-calls-for-global-cooperation-on-ai-and-free-trade-at-apec-summit",
-      "summary": "Chinese President Xi Jinping called on Wednesday for stronger global cooperation on artificial intelligence and free trade, as he opened the APEC summit in Shenzhen ahead of an expected meeting with US President Donald Trump. Trade tensions and new US chip ex...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-18 03:24",
-      "published_iso": "2026-11-18T03:24:54+00:00",
-      "score": 100,
-      "keywords": [
-        "ai",
-        "us"
-      ]
-    },
-    {
-      "title": "Young Filipinos Protest Trump and Marcos Before They Meet",
-      "link": "https://www.nytimes.com/2026/11/17/world/asia/philippines-protest-trump-marcos.html",
-      "summary": "Most demonstrators were students who said their government was more focused on its relationship with the United States than helping Filipinos.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-11-18 03:07",
-      "published_iso": "2026-11-18T03:07:55+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "White House pulls nomination of Heidi Overton to lead Food and Drug Administration – as it happened",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-      "summary": "This live blog is now closed. White House withdraws nomination of Heidi Overton to lead FDA Sign up for US Breaking News email Abdul El-Sayed , the Democratic-Senator elect from Michigan, said today that he would be happy to work with the Trump administration...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-18 02:57",
-      "published_iso": "2026-11-18T02:57:58+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Xi, Putin meet ahead of Trump's arrival in China for historic trilateral summit",
-      "link": "https://www.france24.com/en/asia-pacific/20261118-xi-putin-meet-ahead-of-historic-trump-trilateral-summit",
-      "summary": "China's leader Xi Jinping and his Russian counterpart Vladimir Putin met on Wednesday ahead of US President Donald Trump's arrival in Shenzhen for a high-stakes trilateral meeting. Trump has said Ukraine will be on the agenda, despite Xi vehemently seeing the...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-18 02:23",
-      "published_iso": "2026-11-18T02:23:24+00:00",
-      "score": 100,
-      "keywords": [
-        "china",
-        "russia",
-        "ukraine",
-        "us"
-      ]
-    },
-    {
-      "title": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment?",
-      "link": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
-      "summary": "The leader wants the APEC summit to showcase China’s strengths, but he faces export worries and an unpredictable Trump, who has floated meeting Kim Jong-un.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-11-18 02:11",
-      "published_iso": "2026-11-18T02:11:27+00:00",
+      "published": "2026-11-19 03:58",
+      "published_iso": "2026-11-19T03:58:57+00:00",
       "score": 100,
       "keywords": [
         "china"
       ]
     },
     {
-      "title": "Middle East live: Kuwait, Bahrain report drone and missile attacks",
-      "link": "https://www.france24.com/en/middle-east/20261118-middle-east-live-kuwait-bahrain-report-drone-and-missile-attacks",
-      "summary": "Kuwait said Wednesday it was countering hostile drone attacks, while Bahrain reported intercepting Iranian strikes, as US allies in the Gulf remained on alert following an American attack on Iran's Qeshm Island. The incidents came amid a standoff over the Str...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-18 02:06",
-      "published_iso": "2026-11-18T02:06:39+00:00",
-      "score": 100,
-      "keywords": [
-        "middle east",
-        "us"
-      ]
-    },
-    {
-      "title": "South Korea’s high-stakes university exams upended by AI cheating scandal",
-      "link": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
-      "summary": "South Korea has been gripped by revelations of AI-aided cheating, just days before more than half a million students are to sit high-stakes entrance exams The integrity of South Korea’s career-defining university entrance exam has been thrown into doubt after...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-18 02:03",
-      "published_iso": "2026-11-18T02:03:27+00:00",
-      "score": 100,
-      "keywords": [
-        "ai"
-      ]
-    },
-    {
-      "title": "What is Trump hoping to achieve at APEC meeting in China?",
-      "link": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss",
-      "summary": "US president expected to meet with Chinese leader for third time this year; hold trilateral summit with Putin.",
+      "title": "Miami court convicts US-Haitian pastor over 2021 assassination of president",
+      "link": "https://www.aljazeera.com/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president?traffic_source=rss",
+      "summary": "Prosecutors accused Christian Emmanuel Sanon of seeking to replace then-Haitian President Moise.",
       "source": "Al Jazeera",
       "region": "Middle East",
-      "published": "2026-11-18 01:33",
-      "published_iso": "2026-11-18T01:33:05+00:00",
-      "score": 100,
-      "keywords": [
-        "china",
-        "us"
-      ]
-    },
-    {
-      "title": "Prosecutors allege man ‘destroyed’ US military plane at Irish airport",
-      "link": "https://www.aljazeera.com/news/2026/11/18/prosecutors-allege-man-destroyed-us-military-plane-at-irish-airport?traffic_source=rss",
-      "summary": "Daithi O'Corrain, 48, has been charged with damaging a US military C-130 aircraft while it was parked overnight.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-18 01:32",
-      "published_iso": "2026-11-18T01:32:52+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-18 01:18",
-      "published_iso": "2026-11-18T01:18:18+00:00",
-      "score": 100,
-      "keywords": [
-        "ai"
-      ]
-    },
-    {
-      "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
-      "link": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
-      "summary": "The US-led board has decried continued fighting in Gaza and delays in implementing the terms of a 2025 ceasefire deal.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-18 01:07",
-      "published_iso": "2026-11-18T01:07:01+00:00",
-      "score": 100,
-      "keywords": [
-        "ceasefire",
-        "us"
-      ]
-    },
-    {
-      "title": "Ecuadorian fishermen sue Trump administration over drone strike",
-      "link": "https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss",
-      "summary": "Crew say their boat was attacked by drones launched from US-operated vessel as part of 'manifestly unlawful' campaign.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-18 01:04",
-      "published_iso": "2026-11-18T01:04:43+00:00",
+      "published": "2026-11-19 03:58",
+      "published_iso": "2026-11-19T03:58:10+00:00",
       "score": 100,
       "keywords": [
         "us"
@@ -578,8 +506,8 @@
       "summary": "Beijing is running a concerted campaign to paint Japan as an aggressor and resurgent military threat, according to a Times analysis.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-11-18 01:02",
-      "published_iso": "2026-11-18T01:02:39+00:00",
+      "published": "2026-11-19 03:32",
+      "published_iso": "2026-11-19T03:32:40+00:00",
       "score": 100,
       "keywords": [
         "china",
@@ -587,29 +515,320 @@
       ]
     },
     {
-      "title": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
-      "link": "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
-      "summary": "Asif Merchant, allegedly linked to Iran, found by court to have sought retribution over Qassem Suleimani death A Pakistani man was sentenced to more than 27 years in prison on Tuesday for plotting to assassinate Donald Trump in retaliation for the US killing...",
-      "source": "The Guardian World",
+      "title": "APEC Live: Trump-Xi-Putin meeting to focus on Ukraine, Iran, AI",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss",
+      "summary": "The unprecedented summit follows Trump's bilateral meetings with China's Xi and Russia's Putin.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-19 03:30",
+      "published_iso": "2026-11-19T03:30:26+00:00",
+      "score": 100,
+      "keywords": [
+        "ai",
+        "china",
+        "russia",
+        "ukraine"
+      ]
+    },
+    {
+      "title": "Colombia Rejects Joint Plan With U.S. to Target Drug Gangs",
+      "link": "https://www.nytimes.com/2026/11/18/world/americas/colombia-us-joint-military.html",
+      "summary": "The Colombian president said his nation would not allow American forces to take part in anti-cartel military operations on its soil, according to U.S. officials. He later denied that his government had rejected a cooperation plan.",
+      "source": "NYTimes World",
       "region": "World",
-      "published": "2026-11-18 00:21",
-      "published_iso": "2026-11-18T00:21:33+00:00",
+      "published": "2026-11-19 03:23",
+      "published_iso": "2026-11-19T03:23:24+00:00",
       "score": 100,
       "keywords": [
         "us"
       ]
     },
     {
-      "title": "Brexit work travel rules need urgent improvement, say UK business leaders",
-      "link": "https://www.theguardian.com/world/2026/nov/18/brexit-work-travel-rules-urgent-improvement-cbi",
-      "summary": "CBI says restrictions on cross-Channel work trips are hindering investment and trade between UK and Europe Business chiefs have called on the UK government and the European Commission to urgently ease Brexit restrictions on business travel for cross-Channel w...",
+      "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+      "summary": "This live blog is now closed. Follow our live coverage of the Asia-Pacific economic cooperation summit Sign up for US breaking News email Linked to that, the White House held a briefing call with several reporters today about the wave of tech outages affectin...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-11-18 00:01",
-      "published_iso": "2026-11-18T00:01:25+00:00",
+      "published": "2026-11-19 03:11",
+      "published_iso": "2026-11-19T03:11:52+00:00",
       "score": 100,
       "keywords": [
+        "china",
+        "security",
+        "us"
+      ]
+    },
+    {
+      "title": "Was China Sending a Musical Message to Japan’s Takaichi During APEC Welcome?",
+      "link": "https://www.nytimes.com/2026/11/18/world/asia/japan-china-takaichi-song-sukiyaki-apec.html",
+      "summary": "A song chosen to welcome Sanae Takaichi at the APEC summit in Shenzhen grew out of protests against the American military presence in Japan.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-19 03:03",
+      "published_iso": "2026-11-19T03:03:43+00:00",
+      "score": 100,
+      "keywords": [
+        "china"
+      ]
+    },
+    {
+      "title": "China’s Xi greets Putin and Trump at APEC before historic summit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
+      "summary": "Chinese President Xi Jinping greeted Donald Trump and Vladimir Putin at APEC summit.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-19 03:01",
+      "published_iso": "2026-11-19T03:01:27+00:00",
+      "score": 100,
+      "keywords": [
+        "china"
+      ]
+    },
+    {
+      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+      "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-19 02:59",
+      "published_iso": "2026-11-19T02:59:06+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "What do Trump, Putin and Xi want from their Shenzhen meeting?",
+      "link": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss",
+      "summary": "The US, Chinese and Russian leaders are to hold their first three-way talks on the sidelines of the APEC summit.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-19 02:57",
+      "published_iso": "2026-11-19T02:57:19+00:00",
+      "score": 100,
+      "keywords": [
+        "russia",
+        "us"
+      ]
+    },
+    {
+      "title": "AI giant Anthropic valued at $1.5 trillion ahead of stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-19 02:20",
+      "published_iso": "2026-11-19T02:20:15+00:00",
+      "score": 100,
+      "keywords": [
+        "ai",
+        "market"
+      ]
+    },
+    {
+      "title": "Hegseth unveils new US-Venezuela military deal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
+      "summary": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-19 01:48",
+      "published_iso": "2026-11-19T01:48:46+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "India is not in the room in Shenzhen, but it’s watching closely.",
+      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/india-is-not-in-the-room-at-shenzhen-but-its-watching-closely",
+      "summary": "Prime Minister Narendra Modi of India at the ASEAN-U.S. Summit, in Manila on Tuesday.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-19 01:47",
+      "published_iso": "2026-11-19T01:47:16+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Xi-Trump-Putin talks live: China, US and Russia leaders to hold landmark three-way meeting",
+      "link": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting",
+      "summary": "The leaders of China, the US and Russia are set to hold a first-of-its-kind trilateral meeting on Thursday in the Chinese city of Shenzhen, on the sidelines of an APEC summit. The meeting between Xi Jinping, Donald Trump and Vladimir Putin, which Beijing said...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-11-19 01:47",
+      "published_iso": "2026-11-19T01:47:04+00:00",
+      "score": 100,
+      "keywords": [
+        "china",
+        "russia",
+        "us"
+      ]
+    },
+    {
+      "title": "The Shadow of Yalta Hangs Over Trump’s Summit in China",
+      "link": "https://www.nytimes.com/2026/11/18/world/asia/trump-xi-putin-summit-yalta.html",
+      "summary": "A 1945 meeting of Churchill, Stalin and Franklin Roosevelt set Europe’s course for decades. Here’s what happened.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-19 00:52",
+      "published_iso": "2026-11-19T00:52:53+00:00",
+      "score": 100,
+      "keywords": [
+        "china",
         "europe"
+      ]
+    },
+    {
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-19 00:49",
+      "published_iso": "2026-11-19T00:49:19+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
+      "link": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
+      "summary": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-19 00:38",
+      "published_iso": "2026-11-19T00:38:52+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+      "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+      "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-18 23:47",
+      "published_iso": "2026-11-18T23:47:46+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+      "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+      "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-18 23:28",
+      "published_iso": "2026-11-18T23:28:03+00:00",
+      "score": 100,
+      "keywords": [
+        "russia",
+        "ukraine",
+        "us"
+      ]
+    },
+    {
+      "title": "Crimea bridge has been attacked again, says Russian-installed governor",
+      "link": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
+      "summary": "Assessment of damage is underway, days after two attacks that destroyed road section of key bridge across Kerch strait linking annexed peninsula to Russia A key bridge connecting annexed Crimea to Russia has been attacked again, a Russian-appointed regional g...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-18 23:27",
+      "published_iso": "2026-11-18T23:27:37+00:00",
+      "score": 100,
+      "keywords": [
+        "russia"
+      ]
+    },
+    {
+      "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+      "link": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+      "summary": "First incursion across boundary since ceasefire deal comes as Eisenkot seeks to form government without Netanyahu The Israeli military crossed into Hamas-controlled central Gaza on Wednesday in its first ground operation across the “yellow line” boundary sinc...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-18 23:25",
+      "published_iso": "2026-11-18T23:25:25+00:00",
+      "score": 100,
+      "keywords": [
+        "ceasefire"
+      ]
+    },
+    {
+      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+      "summary": "No state has ever been found guilty by an international court of committing genocide.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-18 23:04",
+      "published_iso": "2026-11-18T23:04:06+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-18 22:34",
+      "published_iso": "2026-11-18T22:34:56+00:00",
+      "score": 100,
+      "keywords": [
+        "ceasefire"
+      ]
+    },
+    {
+      "title": "EU proposes €45bn loan for Ukraine to avert cash crisis and boost defences",
+      "link": "https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv",
+      "summary": "Von der Leyen says she wants to give Kyiv ‘strong hand’ in talks and is confident all 27 member states will back idea The EU executive has proposed a €45bn (£37.5bn) loan for Ukraine to help with a looming cash crisis and reinforce its defences, as Russia’s r...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-18 22:34",
+      "published_iso": "2026-11-18T22:34:03+00:00",
+      "score": 100,
+      "keywords": [
+        "russia",
+        "ukraine"
+      ]
+    },
+    {
+      "title": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
+      "link": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Prince and Princess of Wales ended their three-day trip to India on Wednesday, the couple's first international tour since 2022.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-18 22:32",
+      "published_iso": "2026-11-18T22:32:47+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
+      "link": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
+      "summary": "Christian Emmanuel Sanon faces life in prison after conviction on charges arising from killing of Jovenel Moïse A Florida pastor with dual Haitian-American citizenship was convicted on Wednesday of US charges arising from the 2021 assassination of the Haitian...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-18 22:31",
+      "published_iso": "2026-11-18T22:31:41+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Boris Grebenshchikov, a Russian Rock Musician With a ‘Need to Rebel’",
+      "link": "https://www.nytimes.com/2026/11/18/world/europe/russia-rock-music-boris-grebenshchikov.html",
+      "summary": "In the 1980s, Boris Grebenshchikov led a revered Russian underground band. A rereleased documentary from that era is bringing new attention to his work.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-18 22:24",
+      "published_iso": "2026-11-18T22:24:50+00:00",
+      "score": 100,
+      "keywords": [
+        "russia"
       ]
     },
     {
@@ -618,211 +837,127 @@
       "summary": "The Egyptian-born correspondent wrote about the Middle East during a time of dizzying transformation, and was expelled by Iran for his coverage.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-11-17 23:26",
-      "published_iso": "2026-11-17T23:26:17+00:00",
+      "published": "2026-11-18 22:05",
+      "published_iso": "2026-11-18T22:05:53+00:00",
       "score": 100,
       "keywords": [
         "middle east"
       ]
     },
     {
-      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-      "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-      "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
-      "source": "BBC World",
+      "title": "Waymo pulls driverless taxis from freeways across the US after California ban",
+      "link": "https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways",
+      "summary": "The autonomous driving company suspended driverless taxi rides on US highways days after California banned the vehicles on its own freeways Waymo has stopped offering driverless taxi rides on freeways across the US indefinitely. The Alphabet subsidiary pulled...",
+      "source": "The Guardian World",
       "region": "World",
-      "published": "2026-11-17 23:02",
-      "published_iso": "2026-11-17T23:02:12+00:00",
+      "published": "2026-11-18 22:05",
+      "published_iso": "2026-11-18T22:05:49+00:00",
       "score": 100,
       "keywords": [
-        "ai",
-        "china",
         "us"
       ]
     },
     {
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-17 22:46",
-      "published_iso": "2026-11-17T22:46:30+00:00",
-      "score": 100,
-      "keywords": [
-        "security",
-        "us"
-      ]
-    },
-    {
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-17 21:24",
-      "published_iso": "2026-11-17T21:24:35+00:00",
-      "score": 100,
-      "keywords": [
-        "russia",
-        "ukraine"
-      ]
-    },
-    {
-      "title": "AI imagery complicates Nigeria's election prep",
-      "link": "https://www.france24.com/en/ai-imagery-complicates-nigeria-s-election-prep",
-      "summary": "In tonight's edition, concerns emerge that AI has been used to generate fake voting profiles ahead of Nigeria's high-stakes general election in January. Also, Nigeria's mining marshal heads underground to unearth some of the people and organizations behind th...",
+      "title": "Crimea bridge strike: Fact-checking fake videos of damage after Ukraine's attack",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261118-crimea-bridge-strike-fact-checking-fake-videos-of-damage-after-ukraine-s-attack",
+      "summary": "Ukraine struck the Kerch Bridge linking Russia to occupied Crimea, but not all the dramatic footage circulating online is real. Multiple AI-generated videos falsely show the bridge collapsed with extensive damage. Some even used branding resembling a Ukrainia...",
       "source": "France 24",
       "region": "Europe",
-      "published": "2026-11-17 21:20",
-      "published_iso": "2026-11-17T21:20:27+00:00",
+      "published": "2026-11-18 21:51",
+      "published_iso": "2026-11-18T21:51:43+00:00",
       "score": 100,
       "keywords": [
         "ai",
-        "election"
+        "russia",
+        "ukraine"
       ]
     },
     {
-      "title": "Russian military plane crashes, killing all 19 on board",
-      "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+      "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+      "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-11-17 21:06",
-      "published_iso": "2026-11-17T21:06:11+00:00",
+      "published": "2026-11-18 21:28",
+      "published_iso": "2026-11-18T21:28:08+00:00",
       "score": 100,
       "keywords": [
-        "russia"
+        "ai",
+        "us"
       ]
     },
     {
-      "title": "US loses measles elimination status after 26 years amid record case numbers",
-      "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+      "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-11-17 21:04",
-      "published_iso": "2026-11-17T21:04:00+00:00",
+      "published": "2026-11-18 21:13",
+      "published_iso": "2026-11-18T21:13:06+00:00",
       "score": 100,
       "keywords": [
         "us"
       ]
     },
     {
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+      "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
+      "link": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
+      "summary": "The Israeli military said it was conducting a limited raid into territory controlled by Hamas to address a threat. The militant group accused Israel of violating the truce.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-18 20:29",
+      "published_iso": "2026-11-18T20:29:31+00:00",
+      "score": 100,
+      "keywords": [
+        "ceasefire"
+      ]
+    },
+    {
+      "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+      "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+      "summary": "Defense secretary asserts US dominance on trip that would have seemed ‘impossible, almost unbelievable’ a year ago Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictat...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-18 20:24",
+      "published_iso": "2026-11-18T20:24:19+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "William and Kate meet PM Modi as they wrap up India tour",
+      "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-11-17 20:30",
-      "published_iso": "2026-11-17T20:30:20+00:00",
+      "published": "2026-11-18 20:07",
+      "published_iso": "2026-11-18T20:07:08+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "Who to watch in Spain's election race",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-      "summary": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-17 18:13",
-      "published_iso": "2026-11-17T18:13:45+00:00",
+      "title": "US Democrats nominate Jeffries to be first Black House speaker",
+      "link": "https://www.france24.com/en/us-democrats-nominate-jeffries-to-be-first-black-house-speaker",
+      "summary": "Hakeem Jeffries is on the cusp of becoming the first Black speaker of the US House of Representatives after Democrats elected him their leader Wednesday following a sweeping midterm election triumph. Jeffries faced no declared challenger, although opposition...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-11-18 19:58",
+      "published_iso": "2026-11-18T19:58:23+00:00",
       "score": 100,
       "keywords": [
-        "election"
-      ]
-    },
-    {
-      "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-      "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-17 17:37",
-      "published_iso": "2026-11-17T17:37:04+00:00",
-      "score": 100,
-      "keywords": [
+        "election",
         "us"
       ]
     },
     {
-      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-      "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-17 17:19",
-      "published_iso": "2026-11-17T17:19:57+00:00",
-      "score": 100,
-      "keywords": [
-        "russia",
-        "ukraine"
-      ]
-    },
-    {
-      "title": "‘They were keeping it for a rainy day’: Ukraine’s Kerch bridge attack is proof Kyiv still has cards to play",
-      "link": "https://www.theguardian.com/world/2026/nov/17/ukraine-kerch-bridge-attack-russia-crimea-analysis",
-      "summary": "Partial demolition of bridge linking Russia and occupied Crimea is obvious embarrassment to Putin days before meeting with Xi and Trump Europe live – latest updates Ukraine’s attack on the Kerch road bridge overnight is the culmination of weeks, and perhaps m...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-17 16:40",
-      "published_iso": "2026-11-17T16:40:26+00:00",
-      "score": 100,
-      "keywords": [
-        "europe",
-        "russia",
-        "ukraine"
-      ]
-    },
-    {
-      "title": "BBC reports from Kyiv bridge hit by Russian attack",
-      "link": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-17 15:54",
-      "published_iso": "2026-11-17T15:54:15+00:00",
-      "score": 100,
-      "keywords": [
-        "russia"
-      ]
-    },
-    {
-      "title": "How the attack on Crimean Bridge unfolded",
-      "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
-      "summary": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-17 15:38",
-      "published_iso": "2026-11-17T15:38:10+00:00",
-      "score": 100,
-      "keywords": [
-        "russia",
-        "ukraine"
-      ]
-    },
-    {
-      "title": "How new US chip restrictions on South East Asia will hit China",
-      "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-17 14:25",
-      "published_iso": "2026-11-17T14:25:45+00:00",
-      "score": 100,
-      "keywords": [
-        "china",
-        "us"
-      ]
-    },
-    {
-      "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
-      "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-17 11:17",
-      "published_iso": "2026-11-17T11:17:32+00:00",
+      "title": "Xi welcomes Trump: Does Nvidia scandal upend US-China AI race?",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20261118-xi-welcomes-trump-does-nvidia-scandal-upend-us-china-ai-race",
+      "summary": "You can strike Jensen Huang from the guest list but good luck steering dinner conversation away from the topic in Shenzhen. The co-founder of the AI computing leader was to accompany the US president to the APEC summit before he was undone by revelations of a...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-11-18 19:42",
+      "published_iso": "2026-11-18T19:42:17+00:00",
       "score": 100,
       "keywords": [
         "ai",
@@ -831,207 +966,77 @@
       ]
     },
     {
-      "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
-      "link": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
-      "summary": "Organisers say up to 10,000 people could join next round of demonstrations as US president arrives for Asean summit Asean and Apec summits – as it happened Hundreds of people have been arrested in heated demonstrations against Donald Trump in Manila, as the U...",
+      "title": "Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+      "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+      "summary": "This blog is now closed, you can read more on this story here Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? That is the question the Guardian’s diplomatic correspondent Patrick Wintour seeks to address in his piece about...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-11-17 11:00",
-      "published_iso": "2026-11-17T11:00:39+00:00",
+      "published": "2026-11-18 17:48",
+      "published_iso": "2026-11-18T17:48:24+00:00",
       "score": 100,
       "keywords": [
-        "ai",
-        "us",
+        "china",
+        "europe"
+      ]
+    },
+    {
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-18 17:00",
+      "published_iso": "2026-11-18T17:00:40+00:00",
+      "score": 100,
+      "keywords": [
+        "russia",
+        "ukraine",
         "war"
       ]
     },
     {
-      "title": "Will President Trump meet Kim Jong Un?",
-      "link": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Trump says he would be keen to meet the North Korea leader in China.",
+      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-11-17 10:13",
-      "published_iso": "2026-11-17T10:13:27+00:00",
+      "published": "2026-11-18 17:00",
+      "published_iso": "2026-11-18T17:00:04+00:00",
       "score": 100,
-      "keywords": [
-        "china"
-      ]
-    },
-    {
-      "title": "Trump to meet Chinese leader Xi Jinping and Russia's Vladimir Putin for joint summit",
-      "link": "https://www.npr.org/2026/11/17/nx-s1-6042448/trump-to-meet-chinese-leader-xi-jinping-and-russias-vladimir-putin-for-joint-summit",
-      "summary": "President Trump is off for a series of meetings in Asia that will cover trade, security and a rare trilateral meeting with China and Russia.",
-      "source": "NPR World",
-      "region": "World",
-      "published": "2026-11-17 09:46",
-      "published_iso": "2026-11-17T09:46:00+00:00",
-      "score": 100,
-      "keywords": [
-        "china",
-        "russia",
-        "security"
-      ]
-    },
-    {
-      "title": "Xi said China would welcome American students for exchanges. What's the reality?",
-      "link": "https://www.npr.org/2026/11/17/nx-s1-6026589/xi-said-china-would-welcome-american-students-for-exchanges-whats-the-reality",
-      "summary": "President Trump and China's leader Xi Jinping are due to meet in the Chinese city of Shenzhen. At their last summit in September, Xi said he will welcome 100,000 American students for exchanges.",
-      "source": "NPR World",
-      "region": "World",
-      "published": "2026-11-17 22:41",
-      "published_iso": "2026-11-17T22:41:53+00:00",
-      "score": 99,
-      "keywords": [
-        "china"
-      ]
-    },
-    {
-      "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
-      "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
-      "summary": "Destroying the structure, the only one connecting Russia to the occupied Crimean Peninsula, has long been a top objective for Kyiv.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-11-17 19:41",
-      "published_iso": "2026-11-17T19:41:03+00:00",
-      "score": 99,
       "keywords": [
         "russia",
         "ukraine"
       ]
     },
     {
-      "title": "Carney and Xi Announce Canada-China Trade Pact",
-      "link": "https://www.nytimes.com/2026/11/17/world/canada/carney-china-xi-trade-apec.html",
-      "summary": "The agreement between Canada and China and the cordial relations on display by their leaders contrast with the current Canada-U.S. relationship.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-11-17 17:19",
-      "published_iso": "2026-11-17T17:19:21+00:00",
-      "score": 99,
+      "title": "War in Ukraine: Is France in direct conflict with Russia?",
+      "link": "https://www.france24.com/en/video/20261118-war-in-ukraine-is-france-in-direct-conflict-with-russia",
+      "summary": "An investigation published by the French public radio channel RFI on November 17 revealed that a confidential mission by the French army known as \"Volia\" has been used for months to conceal the presence of French personnel in Ukraine. Russia was prompt to acc...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-11-18 16:57",
+      "published_iso": "2026-11-18T16:57:36+00:00",
+      "score": 100,
       "keywords": [
-        "china",
-        "us"
-      ]
-    },
-    {
-      "title": "Putin Is Open to Meeting With North Korea’s Leader in China, Kremlin Says",
-      "link": "https://www.nytimes.com/2026/11/17/world/asia/putin-kim-jong-un-north-korea-china-meeting.html",
-      "summary": "President Vladimir V. Putin of Russia could meet with Kim Jong-un if he travels to Shenzhen for the APEC summit this week. North Korea has not confirmed whether Mr. Kim will attend.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-11-17 14:37",
-      "published_iso": "2026-11-17T14:37:57+00:00",
-      "score": 99,
-      "keywords": [
-        "china",
-        "russia"
-      ]
-    },
-    {
-      "title": "A Visual Tour of President Trump’s Visits to Asia",
-      "link": "https://www.nytimes.com/2026/11/17/world/asia/president-trump-visits-asia.html",
-      "summary": "President Trump landed in the Philippines on the first stop of a 48-hour Asia trip during which he is expected to meet with leaders including the presidents of Russia and China.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-11-17 14:26",
-      "published_iso": "2026-11-17T14:26:17+00:00",
-      "score": 99,
-      "keywords": [
-        "china",
-        "russia"
-      ]
-    },
-    {
-      "title": "There’s a New Push at COP31 in Turkey: Electrification",
-      "link": "https://www.nytimes.com/2026/11/17/climate/cop31-turkey-electrification.html",
-      "summary": "With war squeezing global oil and gas supplies, leaders at COP31 are backing a plan that would mirror China’s rapid grid expansion.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-11-17 10:03",
-      "published_iso": "2026-11-17T10:03:56+00:00",
-      "score": 99,
-      "keywords": [
-        "china",
+        "russia",
+        "ukraine",
         "war"
       ]
     },
     {
-      "title": "Australia’s ‘problematic’ surrogacy laws could be transformed under proposed changes",
-      "link": "https://www.theguardian.com/law/2026/nov/18/australias-strict-surrogacy-laws-could-be-relaxed-under-proposed-changes",
-      "summary": "Law reform body recommends ongoing ban on commercial surrogacy, but greater compensation for surrogates, and safeguards around who the child’s legal parents are Get our breaking news email , free app or daily news podcast Surrogates would be entitled to full...",
-      "source": "The Guardian World",
+      "title": "Putin renews his warm bond with Xi.",
+      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/putin-renews-his-warm-bond-with-xi",
+      "summary": "The Russian leader demonstrated that despite his isolation from many Western nations over the war in Ukraine, he remains on good terms with much of the rest of the world.",
+      "source": "NYTimes World",
       "region": "World",
-      "published": "2026-11-18 03:28",
-      "published_iso": "2026-11-18T03:28:59+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Mary Peltola beats Republican Dan Sullivan in Alaska to give Democrats 56 Senate seats",
-      "link": "https://www.theguardian.com/us-news/2026/nov/17/mary-peltola-alaska-senate-race",
-      "summary": "Republican incumbent beaten in race dominated by controversy over second candidate named Dan Sullivan Democrat Mary Peltola will be Alaska’s next senator after beating the Republican incumbent Dan Sullivan, with the result called two weeks on from midterm ele...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-18 03:25",
-      "published_iso": "2026-11-18T03:25:14+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Tag team: dual waterspouts appear in San Francisco Bay amid stormy weather",
-      "link": "https://www.theguardian.com/us-news/2026/nov/17/san-francisco-bay-area-waterspouts",
-      "summary": "Phenomenon is not a common occurrence in the Bay area and inclement weather is expected to continue for few days A pair of waterspouts were recorded recently in the San Francisco Bay area, much to the delight and shock of several observers, as storms pummelle...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-18 02:33",
-      "published_iso": "2026-11-18T02:33:21+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "The ‘moon landing’ of gaming: Australians, some of the first to play GTA VI, prepare to descend on Vice City",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/18/gta-6-biggest-gaming-event-australians-prepare-for-global-release",
-      "summary": "After a 13-year wait for the latest Grand Theft Auto instalment, Thursday’s launch is shaping up to be ‘the biggest gaming event that’s ever been’ Gamers across Australia are preparing for the once-in-a-generation release of Grand Theft Auto VI, a day acolyte...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-18 02:24",
-      "published_iso": "2026-11-18T02:24:02+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "New UK-EU youth mobility scheme may not fully launch until 2030",
-      "link": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
-      "summary": "Exclusive: deal expected to be sealed in principle at EU-UK summit on Friday but trickier elements could be postponed for six months The new post-Brexit UK-EU youth mobility scheme may not come fully into force until 2030. It will be a disappointment to any u...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-17 22:55",
-      "published_iso": "2026-11-17T22:55:06+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Israeli parliament elects new speaker backed by Netanyahu’s opponents",
-      "link": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
-      "summary": "Knesset’s appointment of Matan Kahana marks step towards reversing policies of outgoing government The Israeli parliament elected a new speaker on Tuesday, a key step toward rolling back policies passed by the outgoing government led by the prime minister, Be...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-17 22:30",
-      "published_iso": "2026-11-17T22:30:17+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
-      "link": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
-      "summary": "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free access The decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreigners in exchange for investment threatens its eco...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-17 21:49",
-      "published_iso": "2026-11-17T21:49:29+00:00",
-      "score": 98,
-      "keywords": []
+      "published": "2026-11-18 14:14",
+      "published_iso": "2026-11-18T14:14:34+00:00",
+      "score": 100,
+      "keywords": [
+        "russia",
+        "ukraine",
+        "war"
+      ]
     }
   ]
 }
