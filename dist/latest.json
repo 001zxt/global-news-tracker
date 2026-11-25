@@ -1,76 +1,312 @@
 {
-  "generated_at": "2026-11-24T10:17:20+00:00",
+  "generated_at": "2026-11-25T08:59:30+00:00",
   "article_count": 80,
   "source_count": 8,
   "errors": [],
   "articles": [
-    {
-      "title": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
-      "link": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
-      "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Jensen Huang’s return to Nvidia, despite conce...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-24 10:14",
-      "published_iso": "2026-11-24T10:14:59+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Timms says Pip review being published today will ‘rehumanise’ benefit – UK politics live",
-      "link": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
-      "summary": "Some recommendations expected to clash with those of Milburn’s recent report into Neets UK disability benefit cuts ‘risk worsening youth destitution’ Andy Burnham has made a point of paying less attention to the legacy mainstream media than his predecessors,...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-24 10:14",
-      "published_iso": "2026-11-24T10:14:04+00:00",
-      "score": 100,
-      "keywords": []
-    },
     {
       "title": "Harry and Meghan’s Life as ‘Nonroyal Royals’ in the UK",
       "link": "https://www.nytimes.com/2026/11/24/world/europe/harry-meghan-royal-family-uk.html",
       "summary": "Six years after leaving the country, the Sussexes are back and arranging a careful program of public appearances. Will they complement the royal family, or compete with it?",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-11-24 10:02",
-      "published_iso": "2026-11-24T10:02:08+00:00",
+      "published": "2026-11-25 08:55",
+      "published_iso": "2026-11-25T08:55:39+00:00",
       "score": 100,
       "keywords": []
     },
     {
-      "title": "A U.N. Leader Focuses on the Deadly Problem of Road Safety",
-      "link": "https://www.nytimes.com/2026/11/24/world/women-leadership-road-safety-nneka-henry.html",
-      "summary": "Nneka Henry works for the United Nations to help develop solutions to the chaos and calamity caused by cars, motorcycles and scooters, and help drum up the resources to improve safety.",
-      "source": "NYTimes World",
+      "title": "All hostages freed after Colombian security forces storm supermarket, says president",
+      "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
+      "summary": "Operation in which one captor was killed brings to an end day-long siege in which 30 hostages were initially held Colombian security forces have stormed a supermarket in the Caribbean city of Cartagena to end a day-long hostage siege , with the president sayi...",
+      "source": "The Guardian World",
       "region": "World",
-      "published": "2026-11-24 10:01",
-      "published_iso": "2026-11-24T10:01:44+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "6 Craft Retreats Offer Knitting, Pottery and More for All Skill Levels",
-      "link": "https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html",
-      "summary": "Interest in crafting hobbies, like knitting or pottery, isn’t new, but several factors in the wake of the pandemic have also made them appealing. Here are some suggestions for hands-on retreats.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-11-24 10:00",
-      "published_iso": "2026-11-24T10:00:20+00:00",
+      "published": "2026-11-25 08:31",
+      "published_iso": "2026-11-25T08:31:48+00:00",
       "score": 100,
       "keywords": [
-        "pandemic"
+        "security"
       ]
     },
     {
-      "title": "Congress to grill Jensen Huang over ties with China and Trump’s intervention",
-      "link": "https://www.theguardian.com/technology/2026/nov/24/nvidia-jensen-huang-congress",
-      "summary": "Lawmakers from both parties are demanding answers about the Nvidia CEO’s reinstatement and the administration’s handling of national security risks Jensen Huang’s reinstatement as Nvidia’s chief executive is “exhibit A” of the “political corruption and rot at...",
+      "title": "Saudi-led coalition intercepts Houthi attacks after Hodeidah strike",
+      "link": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike?traffic_source=rss",
+      "summary": "The escalation comes after the Yemeni rebel group threatened to attack the kingdom's Red Sea ports in retaliation.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-25 08:23",
+      "published_iso": "2026-11-25T08:23:35+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Countries that thrive on global cooperation must help sustain it",
+      "link": "https://www.aljazeera.com/opinions/2026/11/25/countries-that-thrive-on-global-cooperation-must-help-sustain-it?traffic_source=rss",
+      "summary": "Prosperous small states like Qatar should combine their diplomatic and economic resources to advance global stability.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-25 08:23",
+      "published_iso": "2026-11-25T08:23:01+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Is Russia really aiming for a new European security architecture?",
+      "link": "https://www.aljazeera.com/opinions/2026/11/25/is-russia-really-aiming-for-a-new-european-security-architecture?traffic_source=rss",
+      "summary": "Moscow is piling on new demands in talks with Ukraine, either as a negotiating strategy or as a diversion.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-25 08:20",
+      "published_iso": "2026-11-25T08:20:55+00:00",
+      "score": 100,
+      "keywords": [
+        "europe",
+        "russia",
+        "security",
+        "ukraine"
+      ]
+    },
+    {
+      "title": "From stargazing to space: Pakistan watches its first astronaut take flight",
+      "link": "https://www.aljazeera.com/features/2026/11/25/from-stargazing-to-space-pakistan-watches-its-first-astronaut-take-flight?traffic_source=rss",
+      "summary": "Students and stargazers packed SUPARCO's auditorium before dawn to watch Zeeshan Ali reach orbit on a Chinese rocket.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-25 08:11",
+      "published_iso": "2026-11-25T08:11:19+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Rescuers search for dozens trapped in flooded Indonesia gold mine",
+      "link": "https://www.aljazeera.com/news/2026/11/25/rescuers-search-for-dozens-trapped-in-flooded-indonesia-gold-mine?traffic_source=rss",
+      "summary": "Police say 26 workers are yet to be rescued from a mine that flooded when a nearby river overflowed after heavy rain.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-25 08:08",
+      "published_iso": "2026-11-25T08:08:57+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "IVF, elective abortion, gender-affirming care and VAD to cease under Catholic ownership of private hospitals",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/25/ivf-elective-abortion-assisted-dying-calvary-catholic-ownership-private-hospitals-ntwnfb",
+      "summary": "ACCC approves Calvary’s takeover of 14 hospitals around Australia, with critics concerned move will add to pressures on public health system Get our breaking news email , free app or daily news podcast Advocates say access to voluntary assisted dying, IVF, el...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-11-24 10:00",
-      "published_iso": "2026-11-24T10:00:14+00:00",
+      "published": "2026-11-25 08:05",
+      "published_iso": "2026-11-25T08:05:27+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Colombia’s Leader Blames ‘Terrorist Attack’ for Power Outages",
+      "link": "https://www.nytimes.com/2026/11/25/world/americas/colombia-blackout-terrorist-attack.html",
+      "summary": "The blackouts follow a string of violent episodes attributed to Colombia’s armed traffickers, as the country’s new president cracks down on the groups.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-25 08:05",
+      "published_iso": "2026-11-25T08:05:15+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Iraq’s Prime Minister Aims to Wrest More Power From Kurdistan Region",
+      "link": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
+      "summary": "Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-25 07:36",
+      "published_iso": "2026-11-25T07:36:48+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "‘You’re protecting Trump’: Hanson-Young clashes with Liberal senator before digital duty of care legislation passes – as it happened",
+      "link": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+      "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives wh...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-25 07:34",
+      "published_iso": "2026-11-25T07:34:44+00:00",
+      "score": 100,
+      "keywords": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Sentences served, but Gaza prisoners remain behind Israeli bars",
+      "link": "https://www.aljazeera.com/news/2026/11/25/sentences-served-but-gaza-prisoners-remain-behind-israeli-bars?traffic_source=rss",
+      "summary": "Palestinian families in Gaza wait for loved ones who remain in Israeli prisons despite completing their sentences.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-25 07:31",
+      "published_iso": "2026-11-25T07:31:44+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
+      "link": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
+      "summary": "The move followed Switzerland’s decision to impose sanctions on an international youth camp in North Korea, which is accused of hosting Ukrainian children for indoctrination.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-25 07:29",
+      "published_iso": "2026-11-25T07:29:44+00:00",
+      "score": 100,
+      "keywords": [
+        "ukraine",
+        "war"
+      ]
+    },
+    {
+      "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
+      "link": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-25 07:26",
+      "published_iso": "2026-11-25T07:26:54+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "🔴 Colombia president says all hostages freed, one assailant killed after supermarket hostage siege",
+      "link": "https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights",
+      "summary": "",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-11-25 07:20",
+      "published_iso": "2026-11-25T07:20:50+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Labor wins Greens support for trust changes in exchange for scrapping jet fuel subsidies for the wealthy",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/25/labor-greens-deal-discretionary-trust-changes-jet-fuel-subsidies-scrapped-for-private-jet-owners",
+      "summary": "Government also agrees to carve out pensioners from cuts to private health insurance rebates in return for minor party’s support in Senate Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcas...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-25 07:16",
+      "published_iso": "2026-11-25T07:16:33+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Pakistan rejoices as country’s first astronaut enters orbit",
+      "link": "https://www.aljazeera.com/news/2026/11/25/pakistan-rejoices-as-countrys-first-astronaut-enters-orbit?traffic_source=rss",
+      "summary": "Zeeshan Ali makes history as the first foreign national to board China's space station",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-25 07:05",
+      "published_iso": "2026-11-25T07:05:59+00:00",
+      "score": 100,
+      "keywords": [
+        "china"
+      ]
+    },
+    {
+      "title": "Energy bills in Great Britain to rise 26% in January, lifting annual bills over £2,000",
+      "link": "https://www.theguardian.com/money/2026/nov/25/energy-bills-in-great-britain-to-rise-ofgem-price-cap",
+      "summary": "Ofgem’s price cap will increase for third quarter in a row after rise in wholesale cost of gas Millions of British households will face annual energy bills of more than £2,000 a year for the first time since Russia’s invasion of Ukraine, as the cap on energy...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-25 07:03",
+      "published_iso": "2026-11-25T07:03:21+00:00",
+      "score": 100,
+      "keywords": [
+        "energy",
+        "russia",
+        "ukraine"
+      ]
+    },
+    {
+      "title": "‘Nature’s Ozempic’: oat sales soar as shoppers seek out foods that mimic effect of GLP-1s",
+      "link": "https://www.theguardian.com/business/2026/nov/25/natures-ozempic-oat-sales-soar-shoppers-seek-out-foods-mimic-effect-glp-1s",
+      "summary": "Porridge emerges as trend’s poster child with consumers looking to foods that help them feel full for longer, says Waitrose Sales of filling foods such as porridge oats that mimic the effect of taking weight-loss medication are booming on the back of social m...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-25 07:00",
+      "published_iso": "2026-11-25T07:00:10+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Bangladesh garment workers win 36% pay rise after weeks of protest",
+      "link": "https://www.aljazeera.com/news/2026/11/25/bangladesh-garment-workers-win-36-pay-rise-after-weeks-of-protest?traffic_source=rss",
+      "summary": "The protests have cost Bangladesh hundreds of millions, but workers are yet to accept the offer.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-25 06:58",
+      "published_iso": "2026-11-25T06:58:02+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Africa Cup title given back to Senegal after sports court rules against Morocco",
+      "link": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
+      "summary": "Senegal won the Africa Cup on the field in Morocco in January and then lost it in a legal case in March because its players walked off the field in protest in second-half stoppage time.",
+      "source": "NPR World",
+      "region": "World",
+      "published": "2026-11-25 06:43",
+      "published_iso": "2026-11-25T06:43:23+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Books, wisdom keepers and psychic abilities among sources of birth keeper’s knowledge, inquest hears",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/25/books-wisdom-keepers-and-psychic-abilities-among-sources-of-birth-keepers-knowledge-inquest-hears-ntwnfb",
+      "summary": "Sita Kali tells NSW coroner ‘there’s a lot of mystery’ around pregnancies involving twins Get our breaking news email , free app or daily news podcast A self-taught birth keeper who failed to recognise a woman was carrying twins says she doubted her psychic a...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-25 06:38",
+      "published_iso": "2026-11-25T06:38:51+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
+      "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-25 06:36",
+      "published_iso": "2026-11-25T06:36:00+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "2025 AFCON: CAS gives title to Senegal as Morocco vows to challenge verdict",
+      "link": "https://www.france24.com/en/tv-shows/sports/20261125-2025-afcon-cas-gives-title-to-senegal-as-morocco-vows-to-challenge-verdict",
+      "summary": "The Court of Arbitration for Sport has handed down its ruling: Senegal is officially the 2025 AFCON champion. The Moroccan Football Federation has announced that it will challenge the verdict, citing irregularities in the proceedings.",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-11-25 06:20",
+      "published_iso": "2026-11-25T06:20:48+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-25 06:00",
+      "published_iso": "2026-11-25T06:00:36+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "China-linked battery projects could receive UK funding despite security warnings",
+      "link": "https://www.theguardian.com/business/2026/nov/25/china-battery-projects-uk-funding-security-warnings",
+      "summary": "China-made lithium-ion batteries, which are relatively low-cost, dominate Ofgem project shortlist A string of battery projects linked to China are expected to be granted UK state subsidies despite deepening fears over the risk of foreign interference they cou...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-25 06:00",
+      "published_iso": "2026-11-25T06:00:07+00:00",
       "score": 100,
       "keywords": [
         "china",
@@ -78,82 +314,108 @@
       ]
     },
     {
-      "title": "Tale of Thanksgiving grandma and accidental guest to receive Lifetime movie treatment",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/nov/24/thanksgiving-grandmother-text-lifetime",
-      "summary": "Wanda Dench texted stranger Jamal Hinton by mistake in 2016 – and pair have shared holiday together ever since The heartwarming story of the Arizona grandmother and the stranger to whom she inadvertently texted a Thanksgiving invitation in 2016 – leading to t...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-24 10:00",
-      "published_iso": "2026-11-24T10:00:13+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "An Arctic Way of Life Fades as Norway Closes Its Last Coal Mine",
-      "link": "https://www.nytimes.com/2026/11/24/world/europe/norway-svalbard-arctic-last-coal-mine.html",
-      "summary": "The mining history of Svalbard goes back over a century. But this icy archipelago is now a cruise ship destination and a geopolitical hot spot.",
+      "title": "National Security vs. the Stock Market",
+      "link": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html",
+      "summary": "President Trump swept aside concerns about possible espionage when he lobbied Nvidia’s board to reinstate Jensen Huang as chief executive.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-11-24 10:00",
-      "published_iso": "2026-11-24T10:00:11+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Bleeding, birth defects: Congo residents sue over alleged mining pollution",
-      "link": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
-      "summary": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.",
-      "source": "NPR World",
-      "region": "World",
-      "published": "2026-11-24 10:00",
-      "published_iso": "2026-11-24T10:00:00+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Meet Colombia's fuzzy 'water guardians'",
-      "link": "https://www.npr.org/2026/11/24/nx-s1-6038806/colombia-water-plants-frailejons",
-      "summary": "High in the Colombian Andes, a growing number of volunteers are racing to save an unusual plant that helps supply water to millions — one tiny seedling at a time.",
-      "source": "NPR World",
-      "region": "World",
-      "published": "2026-11-24 10:00",
-      "published_iso": "2026-11-24T10:00:00+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Death of Nahel: French police officer who shot dead a teenage boy to stand trial for murder",
-      "link": "https://www.france24.com/en/france/20261124-death-of-nahel-french-police-officer-who-shot-dead-a-teenage-boy-to-stand-trial-for-murder",
-      "summary": "A French police officer who shot and killed 17-year-old Nahel Merzouk during a traffic stop in June 2023 will stand trial for murder following a ruling by the Versailles appeals court. Merzouk's death at the hands of the police sparked intense riots in the sp...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-24 09:54",
-      "published_iso": "2026-11-24T09:54:58+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Trump made up to $15m on Nvidia stock after Huang’s return",
-      "link": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
-      "summary": "Asia-Pacific stock markets rise after US president says he ‘convinced’ chipmaker’s board to reinstate CEO Comment: Nvidia’s humiliated board should resign out of embarrassment Business live – latest updates Donald Trump made up to $15m (£11.5m) on his holding...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-24 09:54",
-      "published_iso": "2026-11-24T09:54:02+00:00",
+      "published": "2026-11-25 05:45",
+      "published_iso": "2026-11-25T05:45:35+00:00",
       "score": 100,
       "keywords": [
         "market",
-        "us"
+        "security"
       ]
     },
     {
-      "title": "Russian drone violates Polish airspace days after cruise missiles fell on country – Europe live",
-      "link": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
-      "summary": "Authorities investigating ‘intentional activity’ amid growing tensions between Moscow and countries on Nato’s eastern flank Back to Ukraine, the country’s president Volodymyr Zelenskyy has warned that “the situation with power supply is difficult” amid contin...",
+      "title": "Phone spying to missiles: Why India-Israel strategic ties go beyond Modi",
+      "link": "https://www.aljazeera.com/news/2026/11/25/phone-spying-to-missiles-why-india-israel-strategic-ties-go-beyond-modi?traffic_source=rss",
+      "summary": "The opposition Congress party calls Israel’s war on Gaza a genocide, but its leader still wants strong ties with Israel.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-25 05:27",
+      "published_iso": "2026-11-25T05:27:32+00:00",
+      "score": 100,
+      "keywords": [
+        "war"
+      ]
+    },
+    {
+      "title": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
+      "link": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
+      "summary": "A 2022 Solomon Islands agreement with China had raised concerns it would enable Beijing to establish a military presence on the Pacific island. The new accord precludes such bases.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-25 05:24",
+      "published_iso": "2026-11-25T05:24:36+00:00",
+      "score": 100,
+      "keywords": [
+        "china",
+        "security"
+      ]
+    },
+    {
+      "title": "The Gambia election: Can the next president deliver on a decade of promise",
+      "link": "https://www.aljazeera.com/news/2026/11/25/the-gambia-election-can-the-next-president-deliver-on-a-decade-of-promise?traffic_source=rss",
+      "summary": "Gambians head to the polls amid economic hardship and unfulfilled promises of reform and justice.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-25 05:03",
+      "published_iso": "2026-11-25T05:03:04+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "In charts: how power could shift in Europe’s big year of elections",
+      "link": "https://www.theguardian.com/world/2026/nov/25/charts-europe-big-year-of-elections-eu-far-right",
+      "summary": "More than half of EU voters will go to the polls in the next 12 months, with the far right targeting significant gains. We set out the political landscape and trends Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-11-24 09:53",
-      "published_iso": "2026-11-24T09:53:26+00:00",
+      "published": "2026-11-25 05:00",
+      "published_iso": "2026-11-25T05:00:06+00:00",
+      "score": 100,
+      "keywords": [
+        "election",
+        "europe"
+      ]
+    },
+    {
+      "title": "UK warns companies of potential Russian sabotage threat",
+      "link": "https://www.aljazeera.com/news/2026/11/25/uk-warns-companies-of-potential-russian-sabotage-threat?traffic_source=rss",
+      "summary": "Britain's Defence Ministry and security service warn of the threat in unusual public announcement.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-25 04:48",
+      "published_iso": "2026-11-25T04:48:57+00:00",
+      "score": 100,
+      "keywords": [
+        "russia",
+        "security"
+      ]
+    },
+    {
+      "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
+      "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+      "summary": "Abelardo de la Espriella to take control of an operation involving scores of security personnel trying to free at least 20 hostages Colombia’s president has arrived at the scene of an hours-long standoff between security services and gunmen holding at least 2...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-25 03:57",
+      "published_iso": "2026-11-25T03:57:11+00:00",
+      "score": 100,
+      "keywords": [
+        "security"
+      ]
+    },
+    {
+      "title": "Live: Two Libyan soldiers killed in Ukrainian attack on Russian vessels in Benghazi",
+      "link": "https://www.france24.com/en/europe/20261125-live-two-libyan-soldiers-killed-in-ukrainian-attack-on-russian-vessels-in-benghazi",
+      "summary": "Two Libyan soldiers have died from injuries sustained in an attack, claimed by Ukraine, on Russian ships near Benghazi, a senior figure in the administration in eastern Libya said late on Tuesday. Members of the European Parliament will convene in Strasbourg...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-11-25 03:46",
+      "published_iso": "2026-11-25T03:46:51+00:00",
       "score": 100,
       "keywords": [
         "europe",
@@ -162,276 +424,26 @@
       ]
     },
     {
-      "title": "Fighting between Russia and Ukraine has expanded geographically, drawing concerns",
-      "link": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns",
-      "summary": "In recent days, Ukraine has sunk a Russian warship docked in port in Libya, and Russian missiles have landed in Poland. The Kremlin has not commented on the missiles.",
-      "source": "NPR World",
-      "region": "World",
-      "published": "2026-11-24 09:52",
-      "published_iso": "2026-11-24T09:52:03+00:00",
-      "score": 100,
-      "keywords": [
-        "russia",
-        "ukraine"
-      ]
-    },
-    {
-      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-      "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-11-24 09:42",
-      "published_iso": "2026-11-24T09:42:54+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Watch: Moment troops raid home and capture Mexican drug lord",
-      "link": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-24 09:09",
-      "published_iso": "2026-11-24T09:09:41+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender",
-      "link": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
-      "summary": "What seem like frontline Russian radio stations are actually a Ukrainian psychological operation, hoping to sow despair among the Kremlin’s soldiers.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-11-24 09:08",
-      "published_iso": "2026-11-24T09:08:32+00:00",
-      "score": 100,
-      "keywords": [
-        "russia"
-      ]
-    },
-    {
-      "title": "China to launch first space mission with a foreign astronaut",
-      "link": "https://www.france24.com/en/asia-pacific/20261124-china-to-launch-first-space-mission-with-a-foreign-astronaut",
-      "summary": "Pakistan's Muhammad Zeeshan Ali will become the first foreign astronaut to board China's Tiangong space station when the latest crew blasts off Wednesday. Ali said he would be carrying \"the hopes of 250 million Pakistanis\" with him.",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-24 08:50",
-      "published_iso": "2026-11-24T08:50:18+00:00",
-      "score": 100,
-      "keywords": [
-        "china"
-      ]
-    },
-    {
-      "title": "Social media companies could be fined 5% of global revenue after Labor and Greens join forces on online safety laws",
-      "link": "https://www.theguardian.com/technology/2026/nov/24/social-media-big-tech-fines-global-revenue-australia-digital-duty-care-laws",
-      "summary": "Individual Australians will be able to sue big tech firms for harm suffered online under compromise deal Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Big tech companies may face “mul...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-24 08:47",
-      "published_iso": "2026-11-24T08:47:59+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "DR Congo says aircraft missing as rebels claim to shoot down plane",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
-      "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-24 08:35",
-      "published_iso": "2026-11-24T08:35:41+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Leader of India’s Cockroach movement says he was stopped from boarding flight to UK",
-      "link": "https://www.theguardian.com/world/2026/nov/24/leader-india-coackroach-movement-says-stopped-from-boarding-flight-to-uk",
-      "summary": "Saurav Das was due to give talks at UK universities on protest movement but says ‘coward government’ prevented him flying A leader of India’s youth-led Cockroach movement has said he was prevented from leaving Delhi to fly to the UK to give talks on the viral...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-24 08:24",
-      "published_iso": "2026-11-24T08:24:26+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "US army says detonation of lead explosives in Iowa will proceed",
-      "link": "https://www.aljazeera.com/news/2026/11/24/us-army-says-detonation-of-lead-explosives-in-iowa-will-proceed?traffic_source=rss",
-      "summary": "Public outcry led to a legal battle when details of the plans to conduct two controlled detonations surfaced.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-24 08:24",
-      "published_iso": "2026-11-24T08:24:08+00:00",
+      "published": "2026-11-25 03:44",
+      "published_iso": "2026-11-25T03:44:07+00:00",
       "score": 100,
       "keywords": [
         "us"
       ]
     },
     {
-      "title": "Malaysia set to return thousands of Rohingya refugees to Myanmar",
-      "link": "https://www.aljazeera.com/news/2026/11/24/malaysia-set-to-return-thousands-of-rohingya-refugees-to-myanmar-2?traffic_source=rss",
-      "summary": "The announcement comes five days after the ICJ ruled that Myanmar committed genocide against its Rohingya minority.",
+      "title": "Asia’s markets dive as return of Nvidia’s Huang fails to quell AI doubts",
+      "link": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+      "summary": "Markets fall in Japan, South Korea, Taiwan and Hong Kong in latest tech-led sell-off.",
       "source": "Al Jazeera",
       "region": "Middle East",
-      "published": "2026-11-24 08:21",
-      "published_iso": "2026-11-24T08:21:41+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Moment Mexican troops captured cartel leader ‘El Chapo Isidro’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/moment-mexican-troops-captured-cartel-leader-el-chapo?traffic_source=rss",
-      "summary": "Moment Mexican troops captured cartel leader ‘El Chapo Isidro’",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-24 08:17",
-      "published_iso": "2026-11-24T08:17:26+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Proposed Beatles attraction on Savile Row faces rooftop gigs ban",
-      "link": "https://www.theguardian.com/music/2026/nov/24/beatles-attraction-savile-row-live-music-ban-westminster-council",
-      "summary": "Westminster council to vote on restrictions at planned tourist venue and site of band’s final public concert The Beatles stunned onlookers when they pitched up on the rooftop of 3 Savile Row in London in 1969 for their final public performance, but now Westmi...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-24 08:00",
-      "published_iso": "2026-11-24T08:00:11+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Trump, Nvidia and power: could we be nearing the end of tech’s Gilded Age?",
-      "link": "https://www.theguardian.com/technology/2026/nov/24/trump-nvidia-gilded-age",
-      "summary": "Oligarchs believe they’re untouchable – the blue wave offers hope that the rampant corruption of the Trump era may soon be over One can imagine high-fives all around Nvidia’s boardroom after the board reinstated Jensen Huang to the CEO suite. The market gave...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-24 08:00",
-      "published_iso": "2026-11-24T08:00:11+00:00",
-      "score": 100,
-      "keywords": [
-        "market"
-      ]
-    },
-    {
-      "title": "Pakistan’s Zeeshan Ali set for historic flight to China’s space station",
-      "link": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station?traffic_source=rss",
-      "summary": "The Pakistan Air Force pilot will spend about a week on board the Tiangong, conducting experiments with China’s crew.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-24 07:55",
-      "published_iso": "2026-11-24T07:55:18+00:00",
-      "score": 100,
-      "keywords": [
-        "china"
-      ]
-    },
-    {
-      "title": "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
-      "link": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
-      "summary": "WFP Executive Director Luke Lindberg decries ‘political problem’ as grain is 'not reaching the people who need it'.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-24 07:52",
-      "published_iso": "2026-11-24T07:52:44+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "ICG: \"It's hard to imagine\" Tripoli would risk its ties with Russia by approving a Ukrainian attack",
-      "link": "https://www.france24.com/en/video/20261124-icg-it-s-hard-to-imagine-tripoli-would-risk-its-ties-with-russia-by-approving-a-ukrainian-attack",
-      "summary": "Angela Diffley is pleased to welcome Claudia Gazzini, International Crisis Group's Senior Analyst for Libya. The Ukrainian attack on a Russian warship off the coast of eastern Libya has raised questions about Russian and Ukrainian military activity in the cou...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-24 07:45",
-      "published_iso": "2026-11-24T07:45:44+00:00",
-      "score": 100,
-      "keywords": [
-        "russia"
-      ]
-    },
-    {
-      "title": "Campaigners urge Albanese government to reject ‘climate bomb’ coalmine expansion after Cop31",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/24/campaigners-urge-albanese-government-to-reject-climate-bomb-coalmine-expansion-after-cop31",
-      "summary": "Hunter Valley Operations expansion in New South Wales would allow additional 430m tonnes of coal to be extracted and burned Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Climate campaigners are urging the Albanese gov...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-24 07:42",
-      "published_iso": "2026-11-24T07:42:57+00:00",
-      "score": 100,
-      "keywords": [
-        "climate"
-      ]
-    },
-    {
-      "title": "Why has Yemen’s offensive against the Houthis in al-Bayda stalled?",
-      "link": "https://www.aljazeera.com/news/2026/11/24/why-has-yemens-offensive-against-the-houthis-in-al-bayda-stalled?traffic_source=rss",
-      "summary": "Government forces made early gains in September, but Houthi fighting on multiple fronts has slowed the offensive.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-24 07:36",
-      "published_iso": "2026-11-24T07:36:07+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Sheikh Hasina plans to return to Bangladesh from exile on December 16",
-      "link": "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16?traffic_source=rss",
-      "summary": "Hasina urges Dhaka to arrange her return on the national airline, as government says she can only be extradited.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-24 07:35",
-      "published_iso": "2026-11-24T07:35:02+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "After 80 years in Oxford, Naga ancestors are finally going home",
-      "link": "https://www.theguardian.com/world/2026/nov/23/this-is-india-pitt-rivers-museum-oxford-human-remains-repatriation",
-      "summary": "A campaign securing the landmark return to India of ancestral remains taken during British colonial rule has opened a wider conversation about restitution The lacerating legacy of colonialism survives in many spaces, particularly in museum collections and pri...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-24 07:30",
-      "published_iso": "2026-11-24T07:30:10+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "What Jensen Huang's return teaches China's Xi about Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
-      "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-24 07:26",
-      "published_iso": "2026-11-24T07:26:27+00:00",
-      "score": 100,
-      "keywords": [
-        "china"
-      ]
-    },
-    {
-      "title": "‘State-sanctioned theft’: Australian news outlets demand content is protected from AI scraping – as it happened",
-      "link": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-      "summary": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-24 07:21",
-      "published_iso": "2026-11-24T07:21:53+00:00",
-      "score": 100,
-      "keywords": [
-        "ai"
-      ]
-    },
-    {
-      "title": "Jensen Huang’s return has calmed markets but fears of an AI bubble still run deep",
-      "link": "https://www.france24.com/en/americas/20261124-jensen-huang-s-return-has-calmed-markets-but-fears-of-an-ai-bubble-still-run-deep",
-      "summary": "Nvidia's decision to bring back Jensen Huang as CEO pushed the AI computing company's stocks up more than 30 percent Monday. But the model of circular financing increasingly underwriting the AI boom still has some analysts worried that the party can't last fo...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-24 07:15",
-      "published_iso": "2026-11-24T07:15:21+00:00",
+      "published": "2026-11-25 03:31",
+      "published_iso": "2026-11-25T03:31:59+00:00",
       "score": 100,
       "keywords": [
         "ai",
@@ -439,104 +451,26 @@
       ]
     },
     {
-      "title": "Member states must not betray the ICC",
-      "link": "https://www.aljazeera.com/opinions/2026/11/24/member-states-must-not-betray-the-icc?traffic_source=rss",
-      "summary": "Succumbing to US pressure to change the Rome Statute would be devastating for international justice.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-24 07:13",
-      "published_iso": "2026-11-24T07:13:18+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Collapse of COP31: 'This deal was a bad deal and better no deal than a bad deal'",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20261124-collapse-of-cop31-this-deal-was-a-bad-deal-and-better-no-deal-than-a-bad-deal",
-      "summary": "François Picard is joined by Ireland's former Environment Minister Eamon Ryan following the collapse of COP31 in Antalya, Turkey. “Political science trumps climate science still,” Ryan said the talks failed after the European Union and up to 100 countries ref...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-24 06:51",
-      "published_iso": "2026-11-24T06:51:34+00:00",
-      "score": 100,
-      "keywords": [
-        "climate",
-        "europe"
-      ]
-    },
-    {
-      "title": "Nvidia live: Markets surge as Jensen Huang returns as CEO",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo?traffic_source=rss",
-      "summary": "Huang's reinstatement breathes new life into an AI market rally days after shares in the tech giant were dumped.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-24 06:24",
-      "published_iso": "2026-11-24T06:24:25+00:00",
-      "score": 100,
-      "keywords": [
-        "ai",
-        "market"
-      ]
-    },
-    {
-      "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
-      "link": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hasina has spoken several times of her desire to return, but this is the first time she has set a date.",
+      "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
+      "link": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
+      "summary": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-11-24 06:23",
-      "published_iso": "2026-11-24T06:23:01+00:00",
+      "published": "2026-11-25 03:28",
+      "published_iso": "2026-11-25T03:28:37+00:00",
       "score": 100,
-      "keywords": []
+      "keywords": [
+        "china"
+      ]
     },
     {
-      "title": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
-      "link": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
-      "summary": "Users can give agents tasks such as booking travel or buying presents, but glitches have been reported Want to avoid the Christmas shopping hordes? Then let your AI agent do it. Mark Zuckerberg’s Meta is launching its Muse AI assistant in the UK and is encour...",
+      "title": "The Russian army’s secret death toll – podcast",
+      "link": "https://www.theguardian.com/news/audio/2026/nov/25/the-russian-armys-secret-death-toll-podcast",
+      "summary": "Vladimir Putin has always kept the number of soldiers killed in Ukraine a secret, but at one point 720 were dying in 24 hours. Pjotr Sauer reports. Send your comments and questions to tif.questions@theguardian.com Russia has kept the death toll of its soldier...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-11-24 06:00",
-      "published_iso": "2026-11-24T06:00:07+00:00",
-      "score": 100,
-      "keywords": [
-        "ai"
-      ]
-    },
-    {
-      "title": "Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’",
-      "link": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai",
-      "summary": "Singers among 7,000 artists and creatives urging Labor to protect copyright law in face of lobbying from AI companies Get our breaking news email , free app or daily news podcast Kate Bush, Grace Jones and Sir Ian Rankin have joined 7,000 artists and creative...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-24 05:58",
-      "published_iso": "2026-11-24T05:58:15+00:00",
-      "score": 100,
-      "keywords": [
-        "ai"
-      ]
-    },
-    {
-      "title": "Arsenal vs Dortmund: Champions League – Predictions, how to watch, lineups",
-      "link": "https://www.aljazeera.com/sports/2026/11/24/arsenal-borussia-dortmund-champions-league-predictions-lineups-streaming?traffic_source=rss",
-      "summary": "Europe's premier club competition pits English champions Arsenal against German league leaders Dortmund on Tuesday.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-24 05:56",
-      "published_iso": "2026-11-24T05:56:41+00:00",
-      "score": 100,
-      "keywords": [
-        "europe"
-      ]
-    },
-    {
-      "title": "Live: Russian strikes on Ukraine’s Zaporizhzhia kill two people and wound dozens more",
-      "link": "https://www.france24.com/en/europe/20261124-live-tripoli-demands-explanation-from-kyiv-for-striking-russian-ships-in-libyan-waters",
-      "summary": "A Russian attack killed two people in the Ukrainian city of Zaporizhzhia overnight, regional governor Mykhailo Semikin said on Tuesday. Some 40 people, four of them children, were also wounded in the strikes, the governor added. Follow our liveblog for all th...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-24 05:50",
-      "published_iso": "2026-11-24T05:50:16+00:00",
+      "published": "2026-11-25 03:00",
+      "published_iso": "2026-11-25T03:00:03+00:00",
       "score": 100,
       "keywords": [
         "russia",
@@ -544,119 +478,429 @@
       ]
     },
     {
-      "title": "The Return of Jensen Huang",
-      "link": "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html",
-      "summary": "The Nvidia C.E.O. is back, President Trump is celebrating and markets are rallying.",
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-25 02:59",
+      "published_iso": "2026-11-25T02:59:27+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – as it happened",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+      "summary": "This live blog is now closed. Schumer accuses Huang of violating US export control laws amid shipments of chips to China Sign up for the Breaking News US email Earlier we mentioned Donald Trump is participating in a Medal of Freedom ceremony in the Oval Offic...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-25 02:58",
+      "published_iso": "2026-11-25T02:58:18+00:00",
+      "score": 100,
+      "keywords": [
+        "china",
+        "us"
+      ]
+    },
+    {
+      "title": "Thomas Markle Indicted in US on Charges of Possession of Child Sexual Abuse Materials",
+      "link": "https://www.nytimes.com/2026/11/24/world/europe/thomas-markle-indicted.html",
+      "summary": "Mr. Markle, 82, was indicted by a grand jury in Los Angeles and is expected to be arraigned in the coming weeks, prosecutors said.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-11-24 05:44",
-      "published_iso": "2026-11-24T05:44:37+00:00",
+      "published": "2026-11-25 02:55",
+      "published_iso": "2026-11-25T02:55:17+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Kilmar Abrego Garcia self-deports to Spain after lengthy US legal battle",
+      "link": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-self-deports-to-spain-after-lengthy-us-legal-battle?traffic_source=rss",
+      "summary": "US Senator Chris Van Hollen hails Kilmar Abrego Garcia's safe departure to Spain as a 'free man'.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-25 02:40",
+      "published_iso": "2026-11-25T02:40:59+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "WHO chief urges end to US fuel blockade on Cuba",
+      "link": "https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss",
+      "summary": "UN allocates $2m for immunisation and medical equipment as Cuban healthcare struggles with critical shortages.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-25 02:23",
+      "published_iso": "2026-11-25T02:23:19+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Rescue crews search for six people after plane crash off Mississippi coast",
+      "link": "https://www.theguardian.com/us-news/2026/nov/24/mississippi-plane-crash",
+      "summary": "US Coast Guard said crews had so far found the cabin of the plane, a life raft and three life jackets Rescue crews were searching for six people on board a small plane that crashed Tuesday afternoon off the coast of Mississippi. Crews have so far found three...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-25 02:17",
+      "published_iso": "2026-11-25T02:17:25+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Lies, a disguise and surfboard bags: how a jealous Sydney policeman tried to cover up double murder",
+      "link": "https://www.bbc.co.uk/news/articles/cmrrg749d02do?at_medium=RSS&at_campaign=rss",
+      "summary": "Beau Lamarre was on Wednesday found guilty of murdering his ex Jesse Baird, and Baird's new partner Luke Davies.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-25 01:51",
+      "published_iso": "2026-11-25T01:51:43+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Thomas Markle charged in US for possessing child sex abuse images",
+      "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+      "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-25 01:40",
+      "published_iso": "2026-11-25T01:40:42+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "China investigates politburo star in Xi Jinping’s latest purge",
+      "link": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge",
+      "summary": "Chen Jining, regarded as a contender for higher office, becomes the fourth member of China’s elite politburo to be investigated since 2025 China has launched an investigation into Shanghai’s Communist party chief Chen Jining, a member of the country’s elite p...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-25 01:31",
+      "published_iso": "2026-11-25T01:31:46+00:00",
+      "score": 100,
+      "keywords": [
+        "china"
+      ]
+    },
+    {
+      "title": "Ukraine seeks €115 billion in foreign aid for 2027, Zelensky says",
+      "link": "https://www.france24.com/en/europe/20261125-ukraine-seeks-%E2%82%AC115-billion-in-foreign-aid-for-2027-zelensky-says",
+      "summary": "Ukraine will need €115 billion in external financing next year to sustain its economy and war effort against Russia, President Volodymyr Zelensky said Tuesday, adding that Kyiv had secured commitments for about €90 billion from the European Union.",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-11-25 01:19",
+      "published_iso": "2026-11-25T01:19:31+00:00",
+      "score": 100,
+      "keywords": [
+        "europe",
+        "russia",
+        "ukraine",
+        "war"
+      ]
+    },
+    {
+      "title": "Poll finds US voters want government to end Iran war regardless of terms",
+      "link": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+      "summary": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-25 01:14",
+      "published_iso": "2026-11-25T01:14:22+00:00",
+      "score": 100,
+      "keywords": [
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "Trump's rescue of Nvidia's Huang brings political risks",
+      "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-25 01:03",
+      "published_iso": "2026-11-25T01:03:05+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "The rising cost of putting food on the table in India",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+      "summary": "India's food inflation is broadening, squeezing household budgets.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-25 01:02",
+      "published_iso": "2026-11-25T01:02:13+00:00",
+      "score": 100,
+      "keywords": [
+        "inflation"
+      ]
+    },
+    {
+      "title": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
+      "link": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o?at_medium=RSS&at_campaign=rss",
+      "summary": "More than half a million people have fled their homes since separatist groups demanded independence for Cameroon's English-speaking regions.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-25 01:00",
+      "published_iso": "2026-11-25T01:00:36+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Clashing political visions reflect a divided Spain ahead of election",
+      "link": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sunday’s election could see a far-right party enter the Spanish government for first time.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-25 00:58",
+      "published_iso": "2026-11-25T00:58:34+00:00",
+      "score": 100,
+      "keywords": [
+        "election"
+      ]
+    },
+    {
+      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-25 00:56",
+      "published_iso": "2026-11-25T00:56:51+00:00",
+      "score": 100,
+      "keywords": [
+        "russia",
+        "ukraine",
+        "war"
+      ]
+    },
+    {
+      "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-25 00:54",
+      "published_iso": "2026-11-25T00:54:13+00:00",
+      "score": 100,
+      "keywords": [
+        "ukraine",
+        "war"
+      ]
+    },
+    {
+      "title": "US army to detonate 68 barrels of toxic lead in Iowa on day before Thanksgiving",
+      "link": "https://www.theguardian.com/us-news/2026/nov/24/us-army-iowa-detonation",
+      "summary": "Residents warned to stay indoors amid conflicting information about how far the dust plume could travel The US Army is set to detonate 68 barrels – five tons – of lead azide at an ammunition plant in rural Iowa on Wednesday morning, after delays and conflicti...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-25 00:33",
+      "published_iso": "2026-11-25T00:33:16+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Alaska ends deal to give voter records to US Justice Department",
+      "link": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss",
+      "summary": "The decision follows the conclusion of the 2026 midterm elections and an effort under Trump to gather state voter rolls.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-25 00:28",
+      "published_iso": "2026-11-25T00:28:28+00:00",
+      "score": 100,
+      "keywords": [
+        "election",
+        "us"
+      ]
+    },
+    {
+      "title": "Iran war live: IRGC mocks US ‘strategic ambiguity’ after ‘major setback’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
+      "summary": "Revolutionary Guard chief says forces prepared to 'push enemy back considerably'; highlights 'major strategic setback'.",
+      "source": "Al Jazeera",
+      "region": "Middle East",
+      "published": "2026-11-25 00:00",
+      "published_iso": "2026-11-25T00:00:00+00:00",
+      "score": 100,
+      "keywords": [
+        "us",
+        "war"
+      ]
+    },
+    {
+      "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US",
+      "link": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
+      "summary": "Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for Spain Kilmar Ábrego García has left the United States of his own volition, his lawyers confirmed on Tuesday, with the Department of Home...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-24 23:50",
+      "published_iso": "2026-11-24T23:50:31+00:00",
+      "score": 100,
+      "keywords": [
+        "us"
+      ]
+    },
+    {
+      "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
+      "link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-24 23:05",
+      "published_iso": "2026-11-24T23:05:11+00:00",
+      "score": 100,
+      "keywords": [
+        "ai",
+        "china"
+      ]
+    },
+    {
+      "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
+      "summary": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-24 23:03",
+      "published_iso": "2026-11-24T23:03:59+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Watch: Flock of turkeys chases woman on Massachusetts pavement",
+      "link": "https://www.bbc.co.uk/news/videos/cknv4mq93gd2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The woman said she had to jump into a stranger's car to escape a flock of turkeys that chased her down the sidewalk.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-24 22:07",
+      "published_iso": "2026-11-24T22:07:30+00:00",
+      "score": 100,
+      "keywords": []
+    },
+    {
+      "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
+      "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+      "summary": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-24 21:12",
+      "published_iso": "2026-11-24T21:12:54+00:00",
       "score": 100,
       "keywords": [
         "market"
       ]
     },
     {
-      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-24 05:33",
-      "published_iso": "2026-11-24T05:33:07+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "WHO chief visits Cuba as healthcare system deteriorates",
-      "link": "https://www.aljazeera.com/news/2026/11/24/who-chief-visits-cuba-as-healthcare-system-deteriorates?traffic_source=rss",
-      "summary": "Analysts say fuel shortages blamed on US sanctions are worsening the crisis.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-24 04:35",
-      "published_iso": "2026-11-24T04:35:37+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
-      "link": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
-      "summary": "The order was issued after aircraft entered the country’s air defence identification zone over the island of Ulleungdo Residents of a remote South Korean island were ordered to take shelter on Tuesday morning after several Russian military aircraft came close...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-24 04:14",
-      "published_iso": "2026-11-24T04:14:43+00:00",
-      "score": 100,
-      "keywords": [
-        "russia"
-      ]
-    },
-    {
-      "title": "Mexico to try ‘El Chapo Isidro’ despite US extradition request",
-      "link": "https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request?traffic_source=rss",
-      "summary": "Fausto Meza Flores faces drug trafficking and weapons charges after his capture in a violent Sinaloa operation.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-24 03:20",
-      "published_iso": "2026-11-24T03:20:55+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Jensen Huang's surprise return to Nvidia sparks mixed reactions in Washington",
-      "link": "https://www.france24.com/en/video/20261124-jensen-huang-s-surprise-return-to-nvidia-sparks-mixed-reactions-in-washington",
-      "summary": "US President Donald Trump praised Nvidia's decision Monday to reinstate Jensen Huang as chief executive, as Democratic leaders vowed investigations and prominent Republicans questioned whether his return posed a national security risk.",
+      "title": "Russian losses on Ukrainian front top 700,000 including missing",
+      "link": "https://www.france24.com/en/russian-losses-on-ukrainian-front-top-700-000-including-missing",
+      "summary": "New analysis of leaked Russian government data suggests more than 700,000 Russian soldiers have died in the war against Ukraine. Independent Russian media outlets have updated their estimates of Moscow's military casualties, including soldiers missing on the...",
       "source": "France 24",
       "region": "Europe",
-      "published": "2026-11-24 03:16",
-      "published_iso": "2026-11-24T03:16:47+00:00",
+      "published": "2026-11-24 19:22",
+      "published_iso": "2026-11-24T19:22:31+00:00",
       "score": 100,
       "keywords": [
+        "russia",
+        "ukraine",
+        "war"
+      ]
+    },
+    {
+      "title": "Russia's war on Ukraine: 'Both sides are prepared to operate outside of the conflict zone'",
+      "link": "https://www.france24.com/en/russia-s-war-on-ukraine-both-sides-are-prepared-to-operate-outside-of-the-conflict-zone",
+      "summary": "Charli James is pleased to welcome Gavin Hall, Teaching Fellow in Political Science, and International Security at the University of Strathclyde. Hall examines recent Russian and Ukrainian operations beyond the main conflict zone, the conditions necessary for...",
+      "source": "France 24",
+      "region": "Europe",
+      "published": "2026-11-24 17:26",
+      "published_iso": "2026-11-24T17:26:47+00:00",
+      "score": 100,
+      "keywords": [
+        "russia",
         "security",
-        "us"
+        "ukraine",
+        "war"
       ]
     },
     {
-      "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – as it happened",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-      "summary": "This live blog is now closed. Jensen Huang reinstated as Nvidia CEO after Trump intervenes Sign up to the Breaking News US email Nvidia ’s shares have surged by 31% at the start of trading following the news. The S+P 500 jumped 4.5% and is recovering nearly h...",
+      "title": "Italy expresses concern to Ukraine over Libya ship attacks – as it happened",
+      "link": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
+      "summary": "Ukraine earlier confirmed that it deployed naval drones in strikes on Russian vessels off the coast of Libya The leader of Spain’s leftwing Broad Front coalition has called for a drastic rethink of the country’s entire housing rental system, and described the...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-11-24 03:04",
-      "published_iso": "2026-11-24T03:04:41+00:00",
+      "published": "2026-11-24 16:24",
+      "published_iso": "2026-11-24T16:24:49+00:00",
       "score": 100,
       "keywords": [
-        "us"
+        "russia",
+        "ukraine"
       ]
     },
     {
-      "title": "China sentences official to death for spying for foreign country",
-      "link": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets",
-      "summary": "Accused official leaked national secrets to unnamed country and received payments worth over $150,000, state-linked publisher says A Chinese official has been sentenced to death for spying for a foreign country, a government-linked publisher has said. Gold Wa...",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+      "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-24 15:35",
+      "published_iso": "2026-11-24T15:35:53+00:00",
+      "score": 100,
+      "keywords": [
+        "security"
+      ]
+    },
+    {
+      "title": "Land mine casualties soar in Syria, two years after war",
+      "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-24 15:17",
+      "published_iso": "2026-11-24T15:17:28+00:00",
+      "score": 100,
+      "keywords": [
+        "war"
+      ]
+    },
+    {
+      "title": "The Nvidia case is just the latest episode of Trump disregarding intelligence",
+      "link": "https://www.theguardian.com/technology/2026/nov/24/nvidia-trump-huang-intelligence",
+      "summary": "Trump’s reaction to sensitive information that contradicts his worldview mirrors his conduct towards war with Iran Donald Trump’s unwillingness to heed warnings of suspected Chinese penetration of the tech giant Nvidia follows a pattern of the US president ig...",
       "source": "The Guardian World",
       "region": "World",
-      "published": "2026-11-24 02:37",
-      "published_iso": "2026-11-24T02:37:36+00:00",
+      "published": "2026-11-24 14:00",
+      "published_iso": "2026-11-24T14:00:48+00:00",
       "score": 100,
       "keywords": [
-        "china"
+        "us",
+        "war"
       ]
     },
     {
-      "title": "UN chief calls for world to agree on AI oversight within a year",
-      "link": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
-      "summary": "Secretary-General Antonio Guterres has become increasingly vocal about AI as end of term nears.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-24 02:27",
-      "published_iso": "2026-11-24T02:27:19+00:00",
+      "title": "Russian governor detained in rare criminal case against regional leader",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
+      "summary": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
+      "source": "BBC World",
+      "region": "World",
+      "published": "2026-11-24 12:45",
+      "published_iso": "2026-11-24T12:45:43+00:00",
       "score": 100,
       "keywords": [
-        "ai"
+        "russia"
       ]
     },
     {
@@ -665,354 +909,120 @@
       "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
       "source": "BBC World",
       "region": "World",
-      "published": "2026-11-24 02:15",
-      "published_iso": "2026-11-24T02:15:59+00:00",
+      "published": "2026-11-24 10:58",
+      "published_iso": "2026-11-24T10:58:51+00:00",
       "score": 100,
       "keywords": [
         "russia"
       ]
     },
     {
-      "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
-      "summary": "Qatar’s Prime Minister says he’s working towards deescalating tensions between Iran and the US.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-24 01:32",
-      "published_iso": "2026-11-24T01:32:12+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
-      "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-24 01:21",
-      "published_iso": "2026-11-24T01:21:41+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Israeli minister approves return of Flydubai flights to Tel Aviv",
-      "link": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
-      "summary": "Final resumption of carrier's route between Dubai and Tel Aviv depends on Israeli security authorities' approval.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-24 01:09",
-      "published_iso": "2026-11-24T01:09:51+00:00",
-      "score": 100,
-      "keywords": [
-        "security"
-      ]
-    },
-    {
-      "title": "US adds Megaspeed to trade blacklist as Nvidia’s Huang returns as CEO",
-      "link": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss",
-      "summary": "Bureau of Industry and Security adds Singapore-based firm involved in Nvidia spy scandal to export control list.",
-      "source": "Al Jazeera",
-      "region": "Middle East",
-      "published": "2026-11-24 00:52",
-      "published_iso": "2026-11-24T00:52:47+00:00",
-      "score": 100,
-      "keywords": [
-        "security",
-        "us"
-      ]
-    },
-    {
-      "title": "Zelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'",
-      "link": "https://www.france24.com/en/europe/20261124-zelensky-urges-four-way-peace-talks-with-russia-europe-and-us-as-soon-as-possible",
-      "summary": "Ukrainian President Volodymyr Zelensky is calling for a new round of negotiations involving Ukraine, Russia, the United States and European leaders, saying Kyiv is ready to meet as early as Tuesday.",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-24 00:30",
-      "published_iso": "2026-11-24T00:30:11+00:00",
-      "score": 100,
-      "keywords": [
-        "europe",
-        "russia",
-        "ukraine",
-        "us"
-      ]
-    },
-    {
-      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
-      "link": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-24 00:23",
-      "published_iso": "2026-11-24T00:23:25+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
-      "link": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo?at_medium=RSS&at_campaign=rss",
-      "summary": "South African communities tell the BBC of measures they're taking to keep women safe after a wave of horrific killings.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-24 00:02",
-      "published_iso": "2026-11-24T00:02:15+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Russian incursions into NATO territory are increasing",
-      "link": "https://www.npr.org/2026/11/23/nx-s1-6051013/russian-incursions-into-nato-territory-are-increasing",
-      "summary": "NATO Secretary General Mark Rutte is seeking to reassure the alliance's eastern European members after three Russian cruise missiles landed in Poland on Friday.",
-      "source": "NPR World",
-      "region": "World",
-      "published": "2026-11-23 23:08",
-      "published_iso": "2026-11-23T23:08:51+00:00",
-      "score": 100,
-      "keywords": [
-        "europe",
-        "russia"
-      ]
-    },
-    {
-      "title": "Outrage after ICE arrest father and daughter at Seattle airport",
-      "link": "https://www.bbc.co.uk/news/videos/crd910g5x882o?at_medium=RSS&at_campaign=rss",
-      "summary": "ICE officers arrested two passengers, a father and daughter, as they were boarding a flight in Seattle on Saturday.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-23 22:59",
-      "published_iso": "2026-11-23T22:59:07+00:00",
-      "score": 100,
-      "keywords": []
-    },
-    {
-      "title": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
-      "link": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
-      "summary": "Carney watches on as comedian lampoons US leader and his interest in men’s backsides at correspondents’ event Ottawa Canada’s prime minister, Mark Carney, was joined on stage in Ottawa by a Donald Trump impersonator who mocked the US president to raucous laug...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-23 22:41",
-      "published_iso": "2026-11-23T22:41:48+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "'A war of unmanned machines, AI and total transparency of the battlefield'",
-      "link": "https://www.france24.com/en/tv-shows/a-propos/20261123-a-war-of-unmanned-machines-ai-and-total-transparency-of-the-battlefield",
-      "summary": "Speaking with FRANCE 24's Sharon Gaffney, Nobel Peace Prize laureate Oleksandra Matviichuk, Director of the Centre for Civil Liberties, says that today's war in Ukraine \"is a war of unmanned machines, AI, total transparency of the battlefield, mass drones att...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-23 21:56",
-      "published_iso": "2026-11-23T21:56:25+00:00",
-      "score": 100,
-      "keywords": [
-        "ai",
-        "ukraine",
-        "war"
-      ]
-    },
-    {
-      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-      "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-23 20:48",
-      "published_iso": "2026-11-23T20:48:35+00:00",
-      "score": 100,
-      "keywords": [
-        "russia",
-        "ukraine",
-        "war"
-      ]
-    },
-    {
-      "title": "How far will Ukraine war spread? Kyiv targets Russian vessels in Libya",
-      "link": "https://www.france24.com/en/tv-shows/the-debate/20261123-how-far-will-ukraine-war-spread-kyiv-targets-russian-vessels-in-libya",
-      "summary": "Talk about a spillover effect. In the Libyan port of Benghazi, Ukraine is claiming responsibility for the sinkings first of a Russian warship and then a cargo vessel. That's on top of the sanctioned ship struck in the Baltic Sea that's since strayed into Finl...",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-23 19:41",
-      "published_iso": "2026-11-23T19:41:45+00:00",
-      "score": 100,
-      "keywords": [
-        "russia",
-        "ukraine",
-        "war"
-      ]
-    },
-    {
-      "title": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
-      "link": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
-      "summary": "Hacked government data underscores the immense human cost of President Vladimir V. Putin’s war of attrition.",
+      "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
+      "link": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
+      "summary": "Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive.",
       "source": "NYTimes World",
       "region": "World",
-      "published": "2026-11-23 19:19",
-      "published_iso": "2026-11-23T19:19:23+00:00",
-      "score": 100,
-      "keywords": [
-        "russia",
-        "ukraine",
-        "war"
-      ]
-    },
-    {
-      "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
-      "link": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-23 17:14",
-      "published_iso": "2026-11-23T17:14:50+00:00",
-      "score": 100,
-      "keywords": [
-        "us"
-      ]
-    },
-    {
-      "title": "They Were Too Old to Enlist, but Not to Fight. Meet the Steppe Wolves of Ukraine.",
-      "link": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-older-soldiers.html",
-      "summary": "When the military refused to let them sign up, a band of aging men found their own way to wage war against Russia.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-11-23 13:53",
-      "published_iso": "2026-11-23T13:53:33+00:00",
-      "score": 100,
-      "keywords": [
-        "russia",
-        "ukraine",
-        "war"
-      ]
-    },
-    {
-      "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
-      "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
-      "summary": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkur...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-23 11:42",
-      "published_iso": "2026-11-23T11:42:51+00:00",
-      "score": 100,
-      "keywords": [
-        "russia",
-        "security",
-        "ukraine"
-      ]
-    },
-    {
-      "title": "Ukraine shares video of strikes on Russian ships off Libya",
-      "link": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
-      "source": "BBC World",
-      "region": "World",
-      "published": "2026-11-23 11:34",
-      "published_iso": "2026-11-23T11:34:10+00:00",
-      "score": 100,
-      "keywords": [
-        "russia",
-        "ukraine"
-      ]
-    },
-    {
-      "title": "COP31 Climate Talks Broke Down. Now What?",
-      "link": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html",
-      "summary": "With big diplomatic efforts faltering, smaller pacts, local leaders and booming clean energy take center stage.",
-      "source": "NYTimes World",
-      "region": "World",
-      "published": "2026-11-23 16:18",
-      "published_iso": "2026-11-23T16:18:49+00:00",
+      "published": "2026-11-24 19:54",
+      "published_iso": "2026-11-24T19:54:59+00:00",
       "score": 99,
       "keywords": [
-        "climate",
-        "energy"
-      ]
-    },
-    {
-      "title": "UK disability benefit cuts risk worsening youth destitution, research warns",
-      "link": "https://www.theguardian.com/society/2026/nov/24/cuts-uk-disability-benefit-risk-worsening-youth-destitution-research-warns",
-      "summary": "Joseph Rowntree Foundation report says millions could be left unable to regularly afford everyday basics UK politics live – latest updates Cuts to disability benefits are likely to increase the risks of destitution faced by young people and leave millions of...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-24 07:00",
-      "published_iso": "2026-11-24T07:00:10+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Sports whistleblowers protected under proposed laws amid Australian cricket ball tampering saga",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/24/sports-whistleblowers-protected-proposed-laws-australian-cricket-ball-tampering-sandpapergate-ntwnfb",
-      "summary": "Amendments to government bill by Coalition and Greens would establish protections for those reporting wrongdoing in sport Get our daily political email , free app or daily news podcast Whistleblowers reporting corruption or misconduct in sport would be protec...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-24 06:20",
-      "published_iso": "2026-11-24T06:20:10+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta’s ‘atrocities’",
-      "link": "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar",
-      "summary": "Prime minister Anwar Ibrahim’s announcement comes days after the ICJ found Myanmar had committed genocide against the Rohingya minority Malaysia says it will send thousands of migrants and refugees back to Myanmar, despite acknowledging that many asylum seeke...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-24 05:54",
-      "published_iso": "2026-11-24T05:54:14+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Ebikes, screens and failing manners pose challenge for Dutch cycling culture",
-      "link": "https://www.theguardian.com/world/2026/nov/24/ebikes-screens-and-failing-manners-pose-challenge-for-dutch-cycling-culture",
-      "summary": "Awareness campaign reminds public ‘traffic is a team sport’ amid less civility and more collisions on roads For decades the Netherlands has been famed for its proud cycling culture, with a network of 23,000 miles of bike paths used by everyone from children u...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-24 05:00",
-      "published_iso": "2026-11-24T05:00:07+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Myanmar has been found guilty of genocide. Should Israel be worried? – podcast",
-      "link": "https://www.theguardian.com/news/audio/2026/nov/24/myanmar-found-guilty-genocide-should-israel-be-worried-podcast",
-      "summary": "The international court of justice has for the first time ruled that a state has committed genocide. Yasmin Ullah explains what it means for the Rohingya people, while Kaamil Ahmed lays out how the case unfolded For seven years, Yasmin Ullah had been part of...",
-      "source": "The Guardian World",
-      "region": "World",
-      "published": "2026-11-24 03:00",
-      "published_iso": "2026-11-24T03:00:04+00:00",
-      "score": 98,
-      "keywords": []
-    },
-    {
-      "title": "Ukraine war spilling into NATO territory",
-      "link": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
-      "summary": "The war between Russia and Ukraine once again creeps onto European territory – from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark.",
-      "source": "NPR World",
-      "region": "World",
-      "published": "2026-11-22 22:40",
-      "published_iso": "2026-11-22T22:40:22+00:00",
-      "score": 98,
-      "keywords": [
-        "europe",
-        "russia",
-        "ukraine",
+        "us",
         "war"
       ]
     },
     {
-      "title": "US flew surveillance drone over Mexico to help capture top drug lord",
-      "link": "https://www.france24.com/en/americas/20261124-us-flew-surveillance-drone-over-mexico-to-help-capture-top-drug-lord",
-      "summary": "Mexican officials say the United States flew a surveillance drone over Mexican territory to help locate and capture one of the country's most wanted drug traffickers. The operation led to the arrest of Fausto Isidro Meza Flores, known as 'El Chapo Isidro'.",
-      "source": "France 24",
-      "region": "Europe",
-      "published": "2026-11-24 02:09",
-      "published_iso": "2026-11-24T02:09:11+00:00",
-      "score": 97,
+      "title": "For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing",
+      "link": "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html",
+      "summary": "Beijing may welcome the return of the leading U.S. advocate for A.I. chip sales to China. But the saga could reinforce a Chinese push for self-reliance, analysts say.",
+      "source": "NYTimes World",
+      "region": "World",
+      "published": "2026-11-24 11:55",
+      "published_iso": "2026-11-24T11:55:30+00:00",
+      "score": 99,
       "keywords": [
+        "china",
         "us"
       ]
+    },
+    {
+      "title": "‘They don’t believe in freedom’: Yemenis plan their escape as Houthis advance on Aden",
+      "link": "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden",
+      "summary": "With Iran’s proxy fighters encircling the temporary capital, residents and NGOs prepare to evacuate Hussein fled his home six years ago after it fell under Houthi control, moving as far south as he could to the port city of Aden, where there was a measure of...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-25 05:00",
+      "published_iso": "2026-11-25T05:00:06+00:00",
+      "score": 98,
+      "keywords": []
+    },
+    {
+      "title": "Breakaway group of 110 clubs deliberately misses Football Queensland registration as revolt over $5 gate fees builds",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/25/breakaway-clubs-miss-football-queensland-registration-gate-fee-dispute",
+      "summary": "Clubs fail to sign up for 2027 season as disquiet over governing body’s executive grips football community Get our breaking news email , free app or daily news podcast About 100 football clubs, representing hundreds of thousands of players, have deliberately...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-25 04:29",
+      "published_iso": "2026-11-25T04:29:29+00:00",
+      "score": 98,
+      "keywords": []
+    },
+    {
+      "title": "Al Gore buys local, family-owned newspaper in central Tennessee",
+      "link": "https://www.theguardian.com/us-news/2026/nov/24/al-gore-newspaper-tennessee",
+      "summary": "Former vice-president, who started his career as a journalist, purchases Carthage Courier in Smith county Al Gore, who started his career as a journalist, is returning to the industry as a newspaper owner in his Tennessee town. The Lake family, which has oper...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-25 02:31",
+      "published_iso": "2026-11-25T02:31:42+00:00",
+      "score": 98,
+      "keywords": []
+    },
+    {
+      "title": "Middle-aged women in England least likely to successfully quit smoking, study finds",
+      "link": "https://www.theguardian.com/society/2026/nov/25/middle-aged-women-quit-smoking-england-study",
+      "summary": "Of nearly 8,000 women who tried to stop, only 18% of those aged 45 to 60 managed to give up Middle-aged women in England are the least likely to successfully give up smoking, according to research . Smoking is the leading cause of preventable death and illnes...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-25 01:00",
+      "published_iso": "2026-11-25T01:00:01+00:00",
+      "score": 98,
+      "keywords": []
+    },
+    {
+      "title": "One lame duck and two turkeys as Trump plays the hits at Thanksgiving ceremony",
+      "link": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-turkey-pardon",
+      "summary": "Levity was in short supply as president, reeling from midterms rout, talked up his achievements – and fixated on White House vanity project For some, it was his pardoning of the January 6 rioters or the deployment of masked ICE agents. For others, it was Elon...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-25 00:56",
+      "published_iso": "2026-11-25T00:56:48+00:00",
+      "score": 98,
+      "keywords": []
+    },
+    {
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuit...",
+      "source": "TechCrunch AI",
+      "region": "Technology",
+      "published": "2026-11-25 00:12",
+      "published_iso": "2026-11-25T00:12:02+00:00",
+      "score": 98,
+      "keywords": [
+        "market",
+        "us"
+      ]
+    },
+    {
+      "title": "Latest review of Met police culture finds little has changed since last one",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/25/latest-review-of-met-police-culture-finds-little-has-changed-since-last-one",
+      "summary": "Failure to implement previous reports means institutional racism, misogyny and homophobia still present in force Metropolitan police still institutionally racist and misogynist, says report From the Stephen Lawrence inquiry in 1999 to Louise Casey’s landmark...",
+      "source": "The Guardian World",
+      "region": "World",
+      "published": "2026-11-25 00:01",
+      "published_iso": "2026-11-25T00:01:02+00:00",
+      "score": 98,
+      "keywords": []
     }
   ]
 }
